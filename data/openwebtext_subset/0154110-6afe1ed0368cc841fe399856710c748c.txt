@@ -1,0 +1,23 @@
+Aloysius Low/CNET
+
+If at first you don't succeed. Asus is taking another crack at dual-OS device. And this time it probably found a way to get around objections from Microsoft and Google.
+
+First, a little background. Asus launched a dual Windows 8.1-Android tablet-laptop at CES in January. And despite promises we would see it in the second quarter, it has yet to materialize.
+
+My sources tell me (as do other reports) that either Google or Microsoft or both weren't pleased because a user could instantly switch between the Windows and Android desktop on one device.
+
+Enter the Transformer Book V , introduced at the Computex conference. But this time Asus is running the two OSes on two completely separate pieces of hardware, removing (ostensibly) any grounds for objection.
+
+Here's how CNET's Aloysius Low described the (somewhat confusing) 5-in-1 amalgamation of devices on Transformer V (see photo at bottom): An "Android phone that docks into a tablet that turns it into an Android tablet, while also being able to run Windows 8.1 on its own."
+
+Confused? Well, the short story is, it's a Windows 8.1 tablet (with a keyboard dock) that can switch to Android when you plug the Android phone in (see photo at top).
+
+The phone specs are fairly impressive. It uses Intel's brand-new quad-core 64-bit Moorefield Atom chip with LTE capabilities, 2 GB of RAM, a 5-inch screen with a resolution of 1,920x1,080 pixels, 64 GB of storage, and Android 4.4 KitKat.
+
+The Transformer V's tablet uses an Intel Core series processor and a 12.5-inch display but with only HD resolution. Maybe that's because in Android tablet mode (when the phone's processor is handling things), the resolution drops to HD (1,280x720 pixels).
+
+My question is, will consumers spring for a product that cobbles together so many disparate devices? And how well will all of these devices work together?
+
+We'll see. But it appears that Asus has succeeded at one thing: silencing Google and Microsoft.
+
+Asus, Microsoft, and Google did not respond to a request for comment.

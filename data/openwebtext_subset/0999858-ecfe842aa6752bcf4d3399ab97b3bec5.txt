@@ -1,0 +1,29 @@
+Sidechains have been the source of increased excitement in the Bitcoin community over the past year due to the belief that this new technology will allow an endless number of features to be integrated into the Bitcoin protocol. There are still a few people out there who believe sidechains are nothing more than vaporware, but the sidechains concept has an experienced team of Bitcoin Core developers behind it, not to mention a startup, Blockstream, that announced a $21 million round of funding late last year.
+
+Blockstream recently released Sidechain Elements, which is a federated, alpha release of their originally outlined pegged sidechains proposal. The idea is that this early version allows the community to test out the concept without making any changes to Bitcoin Core. Some have pondered whether it could take up to five years for a true, two-way peg implementation to make its way to Bitcoin. Although the timeframe for a real two-way peg is unclear, there seems to be a general path for this new functionality to make its way into Bitcoin.
+
+What Will It Take to Enable Two-Way Peg Support for Bitcoin?
+
+Cryptographer Adam Back is, perhaps, best known as the inventor of hashcash, which is the underlying proof-of-work system utilized by the Bitcoin blockchain. He’s also the President and Co-Founder of Blockstream, which means he should have a general idea of how decentralized, two-way peg sidechains will eventually be rolled out. In a recent email to CoinJournal, Back was able to describe what needs to happen in order for two-way peg support to be possible in Bitcoin:
+
+“Two-way peg support would generally be possible with any generic and sufficiently flexible scripting language, it is just a script that verifies a compact hash chain structure. Two-way peg appears almost — but probably not quite — possible today with Bitcoin script; however, I think we can fairly say this a historical accident due to slight limitations in bitcoin script, which had various opcodes disabled defensively for security reasons some years back. By doing some very advanced tricks across multiple transactions, it might even be just possible already (exercise for the reader).”
+
+When it comes to the “very advanced tricks,” Back also added, “If someone can solve that exercise for the reader via advanced Bitcoin script hacking, we’d be very happy to hear from them.”
+
+A BIP and Community Consensus
+
+According to Back, either an upgrade to Bitcoin script or specific changes that enable two-way peg support should be enough to bring sidechains to Bitcoin. He then added that a concrete proposal is the next step that needs to be taken in order for decentralized sidechains to become a reality:
+
+“I think the next step would be for someone to make a concrete proposal for community review (i.e. a BIP) and an example implementation, and then for there to be a design discussion with perhaps alternative methods compared side by side [and] evaluated by the community as has happened with prior BIP proposals and review process.”
+
+It’s well-known that making changes to Bitcoin Core is an extremely tedious task surrounded by immense amounts of caution (as it should be), but it should be pointed out that the sidechains proposal is something that could potentially speed up the process of bringing new features to Bitcoin in the future. Back also pointed out that technically-inclined individuals in the Bitcoin community seem to have a positive view of the sidechains concept:
+
+“We can say that generally technical people have been quite supportive of the idea of sidechains and the flexibility it adds for experimentation and extension, but it’s quite difficult to predict a time-frame as a specific proposal has not been made yet, and how long that would take depends on the technical community reaching consensus on alternative proposals. Bitcoin BIP community consensus is focussed on security and tends to prioritize new features by utility to the community.”
+
+What to Do in the Meantime
+
+For now, the low-trust, federated peg model can be used as a test ground for sidechains. Back explained how this early implementation of the sidechains concept could eventually lead to decentralized, two-way peg sidechains on the Bitcoin network:
+
+“In the mean time there is an approach to get a similar effect using a functionary model with multi-sig as a protocol adaptor, as described in appendix A of the sidechains white paper, so people can use side-chains in a different security model in the mean time. We used this approach in the elements sidechain alpha release that we released in June, and if side-chains using the functionary model are popular it may help make the case for why a 2wp operator to improve them would be useful to integrate in Bitcoin.”
+
+It’s impossible to predict a timeframe for two-way peg sidechains at this point. Having said that, it seems clear that it will be easier to gain consensus around a sidechains-related proposal rather than something like an increase in the blocksize limit. Although there have been issues with making changes to Bitcoin Core in the past, Blockstream’s Adam Back seems somewhat optimistic about the prospects of implementing the two-way peg model in Bitcoin:

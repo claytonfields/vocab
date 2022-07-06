@@ -1,0 +1,21 @@
+You're a bartender.
+
+You've recently been diagnosed with an awful form of amnesia.
+
+Because of this, your boss told you that you need to serve 64 happy customers before your shift ends; or you're fired.
+
+It doesn't matter how you make a drink so long as you remember your recipe.
+
+TL;DR: Make drinks, make up recipes, remember the recipe you made up.
+
+Hints:
+
+You make up the recipe for every drink.
+
+If the customer asks for the same drink, you have to do the same recipe.
+
+Drinks can't share recipes; otherwise, they wouldn't be different drinks.
+
+The rude source code is released under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+rude was developed in GameMaker 8 Pro and the source may not work correctly if modified in newer versions of GameMaker.

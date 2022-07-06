@@ -1,0 +1,33 @@
+Uber announced a new privacy policy back in May that will allow it to track you even when you’re not currently using its app. The new agreement comes into effect on July 15, and unsurprisingly it’s now facing a legal challenge.
+
+Washington D.C.’s Electronic Privacy Information Center (EPIC) is particularly bothered with how Uber’s policy deals with reporting your location. It has submitted a complaint to the FTC.
+
+Uber’s new policy gives it the option to allow tracking even if the app is closed and your GPS is turned off. In that case, it would still report approximate information using other means. It would also be able to access your address book and use the contact information it finds there.
+
+EPIC says: “This collection of users’ information far exceeds what customers expect from the transportation service. Users would not expect the company to collect location information when customers are not actively using the app.”
+
+When it announced the new approach, the company said the changes will “allow Uber to launch new promotional features that use contacts – for example the ability to send special offers to riders’ friends or family.”
+
+Just the ‘option’ to track you all the time
+
+It also said that it does not actually plan to start tracking your location and accessing contacts on July 15, but obviously the privacy policy gives it the option to do so.
+
+Uber says customers will be able to choose not to share their information but EPIC argues that forcing them to opt out “places an unreasonable burden on consumers.”
+
+The group’s complaint asks the FTC to open an investigation into Uber’s business practices, compel it to stop collecting user location data “unnecessary for the provision of the service” and entirely prevent it from accessing contact information.
+
+The EPIC filing isn’t limited to Uber. It also asks the regulator to look into other companies which may be pursuing similar policies.
+
+It’s been yet another rough month for Uber following a ruling by the California Labor Commissioner that its drivers are employees and not simply contractors. But given the company’s cockroach-like resilience and huge war chest, it’s still unwise to bet against it.
+
+We’ve contacted Uber for comment on the complaint and will update this post if we hear more.
+
+Update: Uber sent us this statement:
+
+There is no basis for this complaint. We care deeply about the privacy of our riders and driver-partners and have significantly streamlined our privacy statements in order to improve readability and transparency. These updated statements don’t reflect a shift in our practices, they more clearly lay out the data we collect today and how it is used to provide or improve our services.
+
+➤ EPIC TFC Uber Complaint [EPIC via US Today]
+
+Read next: California Labor Commission rules Uber drivers are employees, not independent contractors
+
+Read next: Now watch this learning AI attempting to master Mario Kart

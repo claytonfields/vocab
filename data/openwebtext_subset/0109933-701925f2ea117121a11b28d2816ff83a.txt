@@ -1,0 +1,97 @@
+THUMOS: The First International Workshop on Action Recognition with a Large Number of Classes, in conjunction with ICCV '13, Sydney, Australia.
+
+
+
+
+
+*THUMOS 2014 (featuring TEMPORALLY UNTRIMMED videos)
+
+to be held in conjuction with ECCV 2014 *
+
+
+
+
+
+
+
+Rank Submission Overall Accuracy Split 1 Acc. Split 2 Acc. Split 3 Acc. 1 ID39_INRIA 85.900% 84.734% 85.862% 87.105% 2 ID40_Florence 85.708% 85.319% 86.642% 85.164% 3 ID35_Canberra 85.437% 84.761% 86.367% 85.183% 4 ID38_CAS_SIAT 84.164% 83.515% 84.607% 84.368% 5 ID25_Nanjing 83.979% 83.111% 84.597% 84.229% 6 ID34_UCF_BoyrazTappen 82.829% 82.640% 83.352% 82.496% 7 ID36_UCSD_MSRA_SJTU 80.895% 79.410% 81.251% 82.025% 8 ID28_USC 77.360% 76.154% 77.704% 78.222% 9 ID31_NII 73.389% 71.102% 73.671% 75.393% 10 ID44-UNITN 70.504% 70.446% 69.797% 71.270% 11 ID42-UEC 66.261% 65.157% 66.726% 66.899% 12 ID26_UMD 65.948% 65.218% 65.385% 67.240% 13 ID47_UNAL 65.675% 65.313% 65.480% 66.231% 14 ID32_Buffalo 64.296% 63.405% 65.365% 64.118% 15 ID29_TNO 63.457% 62.007% 63.461% 64.904% 16 ID37_ECNU 54.738% 54.764% 55.162% 54.287%
+
+**Detailed Results and notebook papers available HERE.**
+
+
+
+
+
+
+
+
+
+THUMOS Challenge:
+
+
+
+For action recognition to operate in realistic conditions, the vision community needs to make a concerted effort to go beyond datasets with limited number of action classes, such as KTH, Weizmann and IXMAS. The goal of our workshop is to encourage researchers to develop novel methods for action recognition that scale to large numbers of action categories captured in natural settings, both in terms of classification accuracy and computational complexity.
+
+To enable direct comparisons of proposed approaches, we will encourage workshop participants to evaluate their methods on the newly released UCF101 dataset, which is currently the largest action dataset both in terms of number of categories and clips, with more than 13000 clips drawn from 101 action classes.
+
+Since UCF101 dataset contains more than two million frames, we recognize that computing features may itself be a challenge for those workshop participants who lack access to cluster computing resources. Therefore, in order to encourage broad participation, we made available a variety of pre-computed low-level features, such as STIP, SIFT and DTF (Dense Trajectory Feature). While participants are encouraged to employ their own features, the provided features may serve as a useful resource, particularly for computationally-constrained participants. In addition, we will make frame-by-frame bounding box annotations for humans in 24 action classes as well as class-level attribute lists.
+
+
+
+
+
+Important Dates
+
+submission deadline:
+
+Evaluation results (competition track): November 7, 2013
+
+Papers (research track): November 7, 2013*
+
+
+
+
+
+*The authors who wish to have their papers published in the ICCV proceedings should submit their papers by the early deadline of September 7.
+
+Competition results announcement: November 28, 2013
+
+Review results and author's notice: October 7, 2013 (early deadline submissions)
+
+Camera ready: October 11, 2013 (early deadline submissions)
+
+Publication date: As per conference schedule
+
+Workshop date: December 7, 2013
+
+
+
+
+
+[ Downloads | Submission | Call for Papers | Competition Evaluation ]
+
+News:
+
+[11/2013] Detailed challenge results and notebook papers available Here.
+
+[11/2013] Challenge results are now available.
+
+[11/2013] The notebook paper instructions are now available.
+
+[11/2013] The program of the workshop is now available.
+
+[9/2013] The submission website is now open.
+
+[8/2013] We will accept submissions by November 7.
+
+[8/2013] The bounding box annotations of humans are now available for download.
+
+[8/2013] The class-level attributes are now available for download.
+
+[8/2013] The predefined splits for training-testing (recognition) are now available for download.
+
+[7/2013] The low-level features (STIP, DFT) are now available for download.
+
+[7/2013] The workshop benchmark dataset can be downloaded at UCF101.
+
+[7/2013] website launched.

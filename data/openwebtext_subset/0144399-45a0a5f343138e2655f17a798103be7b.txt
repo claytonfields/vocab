@@ -1,0 +1,61 @@
+Bitcoins are so volatile that owners must either spend them immediately, before they lose value, or hold them as investments.
+
+Bitcoin has leapt onto the global stage with a bang — and a crash. The digital money has already plunged from a high of $260 in April to today’s value of about $92
+
+Still, Bitcoins, used to purchase goods online or transfer money to other people, have steadily gained traction since they were invented in Japan in 2009. Germany has Bitcoin marketplaces where holders can exchange the currency. Designed to be a global currency, Bitcoin is also gaining popularity in countries like Argentina and Kenya, amid worries about local currency devaluation. Merchants, such as online dating site OkCupid, are slowly starting to accept the digital money for goods and services.
+
+On Monday, Tyler and Cameron Winklevoss, known for their legal dispute with Facebook Inc’s Mark Zuckerberg over the origin of the social networking site, unveiled plans to offer shares of a Bitcoin trust — designed to operate like an exchange-traded fund — to the public. According to an initial public offering filing in the United States, the shares would allow investors to “gain exposure to Bitcoins with minimal credit risk.”
+
+Despite the hoopla, Bitcoin is still a niche digital currency. It faces numerous challenges on the road to wide-spread acceptance, including volatile price spikes and daily volume surges that point to rampant speculation. Also hindering growth: even sophisticated financial thinkers have trouble understanding how it works.
+
+So far, global adoption is still tiny. Less than 1% of the world’s population uses Bitcoin actively, according to estimates, though use is accelerating in the US and parts of Europe.
+
+The next 24 months will be crucial to whether the currency will survive and grow, say some experts. Though venture capitalists and technology start-ups are rushing to solve concerns around Bitcoin, any significant expansion is still uncertain given recent market fluctuations. Long-term investors may walk away if volatility continues. Much more likely, Bitcoin may become one digital currency among many others coming to market.
+
+“Even if Bitcoin doesn’t survive, cypto-currencies will,” said California-based Andreas Antonopoulos, who advises organisations on emerging technologies and trends.
+
+Origins
+
+Bitcoin is a form of electronic money that is not controlled by a person or institution. New units are mined by programs that crack complex mathematical problems and release new blocks of coins, though release is limited to only 21 million virtual coins. Only 25 Bitcoins every 10 minutes can be created to control inflation. There are currently about 11.3 million in circulation.
+
+The limited supply makes them like digital gold, said Charles Hoskinson, founder of the Bitcoin Education Project. To buy Bitcoin, most people go to Japan-based Mt.Gox, which accepts 17 currencies. Fees are less than .60%.
+
+Ease of use depends on where you live. Adoption is ramping up with small merchants in the US, Canada and parts of Europe, say experts. New trading platforms like Russia-based Bitc-e.com, which also accepts other alternative currencies like Webcreds.com, are even popping up.
+
+France recently launched its Bitcoin Central exchange, too.
+
+“Europe is a bit ahead of the US,” said Jonathan Waller, who runs a Bitcoin meet-up in Tokyo.
+
+Uphill climb
+
+Despite this frenzied activity, Bitcoin faces an uphill climb. Its greatest strength — sitting outside the global financial system — is also a weakness. Few retailers accept the currency, though more, like the San Francisco-based social news site Reddit and even US-based blogging platform Wordpress, are accepting it. Rigorous control of new Bitcoin makes expanding usage beyond a cult currency difficult.
+
+The biggest challenge might be volatility. As little as $3 million injected into Mt.Gox can spike prices, say experts. In April, Bitcoin plummeted $130 in a day, from a high of $260.
+
+This volatility is catnip for speculators, who seek to profit from sudden price fluctuations.
+
+Bitcoin’s main problem is that value is based on whatever the next guy will pay, said Brian Riley, a senior research analyst at the Boston-based research and advisory firm CEB TowerGroup. “This makes them a speculative currency,” he said.
+
+“Speculators are making a mess of Bitcoin,” said Antonopoulos. When traders jump in and out of the currency, it adds to volume spikes.
+
+There are currently 182 global currencies, said Riley.
+
+“Why do we need another one?” he said.
+
+Bitcoins are so volatile that owners must either spend them immediately, before they lose value, or hold them as investments. Turning cash into Bitcoins can take days. Many people rely on cumbersome in-person Bitcoin exchanges facilitated by Bitcoin web sites such as localBitcoins.com, where people meet and exchange currency.
+
+For these reasons, investors and consumers should not put more than 5% of their money into the currency, added Waller.
+
+“Bitcoins are one big monetary experiment,” said Hoskinson.
+
+Easing concerns
+
+There is a chance that these Bitcoin choke points will be solved by an influx of new technology. In the US, a flurry of well-known venture capitalists such as New York City tech wizard Fred Wilson, an early investor in Tumblr and Foursquare, are spearheading Bitcoin startups. The aim: developing better e-wallets, payment systems and even automatic teller machines (ATMs), where you can exchange cash for Bitcoin.
+
+Dozens of startups in California’s Silicon Valley are also attacking Bitcoin distribution problems, said Antonopoulos.
+
+“Lots of venture capitalists are pouring money into Bitcoin without understanding them,” he added.
+
+History is rife with examples of early movers — Myspace is one — that ended up in technology graveyards due to stronger competitors, though. And currently, at least one dozen virtual currencies like litecoin and ripple are vying for a piece of the digital currency market.
+
+These new currencies aren’t tough competitors, said Waller, though there’s still a real risk that Bitcoin won’t survive this onslaught.

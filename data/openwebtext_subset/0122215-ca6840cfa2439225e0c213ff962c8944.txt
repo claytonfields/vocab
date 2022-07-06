@@ -1,0 +1,31 @@
+Nightingale the Brigand
+
+Medium humanoid, neutral evil
+
+Armor Class 16 (studded leather)
+
+16 (studded leather) Hit Points 112 (16d8+40)
+
+112 (16d8+40) Speed 30ft.
+
+STR DEX CON INT WIS CHA 14 (+2) 18 (+4) 16 (+3) 12 (+1) 20 (+5) 9 (-1)
+
+Senses passive Perception 20
+
+passive Perception 20 Languages Common
+
+Common Challenge 7 (2,900 XP)
+
+From the whistle of a nightingale. All the plants in 30 miles radius of the Nightingale's lair are dead.
+
+He screams like a wild animal. Nightingale can mimic any animal noises. A creature that hears the sounds can tell they are imitations with a successful DC 15 Wisdom (Insight) check.
+
+Actions
+
+Multiattack. Nightingale makes either two ranged attacks with his shortbow, or two melee attacks with his yatagan.
+
+Whistle (Recharge 5-6). Each creature in a 60-foot cone must make a DC 15 Constitution saving throw or take 30 (6d8 + 3) thunder damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+
+Shortbow. Ranged Weapon Attack: +7 to hit, reach 5ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+
+Yatagan. Melee Weapon Attack: +7 to hit, reach 5ft., one target. Hit: 7 (1d6 + 4) slashing damage.

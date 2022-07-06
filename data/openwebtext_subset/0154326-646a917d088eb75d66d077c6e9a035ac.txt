@@ -1,0 +1,31 @@
+Email providers have to turn over a user’s emails and other data to U.S. law enforcement when issued a search warrant, even if the data is stored overseas, a U.S. judge ruled Friday.
+
+Microsoft must hand over a user’s emails stored on a server in Dublin, Ireland, ruled magistrate judge James Francis of the U.S. District Court of the Southern District of New York.
+
+In December, Francis authorized the search and seizure of the contents of all emails, records and other information regarding the identification of one of Microsoft’s webmail users.
+
+While Microsoft’s Global Criminal Compliance (GCC) team turned over so-called non-content information stored on U.S. servers, such as the user’s name and country as well as address book information, it refused to hand over the contents of the emails because they were stored on a server in another country. For this reason the company sought to quash the search warrant, arguing that U.S. courts are not authorized to issue warrants for extraterritorial search and seizure of emails.
+
+Judge Francis, however, disagreed and denied Microsoft’s motion to quash the verdict.
+
+“Microsoft’s argument is simple, perhaps deceptively so,” Francis said in his ruling.
+
+If the warrant had been a conventional search warrant Microsoft could have been right since there are territorial restrictions on those warrants, Francis said.
+
+However, a search warrant on electronic communications is not conventional but rather a hybrid: part search warrant and part subpoena, he said.
+
+“It is executed like a subpoena in that it is served on the ISP in possession of the information and does not involve government agents entering the premises of the ISP to search its servers and seize the email account in question,” he said.
+
+If the territorial restrictions applied it would be very easy for criminals to evade such search warrants, Francis said.
+
+Service providers are not obliged to verify information provided by a new user when an account is created, he said. Since Microsoft assigns each newly registered account to the closest datacenter based on the country code that the user enters at registration, warrants could be evaded by simply giving false residence information causing the ISP to assign an account to a server outside the U.S., he said.
+
+Moreover, if treated like a conventional warrant, “the burden on the government would be substantial, and law enforcement efforts would be seriously impeded,” Francis said. To obtain the contents of emails stored abroad, U.S. law enforcement would have to comply with treaties that require the cooperation of two governments. Such requests could be time consuming or even denied, Francis said, adding that the U.S. does not have such treaties with all countries.
+
+Microsoft disagrees with the decision, said David Howard, Corporate Vice President & Deputy General Counsel at Microsoft in a blog post
+
+While the law is complicated, the issue is straightforward, he said: “It’s generally accepted that a U.S. search warrant in the physical world can only be used to obtain materials that are within the territory of the United States,” he said, adding that therefore, the U.S. government should not have the power to search the content of email stored overseas.
+
+This procedure is just a start though. “When we filed this challenge we knew the path would need to start with a magistrate judge, and that we’d eventually have the opportunity to bring the issue to a U.S. district court judge and probably to a federal court of appeals,” Howard said.
+
+“We’ll continue to pursue this issue because we believe we’re right on the law and because our customers have told us they value our privacy commitments,” he said.

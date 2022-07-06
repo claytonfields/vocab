@@ -1,0 +1,21 @@
+Capital Tax Reform and the Real Economy: The Effects of the 2003 Dividend Tax Cut
+
+NBER Working Paper No. 21003
+
+Issued in March 2015, Revised in January 2018
+
+NBER Program(s):Corporate Finance, Public Economics
+
+
+
+This paper tests whether the 2003 dividend tax cut—one of the largest reforms ever to a U.S. capital tax rate—stimulated corporate investment and increased labor earnings, using a quasi-experimental design and U.S. corporate tax returns from years 1996-2008. I estimate that the tax cut caused zero change in corporate investment and employee compensation. Economically, the statistical precision challenges leading estimates of the cost-of-capital elasticity of investment, or undermines models in which dividend tax reforms affect the cost of capital. Either way, it may be difficult to implement an alternative dividend tax cut that has substantially larger near-term effects.
+
+Acknowledgments
+
+Machine-readable bibliographic record - MARC, RIS, BibTeX
+
+Document Object Identifier (DOI): 10.3386/w21003
+
+Published: Danny Yagan, 2015. "Capital Tax Reform and the Real Economy: The Effects of the 2003 Dividend Tax Cut," American Economic Review, vol 105(12), pages 3531-3563. citation courtesy of
+
+Users who downloaded this paper also downloaded* these:

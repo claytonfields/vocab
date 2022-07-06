@@ -1,0 +1,41 @@
+Largest quantum cluster created
+
+AUSTRALIAN NATIONAL UNIVERSITY 19 NOV 2013
+
+Image: winui/Shutterstock Each quantum system can encode a quantum 'bit' of information, and using them in a cluster opens up huge potential to store data and solve problems.
+
+ANU PhD student Seiji Armstrong has made a quantum leap towards next-generation computing.
+
+Working with a team in Tokyo, Seiji has created the largest cluster of quantum systems ever – a milestone on the way to super-powerful, super-fast quantum computers.
+
+“The more quantum systems you have in the cluster, the more powerful your quantum computer will be,” he says.
+
+“Previously the world record was 14. But in our experiment we went to more than 10,000 at once.”
+
+Each quantum system can encode a quantum ‘bit’ of information, like the binary system that a traditional computer uses, explains Seiji.
+
+“In today’s computers you have ‘bits’ of information – a bit is a 0 or a 1. A quantum bit is similar but it can also exist in another state – instead of just a 0 or a 1 it can be in what’s called a ‘superposition’.”
+
+That’s where it all starts to get a little complicated, but Seiji says it’s easier if you think of quantum bits as coins.
+
+“Imagine you have a coin and heads is 0 and tails is 1. When you flip it in the air it’s as if the coin is both heads and tails at once. But, if you catch it and look at it, it will be either heads or tails.
+
+“That’s sort of how quantum bits work: you don’t know what state they’re going to be in until you measure them.
+
+“When you arrange these quantum bits in a cluster, it opens up all the different possibilities and gives you access to this huge computational power.”
+
+Seiji says the potential applications of this research are endless.
+
+“Eventually, we’ll be able to use these quantum clusters to build quantum communication networks with very fast but also very secure and very powerful transmission lines,” he says.
+
+“In a normal computer, if you had 1,000 bits you might be able to solve a bunch of very easy problems. In a quantum computer with 1,000 quantum bits you’d be able to solve way more difficult problems – problems that classical computers can’t solve.”
+
+Other applications might be so far advanced we can’t even imagine them in today’s world.
+
+“Even when traditional computers had become commonplace, no one really saw the internet coming. So who knows where this will lead?”
+
+The research was done while Seiji was at the University of Tokyo as part of a Prime Minister’s Australia-Asia Award. Working with a group of experts headed by Professor Akira Furusawa was a pretty exceptional experience, he says.
+
+“Everybody there had a unique skill and it was a really nice example of all these experts in their fields coming together. Everyone contributed to the experiment in a different way. It was really exciting stuff.”
+
+Read the paper here.

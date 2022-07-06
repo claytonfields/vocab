@@ -1,0 +1,41 @@
+If you're an Android geek, you're probably sick of hearing about Android's "fragmentation" problem. If you have a non-Nexus Android phone, you're probably even sicker of dealing with it. We've heard promises from Google time and time again, but it's time to bite the bullet and accept that for us Android geeks, the Nexus is the only phone worth buying.
+
+Advertisement
+
+The Fragmentation Problem
+
+Put simply, Android's fragmentation problem can be summed up by looking at the iPhone: When a new iPhone update rolls out, every newer-than-two-years old iPhone owner can expect to upgrade at the same time. They may not all have the exact same feature set—e.g., the iPhone 4 won't have the new turn-by-turn navigation coming in iOS 6—but they're at least guaranteed to be updated with some new features. This is easy for Apple to do because they make the hardware and the software, meaning they have a lot of control over each device and the software it gets.
+
+Unfortunately, Android is different. With Android, you have multiple manufacturers taking Android, tweaking it with their own UIs and editing it to fit a ton of different devices. The problem is, those devices don't get software updates as soon as Google releases them, and in a lot of cases, they don't get them at all. Android manufacturers have gotten worse at keeping up with updates over the past year, too. Only 50% of you even have Ice Cream Sandwich—even less if you discount custom ROMs—and Jelly Bean is already out in the wild. We complain about this all the time, and yet so many of us have ignored the most obvious solution: just get a Nexus.
+
+Advertisement
+
+What's a Nexus?
+
+For those of you who don't know, Nexus is essentially Google's iPhone. They have full control over the hardware and software, come out with a new Nexus every year or so, and update all recent-ish Nexus phones with the latest version of Android as soon as possible. The Galaxy Nexus is the latest Nexus phone, available on multiple carriers and already updated to support Android 4.1 Jelly Bean. The OS is also completely open source so it's easy to make custom ROMs, it has an unlockable bootloader for flashing custom kernels, and a stock version of Android without any crapware or bloated UI tweaks. However, for some reason, it's often ignored even by Android geeks, who opt for other, less advantageous phones from other manufacturers.
+
+Advertisement
+
+What You Get (or Rather, Don't Get) with a Non-Nexus Phone
+
+One of the best things about Android is that you have your pick between tons of different handsets—some large, some small, some with styli, some with physical keyboards. Many have their own UI on top of Android, which brings extra features to the device (which are sometimes good, and sometimes God awful). The choice is nice, but by buying one of these phones, you make one big sacrifice: updates. You may get them, but they aren't guaranteed, and you certainly won't get them in a timely fashion. When buying a non-Nexus phone, you should buy it based on what the phone is like out of the box and consider any software updates you end up getting are an exciting bonus. I really can't put it better than Matt Buchanan did over at Buzzfeed:
+
+You might buy a new phone that's missing something, thinking, "It will get better." No, it won't. If I were to tell you one thing about buying technology, it is this: Buy something because you like what it is right now, not because you think it's going to get better, or that one day it'll be what you really wanted it to be. It's kind of like marrying somebody and thinking you'll change them and they'll get better. They might. But they probably won't. Over time, you'll just hate them even more. And yourself, at least a little.
+
+Advertisement
+
+Now, in the case of Android, it may not always be this dramatic. In fact, most phones are pretty awesome when they come out—like the Samsung Galaxy S III, which is launching this week. Is it good phone? Sure it is. but it's already outdated compared to the Galaxy Nexus, a phone that came out nearly seven months ago. It'll probably get Android 4.1 at some point, but you'll be waiting awhile—and we'll already be halfway to another version of Android by then.
+
+What You Get with a Nexus Phone
+
+Advertisement
+
+Because Google has so much more control over the Nexus phones—and because they don't have manufacturer UIs and other roadblocks—having a Nexus means you get updates almost as soon as Google releases them. They won't stay up-to-date forever, of course, but if an update is coming, you'll be the first to have it. Not only that, but you'll have more stable ROMs, better rooting methods, and all around an easier time hacking and tweaking your phone, all because developers have more to work with. Plus, you don't get locked bootloaders like you do on other phones, including that hailed Galaxy S III.
+
+The downside, obviously, is choice. You no longer have a heap of different devices to choose from; instead, you're predictably buying the one phone that comes out every year, made by the same people that make the software (sound familiar?). It may not be as fun as choosing your own phone, but it does have its advantages: you don't have to deal with the "should I wait" question, and you're pretty much guaranteed to have awesome hardware if you buy it at release time. Heck, the Galaxy Nexus is still a pretty awesome phone, hardware-wise—and frankly, I'd rather have constant Android updates than an extra 0.2 GHz in my phone's processor.
+
+Advertisement
+
+I hate Android's fragmentation as much as the rest of you, and someone needs to do a better job of fixing the problem—whether it's Google the manufacturers, or the carriers. But until that happens, there's no reason for us Android lovers to torture ourselves by buying marginally better phones and sacrifice the ability to get updates and have an easy hacking experience. The next time you're in the market for a new phone, ignore your impulse to shop around and just get the Nexus—you'll be a lot happier in the end.
+
+Title image remixed from Adchariyaphoto.

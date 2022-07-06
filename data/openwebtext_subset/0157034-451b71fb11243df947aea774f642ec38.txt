@@ -1,0 +1,65 @@
+High levels of the stress hormone cortisol may contribute to the risk aversion and ‘irrational pessimism’ found among bankers and fund managers during financial crises, according to a new study.
+
+
+
+The study’s authors say that risk takers in the financial world exhibit risk averse behaviour during periods of extreme market volatility – just when a crashing market most needs them to take risks – and that this change in their appetite for risk may be “physiologically-driven”, specifically by the body’s response to cortisol. They suggest that stress could be an “under-appreciated” cause of market instability.
+
+
+
+Published today in the journal Proceedings of the National Academy of Sciences, the study conducted at the Cambridge Judge Business School and the University’s Institute of Metabolic Science is the first to show that personal financial risk preferences fluctuate substantially, and these fluctuations may be linked to hormone response.
+
+
+
+The finding could fundamentally alter our understanding of risk as, up until now, almost every model in finance and economics – even those used by banks and central banks – rested on the assumption that traders’ personal risk preferences stay consistent across the market cycle, say the authors.
+
+
+
+In a previous study conducted with real traders in the City of London, researchers observed that cortisol levels rose 68% over a two week period when market volatility increased. In the latest study they combined field work with lab work, a rare approach in economics, to test for the effects of this elevated cortisol on financial risk-taking.
+
+
+
+The researchers administered hydrocortisone – the pharmaceutical form of cortisol – to 36 volunteers, 20 men and 16 women, aged 20 to 36 years, over an eight day period, raising their cortisol levels 69%: almost exactly the levels seen in the traders.
+
+
+
+The volunteers took part in lottery-style financial risk-taking tasks with real monetary pay-offs, designed to measure the preferences for risky gambles and the judgments of probability underlying their risk taking. While initial spikes of cortisol had little effect on behaviour, chronically high and sustained levels, as seen in traders, led to a dramatic drop in participants’ willingness to take risks, with the ‘risk premium’ – the amount of extra risk someone will tolerate for the possibility of higher return – falling by 44%.
+
+
+
+“Any trader knows that their body is taken on a rollercoaster ride by the markets. What we haven’t known until this study was that these physiological changes - the sub-clinical levels of stress of which we are only dimly aware - are actually altering our ability to take risk,” said Dr John Coates, co-lead of the study from the Cambridge Judge Business School, and a former Wall Street derivatives trader himself.
+
+
+
+“It is frightening to realise that no one in the financial world – not the traders, not the risk managers, not the central bankers – knows that these subterranean shifts in risk appetite are taking place.”
+
+
+
+Cortisol is a hormone secreted by the adrenal glands in response to moments of high physical stress, such as ‘fight or flight’. Importantly, cortisol also rises powerfully in situations of uncertainty, such as volatility in the financial markets. Cortisol prepares us for possible action by releasing glucose and free fatty acids into the blood. It also suppresses any bodily functions not needed during a crisis - such as the digestive, reproductive, and immune systems.
+
+
+
+However, should this stress become chronic, as it might during a prolonged financial crisis, the elevated cortisol can contribute to impaired learning, heightened anxiety, and eventually depression. The current study has now shown that in addition to these known pathologies, chronic stress can also lead to a substantial decrease in the willingness to take financial risks, say the researchers.
+
+
+
+They also suggest that an unsuspected side effect of anti-inflammatory treatments such as prednisone may be financial risk aversion.
+
+
+
+The study’s authors also looked for differences between men and women. While other researchers have argued that women are more risk averse than men, the current study found no differences between the sexes under normal circumstances. However, the study did find that, when exposed to chronically-raised levels of cortisol, men placed too much importance on smaller risks, while women did not.
+
+
+
+The authors point out that during the Credit Crisis of 2007 to 2009 volatility in US equities spiked from 12% to over 70%. They argue that it is reasonable to assume that such historically high levels of uncertainty would have caused stress hormones to rise far higher and longer than the team had been able to observe in their study.
+
+
+
+Chronic stress may therefore have decreased risk taking just when the economy needed it most – when markets were crashing and needed traders and investors to buy distressed assets, they say.
+
+
+
+Physiologically-driven shifts in risk preferences may be a source of financial market instability that hasn’t been considered by economists, risk managers and central bankers alike.
+
+
+
+Added Coates: “Traders, risk managers, and central banks cannot hope to manage risk if they do not understand that the drivers of risk taking lurk deep in our bodies. Risk managers who fail to understand this will have as little success as fire fighters spraying water at the tips of flames.”

@@ -1,0 +1,297 @@
+eglCreateContext ( version = 1 , context = 0 )
+
+eglMakeCurrent ( context = 0 )
+
+glGetIntegerv ( pname = GL_MAX_TEXTURE_SIZE , params = [ 2048 ] )
+
+glGetIntegerv ( pname = GL_MAX_TEXTURE_SIZE , params = [ 2048 ] )
+
+glGetString ( name = GL_VERSION ) = OpenGL ES 2.0 14.01003
+
+glGetIntegerv ( pname = GL_MAX_TEXTURE_SIZE , params = [ 2048 ] )
+
+glGenBuffers ( n = 1 , buffers = [ 1 ] )
+
+glBindBuffer ( target = GL_ARRAY_BUFFER , buffer = 1 )
+
+glBufferData ( target = GL_ARRAY_BUFFER , size = 64 , data = [ 64 bytes ] ,
+
+usage = GL_STATIC_DRAW )
+
+glDisable ( cap = GL_SCISSOR_TEST )
+
+glActiveTexture ( texture = GL_TEXTURE0 )
+
+glGenBuffers ( n = 1 , buffers = [ 2 ] )
+
+glBindBuffer ( target = GL_ARRAY_BUFFER , buffer = 2 )
+
+glBufferData ( target = GL_ARRAY_BUFFER , size = 131072 , data = 0x0 ,
+
+usage = GL_DYNAMIC_DRAW )
+
+glGetIntegerv ( pname = GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS ,
+
+params = [ 16 ] )
+
+glGetIntegerv ( pname = GL_MAX_TEXTURE_SIZE , params = [ 2048 ] )
+
+glGenTextures ( n = 1 , textures = [ 1 ] )
+
+glBindTexture ( target = GL_TEXTURE_2D , texture = 1 )
+
+glEGLImageTargetTexture2DOES ( target = GL_TEXTURE_2D ,
+
+image = 2138532008 )
+
+glGetError ( void ) = ( GLenum ) GL_NO_ERROR
+
+glDisable ( cap = GL_DITHER )
+
+glClearColor ( red = 0 , 000000 , green = 0 , 000000 , blue = 0 , 000000 ,
+
+alpha = 0 , 000000 )
+
+glEnableVertexAttribArray ( index = 0 )
+
+glDisable ( cap = GL_BLEND )
+
+glGenTextures ( n = 1 , textures = [ 2 ] )
+
+glBindTexture ( target = GL_TEXTURE_2D , texture = 2 )
+
+glPixelStorei ( pname = GL_UNPACK_ALIGNMENT , param = 1 )
+
+glTexImage2D ( target = GL_TEXTURE_2D , level = 0 ,
+
+internalformat = GL_ALPHA , width = 1024 , height = 512 ,
+
+border = 0 , format = GL_ALPHA , type = GL_UNSIGNED_BYTE ,
+
+pixels = [ ] )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_MIN_FILTER ,
+
+param = 9728 )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_MAG_FILTER , param = 9728 )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_WRAP_S , param = 33071 )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_WRAP_T , param = 33071 )
+
+glViewport ( x = 0 , y = 0 , width = 800 , height = 1205 )
+
+glPixelStorei ( pname = GL_UNPACK_ALIGNMENT , param = 1 )
+
+glTexSubImage2D ( target = GL_TEXTURE_2D , level = 0 , xoffset = 0 , yoffset = 0 , width = 1024 , height = 80 , format = GL_ALPHA , type = GL_UNSIGNED_BYTE , pixels = 0x697b7008 )
+
+glInsertEventMarkerEXT ( length = 0 , marker = Flush )
+
+glBindBuffer ( target = GL_ARRAY_BUFFER , buffer = 0 )
+
+glBindTexture ( target = GL_TEXTURE_2D , texture = 1 )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_WRAP_S , param = 33071 )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_WRAP_T , param = 33071 )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_MIN_FILTER , param = 9729 )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_MAG_FILTER , param = 9729 )
+
+glCreateShader ( type = GL_VERTEX_SHADER ) = ( GLuint ) 1
+
+glShaderSource ( shader = 1 , count = 1 , string = attribute vec4 position ;
+
+attribute vec2 texCoords ;
+
+uniform mat4 projection ;
+
+uniform mat4 transform ;
+
+varying vec2 outTexCoords ;
+
+void main ( void ) {
+
+outTexCoords = texCoords ;
+
+gl_Position = projection * transform * position ;
+
+}
+
+, length = [ 0 ] )
+
+glCompileShader ( shader = 1 )
+
+glGetShaderiv ( shader = 1 , pname = GL_COMPILE_STATUS , params = [ 1 ] )
+
+glCreateShader ( type = GL_FRAGMENT_SHADER ) = ( GLuint ) 2
+
+glShaderSource ( shader = 2 , count = 1 , string = precision mediump float ;
+
+varying vec2 outTexCoords ;
+
+uniform sampler2D baseSampler ;
+
+void main ( void ) {
+
+gl_FragColor = texture2D ( baseSampler , outTexCoords ) ;
+
+}
+
+, length = [ 0 ] )
+
+glCompileShader ( shader = 2 )
+
+glGetShaderiv ( shader = 2 , pname = GL_COMPILE_STATUS , params = [ 1 ] )
+
+glCreateProgram ( void ) = ( GLuint ) 3
+
+glAttachShader ( program = 3 , shader = 1 )
+
+glAttachShader ( program = 3 , shader = 2 )
+
+glBindAttribLocation ( program = 3 , index = 0 , name = position )
+
+glBindAttribLocation ( program = 3 , index = 1 , name = texCoords )
+
+glGetProgramiv ( program = 3 , pname = GL_ACTIVE_ATTRIBUTES , params = [ 2 ] )
+
+glGetProgramiv ( program = 3 , pname = GL_ACTIVE_ATTRIBUTE_MAX_LENGTH , params = [ 10 ] )
+
+glGetActiveAttrib ( program = 3 , index = 0 , bufsize = 10 , length = [ 0 ] , size = [ 1 ] , type = [ GL_FLOAT_VEC4 ] , name = position )
+
+glGetActiveAttrib ( program = 3 , index = 1 , bufsize = 10 , length = [ 0 ] , size = [ 1 ] , type = [ GL_FLOAT_VEC2 ] , name = texCoords )
+
+glGetProgramiv ( program = 3 , pname = GL_ACTIVE_UNIFORMS , params = [ 3 ] )
+
+glGetProgramiv ( program = 3 , pname = GL_ACTIVE_UNIFORM_MAX_LENGTH , params = [ 12 ] )
+
+glGetActiveUniform ( program = 3 , index = 0 , bufsize = 12 , length = [ 0 ] , size = [ 1 ] , type = [ GL_FLOAT_MAT4 ] , name = projection )
+
+glGetActiveUniform ( program = 3 , index = 1 , bufsize = 12 , length = [ 0 ] , size = [ 1 ] , type = [ GL_FLOAT_MAT4 ] , name = transform )
+
+glGetActiveUniform ( program = 3 , index = 2 , bufsize = 12 , length = [ 0 ] , size = [ 1 ] , type = [ GL_SAMPLER_2D ] , name = baseSampler )
+
+glLinkProgram ( program = 3 )
+
+glGetProgramiv ( program = 3 , pname = GL_LINK_STATUS , params = [ 1 ] )
+
+glGetUniformLocation ( program = 3 , name = transform ) = ( GLint ) 2
+
+glGetUniformLocation ( program = 3 , name = projection ) = ( GLint ) 1
+
+glUseProgram ( program = 3 )
+
+glGetUniformLocation ( program = 3 , name = baseSampler ) = ( GLint ) 0
+
+glUniform1i ( location = 0 , x = 0 )
+
+glUniformMatrix4fv ( location = 1 , count = 1 , transpose = false , value = [ 0.0025 , 0.0 , 0.0 , 0.0 , 0.0 , - 0.001659751 , 0.0 , 0.0 , 0.0 , 0.0 , - 1.0 , 0.0 , - 1.0 , 1.0 , - 0.0 , 1.0 ] )
+
+glUniformMatrix4fv ( location = 2 , count = 1 , transpose = false , value = [ 800.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1205.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 ] )
+
+glEnableVertexAttribArray ( index = 1 )
+
+glVertexAttribPointer ( indx = 0 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x681e7af4 )
+
+glVertexAttribPointer ( indx = 1 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x681e7afc )
+
+glVertexAttribPointerData ( indx = 0 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x ? ? , minIndex = 0 , maxIndex = 4 )
+
+glVertexAttribPointerData ( indx = 1 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x ? ? , minIndex = 0 , maxIndex = 4 )
+
+glDrawArrays ( mode = GL_TRIANGLE_STRIP , first = 0 , count = 4 )
+
+glBindBuffer ( target = GL_ARRAY_BUFFER , buffer = 2 )
+
+glBufferSubData ( target = GL_ARRAY_BUFFER , offset = 0 , size = 576 , data = [ 576 bytes ] )
+
+glBufferSubData ( target = GL_ARRAY_BUFFER , offset = 576 , size = 192 , data = [ 192 bytes ] )
+
+glEnable ( cap = GL_BLEND )
+
+glBlendFunc ( sfactor = GL_SYNC_FLUSH_COMMANDS_BIT , dfactor = GL_ONE_MINUS_SRC_ALPHA )
+
+glUniformMatrix4fv ( location = 2 , count = 1 , transpose = false , value = [ 1.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 ] )
+
+glBindBuffer ( target = GL_ARRAY_BUFFER , buffer = 0 )
+
+glGenBuffers ( n = 1 , buffers = [ 3 ] )
+
+glBindBuffer ( target = GL_ELEMENT_ARRAY_BUFFER , buffer = 3 )
+
+glBufferData ( target = GL_ELEMENT_ARRAY_BUFFER , size = 24576 , data = [ 24576 bytes ] , usage = GL_STATIC_DRAW )
+
+glVertexAttribPointer ( indx = 0 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0xbefdcf18 )
+
+glVertexAttribPointer ( indx = 1 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0xbefdcf20 )
+
+glVertexAttribPointerData ( indx = 0 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x ? ? , minIndex = 0 , maxIndex = 48 )
+
+glVertexAttribPointerData ( indx = 1 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x ? ? , minIndex = 0 , maxIndex = 48 )
+
+glDrawElements ( mode = GL_MAP_INVALIDATE_RANGE_BIT , count = 72 , type = GL_UNSIGNED_SHORT , indices = 0x0 )
+
+glBindBuffer ( target = GL_ARRAY_BUFFER , buffer = 2 )
+
+glBufferSubData ( target = GL_ARRAY_BUFFER , offset = 768 , size = 576 , data = [ 576 bytes ] )
+
+glDisable ( cap = GL_BLEND )
+
+glUniformMatrix4fv ( location = 2 , count = 1 , transpose = false , value = [ 1.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 , 0.0 , 0.0 , 33.0 , 0.0 , 1.0 ] )
+
+glVertexAttribPointer ( indx = 0 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x300 )
+
+glVertexAttribPointer ( indx = 1 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x308 )
+
+glDrawElements ( mode = GL_MAP_INVALIDATE_RANGE_BIT , count = 54 , type = GL_UNSIGNED_SHORT , indices = 0x0 )
+
+glEnable ( cap = GL_BLEND )
+
+glUniformMatrix4fv ( location = 2 , count = 1 , transpose = false , value = [ 1.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 ] )
+
+glBindBuffer ( target = GL_ARRAY_BUFFER , buffer = 0 )
+
+glBindTexture ( target = GL_TEXTURE_2D , texture = 2 )
+
+glVertexAttribPointer ( indx = 0 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x696bd008 )
+
+glVertexAttribPointer ( indx = 1 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x696bd010 )
+
+glVertexAttribPointerData ( indx = 0 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x ? ? , minIndex = 0 , maxIndex = 80 )
+
+glVertexAttribPointerData ( indx = 1 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x ? ? , minIndex = 0 , maxIndex = 80 )
+
+glDrawElements ( mode = GL_MAP_INVALIDATE_RANGE_BIT , count = 120 , type = GL_UNSIGNED_SHORT , indices = 0x0 )
+
+glGenTextures ( n = 1 , textures = [ 3 ] )
+
+glBindTexture ( target = GL_TEXTURE_2D , texture = 3 )
+
+glPixelStorei ( pname = GL_UNPACK_ALIGNMENT , param = 4 )
+
+glTexImage2D ( target = GL_TEXTURE_2D , level = 0 , internalformat = GL_RGBA , width = 64 , height = 64 , border = 0 , format = GL_RGBA , type = GL_UNSIGNED_BYTE , pixels = 0x420cd930 )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_MIN_FILTER , param = 9728 )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_MAG_FILTER , param = 9728 )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_WRAP_S , param = 33071 )
+
+glTexParameteri ( target = GL_TEXTURE_2D , pname = GL_TEXTURE_WRAP_T , param = 33071 )
+
+glUniformMatrix4fv ( location = 2 , count = 1 , transpose = false , value = [ 64.0 , 0.0 , 0.0 , 0.0 , 0.0 , 64.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 , 0.0 , 16.0 , 38.0 , 0.0 , 1.0 ] )
+
+glBindBuffer ( target = GL_ARRAY_BUFFER , buffer = 1 )
+
+glVertexAttribPointer ( indx = 0 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x0 )
+
+glVertexAttribPointer ( indx = 1 , size = 2 , type = GL_FLOAT , normalized = false , stride = 16 , ptr = 0x8 )
+
+glBindBuffer ( target = GL_ELEMENT_ARRAY_BUFFER , buffer = 0 )
+
+glDrawArrays ( mode = GL_TRIANGLE_STRIP , first = 0 , count = 4 )
+
+glGetError ( void ) = ( GLenum ) GL_NO_ERROR

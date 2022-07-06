@@ -1,0 +1,119 @@
+The Eiffel Tower is the world's most photographed landmark... but London's Trafalgar Square comes a close second
+
+
+
+Showing off your holiday snaps is part and parcel of a trip away. Now scientists have revealed the world's most photographed landmarks by studying millions of images using a supercomputer.
+
+
+
+Experts at Cornell University analysed nearly 35million images posted by 300,000 users on the photo-sharing website Flickr.
+
+The most photographed landmark in the top 20 most photographed European cities. London's Trafalgar Square, Manchester's Exchange Square, Bath Abbey and Edinburgh Castle were included
+
+They discovered that while the Eiffel Tower in Paris was the most popular landmark, four of the top seven were in London.
+
+
+
+Trafalgar Square, the Tate Modern and Big Ben managed second, third and fourth place, while the London Eye was sixth.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Most photographed landmarks according to Flickr:
+
+1. Eiffel Tower, Paris
+
+
+
+2. Trafalgar Square, London
+
+
+
+3. The Tate Modern, London
+
+
+
+4. Big Ben, London
+
+
+
+5. Notre Dame, Paris
+
+
+
+6. London Eye, London
+
+
+
+7. Empire State Building, New York
+
+---------------------------------------------------------------------------------------------------------
+
+
+
+Notre Dame in Paris was awarded fifth while the Empire States Building in New York was seventh.
+
+
+
+Britain's capital city was the second most photographed city in the world after New York. San Francisco and Paris were third and fourth.
+
+
+
+The researchers developed their technique using a supercomputer that crawled through a huge selection of photographs over a six-month period.
+
+
+
+The most popular 20 landmarks in the British Isles
+
+The image database was created after the computer picked a photographer on Flickr at random.
+
+
+
+It downloaded any photos that were geotagged along with textual tags and geolocation. The photographers contact list was scanned and the process started again.
+
+
+
+Popular landmarks were chosen by how many different photographers snapped them rather than by the total number of images in the database.
+
+
+
+'It raises the intriguing possibility of an online travel guidebook that could automatically identify the best sites to visit on a vacation, as judged by the collective wisdom of the world's photographers,' a university spokesman said.
+
+----------------------------------------------------------------------------------------------------------
+
+10 most photographed cities according to Flickr:
+
+1: New York, U.S
+
+2: London, England
+
+3: San Francisco, U.S
+
+4: Paris, France
+
+5: Los Angeles, U.S
+
+6: Chicago, U.S
+
+7: Washington, U.S
+
+8: Seattle, U.S
+
+9: Rome, Italy
+
+10: Amsterdam, Holland
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+They were able to breakdown the results to a regional level, revealing the 20 most popular photo stops in the British Isles.
+
+The research, which was presented at the International World Wide Web Conference in Madrid, provides a new and practical way to automatically organize, label and summarize large-scale collections of digital images.
+
+
+
+Director of the Cornell Centre for Advanced Computing David Lifka said: 'As the creation of digital data accelerates, supercomputers and high-performance storage systems will be essential in order to quickly store, archive, preserve and retrieve large-scale data collections.'

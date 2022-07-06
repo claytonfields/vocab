@@ -1,0 +1,19 @@
+Agent Obsession
+
+Tony Winn Blocked Unblock Follow Following Jan 18, 2017
+
+One of the most valuable learning experiences of 2016 for me was getting to attend James Edward Gray’s SimAlchemy training at the start of ElixirConf. It was very timely information for me as I was right in the middle of writing my first process heavy application in Elixir.
+
+Towards the end of the talk he went though a number tips and common anti-patterns and one hit me hard: GenServer Envy. This is when your use of either a Task or Agent goes beyond their suggested use cases and you start treating them like GenServers .
+
+I had a special case of GenServer Envy that I’m calling Agent Obsession. You might have it too if:
+
+The responsibility for interacting with your Agent process is spread across your application.
+
+process is spread across your application. You don’t actually know the api for GenServer (quick, how many arguments does handle_cast take?).
+
+(quick, how many arguments does take?). You don’t know the use case described in the documents for Agent .
+
+. You know that an Agent is best used for “a simple wrapper arounds state” but can’t articulate what a complicated wrapper around state would entail.
+
+There’s a line of thinking among Elixir devs that if you aren’t sure if your process should be backed by an Agent or a GenServer just start with an Agent and refactor to a GenServer when it gets painful.

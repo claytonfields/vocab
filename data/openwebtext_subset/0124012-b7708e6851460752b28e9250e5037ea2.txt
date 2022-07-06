@@ -1,0 +1,25 @@
+The censorship of The Pirate Bay, which is slowly spreading to ISPs all around Europe, is designed to reduce the availability of unauthorized media, but the site also allows artists without a corporation-backed delivery mechanism to self publish to the world. However, since blockades are a blunt instrument, their work is being wiped out too. On this basis, the legality of a recent Pirate Bay blockade is now being questioned.
+
+During May 2011, the Copyright Information and Anti-Piracy Centre (CIAPC) and the Finnish branch of the music industry group IFPI filed a lawsuit at the District Court of Helsinki.
+
+The groups demanded that local ISP Elisa should start blocking The Pirate Bay in order to protect the copyrights of their members. While Elisa initially refused, a subsequent court order in October 2011 forced them to comply and last month it was initiated.
+
+The matter is currently under appeal but in the meantime Elisa’s block must remain, which means that no content indexed by The Pirate Bay – illicit or fully authorized – is available to the ISP’s customers. For one Elisa customer, that situation is unacceptable.
+
+Antti Laine says that the enforcement order handed down to his ISP was unlawful so he has responded by filing a complaint with the authority that sanctioned the block. His complaint states that under Finnish copyright law, any injunction should avoid collateral damage.
+
+Such a wide block fails to consider this responsibility, Laine insists, adding that “enforcement of the decision is based on an erroneous application of law.” His complaint is being made on three grounds.
+
+1. Laine says he has been working on a project and the media created is being distributed via The Pirate Bay. Due to the block, distribution of the content is being affected.
+
+2. As a client of Elisa himself, Laine says that due to the blockade he can no longer download or indeed upload any material that is deemed by creators to be for free distribution. Under copyright law this legal content cannot be a target of the injunction but nevertheless its availability is being threatened.
+
+3. Laine states that the injunction is based on an incorrect application of the law. Service providers can only be ordered to block access to infringing files, but the are huge numbers of other works being affected by the blanket censorship. Furthermore, Laine says that the blockade also affects all legal content uploaded to The Pirate Bay after it was initiated and such preemptive censorship is against Finland’s constitution.
+
+In respect of item 3, Laine attached a list of Creative Commons, GPL and Public Domain material affected including content from Dope Stars Inc, titles such as Steal This Film, LionShare and Zeitgeist from Jamie King’s VODO, Rip: A Remix Manifesto, Finland’s own Star Trek parody series Star Wreck and many open source software applications.
+
+“No blocking mechanism should block content that’s available legally,” Joonas Mäkinen of Finland’s Pirate Party tells TorrentFreak. “If the proposed methods can’t reasonably differentiate between authorized and non-authorized content, they should never be put in action.”
+
+“There is no reason to block even The Pirate Bay’s website itself, as the texts and images there – a whopping 90 megabytes – are definitely not in illegal distribution per se,” Mäkinen adds.
+
+Laine seeks a correction of the existing injunction so that it no longer breaches the Copyright Act and Constitutional Law.

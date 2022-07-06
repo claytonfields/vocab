@@ -1,0 +1,33 @@
+Codemasters is "holding back" from F1 VR But racing studio celebrates arrival of high-end hardware like Xbox One X - and it's keeping an eye on Switch
+
+James Batchelor UK Editor Friday 25th August 2017 Share this article Share
+
+Companies in this article Codemasters
+
+Adding virtual reality to Formula One would require "fairly significant" changes, so Codemasters is in no hurry to support the technology with its racing series.
+
+F1 2017 releases for Xbox One, PS4 and PC today, but the publisher has no concrete plans for Oculus Rift, HTC Vive or Playstation VR. Given that, like most racing games, F1 lends itself to a seated VR experience it seems like a natural extension for the franchise, but it's not a simple case of porting the game.
+
+"We've certainly given a lot of consideration to VR," creative director Lee Mather tells GamesIndustry.biz. "As you know, Codemasters did VR for Dirt Rally and we're certainly interested in doing it for Formula One.
+
+"It's a little trickier for us because we're pushing the boundaries when it comes to our physics. We have a lot of elements on screen with the OSD, so that's a lot of information the player would have to process in VR. The changes to move the game onto VR would be fairly significant, and we wouldn't want to do it if it meant compromising any area of the game. That's why we're holding back on that at the moment, but it's something we're considering."
+
+Mather is much more excited in the potential higher-end consoles lend to his games. F1 2017 will support PS4 Pro and has also been built with the upcoming Xbox One X in mind too. In fact, Codemasters was able to show an early build of the Xbox One X version at E3 earlier this year.
+
+More importantly, improvements for the premium consoles will benefit the standard versions for earlier models.
+
+"Obviously we've done a lot of work [this year] on the render tech for those two consoles, but that sort of filters down for the whole range," Mather explains. "This year, we've upped the resolution on Xbox One - last year, it wasn't quite 1080p and now it's full 1080p, 60 frames per second. PS4, PS4 Pro and Xbox One S will have HDR support as well.
+
+He continues: "Any work we do to make gains on the new platforms filters down to the older ones as well," he says. "So, as I said, Xbox One gained a higher resolution because the checkerboard rendering is more efficient in that respect.
+
+"Any work we do to make gains on the new platforms filter down to the older ones as well"
+
+"In terms of the assets we create, it's actually not a case that we have to do better assets; instead, now we don't have to knock them down as much, because they're already authored at a very high quality and then you bring them down to suit the platform you're running on. In a lot of ways, it's giving us more opportunities to showcase the quality of the stuff we're already producing at an even higher level."
+
+Xbox One X isn't the only new hardware launch to grab attention in 2017. Nintendo Switch continues to perform well and is currently gearing up for its all-important first Christmas. Codemasters saw moderate success from the Wii versions of its earlier Formula One titles, so could the series make a return to Nintendo platforms?
+
+"Obviously we've been watching how the Switch is performing and it's selling really well," says Mather. "It probably wouldn't be suitable to have exactly the same game we have running on Xbox One and PS4, but there's certainly the possibility we'll look at doing something on Switch. We'll see what happens in future. It's certainly getting the market share to make it a valid place to be."
+
+F1 2017 is the first in a long line of racing games due for release before the end of the year, pitting it against Forza Motorsport 7, Gran Turismo Sport, Project Cars 2 and the return of Need for Speed. Mather is quick to stress that, while Codemasters aims to be "the No.1 racing studio in the world", it makes no illusions about directly competing this year given that Formula One is something of a niche.
+
+"We're a niche within a niche to a degree," he says. "Racing games are a niche in themselves, and we are unique within that and that's our big selling point. We aren't just a racing game; we're a representation of a full sport. So whereas other racing games may appeal to racing game players, we appeal to Formula One fans as well. We're pulling in people who love the sport as much as we're pulling in people who love games and racing. That's where our place is and that's why we've got such a dedicated fanbase every year."

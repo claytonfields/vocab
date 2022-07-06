@@ -1,0 +1,63 @@
+In the wake of a number of well-publicised incidents of lynching and mob violence, most of them related to issues surrounding cattle trade or beef consumption, a narrative — Lynchistan — has taken hold.
+
+In one telling, incidents of lynching and mob violence have increased after the election of the Bharatiya Janata Party (BJP) at the Centre in May 2014.
+
+Pushing back against such narratives emanating from the mainstream media establishment, a counter-narrative put forward by elements of the online right wing, many of whom are BJP partisans, asserts, there's been no such uptick in lynchings and mob violence and that this is a really a concoction by the Lutyens establishment to defame Prime Minister Narendra Modi, the BJP, and the image of India both at home and abroad.
+
+Unfortunately, both narrative and counter-narrative are remarkably data and analysis free, and based on assertions and opinions, sometimes masquerading as data analysis.
+
+I have assembled a new dataset through an exhaustive search of news reports. I vet specific incidents by comparing across alternative reports, where possible.
+
+To rectify this glaring gap in what has become an astonishingly ill-informed and partisan debate, I bring to bear a dataset I have been assembling for a while on the number of incidents of lynching and mob violence in India, starting in January 2011 and going up to June 2017. As there is no official data which classifies the data by incident type, I have assembled a new dataset through an exhaustive search of news reports. I vet specific incidents by comparing across alternative reports, where possible.
+
+By definition, all data come from publicly available news sources and therefore can be reconstructed should anyone wish to.
+
+Lynchingrefers to incidents in which individuals have been killed as a result of mob violence. Public Disorderrefers to incidents of violence perpetrated by groups or individuals. Both include incidents which may or may not have a communal motivation. Incidents are coded as falling into one or the other category — not both.
+
+Chart 1 is a line chart of total incidents of mob violence (Lynching plus Public Disorder) by month from January 2011 to June 2017. The chart also adds a linear trendline through the data points.
+
+It's clear from eyeballing the chart and confirmed by the trendline that the number of incidents per month is rising over the time period. At one fell swoop this demolishes the counter-narrative that the number of incidents hasn't changed from the Congress-led United Progressive Alliance (UPA) to the BJP.
+
+Superficially, the chart appears to show that mob violence has been rising steadily over time both under the UPA and then under the BJP. This would seem to potentially let both governments off the hook as one could perhaps argue that there are some underlying societal changes leading to increasing violence over time, irrespective of which party is in power.
+
+The statistics make it clear that there has indeed been a change in the underlying forces driving trends in mob violence between May and June 2014.
+
+But crucially, the overall rising trend may mask important changes in the data from January 2011 to June 2017. In other words, it's possible, say, that mob violence was rising under the UPA, but that this trend accelerated after the BJP came to power. A trendline over the whole time period can't tell us if this is true or not.
+
+In the language of statistics, what we're looking for is a "structural break" in the time series and further whether this structural break, if it exists, corresponds to the BJP's election victory.
+
+Suppose we conjecture that a structural break might have occurred after the BJP's general election victory in May 2014. One simple way to test this possibility is to reproduce the data in Chart 1 but break the data into two sub-groups, first from January 2011 to May 2014 (Chart 2) and then from June 2014 to June 2017 (Chart 3).
+
+The two charts along with linear trendlines are in Charts 2 and 3.
+
+The story these tell is striking. Chart 2 shows a downward sloping trendline, which means that mob violence was actually trending downward during the latter days of the UPA. Chart 3 shows an upward sloping trendline for the latter period, which means mob violence has been trending upward since the BJP came to power in the middle of 2014.
+
+Furthermore, we know that the overall upward sloping trend in the full dataset as shown in Chart 1 must be driven by what's happening from June 2014 and beyond, simply as a matter of mathematics.
+
+While Lynchistan is a loaded and charged term, if by this it is meant that mob violence has been ticking upward since the BJP came to power in 2014, the data unequivocally bear this out.
+
+It's possible to formalise this intuition through a rigorous statistical test known as the Chow test, which determines whether a structural break exists. Running this test confirms there is indeed a statistically significant structural break between May and June 2014, exactly as charts 2 and 3 tell us visually.
+
+What is more, it's possible to perform a related test, Quant-Andrews, which in effect is a meta-test to find the most statistically significant breakpoint in the data among all possible alternatives. The Quant-Andrews test unequivocally throws up June 2014 as the breakpoint. To reiterate, this date for the structural break is not imposed by the researcher, but identified by the test. The statistics make it clear that there has indeed been a change in the underlying forces driving trends in mob violence between May and June 2014.
+
+This statistical analysis conclusively refutes the counter-narrative put forward by the online right wing. While Lynchistan is a loaded and charged term, if by this it is meant that mob violence has been ticking upward since the BJP came to power in 2014, the data unequivocally bear this out.
+
+An important and necessary caveat is that the dataset, and therefore the statistical analysis based upon it, is constructed from media reports, not from official data. It's therefore at least a logical possibility that the uptick in mob violence is driven entirely by increased reportage after the BJP's victory, although it is questionable how plausible such a claim might be. To be true, it would require a very high level of coordination and collusion among major media houses, who further would literally have had to jump into high gear within days of the BJP victory: a conspiracy theory, in short.
+
+Given the well known antipathy of the mainstream media toward Prime Minister Modi and the BJP, it's certainly plausible that some reporting bias has come into play after May 2014. But that leaves at least some, perhaps a large, portion of the uptick in mob violence as a genuine phenomenon, although it's impossible to parse this further with the data available.
+
+At a minimum, the Modi government urgently needs to revisit the opaque and draconian new cattle trade rules, which are only likely to increase the incidents of cow-related violence.
+
+The data by itself can't answer these questions, but Prime Minister Modi has himself provided an answer recently, by forcefully speaking out against violence, including cow-related vigilantism.
+
+The Prime Minister appears to understand better than many that cow-related vigilantism, and perhaps communal violence, is a growing problem in India.
+
+Chart 4 shows the share of cow related and separately of communal violence in total mob violence from January 2012 to June 2017. Communal violence is steady around 20% of the total for the first few years and then actually dips in 2015, before rising again in 2016, and dipping in 2017 to date. There is no obvious pattern here.
+
+By contrast, and startlingly, from a very low share of less than 5%, cow-related violence (falling into either Lynching or Public Disorder) has been rising sharply as a percentage of the total, reaching over 20% by the end of June 2017. It would be hard to deny that there is a trend here.
+
+It is imperative that in the remainder of their term in office, Prime Minister Modi and the BJP give top priority to governance reform, especially of a broken criminal justice system. At a minimum, the Modi government urgently needs to revisit the opaque and draconian new cattle trade rules, which are only likely to increase the incidents of cow-related violence. It is in the context of poor governance and limited state capacity that crimes related to cow vigilantism thrive.
+
+Datasets in the analysis are the author's own findings.
+
+This post was originally published here.

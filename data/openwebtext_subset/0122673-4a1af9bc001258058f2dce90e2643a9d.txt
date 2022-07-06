@@ -1,0 +1,25 @@
+Apple has obtained a patent for a technology that allows people to legally share music and videos with friends. Instead of downloading files from iTunes or another store, customers can get them from friends or family and obtain a license separately. According to Apple, their invention will save bandwidth costs while making piracy less attractive.
+
+Little over a decade ago Apple revolutionized the music industry with its iTunes store, allowing people to purchase digital copies of their favorite music.
+
+With iTunes, Apple offered pirates a legal option, but the company still sees value in “sharing” music and other media with friends and family.
+
+In fact, the company was just awarded a patent that makes it possible to license P2P sharing.
+
+Titled “decoupling rights in a digital content unit from download” the patent describes a system where users can freely share music and videos with each other. Instead of getting the actual file from iTunes or other stores, users would only need to obtain a license.
+
+Once licensed these files can be shared freely across one’s own devices, with friends, family or even complete strangers.
+
+According to Apple such a system has several benefits. Among other things, reduced bandwidth and other overhead costs. This may result in a separate and cheaper price tier for those users who only have to license a media file.
+
+“This reduction in operating expenses may facilitate a two-tier pricing structure. For example, the digital content store may charge a first price to users who download a digital content unit from the store and a second price to users who authorize a digital content unit without downloading the unit,” the patent reads.
+
+This price reduction may then make it more interesting to share files legally, thereby reducing traditional forms of piracy.
+
+“This may encourage users to trade or copy digital content units as well as authorize these copies. Such sharing may, in turn, reduce piracy or illegal copying..,” Apple argues.
+
+While “legalized P2P sharing” may sound appealing, in theory it’s actually quite restrictive. The idea introduces a new layer of content protection which means that the files in question can only be played on “trusted client software.”
+
+This means that transferring files between devices is only possible if these support Apple’s licensing scheme. That’s actually a step backwards from the DRM-free music that’s sold in most stores today.
+
+It’s unclear whether Apple has any plans to use the P2P licensing technology in the wild. The original idea is a bit dated, but perhaps Apple can think of some less restrictive implementations of their newly obtained patent.

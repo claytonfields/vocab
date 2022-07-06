@@ -1,0 +1,39 @@
+Ever been curious about C++ and graphics programming, but not sure where to start?
+
+Maybe you are an artist who'd like to build your own tools. Maybe you're a game developer wishing your games would run faster, or have even better graphics effects. Regardless, knowledge of the way graphics work at a low level is an empowering skill.
+
+We'll be covering real-time graphics with C++/OpenGL as well as raytracing. It'll be aimed at beginners, but everyone is welcome.
+
+
+
+This'll be an intimate workshop, meant for around 20 people. We'll give a talk and then walk you through some hands-on examples. Be sure to bring a laptop if you can!
+
+Location:
+
+Startup Hall, 1100 NE Campus Pkwy #200, Seattle, WA 98105
+
+Come up to the second floor-- follow the signs that say "Startup Hall" to find it. We'll be easy to spot-- in the big conference room right by the lobby.
+
+
+
+
+
+Mentors:
+
+Nathan: Nathan is a graphics programmer, previously making graphics drivers at NVIDIA and cutting-edge graphics engine technology at Sucker Punch. He's currently running a company in Seattle focused around graphics/C++ consulting. http://www.reedbeta.com/blog/
+
+Stephanie: Stephanie is also a graphics programmer, previously making graphics engine technology at Oculus and Unity. She's currently running a company in Seattle focused on graphics/VR/C++/compression, and building a compression product. http://www.binomial.info
+
+Sophia: Sophia is an artist and a low-level graphics programmer. Her background's mostly in art and design, and now she uses her love of C++ and graphics programming to build tools for artists so they can better express their creativity. http://sophia-baldonado.tumblr.com/
+
+Jorge: Jorge is an accomplished game developer and engine programmer. He has a background in game design, mathematics, graphics, engines, and even programming language design! http://www.vinoisnotouzo.com/
+
+Jacob: Jacob's a game developer and graphics programmer. He's the cofounder of Seattle-based game studio System Era, previously worked on graphics technology on the Halo games. His graphics specialty is in raytracing. http://systemera.net/
+
+Cody: Cody is a 3D artist and low level graphics and operating system programmer. He's previously contributed to several art tools including Blender3D, and is passionate about using low-level coding knowledge to make great tools for artists. https://twitter.com/codybrr
+
+
+
+
+
+(image from http://www.ivanpoupyrev.com/projects/bi/hi-res/BI-siggraph-3.jpg )

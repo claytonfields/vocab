@@ -1,0 +1,33 @@
+Richard Dawid examines a critique of quantum mechanics, string theory and inflationary cosmology.
+
+Fashion, Faith, and Fantasy in the New Physics of the Universe By Roger Penrose Princeton University Press: 2016. 9780691119793
+
+The eminent theoretical physicist Roger Penrose is worried about the current path of physical research. In Fashion, Faith, and Fantasy in the New Physics of the Universe, he argues that the eponymous triad of trends has become overly powerful in contemporary fundamental physics. This core message is delivered in language that demands some mathematical sophistication of the reader. Penrose also discusses some of his own ideas, such as twistor theory — his take on a synthesis of quantum theory and general relativity.
+
+Image: Illustration by Eoin Ryan
+
+Penrose claims that even well-confirmed theories, such as quantum mechanics, are 'oversold' with respect to their presumptive stability. Quantum physics has had an impressive record of predictive success, ranging from quantum chemistry to elementary particle physics. But it faces a deep conceptual problem. Whereas quantum mechanics has a perfect internal consistency when it describes a system that evolves without being measured, the way in which it represents measurements is not coherently embedded in that description. To Penrose, this indicates that the fundamental principles of quantum mechanics have not yet been found and will rely on the elusive full integration of gravity into quantum physics. He argues that the success of quantum mechanics tends to make physicists insensitive to the theory's conceptual problem and generates an unjustified degree of faith in its basic principles as a solid foundation of physics.
+
+Another source of undue trust in a theory, Penrose asserts, is the physics community's tendency to follow fashion — that is, to settle on one strategy of dealing with a problem before severely testing the theory's empirical predictions. Penrose views string theory (a theory of quantum gravity) as the pre-eminent example.
+
+The final trend in Penrose's triad is fantasy — that is, a wildly speculative idea that goes far beyond what is implied by the known data. Penrose assigns that category to inflationary cosmology, which he argues is treated as an established theory despite a lack of evidence.
+
+Of these three, Penrose's discussion of quantum mechanics ('faith') is the most successful. On the basis of an inspired presentation of quantum mechanics, he makes a case that the theory's enormous scientific success does not remove serious doubts about the finality of its basic principles. His discussions of fantasy and fashion, however, are problematic. He paints an exaggerated picture of their role and systematically underrates the merits of the theories he criticizes.
+
+Fashion and fantasy are presented in separate chapters as independent influences that have become too powerful. But, as Penrose acknowledges, fantasy has always been at the root of new theories. Just think about the atomist speculations that led to the kinetic gas theory in the nineteenth century. For Penrose, the trouble arises when fantasy is given too much credit before a theory is empirically tested. This occurs, he says, when a theory becomes the subject of fashion. In this light, it is difficult to see the independent role of 'fantasy' in Penrose's argument.
+
+Inflationary cosmology is, moreover, not a good illustration of fantasy, even by Penrose's own account. As he acknowledges, recent precision measurements of the cosmic microwave background agree with typical predictions of inflationary cosmology, so it seems difficult now to call it a mere flight of fancy. Penrose presents his important criticism that inflation generically does not explain the low initial entropy of the Universe (although explanations have been suggested in certain models; see S. M. Carroll and J. Chen. https://arxiv.org/abs/hep-th/0410270; 2004). But he presents the case against inflation in a way that hides the independent significance of problems that can be solved by it, such as explaining the homogeneity and flatness of the observed Universe.
+
+There are similar issues with Penrose's claim that fashion is the main reason for string theory's influential position. His analysis of its problems is not up to the task of debunking proponents' physics-based reasons for confidence. Penrose's main complaint about string theory is that it lacks a clear specification of its number of degrees of freedom. He tries to show this in several contexts. However, he tends to omit information that could make the situation less confusing than he takes it to be. For example, he expresses unease about 'gauge–gravity duality', the claim that string theory is empirically equivalent to a quantum field theory in a lower-dimensional space. (If generally valid, that would mean that a string theory in three extended spatial dimensions was empirically equivalent to a quantum field theory in two spatial dimensions.) Such a claim looks startling, because one would naively expect that a three-dimensional theory has more degrees of freedom than a two-dimensional one. Penrose presents this as one of many questionable implications of string theory.
+
+Curiously, however, he presents his case without mentioning that Gerard 't Hooft, who is cited in the book, provided a general understanding of the reduced number of degrees of freedom in quantum gravity without any reference to string theory, before cases of gauge–gravity duality were conjectured in the context of string theory (G. 't Hooft. https://arxiv.org/abs/gr-qc/9310026; 1993). In this light, by generating examples of gauge–gravity duality, string theory does not, as Penrose maintains, make one more prima facie implausible claim, but opens up perspectives for a more thorough understanding of a characteristic of quantum gravity that had already been suggested.
+
+It is always inspiring to read Penrose's uncompromisingly independent perspective on physics. He seems more at home with developing visionary ideas than with detailed criticism of prevalent theories. Unfortunately, this book offers too few of the former and too much of the latter.
+
+Author information Affiliations Richard Dawid is a philosopher of science at the University of Stockholm. Richard Dawid Authors Search for Richard Dawid in: Nature Research journals •
+
+PubMed •
+
+Google Scholar Corresponding author Correspondence to Richard Dawid.
+
+Rights and permissions To obtain permission to re-use content from this article visit RightsLink.

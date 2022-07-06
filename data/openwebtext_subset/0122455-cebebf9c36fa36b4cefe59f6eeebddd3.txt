@@ -1,0 +1,73 @@
+A complete idiot’s guide to Clean Architecture
+
+Ye Myat Thu Blocked Unblock Follow Following Feb 8, 2017
+
+After hearing a lot about clean architecture and design patterns in android , I finally decided to adapt to it and set up something more systematic, partly, because a job interview I had involved discussion about architectural decisions and testing which I have not had thought about much.
+
+It is somewhat difficult to absorb all those buzzwords and almost all example and tutorials I found are not simple enough to my taste, so I decided to explain about what little I’ve absorbed.
+
+I am currently writing a Restaurant Booker app, which involves showing list of townships, getting the restaurants from selected townships and booking a table for it. So, I decided to take a feature of that app (getting a list of townships and showing it in an recycler view — Yep, a dead simple one) and follow this excellent Post completely.
+
+My original app structure
+
+What I’ve decided is to make the app to have three layer — Data,Domain, and Presentation.
+
+Data layer will include POJOs and means to get Data from cloud or local storage.
+
+Domain layer will include all business logic and interact between Data and Presentation layer by means of interface and interactors. The objective is to make the domain layer independent of anything, so the business logic can be tested without any dependency to external components.
+
+Presentation layer will include normal Activities and Fragments, which will only handle rendering views and will follow MVP pattern.
+
+initial package structure
+
+I decided to use RxJava for asynchronous tasks , Retrofit for Rest Client and Realm for database.
+
+DATA LAYER
+
+In the data layer, I made a new entity “TownshipEntity” and set up Retrofit. Data layer used Repository pattern for giving the “Domain layer” its data. So I created a “TownshipDataStore” interface with a single method named “townships” which will return Observable of township list.
+
+Then I made two classes which implement “TownshipLocalDataStore” and “TownshipCloudDataStore” which override “townships” method and return Observable list of townships from respective places (Local DB and Cloud).
+
+And a single TownshipDataStoreFactory which decide what kind of DataStore to create.
+
+TownshipCache is just an interface to handle caching.
+
+In this case, the cache will expire if the different between last updated time and current time is more than 10 minutes.
+
+After that, I go to Domain layer to make an interface which will get the township list from Data Layer.
+
+This has only one method to get Township list since our sample app only has one function — showing a list of townships.
+
+And inside the Data layer, a “TownshipDataRepository” which implement “TownshipRepository”.
+
+Since I tried to make the app decoupled as much as possible, all three layer will have their own Township Object, and I use Mapper to convert between them.
+
+So, that’s all for Data Layer, which will handle retrieving Data from cloud, store them, and give them to Domain layer.
+
+DOMAIN LAYER
+
+Normally, Domain layer will contain more complicated business logic, but for our simple app, its only function is to give the list of townships it got from Data layer to Presentation Layer.
+
+GetTownshipList is the interactor/Use Case inside Domain Layer, from where the Presentation Layer will get its Data to render view.
+
+PRESENTATION LAYER
+
+Presentation Layer is structured into MVP pattern with model, view, and presenters.
+
+I made another TownshipModel for presentation layer, and made a TownshipListPresenter which will communicate with Domain Layer.
+
+TownshipListPresenter is also responsible for handling view logic such as when to hide loading, when to populate adapter with data, etc.
+
+To communicate with TownshipListActivity, it uses TownshipListView interface, which has methods such as, “showLoading”, “hideLoading”, “showError”, and “renderTownshipList”.
+
+Then the TownshipListPresenter take TownshipListView and decide when to hide/show loading view or data.
+
+And finally, the TownshipListActivity implements TownshipListVIew and initialize TownshipListPresenter.
+
+If we run the app, we would see the list of townships I saved in simple json storage site myjson.
+
+So, it seems like a lot of code for one screen, but the advantage of this approach is it’s very easy to test, since all three layers can be tested independently and both Domain and Data layer are totally reusable, so, if you want to make a Desktop app, you can just write the Presentation Layer code.
+
+I’ll try to make use of Dagger 2 for dependency Injection and add other feature from my old app in the next episode. Please feel free to point out my mistakes in the reply. It will be really appreciated.
+
+PS: the code is hosted on Github.

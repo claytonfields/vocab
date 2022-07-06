@@ -1,0 +1,19 @@
+The F-35 Lightning II, also known as the Joint Strike Fighter (JSF), planes arrive at Edwards Air Force Base in California in this May 2010 file photo. REUTERS/Tom Reynolds/Lockheed Martin Corp/Handout
+
+WASHINGTON (Reuters) - Lockheed Martin Corp, the U.S. government’s top information technology provider, said on Sunday that a “tenacious” cyberattack on its network last weekend was part of a pattern of frequent attacks on it from around the world.
+
+“The fact is, in this new reality, we are a frequent target of adversaries around the world,” Sondra Barbour, the company’s chief information officer, said in a memorandum to employees.
+
+Eight days after the “significant and tenacious” May 21 attack was detected and countered, Bethesda, Maryland-based Lockheed is still working around the clock to restore employee access to the network while maintaining the highest level of security, Barbour said.
+
+Lockheed’s first response included “proactively” shutting down the company’s virtual private network, or VPN, she said. A VPN is a secure way of connecting to a private network using the Internet or any public network to carry network data privately through encryption.
+
+Other counter measures included resetting all user passwords, upgrading remote access SecurID tokens and adding a new level of security to the remote access network log-on procedure, Barbour said.
+
+Lockheed said on Saturday night that it had warded off the attack after detecting it “almost immediately.” It said it had taken aggressive actions to protect systems and data. No compromise of customer, program or employees’ personal data had occurred, the company said.
+
+Lockheed is the Pentagon’s top supplier by sales. It builds the F-16, F-22 and F-35 fighter aircraft as well as the Aegis naval combat system and THAAD missile defense.
+
+A U.S. Defense Department spokeswoman, Air Force Lieutenant Colonel April Cunningham, said Saturday night that the Pentagon was working with Lockheed to gauge the scope of the May 21 attack. The impact on the department had been “minimal and we don’t expect any adverse effect,” she said.
+
+Neither Lockheed nor the U.S. government has commented yet on the possible origin of the attack.

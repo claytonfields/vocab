@@ -1,0 +1,43 @@
+By Chris Cwik
+
+The start of spring training inevitably coincides with the first puff pieces of the season. Player A has reported to camp in the best shape of his life, Player B is working on a new pitch and Player C spent the offseason meditating with monks. It's the most optimistic time of the year. Every team has aspirations of contending, and every player is going to put up a record-setting campaign. In many cases, all these stories end up doing is giving false hope to those willing to believe before everything falls apart.
+
+But what if there were one facet of spring training reports that could pinpoint a legitimate breakout early in the season? What if that false hope could turn into legitimate joy? Well, it may actually be possible -- and it has everything to do with pitcher velocity.
+
+There's a common belief that fastball velocity tends to stabilize fairly early in the season. In a 2011 article on Baseball Prospectus, current Houston Astros analyst Mike Fast found that changes in pitcher velocity during spring training tend to carry over to the regular season 41 percent of the time. That figure jumps to 52 percent when you eliminate spring training and simply compare a pitcher's velocity the previous September to his velocity during the first two weeks of the regular season.
+
+On top of that, Jeff Zimmerman of FanGraphs looked at whether fastball velocity dips in a pitcher's first start coming off the disabled list. He found that "the overall average fastball speed is not much higher in the first start compared to the rest of the season." Both studies examined different things, but together they provide some evidence that fastball velocity stabilizes quickly.
+
+So is increased velocity an indicator that a pitcher is about to break out? Over the past seven seasons, there have been 47 pitchers who have seen their average fastball velocity increase by at least one mph from one season to the next. (The study was limited to starters who tossed at least 100 innings in each season. Relievers were not included due to limited innings, and the fact that players converting from starting to relieving could skew the data.) The results were interesting.
+
+Criteria Sample Percent Strikeout rate up 42 of 47 89% Walk rate down 33 of 47 70% ERA down 33 of 47 70% FIP down 36 of 45 80% Career-high WAR 26 of 47 55%
+
+There were ties in some cases, which is why there were only 45 players involved in the FIP category. Overall, though, players who experienced an increase in velocity saw their strikeout rates jump, walk rates decease and ERA and FIP drop as compared to their career stats. In addition, a little more than half of these pitchers also put up a career-high WAR that same season. Both Mike Fast and Dan Turkenkopf produced similar findings when looking at pitcher velocity at few years ago at The Hardball Times.
+
+There appears to be evidence that an uptick in fastball velocity can lead to a breakout. But how exactly does this work? One would assume a pitcher's fastball improves, but what about his other pitches? Does increased fastball velocity lead to a more effective breaking ball?
+
+It's possible to figure this out using pitch values. This needs to be done on a per 100 inning basis, so that pitchers who throw more fastballs don't produce more value based solely on volume. These stats are typically shown on sabermetric websites as wFB/C, as one example.
+
+Pitch Sample Percent Better fastball 26 of 47 55% Better two-seam 15 of 21 71% Better cutter 10 of 13 77% Better slider 21 of 41 50% Better curveball 22 of 38 58% Better changeup 29 of 47 62%
+
+Before examining the data, it's important to know that the results here aren't perfect. PITCHf/x has changed drastically over the years it has been in existence. That means pitch classifications are calculated different now than they were a few years ago. Some classifications from those early years may not be 100 percent accurate. On top of that, there are some pretty small samples with some of these pitches. Those particular areas should be taken with a grain of salt, as a few players could be skewing the results.
+
+With that in mind, it appears increased fastball velocity does lead to a more effective fastball, and that this could also bleed over into variations of fastballs -- including two-seamers and cutters, although again, the sample size is smaller there.
+
+As far as improving secondary offerings, the results are unclear. Sliders didn't see a jump in effectiveness, and curveballs saw a small uptick. Changeups appear to see the biggest increase in effectiveness. If a pitcher's fastball velocity increased, it would of course create a larger gap between his fastball and changeup, so it's logical that this could lead to the changeup becoming a more effective pitch.
+
+Perhaps the bigger question is whether the uptick in velocity is sustainable the following year. The Cincinnati Reds just made a large bet that it is, signing Homer Bailey to a six-year, $105 million deal. Bailey saw his fastball jump from 92.4 mph in 2012 to 94.1 mph last season. As with most pitchers in the sample, he saw his performance rise, and was rewarded handsomely during the offseason. Can Bailey sustain his velocity increase going forward?
+
+Next season Sample Percent Strikeout rate retained 12 of 32 38% Walk rate retained 13 of 33 39% ERA retained 15 of 32 47% FIP retained 16 of 33 48% Fastball velocity retained 8 of 31 30%
+
+The answer? Probably not. Pitchers who see big velocity jumps typically give back some of that improvement the following season. In fact, only 30 percent of the sample retained their newfound velocity the following season. Strikeout rates drops and walk rates increase. There's about a 50 percent chance the player does retain their solid ERA and FIP, though, which is a positive sign. In some cases, these declines were fairly minimal, but were still there. What this chart says is that velocity goes away the following season after a jump, and some of the gains leave with it -- but there's still a 50/50 chance a pitcher posts a similar ERA and FIP despite the loss of velocity.
+
+That means Chris Capuano, Adam Wainwright, Anibal Sanchez, Homer Bailey, Nate Eovaldi, Patrick Corbin, Chris Sale and Jose Quintana could see some decline in their numbers this year. This doesn't mean, of course, that all of them will be useless. Sanchez will likely fall from top-5 pitcher to really good starter. Sale and Wainwright are still going to be elite players, even if they do see some decline. It's the fringier guys that stand out. Quintana, Corbin and Eovaldi all showed big improvements based on their fastball velocities. In Bailey's case, fastball velocity could be the difference between him easily living up to his new deal, or being overpaid.
+
+The good thing is, we should know relatively early in the year. While it's tough to rely on spring data, velocity after a few weeks of regular-season play should allow us to pinpoint whether these pitchers are going to stay on course, or whether we're going to find the next breakout starter.
+
+Remember that the next time you're reading about Player D's all-kale diet. If you want to believe in an early season breakout, all you have to do is look at the radar gun.
+
+* * *
+
+Chris Cwik writes for various baseball sites, including CBSSports.com and FanGraphs.com. He has also contributed to ESPN and the Hardball Times Baseball Annual. Follow him on Twitter at @Chris_Cwik.

@@ -1,0 +1,37 @@
+This week, like much of July, a heat wave is cooking America with extreme temperatures, affecting energy production as well as causing fires and water shortages, sucking electricity like crazy to power the cooling necessary to avoid discomfort and even death. According to the National Weather Service, 122 million Americans are under heat alerts.
+
+Fortunately, nuclear power hasn’t minded, scoring record capacity factors of 96% and up with no increase in price. Other energy sources do not fare so well.
+
+It’s all about diversity. Whether in biology, in culture, in training, or in technology, when conditions change a system survives if there is sufficient diversity to adapt. Otherwise it dies. This is no less true for electricity production. Having a diverse group of energy systems is key to a society surviving changes in demographics and changes in government, geological processes and natural disasters, disruption in supplies from war, or extreme weather changes.
+
+This concept is in full display this month as this heat wave continues to sweep across America. Just like during the polar vortex, when nuclear stepped up to relieve natural gas and coal when they failed to deliver on the demand, nuclear also performs wonderfully during extreme weather at the other end of the thermometer.
+
+This kind of constant baseload power during the hottest part of the day is essential to keep our air conditioning going and for stabilizing the grid against blackouts. Nuclear plants are the backbone of the electricity grid, operating all the time even under the most extreme weather conditions.
+
+Unfortunately, much of the electricity needed to combat this heat wave is concentrated during peak hours of the afternoon when wind turbines are not turning (see figure 2). Instead, peaker plants have to come online. Peaker plants operate only to make up the difference between base load and peak load (see figure 3). Our current energy grid makes these plants necessary, but they come at a steep price. Peaker plants are usually natural gas, but can also use coal, jet fuel, oil and diesel. In Washington State, hydropower serves as the peaker in a different way.
+
+Peakers usually run for short periods of time and so are less efficient and dirtier than conventional base load fossil fuel plants. Though natural gas is certainly cleaner than coal, natural gas does have some environmental issues from fracking, to pipelines, to fugitive emissions of methane. And lots of CO2 emissions, if you care about that.
+
+In unregulated markets like the Northeast and California, these peakers can gouge the buyer, tripling and quadrupling the price of electricity, especially during a heat wave when gas supplies are stretched thin.
+
+Not nuclear. These plants just churn out power at the same low price, whatever the conditions.
+
+But gas has come to be the essential fuel in America, forced to back up renewables, replacing coal and load-following the rest of the grid. However, electric utilities are struggling to meet peak demand in hot summer weather because of limits on their natural gas supply, especially in southern California, where it has been forced to replace so much nuclear power lost from the premature closing of the San Onofre nuclear power plant. The situation will get worse if the Diablo Canyon nuclear plants close prematurely as planned.
+
+At the beginning of July, citing natural gas capacity problems, the California Independent System Operator (ISO) issued the first Flex Alert in two years as western America baked under triple-digit heat. Up until this summer, California had avoided the gas availability and pipeline delivery problems that plague other power grids during extreme weather, particularly in New England and the Midwest.
+
+But when temperatures rise above 90°F, it takes more MWs to serve the same number of buildings, leading to strain on generators. A combination of voluntary demand response programs and calls for voluntary public conservation kept demand below dangerous levels.
+
+This time.
+
+The California grid also faces limited hydropower imports from the Pacific Northwest because of extreme heat up here, reducing the state’s ability to handle this crisis.
+
+“SoCalGas told us they had gas congestion and capacity issues,” said ISO spokesman Steven Greenlee, which led to a decision to issue the public call for conservation. Day-ahead wholesale power prices had risen 51% in northern California and 44% in southern California in response to the heat wave.
+
+According to the U.S. Energy Information Administration, utilities across the western United States withdrew 1 billion cubic feet of gas from storage to satisfy power demand during this heat wave, during a period when they typically inject 11 billion cubic feet into storage.
+
+During peak-hours in California, gas supplied over 60% of California's electric load while solar and wind supplied less than 15%. The largest solar plant in the United States, California’s Ivanpah, recovering from a solar fire in May and struggling with bad performance overall, isn’t helping much in this heat. After receiving $1.6 billion in loan guarantees from the Department of Energy and $535 million from the U.S. Treasury, Ivanpah is still unable to meet its promised 940,000 MWhs per year and is failing to even meet it's power purchase agreement.
+
+“We got lucky in that there was some monsoon cloud cover from the desert southwest that came into California and kept temperatures lower, but it also added to the variability of solar resources that we had to contend with," said Greenlee.
+
+Luck and more gas pipelines…if we close anymore nuclear plants, that’s what we’ll be depending on in the future.

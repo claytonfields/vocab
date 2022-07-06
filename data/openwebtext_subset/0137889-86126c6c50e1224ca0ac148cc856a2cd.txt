@@ -1,0 +1,575 @@
+Neville Game freak
+
+
+
+Join Date: Apr 2008 Location: Lerida, Spain Posts: 137
+
+Manage your DOS games with DOSBox and DBGL Introduction and first steps.
+
+
+
+1) Adding a new game to the database.
+
+
+
+2) What if my game comes in a CD-ROM image?
+
+
+
+3) Running a game.
+
+
+
+4) Deleting a game from the database.
+
+
+
+5) The game runs too slow / too fast.
+
+
+
+6) The game won't run at all.
+
+
+
+7) How do I remap keys and DOSBox functions?
+
+
+
+8) 3Dfx and Roland MT-32 emulation.
+
+
+
+9) I owned a real Sound Blaster and music didn't sound this bad.
+
+
+
+10) What are CGA Composite, Tandy and PCjr modes?
+
+
+
+11) Apart from the Sound Blaster 16, what other sound devices are emulated?
+
+
+
+12) How to import and export games: GamePacks.
+
+
+
+
+
+Introduction and first steps.
+
+
+
+So you've read the other DOSBox tutorials around and gotten to know what DOSBox can do for your all games... but you'd prefer to have all of them in just one place, run them with a double click and forget about individual settings.
+
+
+
+
+
+
+
+Then DBGL is just for you. DBGL is a JAVA based frontend available for Windows, Linux and Mac. It's the work of Ronald Blankendaal, and it's available
+
+
+
+DOSBox v0.74 is included in the download, so no need to worry about that.
+
+
+
+Now copy your DOS games to the DOSROOT folder. DBGL can run your DOS games from other locations, but doing this will make your DBGL folder portable, among other advantages.
+
+
+
+Also, using 8 character folders for your games, without accents or spaces is recommended, although not essential.
+
+
+
+This is also a good time to change the language in DBGL. If your first language is not English, go to File, Preferences, then General and change DBGL to your preferred language.
+
+
+
+
+
+1) Adding a new game to the database.
+
+
+
+a) Open DBGL and click on the "Add profile" button. This window will appear:
+
+
+
+
+
+
+
+All you really need to do here is to add a name for the game / profile. But if you have an Internet connection it really pays to press the "M" button at the top right of the window. This will import data from MobyGames, one of the most complete videogame databases on the Internet. If you tick the adequate options (in File then Preferences), you can also download cover art and in-game screenshots for your profile.
+
+
+
+If you have the game manual, codes, walkthroughs or any documentation you need to access in order to play the game, you can also link it here, in the different "Link" boxes.
+
+
+
+b) Ignore for the time being the following tabs and move to the one named "Audio". These are DOSBox default settings for audio.
+
+
+
+
+
+
+
+All you need to remember here is that by default DOSBox emulates a Sound Blaster 16 with address 220, IRQ 7 and DMA 1.
+
+
+
+These settings will come in handy later.
+
+
+
+c) Now move to the "Mounting" tab. This is the most important section of the profile. It will tell DOSBox where to find the game executables and which folder to mount as your harddrive.
+
+
+
+
+
+
+
+Here we have already entered our settings. The second box (where it reads SETUP) is for the setup programs. Most DOS games had a separate program, called SETUP, INSTALL or SOUNDSET where you had to enter your soundcard or video settings.
+
+
+
+If the game is a PC Booter (runs from floppy) then ignore the "DOS" boxes, click on "Booter" and enter the relevant floppy disk images. If there's more than one, during gameplay you can insert the next disk pressing CTRL+F4.
+
+
+
+
+
+
+
+Now we click on "OK" and the new profile will appear in your main list.
+
+
+
+d) Being the first time we run our game, it would be wise to run the SETUP program first. So click on the profile with the right mouse button and choose the "Setup" option.
+
+
+
+
+
+
+
+The setup program will appear and we will setup our sound card. If there's and auto-detection option I suggest you to try it. If there isn't, remember all those sound paremeters I asked you to remember before and use them:
+
+
+
+
+
+
+
+And that's it. Your game is now ready to be run.
+
+
+
+
+
+2) What if my game comes in a CD-ROM image?
+
+
+
+a) Copy the image file to your game folder.
+
+
+
+b) Now create a new profile and go to the mounting section. When the time comes to enter the game executable, double click on the image file. A file browser will appear, and you need to look for either an abbreviated name for the game or an INSTALL or similar program.
+
+
+
+
+
+
+
+Make sure you also mount the game folder as C. The result should be similar to this:
+
+
+
+
+
+
+
+c) Run the profile. Being the first time, you will be prompted for a few options, such as a destination folder and your soundcard seetings.
+
+
+
+
+
+
+
+Follow the onscreen instructions. At the end the program will usually tell you how to run the game from then on:
+
+
+
+
+
+
+
+d) Now edit your profile, go to "Mounting" and change the main executable for the new one:
+
+
+
+
+
+
+
+And done!
+
+
+
+
+
+3) Running a game.
+
+
+
+Just double click on the profile name. Press ALT+ENTER to change between fullscreen and window mode. Exit the game using the game options, and only with CTRL+F9 if you have no other choice.
+
+
+
+
+
+4) Deleting a game from the database.
+
+
+
+Choose the profile name, press "Del" and confirm your choice. Don't forget to also delete the folder in DOSROOT.
+
+
+
+
+
+5) The game runs too slow / too fast.
+
+
+
+Run the profile again, and with the game in window mode adjust the "cycles" with CTRL+F11 and F12. Once you've reached an acceptable speed, take note of the number of cycles: they will be displayed on the top window border.
+
+
+
+Now edit the profile (with the right mouse button), go to the "Machine" tab and enter that number in the "cycles" box. You can now click on "OK" to close the profile and save the new settings.
+
+
+
+If you need a clue as to what values to try, older CGA games run under 500 cycles, 486 games use 3000-10000 cycles and Pentium era games need cycles=max.
+
+
+
+Also, DBGL offers a few "templates" based on real DOS machines. You can use the year of the game release as a clue of what system it may be expecting. Note that many don't feature the Sound Blaster 16, so sound will be lesser.
+
+
+
+
+
+
+
+
+
+6) The game won't run at all.
+
+
+
+Usually the issue is that you chose the wrong executable in the "Mounting" tab. So edit the profile using the right mouse button and see if there's any other.
+
+
+
+If the problem persists, uncheck the "Exit afterwards" setting in general and check for error messages.
+
+
+
+Memory related issues
+
+
+
+Not enough XMS memory? Change the EMS settings (in the "Machine" tab) from "true" to false".
+
+
+
+Not enough free memory? Check the "Loadfix" box and enter different values, such as 1, 64 or 128.
+
+
+
+CPU related issues
+
+
+
+Try changing the "CPU Type" to "386_prefetch" or "Pentium_slow".
+
+
+
+Sound related issues
+
+
+
+Run setup again and check the SB16 values for mistakes. If they are correct, try a lesser SB model or another sound card, but always respecting the values set in the "Audio" tab.
+
+
+
+Path related issues
+
+
+
+Some games expect to be always run from an specific folder, or a CD-ROM unit to be present.
+
+
+
+If the game expects to be run from a "GAME" folder, move your game files to one inside the folder you are mounting as C and edit your profile accordingly.
+
+
+
+If the game expects a CD-ROM unit to be present, you can mount the game folder both as C (and harddrive) and as D (and CD-ROM). You can also mount CUE or ISO files as CD-ROM units.
+
+
+
+Display related issues
+
+
+
+If the game is very old (pre-1990), edit the profile and change the value in the "Machine" box from "svga_s3" to "cga" or "ega". If the game is fairly new, try the different VGA/SVGA settings instead.
+
+
+
+If you want your games to show in 4/3 aspect ratio (leaving black vertical lines on the side, but showing proper aspect ratio), some extra steps need to be taken:
+
+
+
+- Go to DBGL options, then Dynamic options. There edit the fullresolution values and add your screen highest resolution. In modern LCD screens it will be something like 1440x900.
+
+
+
+- Now edit your game profiles (it can be done in bulk) and in the "Graphics" section change output to DirectDraw. In "Fullscreen resolution" select the one you just entered, and don't forget to also check the "Correct aspect ratio" option.
+
+
+
+
+
+If you still can't figure your problems with a certain game, I suggest you to visit
+
+
+
+
+
+7) How do I remap keys and DOSBox functions?
+
+
+
+Press CTRL+F1 during gameplay and the DOSBox keymapper will appear.
+
+
+
+
+
+
+
+Here you can remap pretty much everything you want. I've found it to be very useful in order to remap the joystick (since I don't have one) to keys.
+
+
+
+Two caveats: don't forget to save the changes before you exit, and if you remap a joystick to keys you also need to change the joystick option "auto" in the "I/O" tab of the profile to "2axis".
+
+
+
+If you somehow mess up, delete the MAPPER.TXT file in DOSROOT to return to the default settings.
+
+
+
+
+
+8) 3Dfx and Roland MT-32 emulation.
+
+
+
+3Dfx was one of the first manufacturers of 3D accelerated cards, and some DOS games such as "Descent 2", "Screamer 2" and "Screamer Rally" offer support for them.
+
+
+
+The Roland MT-32 was a costly music synthetizer that became the gold standard for MIDI music before being replaced with the General MIDI standard and CD Audio.
+
+
+
+In order to use these functions with DOSBox, you need to take a few steps first.
+
+
+
+a) Go to the "DOSBox versions" tab in the main window and add the path to a DOSBox version that supports the features you need,
+
+
+
+b) Copy the unzipped Roland MT-32 BIOS to both the folders of the DOSBox unofficial version and the DOSROOT folder.
+
+
+
+c) In the profiles that are to use these features, go to "General" and make sure the new DOSBox version is used instead of the regular v0.74. Click on "Reload Settings" after choosing the new DOSBox version.
+
+
+
+
+
+
+
+d) To enable MT-32 emulation, you also need to go to "Audio" and make sure the MIDI device is set up as "mt32":
+
+
+
+
+
+
+
+And finally choose the Roland MT-32 as music device in the game setup program, if it exists.
+
+
+
+
+
+9) I owned a real Sound Blaster and music didn't sound this bad.
+
+
+
+By default DOSBox uses the default MIDI synthetizer in your system, and experienced users often find it a poor replacement for the real thing.
+
+
+
+
+
+
+
+A simple solution is to install
+
+
+
+
+
+10) What are CGA Composite, Tandy and PCjr modes?
+
+
+
+CGA Composite is a hardware trick to display 16 colors using a CGA (and therefore 4 color) video card. Some pre-1990 videogames use it, such as Bruce Lee.
+
+
+
+
+
+
+
+To see if a game uses it, all you need to do is set machine=cga in the "Machine" tab of the profile, or check out
+
+
+
+The PCjr and the Tandy were PC clones released around 1984. They had a CGA capable of several 16 color modes (including CGA Composite) and a PC speaker with three sound channels rather than standard one. Many pre-1990 games support the Tandy and to a lesser degree the PCjr. Marble Madness is one of them:
+
+
+
+
+
+
+
+You set DOSBox to PCjr and Tandy modes using the options machine=pcjr and machine=tandy.
+
+
+
+MobyGames also has
+
+
+
+You can, however, obtain better sound in many early Sierra On-line titles by emulating these computers, because the music will play using three channels instead of one.
+
+
+
+
+
+11) Apart from the Sound Blaster 16, what other sound devices are emulated?
+
+
+
+a) The Internal PC Speaker: Poor sound and music playback, but since every PC has one most games support it.
+
+
+
+b) Tandy / PCjr sound: The same thing, but using three simultaneous sound channels instead of one. Widely supported in games before 1990. To use it you need to set machine=pcjr or machine=tandy.
+
+
+
+c) Disney Sound Source: Revised version of the Covox Speech Thing (which is NOT emulated), a very simple device plugged to the printer port. Decent FX, but not widely supported.
+
+
+
+d) AdLib: First standard for PC gaming. Decent sound and FX, but no voices. Widely supported. DOSBox emulates it through its Sound Blaster emulation.
+
+
+
+e) Creative Music System / Game Blaster: An AdLib competitor manufactured by Creative, makers of the Sound Blaster series. Not widely supported. To use it, set sbtype=gb. Here's a list of games that can use it.
+
+
+
+f) Creative Sound Blaster v1, v2, Pro and Pro 2.0: The Sound Blasters are the most supported audio cards in DOS gaming, providing good music and FX playback. Sound quality ranges from 8 bit mono (Sound Blaster v1) to 16 bit stereo (Sound Blaster 16). Unless the SB16 is not properly detected, there's little use for these older models in gaming.
+
+
+
+g) Gravis Ultrasound: A Sound Blaster competitor that found wide support in the shareware and demo communities, but nevertheless failed to surpass them in popularity.
+
+
+
+This device needs its installed drivers (which can be found sbtype=none before enabling it.
+
+
+
+Unofficial DOSBox builds often add support to less common devices, such as the Roland MT-32, a pricey music syhthetizer that became the gold standard for computer music, the IBM PS/1 sound, a three-channel device used only in those PC models, or the Innovation SSI-2001, a much sought-after sound card that employed the same sound chips as the Commodore 64.
+
+
+
+
+
+12) How to import and export games: GamePacks.
+
+
+
+Want to share games with other DOS enthusiasts? Then DBGL really makes it easy for you.
+
+
+
+a) Importing GamePacks.
+
+
+
+DBGL can export the either the game profiles alone (DOSBox configs, screenshots, etc.) or the game profiles plus the game files themselves. Whatever your choice is, the result is a GamePack archive with the extension DBGL.ZIP.
+
+
+
+In order to import them, all you need to do is go to Profiles, then Import.
+
+
+
+You can try this feature first with the GamePack archives hosted at
+
+
+
+b) Exporting GamePacks.
+
+
+
+That is almost as easy. First, select the profiles you want to export from your profile list (use CTRL to select non-consecutive profiles). Then go to Profiles, then Export and follow the on-screen instructions.
+
+
+
+The only potentially difficult step is step 2 in the assistant, which will ask you to revise the game folders. By default DBGL will export the folder containing the main executable, but in some cases like CD-ROM games that could leave out the ISO file, so be careful.
+
+
+
+
+
+
+
+In the end you'll get a file with a DBGL.ZIP extension that can be transferred to any computer with DBGL installed.
+
+
+
+And that's it. So you've read the other DOSBox tutorials around and gotten to know what DOSBox can do for your all games... but you'd prefer to have all of them in just one place, run them with a double click and forget about individual settings.Then DBGL is just for you. DBGL is a JAVA based frontend available for Windows, Linux and Mac. It's the work of Ronald Blankendaal, and it's available in its own website DOSBox v0.74 is included in the download, so no need to worry about that.Now copy your DOS games to the DOSROOT folder. DBGL can run your DOS games from other locations, but doing this will make your DBGL folder portable, among other advantages.Also, using 8 character folders for your games, without accents or spaces is recommended, although not essential.This is also a good time to change the language in DBGL.a) Open DBGL and click on the "Add profile" button. This window will appear:All you really need to do here is to add a name for the game / profile. But if you have an Internet connection it really pays to press the "M" button at the top right of the window. This will import data from MobyGames, one of the most complete videogame databases on the Internet. If you tick the adequate options (inthen), you can also download cover art and in-game screenshots for your profile.If you have the game manual, codes, walkthroughs or any documentation you need to access in order to play the game, you can also link it here, in the different "Link" boxes.b) Ignore for the time being the following tabs and move to the one named "Audio". These are DOSBox default settings for audio.All you need to remember here is that by defaultThese settings will come in handy later.c) Now move to the "Mounting" tab. This is the most important section of the profile. It will tell DOSBox where to find the game executables and which folder to mount as your harddrive.Here we have already entered our settings. The second box (where it reads) is for the setup programs. Most DOS games had a separate program, called SETUP, INSTALL or SOUNDSET where you had to enter your soundcard or video settings.If the game is a PC Booter (runs from floppy) then ignore the "DOS" boxes, click on "Booter" and enter the relevant floppy disk images. If there's more than one, during gameplayNow we click on "OK" and the new profile will appear in your main list.d) Being the first time we run our game, it would be wise to run the SETUP program first. So click on the profile with the right mouse button and choose the "Setup" option.The setup program will appear and we will setup our sound card. If there's and auto-detection option I suggest you to try it. If there isn't, remember all those sound paremeters I asked you to remember before and use them:And that's it. Your game is now ready to be run.a) Copy the image file to your game folder.b) Now create a new profile and go to the mounting section. When the time comes to enter the game executable, double click on the image file. A file browser will appear, and you need to look for either an abbreviated name for the game or an INSTALL or similar program.Make sure you also mount the game folder as C. The result should be similar to this:c) Run the profile. Being the first time, you will be prompted for a few options, such as a destination folder and your soundcard seetings.Follow the onscreen instructions. At the end the program will usually tell you how to run the game from then on:d) Now edit your profile, go to "Mounting" and change the main executable for the new one:And done!Just double click on the profile name. Press ALT+ENTER to change between fullscreen and window mode. Exit the game using the game options, and only with CTRL+F9 if you have no other choice.Choose the profile name, press "Del" and confirm your choice. Don't forget to also delete the folder in DOSROOT.Run the profile again, and with the game in window mode adjust the "cycles" with CTRL+F11 and F12. Once you've reached an acceptable speed, take note of the number of cycles: they will be displayed on the top window border.Now edit the profile (with the right mouse button), go to the "Machine" tab and enter that number in the "cycles" box. You can now click on "OK" to close the profile and save the new settings.If you need a clue as to what values to try, older CGA games run under 500 cycles, 486 games use 3000-10000 cycles and Pentium era games needAlso, DBGL offers a few "templates" based on real DOS machines. You can use the year of the game release as a clue of what system it may be expecting.Usually the issue is that you chose the wrong executable in the "Mounting" tab. So edit the profile using the right mouse button and see if there's any other.If the problem persists, uncheck the "Exit afterwards" setting in general and check for error messages.Not enough XMS memory? Change the EMS settings (in the "Machine" tab) from "true" to false".Not enough free memory? Check the "Loadfix" box and enter different values, such as 1, 64 or 128.Try changing the "CPU Type" to "386_prefetch" or "Pentium_slow".Run setup again and check the SB16 values for mistakes. If they are correct, try a lesser SB model or another sound card, but always respecting the values set in the "Audio" tab.Some games expect to be always run from an specific folder, or a CD-ROM unit to be present.If the game expects to be run from a "GAME" folder, move your game files to one inside the folder you are mounting as C and edit your profile accordingly.If the game expects a CD-ROM unit to be present, you can mount the game folder both as C (and harddrive) and as D (and CD-ROM). You can also mount CUE or ISO files as CD-ROM units.If the game is very old (pre-1990), edit the profile and change the value in the "Machine" box from "svga_s3" to "cga" or "ega". If the game is fairly new, try the different VGA/SVGA settings instead.If you want your games to show in 4/3 aspect ratio (leaving black vertical lines on the side, but showing proper aspect ratio), some extra steps need to be taken:- Go to DBGL options, then. There edit thevalues and add your screen highest resolution. In modern LCD screens it will be something like 1440x900.- Now edit your game profiles (it can be done in bulk) and in the "Graphics" section change output to DirectDraw. In "Fullscreen resolution" select the one you just entered, and don't forget to also check the "Correct aspect ratio" option.If you still can't figure your problems with a certain game, I suggest you to visit the DOSBox compatibility list Press CTRL+F1 during gameplay and the DOSBox keymapper will appear.Here you can remap pretty much everything you want. I've found it to be very useful in order to remap the joystick (since I don't have one) to keys.Two caveats: don't forget to save the changes before you exit, and if you remap a joystick to keys you also need to change the joystick option "auto" in the "I/O" tab of the profile to "2axis".If you somehow mess up, delete the MAPPER.TXT file in DOSROOT to return to the default settings.3Dfx was one of the first manufacturers of 3D accelerated cards, and some DOS games such as "Descent 2", "Screamer 2" and "Screamer Rally" offer support for them.The Roland MT-32 was a costly music synthetizer that became the gold standard for MIDI music before being replaced with the General MIDI standard and CD Audio.In order to use these functions with DOSBox, you need to take a few steps first.a) Go to the "DOSBox versions" tab in the main window and add the path to a DOSBox version that supports the features you need, such as Ykhwong's SVN or DOSBox ECE (Enhanced Community Edition) b) Copy the unzipped Roland MT-32 BIOS to both the folders of the DOSBox unofficial version and the DOSROOT folder.c) In the profiles that are to use these features, go to "General" and make sure the new DOSBox version is used instead of the regular v0.74. Click on "Reload Settings" after choosing the new DOSBox version.d) To enable MT-32 emulation, you also need to go to "Audio" and make sure the MIDI device is set up as "mt32":And finally choose the Roland MT-32 as music device in the game setup program, if it exists.By default DOSBox uses the default MIDI synthetizer in your system, and experienced users often find it a poor replacement for the real thing.A simple solution is to install the BASSMIDI utility and some music font. This will make your music sound much better.CGA Composite is a hardware trick to display 16 colors using a CGA (and therefore 4 color) video card. Some pre-1990 videogames use it, such asTo see if a game uses it, all you need to do is setin the "Machine" tab of the profile, or check out MobyGames' list of games that employ it The PCjr and the Tandy were PC clones released around 1984. They had a CGA capable of several 16 color modes (including CGA Composite) and a PC speaker with three sound channels rather than standard one. Many pre-1990 games support the Tandy and to a lesser degree the PCjr.is one of them:You set DOSBox to PCjr and Tandy modes using the optionsandMobyGames also has a list of games that support the PCjr / Tandy video modes , but in most cases you'll be better off using the default DOSBox settings.You can, however, obtain better sound in many early Sierra On-line titles by emulating these computers, because the music will play using three channels instead of one.a) ThePoor sound and music playback, but since every PC has one most games support it.b)The same thing, but using three simultaneous sound channels instead of one. Widely supported in games before 1990. To use it you need to setorc)Revised version of the(which is NOT emulated), a very simple device plugged to the printer port. Decent FX, but not widely supported. Here's MobyGames' list of games that support it. d)First standard for PC gaming. Decent sound and FX, but no voices. Widely supported. DOSBox emulates it through its Sound Blaster emulation.e)An AdLib competitor manufactured by Creative, makers of the Sound Blaster series. Not widely supported. To use it, setf)The Sound Blasters are the most supported audio cards in DOS gaming, providing good music and FX playback. Sound quality ranges from 8 bit mono (Sound Blaster v1) to 16 bit stereo (Sound Blaster 16).g)A Sound Blaster competitor that found wide support in the shareware and demo communities, but nevertheless failed to surpass them in popularity.This device needs its installed drivers (which can be found in VOGONS ) to be copied to a folder named ULTRASND so DOSBox can detect them. Also remember to setbefore enabling it.Unofficial DOSBox builds often add support to less common devices, such as the, a pricey music syhthetizer that became the gold standard for computer music, thesound, a three-channel device used only in those PC models, or the, a much sought-after sound card that employed the same sound chips as the Commodore 64.Want to share games with other DOS enthusiasts? Then DBGL really makes it easy for you.a) Importing GamePacks.DBGL can export the either the game profiles alone (DOSBox configs, screenshots, etc.) or the game profiles plus the game files themselves. Whatever your choice is, the result is a GamePack archive with the extensionIn order to import them, all you need to do is go to, thenYou can try this feature first with the GamePack archives hosted at the DBGL homepage : they contain demos, shareware versions and freeware games only.b) Exporting GamePacks.That is almost as easy. First, select the profiles you want to export from your profile list (use CTRL to select non-consecutive profiles). Then go to, thenand follow the on-screen instructions., which will ask you to revise the game folders. By default DBGL will export the folder containing the main executable, but in some cases like CD-ROM games that could leave out the ISO file, so be careful.In the end you'll get a file with aextension that can be transferred to any computer with DBGL installed.And that's it. Last edited by Neville; 26-01-2019 at 07:26 PM .

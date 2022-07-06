@@ -1,0 +1,69 @@
+RX100 Summary Sony's Cyber-shot RX100 takes the cake as the most premium of pocket cameras, with a much larger sensor, a very bright lens (at wide angle), excellent image quality, great performance, and enough modes and special features to keep a tinkerer busy for a good long time. Pros Excellent high-ISO performance for such a compact model; Smart controls; Small body; Bright lens; 10fps full-res burst mode; Very fast shutter response; Excellent LCD. Cons Lens flare at night; Poor rendering of yellows; Slow flash recycling; Soft corners wide open; Continuous AF mode slow to lock. Price and availability Sony Cyber-shot DSC-RX100 started shipping in the US market from July 2012. Pricing is set at around US$650 for the camera with battery, AC adapter, USB cable, hand strap, and neck strap adapters. Imaging Resource rating 5.0 out of 5.0
+
+Sony RX100 Review
+
+by Shawn Barnett, Mike Tomkins, Zig Weidelich, and Dave Etchells
+
+Review Posted: 06/06/2012
+
+Sony finally did what so many of us have wanted: They've built a pocketable camera with a large sensor and a bright lens. It's the Sony Cyber-shot RX100, and it'll send other camera makers back to their drawing boards for next season. The Sony RX100 sets a 20.2-megapixel, 1-inch sensor behind a bright 3.6x, f/1.8 lens, and wraps it in a small body not much bigger than a Canon S100.
+
+Indeed, the special magic of the Sony RX100 is how closely they stuck to the stronger points of the S100, one of Canon's more successful premium pocket cameras. For many of us who own a camera in this particular pocket category, the Sony RX100 embodies what we wanted when we laid down our cash for the S100, LX5, or XZ-1: a larger sensor, a bright lens, and a small body.
+
+Many will rightly note how slavishly Sony copied the S90, S95, and S100 digital cameras, much as Nikon heavily imitated the Canon G11 with the Nikon P7000. As a Canon S95 owner, I found it easy to compare the two designs by reaching into my bag. Let's have a quick look. (I wouldn't normally lead with this comparison, and I'm not being cheeky by doing so, it's just such a striking similarity I can't go on talking about the Sony RX100's design without either getting this out of the way, or repeating ad nauseam how similar each element is to the S95.)
+
+As you can see, because the sensor is so much larger, the lens has to be larger too, and sticks out further when powered on as a result. Sony did an impressive job of keeping the RX100 thin when switched off, though, as you can see in the shot below. On the front, the position of the AF-assist lamp and the inclusion of the multi-purpose ring are only the first similarities on the pleasingly simple designs. Flash really can't go anywhere else, so not much to say there, but the recessed Power button, Shutter button, and Zoom toggles seem to be designed to make the Canon S-shooter feel right at home. The Mode dial is also in just the right place, recessed well for rear thumb access, yet reduced likelihood of accidental activation in a pocket. Finally, the back has a similar four-way navigator with an integrated scroll disk and set button in the middle, flanked by four other buttons. It's a common arrangement, however, so this is less noteworthy overall. But the dual control offered by the front ring and rear dial arrangement was unique to the Canon S-series until now.
+
+I don't present the Sony RX100's close resemblance to the Canon S-series as a scandalous development any more than making an SLR with a grip and a hump on top is a scandal. Seems more like good business to me, making a camera that is built the way people seem to want, but with better imaging capability inside. According to what we've seen so far, Sony's done just that.
+
+Since we're making comparisons to other cameras, it's important to note that the sensor in the Sony RX100, a 1-inch design, is essentially the same size as that in the Nikon 1 series compact system cameras. As Sony puts it, that makes the sensor about four times larger than the average 1/2.3-inch sensor. Many were upset that Nikon's compact system camera had a smaller sensor than its CSC competition, but I think the compactness of the Sony RX100 more than makes up for any concern about sensor size: The Sony RX100 is where use of the 1-inch sensor can be hailed as an engineering milestone.
+
+From the front, the Sony Cyber-shot RX100 speaks to its seriousness. The band offsetting the top third of the camera subtly evokes the Leica rangefinder ethos without going overboard. Note the Carl Zeiss badge and name on the lens. The front lens element is concave rather than convex.
+
+The ring surrounding the lens turns freely--without click-stops, unlike the S-series. But when the Sony RX100 is powered on, the speaker emits a clicking sound. As shown in the tech info section, the flash pops up on a hinged mechanical support like we've seen on several Micro Four Thirds cameras, as well as the Sony NEX-F3. It's a tiny flash that's pretty effective at wide angle, but anemic at full telephoto, according to our tests (see the results in our Flash section). Two microphone holes tell of the RX100's stereo recording.
+
+An amber LED lights in the center of the Power button to indicate charging. The Sony RX100 comes with no battery charger, just a small USB power supply with flip prongs. An included standard micro USB cable serves to charge the camera and transfer images. That's convenient for travel, but a little painful to keep two batteries maintained, as we've had to do while reviewing the RX100. The USB port is hidden behind a door to the right of the Movie button in the rear image below.
+
+
+
+The 3-inch LCD is pretty nice, a 1,229K-dot design they call Xtra Fine LCD. Sony says they added a new feature they call WhiteMagic, which uses additional white pixels to boost brightness and show more detail on the screen. The screen is so very fine, it's hard to see anything like white pixels, even looking very closely.
+
+A decent rubber thumbpad rises to subtly shield the Movie record button. These buttons are very small, but most are raised sufficiently to actuate easily; the Playback button is flush, as it turns on the camera in Playback mode without extending the lens. The rear dial also functions as a four-way navigator. The ? button brings up a pretty extensive tip menu with contextual help and suggestions for different types of photographic situations. This doesn't seem like it would be useful for the intended target market, but it can't hurt.
+
+Overall, the Sony RX100's form factor is excellent, with a tight build, aluminum body, and high-quality, responsive buttons and dials. And as a regular S95 user, I indeed feel right at home.
+
+
+
+Note: We've completed our analysis of Optics, Exposure, and Performance, and posted our suite of Test Images and Gallery shots. Click the links here or use the tabs above to see what we think of the Sony RX100!
+
+
+
+Sony RX100 Field Test A new class of compact camera is born Nothing's more fun for a reviewer than looking at a camera we would buy for ourselves. Sony has finally refocused on the enthusiast user--something they haven't done with much traction since the unique F828--and the results are quite good. Form. Sony nailed it in the physical simplicity department, largely by conforming to an already popular, well-thought-out design. Though there's no grip on the front, the Sony RX100 is thick enough to hold easily. The larger lens ring leaves a little less room for your fingers, so I recommend using the wrist strap and both hands whenever possible. At $650, you don't want to drop this little beauty. Sony also included strap lugs for both sides of the RX100, so a solitary neck strap is also likely to be available. The shirt-pocketable design is a little thick, so it's not going to disappear into a pocket like a Sony T-series camera, but it'll fit in a pinch, and rides well in the looser pockets of slacks or handbags. Read our Sony RX100 Field Test
+
+Sony RX100 Technical Info Let's have a look under the hood One of the defining features of the Sony RX100 is its new 1.0"-type Exmor CMOS image sensor, with a resolution of 20.2 megapixels. Sony's first sensor in this format, it's the same size as those used by Nikon's 1-series (CX-mount) compact system cameras. Note that it's not a backside-illuminated design; according to Sony, it's large enough that a standard sensor structure suffices. Sensitivity ranges from ISO 125 to 6,400 equivalents, with the ability to extend to ISO 80 or 100. The Multi-Frame NR function can raise the upper limit to ISO 25,600. The new sensor has double the area of the 2/3"-type sensor used by the Fuji X10, and nearly triple the area of 1/1.7"-type sensors used in most premium compacts. Click to read Sony RX100 tech info!
+
+Sony RX100 Image Quality Comparison See how the Sony RX100's IQ compares to other cameras The crops below compare the Sony RX100 to the Canon S100, Canon G1 X, Nikon J1, Samsung NX200 and Sony NEX-5N. Though we normally start with ISO 1,600 here, we thought we'd start with base ISO to show the best that each camera can do. Note that these images are best quality JPEGs straight out of the camera, at default settings including noise reduction. Each camera was shot with the sharpest lens on hand, though the "point and shoot" cameras we've included here obviously used their fixed lenses. Though the Canon S100 does an admirable job for its sensor size, the Sony RX100 clearly has more resolution and better detail, quite noticeable in the mosaic detail. The RX100 even finds threads in the pink swatch below the red leaf swatch. See our Image Quality Comparison!
+
+Sony RX100 Print Quality Find out just how big you can print! Print quality and image quality are similar but not identical, because what you see on a print isn't always the same as what you see on the screen. Our print quality analysis answers the important question: "Just how big can I print my photos at higher ISOs?" Overall, the Sony RX100 stands out as a pocket camera that can produce good quality 24 x 36 inch prints from ISO 80 to 200, and even its highest ISO of 6,400 outputs a good quality 5 x 7. Impressive! Read about the Sony RX100's Print Quality
+
+Sony RX100 Conclusion Sony RX100 takes the premium pocket camera crown! Shaking up the premium pocket camera market, the Sony Cyber-shot RX100 made quite an impact here at Imaging-Resource.com. Not only did it make a lot of big claims, the Sony RX100 actually lived up to most of them, packing an astonishing amount of imaging power into a small package. It couldn't possibly escape us that they were aiming squarely at Canon's successful S-series of pocket cameras in their design, but it also seemed like a wise move. Since what we all want from a pocket camera is better image quality, Sony took the right tack by picking a sensor that's large enough to make a difference in image quality, yet small enough to still fit into a pocketable body. Adding a lens that's brighter than all but two cameras in the category also hits a good note. We found a little bit of lens flare, but overall the optic looks quite nice thanks to a little extra processing from the Bionz processor. Corner softening is present, as expected, but considering the very high resolution, it's not as big a factor as it looks at 100 percent onscreen. At wide-angle, we suspect some of the softening is due to the geometric distortion correction (See the Optics page for more). Read our Sony RX100 Conclusion
+
+In the Box
+
+Cyber-shot DSC-RX100 camera
+
+NP-BX1 battery
+
+AC-UD10/11 AC adaptor
+
+Micro USB cable
+
+Wrist strap
+
+Shoulder strap adaptor
+
+Instruction manual
+
+Software CDROM
+
+Recommended Accessories

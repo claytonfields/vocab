@@ -1,0 +1,13 @@
+3D Systems abandons its Cube printers, but DRM means you can't buy filament from anyone else
+
+3D printing giant 3D Systems has experienced a terrible year and a change in leadership, and seems to be backing away from consumer products, meaning that it's orphaned its Cube home 3D printers.
+
+But the Cube was born dead, because it was born with DRM. It only accepts filament -- its 3D equivalent to inkjet ink -- that comes in a package that's been cryptographically signed by the manufacturer. Thanks to laws like the US DMCA, the European Union Copyright Directive and Canada's Bill C-11, it's a crime to defeat this measure and load third-party filament into your printer. That means that once the existing stock of Cube filament is gone, there will be no legal way to keep using your Cube printer.
+
+The US Copyright Office did grant a three-year, expiring exception allowing 3D printer owners to jailbreak their devices, but it has so many conditions as to be unusable, and it also doesn't grant an exception for the tools necessary to jailbreak your printer. So even if you satisfy the criteria, you still have to make your own jailbreaking tool from scratch.
+
+Michael Weinberg points out that 3DS can do two things to make up for their stupid DRM strategy:
+
+Since the Cube is designed to only accept printing filament made by 3D Systems, as part of winding down the Cube - and as an act of good faith to Cube owners - 3D Systems should explicitly open the doors to third party filament. This can take the form of two simple public commitments. First, 3D Systems can promise not to sue any Cube users who use non-3D Systems filament for the Cube. Second, 3D Systems can promise not to sue anyone who wants to make and sell filament that will work with the Cube. Doing both requires circumventing the verification chip that 3D Systems includes in its filament today.
+
+Free the Cube [Michael Weinberg]

@@ -1,0 +1,15 @@
+libav and FFmpeg: switch over
+
+To: debian-devel-announce@lists.debian.org
+
+Subject: libav and FFmpeg: switch over
+
+From: Alessio Treglia <alessio@debian.org>
+
+Date: Wed, 08 Jul 2015 09:39:51 +0100
+
+Message-id: <559CE1D7.8060903@debian.org>
+
+Mail-followup-to: debian-devel@lists.debian.org
+
+-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 Hello, After a careful review of all the pros and cons we, the Debian Multimedia Maintainers team, have finally decided to switch from Libav to FFmpeg as provider for the libav* multimedia libraries. We'll try our best to make this happen in time for stretch. The main arguments for using FFmpeg are summarized on the wiki [1], while the full discussion can be found on the pkg-multimedia-maintainers mailing list, starting at [2]. Finally we want to thank very much Reinhard Tartler for the tremendous efforts he put in place while serving as both upstream developer and Debian's primary maintainer for Libav in the past 4 years. We all owe him a great debt of gratitude for that. Cheers! Alessio Treglia on behalf of the Debian Multimedia Maintainers [1] https://wiki.debian.org/Debate/libav-provider/ffmpeg [2] http://bit.ly/1LW0sJ4 - -- Alessio Treglia | www.alessiotreglia.com Debian Developer | alessio@debian.org Ubuntu Core Developer | quadrispro@ubuntu.com 0416 0004 A827 6E40 BB98 90FB E8A4 8AE5 311D 765A -----BEGIN PGP SIGNATURE----- Version: GnuPG v1 iQIcBAEBCgAGBQJVnOHXAAoJEOikiuUxHXZakS4P/j2KKtLqAnAgB+e0WbCBikKj 1HNF8vLmB8j7O2Nmd/x6rpvSItFbxXid1hMCa9kD5I0g6D/zstqre0aM3labtKYR /Gu0Y7LX5Ejf7YfQ2D0bJLFJMTuC2fZRbTxJvy+XYZ4CWXHdGlF3RU4iBOLG3oiY /avBm6kikMSzsmmVBkU7k1p416fVfTsyQgz6oTkTqWrlAu3v2sp/jaltffJ1h5Gx 0F7haAwVLWf4L0DpZpBMRP/ganx4y/tH2F0QsPF90LSuLMOjl9vtRCURMYbJa40i bnHicV3DIprOwWW6BMOI0qSADA4C38jCuuD25wC0/1Iolv9HnUdYUScBRvvwtXuh NSQs8R9Cnxt3dKnhj4bJobjZOuHN2JVMbWdbTp6HFN4xJXQkBGfyJfwivWlVhYKU wQdXSVbQtsy2Bc6xzYEQG/XMFQFYdfVOwpv4l8F0ECBSr7AZn1h5r3jkbe74Z+0Z oH9X8y6ludMyTMsfBthzzVLgFk+wJYKj1shZQQQASzq4H6KpLerZRjtZ3jIco6UM zMFfI1o9iwDvKJzaOzGyhbeTL9iBqxgsopwiQqaBQNSjudkIiGiwYmWdzKLKV5gG tGxSQPH6DOXnw8THxPPlPZBdazxw61Gx5Tgwne89JS56FVOVemWWyEV7y7CODlI1 zGeXpuWholMQ4E9Jki2i =aR7+ -----END PGP SIGNATURE-----

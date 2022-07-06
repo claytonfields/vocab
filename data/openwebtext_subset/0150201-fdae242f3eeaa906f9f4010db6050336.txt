@@ -1,0 +1,39 @@
+Karl Rove Investigator Caught Trying To Wipe Hard Drives Posted by Pile (7539 views) [E-Mail link]
+
+The head of the federal agency investigating Karl Rove's White House political operation is facing allegations that he improperly deleted computer files during another probe, using a private computer-help company, Geeks on Call.
+
+
+
+Scott Bloch runs the Office of Special Counsel, an agency charged with protecting government whistleblowers and enforcing a ban on federal employees engaging in partisan political activity.
+
+
+
+This brainiac was caught calling "Geeks on call" for instructions on how to wipe hard drives.
+
+Mr. Bloch's agency is looking into whether Mr. Rove and other White House officials used government agencies to help re-elect Republicans in 2006.
+
+
+
+At the same time, Mr. Bloch has himself been under investigation since 2005. At the direction of the White House, the federal Office of Personnel Management's inspector general is looking into claims that Mr. Bloch improperly retaliated against employees and dismissed whistleblower cases without adequate examination.
+
+
+
+Recently, investigators learned that Mr. Bloch erased all the files on his office personal computer late last year. They are now trying to determine whether the deletions were improper or part of a cover-up, lawyers close to the case said.
+
+
+
+Bypassing his agency's computer technicians, Mr. Bloch phoned 1-800-905-GEEKS for Geeks on Call, the mobile PC-help service. It dispatched a technician in one of its signature PT Cruiser wagons. In an interview, the 49-year-old former labor-law litigator from Lawrence, Kan., confirmed that he contacted Geeks on Call but said he was trying to eradicate a virus that had seized control of his computer.
+
+
+
+Mr. Bloch had his computer's hard disk completely cleansed using a "seven-level" wipe: a thorough scrubbing that conforms to Defense Department data-security standards. The process makes it nearly impossible for forensics experts to restore the data later. He also directed Geeks on Call to erase laptop computers that had been used by his two top political deputies, who had recently left the agency.
+
+
+
+Geeks on Call visited Mr. Bloch's government office in a nondescript office building on M Street in Washington twice, on Dec. 18 and Dec. 21, 2006, according to a receipt reviewed by The Wall Street Journal. The total charge was $1,149, paid with an agency credit card, the receipt shows. The receipt says a seven-level wipe was performed but doesn't mention any computer virus.
+
+details
+
+
+
+Posted by hmn on 2007-11-28 11:19:44 Most common viruses can be cleaned, to provide at least temporary access, so you have a chance to back up your data. But once you get a virus, especially a bad one, you're very often looking at a full system re-install. Worst case scenario; re-formatting the hard drive and re-installing the OS is more than enough to clean a virus, which could be very easily done by his internal IT support. A seven-level wipe is overkill, making his story even more suspicious. Posted by Anonymous on 2008-10-11 12:27:10 I like turtles Name: (change name for anonymous posting) Title: Comments: 1 Article displayed.

@@ -1,0 +1,61 @@
+This size chart shows how the Boeing-built X-37B robot space plane compares to NASA's space shuttle, a larger version of the spacecraft called the X-37C and an Atlas 5 rocket.
+
+LONG BEACH, Calif. — The maker of the X-37B robotic space plane has outlined new plans for the spacecraft and a scaled-up version to support space station cargo deliveries or even carry astronauts into orbit.
+
+The Boeing X-37B robotic space plane — also known as the Orbital Test Vehicle or OTV — is being operated by the U.S. Air Force Rapid Capabilities Office, toting top-secret payloads into Earth orbit.
+
+An X-37B OTV and derivatives plan was outlined here by Arthur Grantz, chief engineer, Experimental Systems Group at Boeing Space and Intelligence Systems in Seal Beach, Calif. He spoke at Space 2011, a conference organized by the American Institute of Aeronautics and Astronautics (AIAA).
+
+This NASA Marshall Space Flight Center image shows on-orbit functions for the reusable X-37B space plane, now under the wing of the U.S. Air Force. (Image: © NASA/MSFC)
+
+Small test platform
+
+Last year, the X-37B completed its first test mission of 244 days and demonstrated the viability of a small test platform that can return experiments for post-flight inspection and analysis, Grantz reported. "We validated all the autonomous guidance, navigation and control, aerodynamics and aero-heating and the thermal protection system," he said. [Photos: Air Force's 2nd Secret X-37B Mission]
+
+Grantz said the maiden voyage of the unpiloted X-37B proved highly successful after its launch atop an Atlas 5 501 booster. Its landing at Vandenberg Air Force Base in California required no ground intervention during the entire orbital re-entry.
+
+Turnaround of that first vehicle for its next flight has required less time and hours than expected supporting the concept of an affordable, reusable system. In fact, the deployable and stowable solar array used on that first flight is onboard the third X-37B mission, he said.
+
+"From a test vehicle standpoint, the 244 days is the longest duration on orbit for a reusable spacecraft," Grantz told the audience.
+
+The X-37B looks much like a miniature version of NASA's space shuttle, but is much smaller. Two X-37Bs could fit inside the 60-foot (18-meter) cargo bay of a NASA shuttle.
+
+According to Air Force specifications, the basic X-37B design is about 29 feet (8.8 meters) long and 15 feet (4.5 meters) wide. At launch, it weighs about 11,000 pounds (4,990 kilograms).
+
+A larger version of the space plane design, dubbed X-37C in Boeing studies, would also still fit inside a space shuttle payload bay. Boeing is studying potential unmanned and crewed versions of that larger space plane for future missions.
+
+This series of illustrations depicts the sequence of events for a potential X-37B space plane delivery flight to the International Space Station. The Boeing-built X-37B is a robotic space plane currently flying classified missions for the U.S. Air Force. (Image: © AIAA/Grantz/Boeing)
+
+Space plane's future uses
+
+In scoping out future uses of the X-37B, Grantz said the craft could let loose a free-flying satellite loaded with experiments bound for low to medium Earth orbits, even to a geosynchronous Earth orbit. [Video: Secretive Space Plane, Meet the X-37B]
+
+At the conclusion of the experiment, the free flyer would lower its orbit and re-circularize where the X-37B could rendezvous with it, collect the experiment portion of the free flyer and then return it to Earth for inspection and destructive analysis.
+
+"We can also demonstrate three-dimensional mapping of near-earth Objects" for asteroid detection purposes, Grantz suggested.
+
+With the retirement of the space shuttle orbiter fleet, Grantz noted that the X-37B represents the only vehicle flying in the world today that can provide a soft 1.5-G class return of sensitive cargo from the International Space Station. The X-37B, as currently designed, is able to support high-value payload delivery and return, he said.
+
+For example, the vehicle can support the return of biological samples or material science crystals that are at the core of the space station's microgravity experiments and unsupported by high acceleration capsules, Grantz reported. Time-sensitive cargo can be quickly extracted from the payload bay after an X-37B’s runway landing.
+
+These designs from a Boeing study show configuration for a crewed space plane (X-37C) derived from the unmanned X-37B spacecraft. The designs could carry up to six astronauts to low-Earth orbit and include autonomous and piloted flight capabilities. (Image: © AIAA/Grantz/Boeing)
+
+X-37C: New space plane for astronauts
+
+No new technology is required to build an X-37B customized to the space station cargo mission, Grantz said. The next step, he said, is a larger vehicle with significant cargo return capabilities for ISS Line Replaceable Units (LRU’s) and experiments requiring a low acceleration return to Earth.[Infographic: Inside the X-37B Space Plane]
+
+Grantz explained that a variety of scaled-up versions of the X-37B space plane have been studied as potential vehicles to carry astronauts or cargo into low-Earth orbit. The studies include looks at transport methods for pressurized and unpressurized cargo transport to and from the space station, as well as future Bigelow space habitats or other forms of space tourism in low-Earth orbit.
+
+The preferred size of these derivatives is approximately 165 to 180 percent of the current X-37B.
+
+The larger X-37C has been blueprinted, sized to support around five to six astronauts with provisions for one that is injured and requires a stretcher.
+
+According to designs in Grantz's paper for the Space 2011 conference, crew-carrying portion of a future X-37C type space vehicle would fly in a pressurized compartment that would fit into the payload bay of the spacecraft. The seats would be arranged along one side of the spacecraft to allow room for moving through the spacecraft in orbit and to provide the crew access to seats on the launch pad.
+
+A hatch in the main body would be used to provide entry to the space plane on the ground, according to Grantz's paper.
+
+Launched atop an Atlas Evolved Expendable Launch Vehicle, this spacecraft would be capable of rendezvous, docking, deorbiting, re-entering, and landing autonomously. But it could also include the ability of an onboard pilot to control the craft, Grantz said.
+
+"Once qualified for human flight, these vehicles could transport a mix of astronauts and cargo to the ISS and offer a much gentler return to a runway landing for the space tourism industry," Grantz's report states.
+
+Leonard David has been reporting on the space industry for more than five decades. He is a winner of this year's National Space Club Press Award and a past editor-in-chief of the National Space Society's Ad Astra and Space World magazines. He has written for SPACE.com since 1999.

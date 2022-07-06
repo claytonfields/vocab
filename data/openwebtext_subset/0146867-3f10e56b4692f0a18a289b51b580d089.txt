@@ -1,0 +1,19 @@
+On Friday Jamie King, director of the Steal This Film documentaries, speculated here on TorrentFreak that the brand new OpenBitTorrent tracker could prove to be a replacement for The Pirate Bay if certain conditions were met. Now, just 48 hours later - has that dream already become reality?
+
+In his article ‘Playing Whack-A-Mole With Data: The Pirate Bay Lives On‘, Jamie King cut through much of the doom and gloom of the last week and took a refreshingly optimistic view of how the sale of The Old Pirate Bay might not necessarily be the death-touch many people in the BitTorrent community think it is.
+
+Jamie mused: “What if someone was to simply scrape and copy all The Pirate Bay’s torrents over to a new tracker and Mininova and all the other indexes currently using the TPB tracker were to change their listings to point to that? OpenBitTorrent.com for example, an independent open tracker which started recently.”
+
+So today we ask this question – was Jamie’s article incredibly prophetic? Or did it provide the spark, the catalyst, the inspiration needed to bring the BitTorrent community out of its premature misery this week, instead prompting it into positive action rather than self-destruction?
+
+Whatever the truth, whatever the route, today the BitTorrent community has reason for cautious optimism – or possibly a full-scale celebration.
+
+Try this for yourself, don’t take my word for it. First of all find a torrent on The Pirate Bay – I chose Montt Mardie’s “We Are All The Pirate Bay” for symbolic demo purposes here. Now paste the URL of the torrent into the editor on TorrentEditor.com and click ‘edit it’. TorrentEditor will return the seeds and peers – in this case 182 seeds and no peers.
+
+For the next step, remove the Pirate Bay’s trackers from the torrent and replace them with the announce URL for OpenBitTorrent’s tracker, which is http://tracker.openbittorrent.com:80/announce and click ‘update’ at the bottom of the page. Result: 182 seeds, no peers.
+
+I haven’t got time to check all 1,720,650 torrents on Pirate Bay right now but after trying a few, I reached the same result each time. Also, the scrape file of the OpenBitTorrent tracker is exactly the same size of that of The Pirate Bay tracker.
+
+GGF would like you to think that they will control The New Pirate Bay but I believe that accolade is for the community to bestow. So is OBT (c’mon, what’s a tracker without an acronym these days?) the New TPB?
+
+It is if you say it is.

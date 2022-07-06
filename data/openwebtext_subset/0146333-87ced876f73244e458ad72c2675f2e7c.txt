@@ -1,0 +1,15 @@
+It happens because some browsers perform the gamma correction as specified in the image file.
+
+Here's the uncorrected image. The "white-ish" pixels in the apple picture contain the picture of a pear, stored at a much higher intensity, i.e. very bright.
+
+Here's the gamma-corrected image. The "black-ish" pixels in the pear picture contain the picture of an apple, stored at a fairly normal intensity, but scaled down to near black with the gamma correction.
+
+On my screen, I can see the pear faintly among the white pixels in the first image, but in the second image, the apple is indistinguishable from the black pixels around it.
+
+(You may also see some colour banding on the gamma-corrected pear, because the uncorrected image is using a much smaller range of the colour channels.)
+
+The PNG image file contains a gAMA chunk specifying a file gamma value of 0.02. When displayed without gamma correction, the viewer sees an apple with "white" pixels interspersed, which are actually the pear at its original (high) intensity.
+
+When displayed with gamma correction, the viewer sees a colour-corrected pear with "black" pixels which are actually the apple rendered at a much lower gamma value.
+
+Browsers which display the pear are performing gamma correction on the image, while browsers which display the apple are not performing gamma correction, but just showing it with its literal colour values.

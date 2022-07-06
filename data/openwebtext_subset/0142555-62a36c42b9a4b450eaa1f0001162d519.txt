@@ -1,0 +1,209 @@
+Chef Profile Blog Joined August 2005 10670 Posts Last Edited: 2010-02-14 05:40:46 #1
+
+
+
+Parallel Worlds
+
+
+
+It is the fool that spends his hour perplexing,
+
+The nature of unexpected vexing,
+
+It is the fool that thinks it is mere chance,
+
+When he finds himself in great happenstance,
+
+
+
+We each are linked to an unknown brother,
+
+What befalls one, will befall the other,
+
+Their fates together eternally swirled,
+
+Fighting to control each parallel world.
+
+
+
+
+
+
+
+Introduction
+
+
+
+Tandem StarCraft is UMS map inspired by the game "Tandem Chess." In Tandem StarCraft, two separate one versus one games are played, and the objective is the same as in normal melee StarCraft. The catch is that if you destroy one of your enemy's units, your ally on the other map receives that unit help him in his own battles. Likewise, if you lose a unit to your enemy, your ally's enemy will gain that unit to use against him. The first team to lose a player loses the game.
+
+
+
+
+
+
+
+The Map
+
+
+
+
+
+Download
+
+
+
+The map, as shown here, is split in two symmetrical halves. On the left, Player 1 fight against Player 3, and on the right, Player 2 fights against Player 4. The map is extensively decorated, and though the overview of this small picture does not show it, it is quite pleasant in game. The map, as shown here, is split in two symmetrical halves. On the left, Player 1 fight against Player 3, and on the right, Player 2 fights against Player 4. The map is extensively decorated, and though the overview of this small picture does not show it, it is quite pleasant in game.
+
+
+
+
+
+
+
+Rules
+
+
+
+-Players on the left map cannot send units to the right, and vice versa.
+
+-Units killed on one map spawn around a civilian on the other.
+
+-If one player loses all his buildings, his ally's units are destroyed.
+
+-If your civilian is killed, you are punished by having all your minerals and gas reset to zero.
+
+
+
+
+
+
+
+-Players on the left map cannot send units to the right, and vice versa.-Units killed on one map spawn around a civilian on the other.-If one player loses all his buildings, his ally's units are destroyed.-If your civilian is killed, you are punished by having all your minerals and gas reset to zero. Tips
+
+
+
+-Civilians have low health, but in the early game there is very little threat. Use them to scout for proxies and other cheesy strategies.
+
+-If your ally's opponent is the same race as you, your supply will build up very quickly. Build extra farms to compensate for this.
+
+-Units that die on this map do not actually leave the map. Armies will be traded back and forth and only become bigger each time.
+
+-If you are doing a risky build that involves high tech units such as Dark Templar, make sure your ally has detection in case you lose them.
+
+-Some units are less useful to your ally's opponent than others. If you lose High Templar, and your ally's opponent can't research psi storm, he will only be able to morph them into archons.
+
+
+
+DOWNLOAD HERE
+
+
+
+
+
+
+
+-Civilians have low health, but in the early game there is very little threat. Use them to scout for proxies and other cheesy strategies.-If your ally's opponent is the same race as you, your supply will build up very quickly. Build extra farms to compensate for this.-Units that die on this map do not actually leave the map. Armies will be traded back and forth and only become bigger each time.-If you are doing a risky build that involves high tech units such as Dark Templar, make sure your ally has detection in case you lose them.-Some units are less useful to your ally's opponent than others. If you lose High Templar, and your ally's opponent can't research psi storm, he will only be able to morph them into archons. Alternate Versions
+
+
+
+Here alternate versions of my release of Tandem StarCraft will be kept. New features, modifications, and cosmetic changes are somethings you might find here.
+
+Frogmelter - Download - Units transfer with research (but not weapon/armor/shield) upgrades that they had when killed. Text colours changed. Urasadon added. Some unit name changes. Could still be buggy (this is 4th revision).
+
+
+
+
+
+oberon - Download] - Tandem StarCraft on Destination. Currently in testing.
+
+
+
+
+
++ Show Spoiler [Version 1] +
+
+
+
+Introduction
+
+
+
+There exists a popular variant of Chess called "Tandem Chess." In
+
+
+
+Wouldn't it be fun if there were Tandem StarCraft? It would, and it is.
+
+
+
+
+
+
+
+The Map
+
+
+
+
+
+Download Here
+
+Alt:
+
+
+
+As you can see the layout of the map is very simple. This is the initial version as a proof of concept, but it is very fun none the less. In the future, a more complex map may be created.
+
+
+
+
+
+
+
+The Rules
+
+
+
+All players are Protoss (for the sake of balance on a simple map)
+
+
+
+When you kill an enemy unit, your ally receives that unit beside his psi emitter for him to use.
+
+
+
+When one player on a team loses all his or her buildings, the game is over and that team loses.
+
+
+
+Any unit that tries to fly thru the centre to get to the other side of the map is destroyed.
+
+
+
+
+
+
+
+Advisements
+
+
+
+If you have two skilled players, and two not so skilled players, Tandem StarCraft is an excellent way to keep games fresh and interesting. Unlike regular 2v2 where the skilled players would end up doing all the work, in Tandem StarCraft if a skilled player faces off against a weak player, and the same is true for the other side of the map, the weaker player will gain the reinforcements of his skillful ally to help keep the game fun for everyone.
+
+
+
+Keeping track of your psi emitter and making sure your enemy doesn't steal it can be an important factor in this game. and enemy who surronds your psi emitter will essentially make his allies units everlasting.
+
+
+
+Teching intelligently will be key to success in this matchup. If your opponent gets a dark templar your ally has foolishly lost, you better make sure you have the detection to stop it.
+
+
+
+Supply could build up very quickly since essentially units will never leave the map. Make sure you compensate with more pylons than normal.
+
+
+
+DOWNLOAD HERE
+
+Alt: There exists a popular variant of Chess called "Tandem Chess." In Tandem Chess two teams of two players each play on two separate boards. If a piece is captured on one board, the player's ally who captured the peice, gets to place the piece on his board anywhere in the centre. The first team to checkmate on either board wins.Wouldn't it be fun if there were Tandem StarCraft? It would, and it is.Alt: http://www.mediafire.com/?sharekey=0354ff10adeab1c7d9d5c56d04dfa8b0e04e75f6e8ebb871 As you can see the layout of the map is very simple. This is the initial version as a proof of concept, but it is very fun none the less. In the future, a more complex map may be created.All players are Protoss (for the sake of balance on a simple map)When you kill an enemy unit, your ally receives that unit beside his psi emitter for him to use.When one player on a team loses all his or her buildings, the game is over and that team loses.Any unit that tries to fly thru the centre to get to the other side of the map is destroyed.If you have two skilled players, and two not so skilled players, Tandem StarCraft is an excellent way to keep games fresh and interesting. Unlike regular 2v2 where the skilled players would end up doing all the work, in Tandem StarCraft if a skilled player faces off against a weak player, and the same is true for the other side of the map, the weaker player will gain the reinforcements of his skillful ally to help keep the game fun for everyone.Keeping track of your psi emitter and making sure your enemy doesn't steal it can be an important factor in this game. and enemy who surronds your psi emitter will essentially make his allies units everlasting.Teching intelligently will be key to success in this matchup. If your opponent gets a dark templar your ally has foolishly lost, you better make sure you have the detection to stop it.Supply could build up very quickly since essentially units will never leave the map. Make sure you compensate with more pylons than normal.Alt: http://www.mediafire.com/?sharekey=0354ff10adeab1c7d9d5c56d04dfa8b0e04e75f6e8ebb871 LEGEND!! LEGEND!!

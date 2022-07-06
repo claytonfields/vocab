@@ -1,0 +1,39 @@
+Yesterday, I joined one of our Mahalo employees at Federal District Court as he was sentenced to 48 months in jail for crimes related to computer security.
+
+Before my employee John Schiefer was sentenced, a violent career criminal was facing 60 months for beating up a prison guard. I could hear John’s breathing deepening as the judge spoke–his fiancee’s leg shaking more and more as the reality of John’s situation set in. John wound up getting 48 months in prison, a number which could be reduced if he behaves himself. He goes to jail on June 1st, and maybe he’ll be out in two or three years.
+
+We didn’t know John was convicted of infecting 250,000 computers with bots when we hired him. We have a rigorous hiring process at Mahalo, in which each candidate must go through an average of five to eight interviews, and in which at least three, but more typically five, references are checked. Our CTO, and one of my oldest friends, Mark Jeffrey, did all of this with John, and he passed with flying colors.
+
+However, Mark screwed up by not doing a simple Google search on John’s name. If Mark had, he would have easily found out about these crimes, we would never have hired John, and I would not be writing this letter. Why would we even take the risk of hiring a felon hacker? No one would, right?
+
+Months after John’s hiring, our VP of Operations found out about the crimes John had committed. We sat down with John and learned about what he did when he was younger, how he was abused as a child, his anger issues, and how he found some level of peace in being part of the team at Mahalo.
+
+Now I was left with the decision to fire John on the spot and cut my losses and responsibility. This was the easy choice, obviously. If I really wanted to cover my butt, I could turn on one of my best friends, Mark Jeffrey, and fire him for making the only mistake he’s ever made working for me. The other option was to keep John on and deal with the potential firestorm of criticism that we’re now facing.
+
+I chose to put my job and reputation on the line and keep John employed.
+
+At this moment, I’m honestly glad we didn’t know about what John did when we hired him and I’m happy we’ve kept him on board. It’s taught me a lot about society, computer crime and rehabilitation. In John, I see almost every computer programmer from my time “hacking” on BBSes as a kid, attending hacker conferences and hiring “white hat” hackers for a living.
+
+Almost all talented developers push the envelope when they’re young. Anyone in technology knows this dark, dirty little secret.
+
+When I worked for Sony, I watched folks in the IT department read their bosses’ email. When I was in high school and college, I watched daily as folks explored the areas of the computer networks they were specifically told not to enter. In fact, I was fired from my first computer job for creating a partition on a hard drive in the computer lab where I stored my files.
+
+When the Web emerged, I watched as folks created honey pots to prove they could socially manipulate people into giving away private information.
+
+Many of these folks moved on to marketing firms which do essentially the same things–except they play by the rules. At conferences, I see people pop out WiFi sniffers and show me passwords of executives in the room. I’ve heard senior executives recount stories of putting keyboard monitor software on computers in their offices and recording all instant messaging traffic to find out what their employees are up to.
+
+What is the difference between the hackers who put one foot over the line and the ones who race past it? Being bored? A lack of guidance? Low self-esteem? I’m not a psychologist, so I can’t tell you exactly.
+
+However, I consider myself a fairly decent judge of character, and after spending months with John, I’m convinced he was an angry stupid kid when he launched his botnet attack (which did .000000001% of the damage it could have). Now he’s an adult who just wants to make a decent living, spend time with his significant other and breathe the clean air off the Pacific Ocean by our offices in Santa Monica.
+
+John’s going to have to spend a couple of years in jail for what he did. Certainly we have to punish those who’ve committed crimes. But watching this go down, I wish in my heart of hearts that judge had given John a sentence from home, where we could have supervised him.
+
+I’m hoping that the time he’s spent being a productive member of the Mahalo team inspires him to keep his head down in jail. When he comes out, I hope to be able to offer him a job and that we can work together again. Life is short, we all make mistakes and I’m glad we’ve been given the opportunity to work with someone who needs the help and guidance.
+
+Note to Mahalo Users: John’s work is well-supervised. Mahalo follows strict security policies and we don’t store any sensitive data anyway. (Even if one of our employees did go off the deep end, the most they would have access to would be your questions and answers on Mahalo Answers–not much damage can be done there since they’re all public anyway).
+
+Thank you for taking the time to hear me out.
+
+all the best,
+
+Jason

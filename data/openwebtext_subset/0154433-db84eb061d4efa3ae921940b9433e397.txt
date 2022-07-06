@@ -1,0 +1,19 @@
+x
+
+HOURS:
+
+GitS will run from 4pm-8pm Jan 28, 10am-6pm Jan 29, and 10am-1pm Jan 30. These hours are subject to change, check the news page for more information during the contest.
+
+While we hope competitors enjoy the rest of the con as well, we expect that a fully completed scoreboard will only happen if many good teams compete and put in some after-hours hacking as well.
+
+SCORING:
+
+Teams score points for correct answers to a variety of questions and challenges. Some require binary reversing, some require remote exploitation, and some will require an Eagle-eyed insight into x86 disassembly. We might even get jiggy with some webappsec or forensics foo if the binary ninjas would stop snickering.
+
+Incorrect answers are not penalized, however brute forcing will be. The delay after an incorrect answer is exponential, so submit your answers acordingly. Disruptive attacks against the scoring or game infrastructure. /Elegant/ attacks on the scoring infrastructure might be worth bonus points, report them and find out. Lame attacks will be met with jeers and derision--tread carefully. All teams will share a common game board. As questions become unlocked, they will be available to all teams. Teams that solve previously unsolved questions will be able to choose which level to unlock next. Unlike last year in which we were screwing with you guys and the order of unlocks was fixed, this year you can see the points and category of every question on the gameboard. So you can plan your unlock strategy accordingly.
+
+Also, it's rumored that certain organizers of Ghost in the Shellcode may be susceptible to bribes in the form of alcohol (or possibly Pepsi Throwback, accounts vary). Whether there is any truth to the rumors is left as an exercise for the reader.
+
+Winning:
+
+The team with the most points (or first to complete the entire scoreboard) wins. Ties will be broken in order of the first to reach the winning score.

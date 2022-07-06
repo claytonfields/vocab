@@ -1,0 +1,99 @@
+Summary
+
+Project name: Kin
+
+Token symbol: KIN
+
+Website: https://kin.kik.com/
+
+Whitepaper: https://kin.kik.com/papers/Kin_Whitepaper_V1_English.pdf
+
+Hard cap: US$75 million (ICO contributors will own 5% of the total token supply if the hard cap is reached)
+
+Soft Cap: No soft cap
+
+Conversion rate: Total of 10 trillion KIN will be created
+
+Maximum market cap at ICO on a fully diluted basis: US$1.25 billion if the hard cap is reached (to reach this figure, the $50 million received from pre-ICO investors and the $75 million to be raised from the public crowdsale represents a combined 10% of the total token supply)
+
+Bonus structure: No bonus
+
+Pre-sale / white list available: None
+
+ERC20 token: Yes
+
+Timeline: September 12, 2017 at 9am ET (please refer to Kin’s website for the most up-to-date information)
+
+Token distribution date: Immediately after contribution
+
+Project Overview
+
+What does the company/project do?
+
+Kik Messenger, commonly known as Kik, is a freeware instant messaging mobile app developed by the Canadian company Kik Interactive, and is available on iOS, Android, and Windows Phone. According to Wikipedia, Kik is known for its features that help preserve its users' anonymity. For example, it allows users to register without providing a telephone number. Kik has been experimenting with different forms of in-app currencies since 2014, when it launched Kik Points which allowed people to earn points by watching ads. The Kik Points experiment saw an average volume of 300,000 transactions per day during its lifetime from 2014 through 2016, reaching 2.6 million transactions per day at its peak. Kik is introducing Kin as the new virtual currency on the Kik platform. Over time, Kik will work to structure and form the Kin Foundation, a nonprofit organization that will oversee the fair and productive growth of the Kin Ecosystem. The Kin Foundation will administer the Kin supply and the Kin Rewards Engine. Ultimately, the Kin Foundation will facilitate the entire ecosystem’s transition to a fully decentralized and autonomous network. Kin Fireside Chat at TechCrunch Shenzhen (video is 27:38 long):
+
+How advanced is the project?
+
+Kik was founded in 2009. According to Crunchbase, excluding the ICO, Kik has raised a total of $120 million in 5 fundraising rounds. Prior to the ICO, the most recent fundraising round was in 2015 at a valuation of $1 billion. Investors in the previous funding rounds include Tencent, Union Square Ventures, among others. As of May 2016, Kik Messenger had approximately 300 million registered users, and was used by approximately 40% of United States teenagers. As of September 2016, Kik was no longer growing in terms of number of active users. The below chart shows the iOS App Store’s rank history of Kik over the past year in the United States, United Kingdom, Canada, and Australia, in the overall and the social networking categories (source: AppAnnie):
+
+As shown in the graph above, Kik’s ranking in the US dropped from #66 overall and #8 in social networking one year ago to #147 overall and #12 in social networking on September 2, 2017. Similar trends are observed in other major English-speaking countries. In their white paper, Kik claims that they have over 15 million monthly active users (MAU) with 57% of Kik’s active user base comprised of users aged 13 to 24 years. However, they did not specify which month their data was referring to. According to Statista, Kik only had 6 million MAU in May 2017. This decline in MAU makes sense as Kik has been facing intensifying competition from other messaging apps such as Discord, Telegram, Facebook, and Snapchat, among others. No roadmap is provided in the white paper so there is limited information regarding the future plans that Kik has for Kin. After the ICO, Kik will integrate wallets for each Kik user account. The associated user interface will allow for the most common wallet interactions.
+
+What are the tokens used for and how can token holders make money?
+
+Kik will integrate Kin into its chat app by using Kin as the platform’s primary transaction currency. In the future, users will be able to earn Kin by providing value to other members of the Kik ecosystem through curation, content creation, and commerce. Kik users will be able to spend Kin on products, services, and other valuable assets offered by merchants, developers, influencers, and other participants. Sample use cases:
+
+VIP groups – allows influencers such as celebrities and thought leaders to create premium, exclusive groups that require an entrance fee.
+
+Premium user-generated content – content creators can earn Kin by sharing audio, video, and pictures that are hidden and other users need to pay Kin to unlock the content.
+
+Shoutout messages – Similar to Super Chat in YouTube and other platforms.
+
+Tipping – users can use Kin to reward others for content that they like.
+
+There will be fixed supply of 10 trillion Kin tokens in total. The token structure is detailed below:
+
+1 trillion Kin will be allocated to ICO participants.
+
+3 trillion Kin will be pre-allocated to Kik as the founding member of the Kin Foundation and subject to a long-term vesting schedule. Kik’s 30% pre-allocation will be unlocked and distributed to Kik at 10% per quarter, for 10 quarters.
+
+The remaining 6 trillion Kin will be under the purview of the Kin Foundation, locked under the Kin Rewards Engine schema, and used to grow the Kin Ecosystem and fund the operations of the foundation.
+
+Download the Free Checklist for ﻿Crushing ﻿ICOs! This is the guide that help me find the most profitable ICOs! CLICK HERE TO GET THE FREE GUIDE >>
+
+lorem ipsum dolor
+
+Team
+
+As Kin is going to be tightly integrated with Kik, everyone who has been working at Kik are involved in the Kin project. Below are the bios of the core members: Ted Livingston, Founder & CEO – Founded Kik when he was 22, named one of Fast Company’s Most Creative People In Business in 2017. Peter Heinke, CFO & COO – Before joining Kik, he spent more than 20 years leading finance, operations and strategy for both established and startup companies in the media, technology and transportation sectors. Eran Ben-Ari, Chief Product Officer – Prior to joining Kik, he was the VP of Products at Rounds, an Israeli-based communications company that was acquired by Kik in January 2017. Since its inception, Kik has been funded by well-known investors in the tech and blockchain space, including Tencent, Union Square Ventures, Pentera, Blockchain Capital, and Polychain Capital.
+
+Opportunities
+
+The Kin token will immediately be used by a large base of users. This is something that almost no other token can achieve right now.
+
+The project has generated a lot of media awareness as it is the first ICO initiated by an established company.
+
+Kik/Kin has a proven team with strong background and they have worked together to create a very popular messaging app.
+
+Kik’s target users are mostly teens aged 13 to 24 years, so this could potentially speed up the adoption of cryptocurrency.
+
+The tokens benefit from the network effect. The more people use Kin, the more valuable the tokens will become.
+
+If Kin tokens can grow beyond the Kik platform and are used in other apps/platforms, the potential upside will be substantial.
+
+Concerns
+
+The fundraising amount is high – $125 million represents only 10% of the tokens, implying a $1.25 billion market cap on a fully diluted basis. The use cases illustrated in the white paper (tipping, shoutouts, premium content, VIP groups) are rather limited and don’t justify a $1.25 billion valuation in our view. In order for the Kin project to be successful, it needs to grow beyond the Kik platform and we believe this is a daunting task with a low chance of success. Ether is already doing what Kik is aiming to do for Kin in the long run. We don’t see a need for a separate Kin token especially when Ether is more widely accepted.
+
+Kin tokens will face high inflation – in just 1 year, token sale participants’ share of the circulation will drop from 100% to merely 29%. The market cap for Kin needs to grow to $431 million in one year just for ICO participants to break even.
+
+ICO participants are not necessarily existing Kik users – the ICO doesn’t really help Kik rejuvenate its user base. One of the benefits of a token sale is to create a community of token users to kickstart the ecosystem. However, this is unlikely to be the case here since teens are the target users of Kik. If Kik tries to change its user base, it could cause existing users to leave the platform.
+
+Kik has been declining in popularity due to intensifying competition from older (WhatsApp, Facebook Messenger, Snapchat) and newer (Discord, Telegram) players. When a business is in decline, it is difficult to turn it around, especially in the tech world, especially when the target users are teens where they like to try new things. Status is working towards becoming the dominant instant messenger for the crypto economy and we believe they will be Kik’s future competitor. Please read our analysis of Status here.
+
+No future development roadmap is provided in the white paper. Without a development framework, there is no way of knowing what the key milestones are, how long it would for take them to reach those milestones, and no way of holding them accountable.
+
+Conclusion
+
+Overall, we are neutral on this ICO for short-term potential and negative on its long-term potential. We believe Kin is going to help Kik’s current users learn about crypto, but it won’t help bring in as many new users to Kik as the company thinks. Our thoughts of the tokens for short term and long term are as follows: For short-term holding Neutral. The project has generated a lot of buzz and have several blockchain VC investors backing it. However, the VCs got their tokens at a 30% discount. It is not specified whether there is a lockup for the tokens held by the VCs. In 0x Project’s case, Polychain Capital sold a portion of their tokens just a few days after the ICO. If the same thing happens to Kin, it would create selling pressure (VCs are more willing to sell at a lower price because their cost base is lower) and that would make the short-term potential less attractive. For long-term holding Negative. We have seen failing startups tap into ICO funding in order to stay afloat. These projects seem promising at first sight because they already have a working product and sometimes have funding from VC firms. However, the market will remain skeptical of their products which makes it hard for those projects to be successful, even after receiving ICO funding. As for Kin, we wouldn’t go so far as saying Kik is failing, but it is indeed declining and still exploring new ways to grow the company again. As one of the largest ICOs this year, the project doesn’t have enough growth potential and opportunity for us to justify its valuation. ICO projects are expected to experience high growth because blockchain technology is also growing exponentially in popularity. In Kin’s case, we just don’t think issuing a crypto token is going to help its business that much. This is because the typical cryptocurrency enthusiast is not a Kik user. As such, we don’t think its $1.25 billion valuation can be justified.
+
+For more information about the ICO, please visit the following links: Website: https://kin.kik.com/ Whitepaper: https://kin.kik.com/papers/Kin_Whitepaper_V1_English.pdf Kin Foundation blog: https://medium.com/kinfoundation Subreddit: https://www.reddit.com/r/KinFoundation/

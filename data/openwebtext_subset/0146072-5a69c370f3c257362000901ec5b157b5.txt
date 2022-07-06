@@ -1,0 +1,187 @@
+As NASA continues to develop their plans for delivering humans to the Martian system in the 2030s, a Technical Interchange Meeting has outlined two potential hardware launch sequence options for NASA’s upcoming heavy lift rocket, SLS, that would enable the space agency to utilize SLS’s capabilities while realizing human exploration of Mars.
+
+Evaluating hardware launch options:
+
+*Click here for Part 1 of this new series*
+
+According to the Evolvable Mars Campaign: Status Update to SLS Evolvability TIM, available for download on L2, two options are under opening consideration regarding some of the hardware to be used to deliver materials, supplies, and people to the Martian system.
+
+The first option, dubbed the “SEP-Chemical option,” would see Solar Electric Power (SEP) units used to pre-deploy elements to near-Mars space before human Phobos and Mars transit missions begin.
+
+This pre-deployment would allow needed supplies and equipment to already be in a stable near-Mars orbit prior to the departure of a crew from Cis-lunar space and would make use of the more economical but slow SEP technology.
+
+The crew portion of these Phobos and Mars surface missions would then make use of standard chemical propulsion stages to decrease the transit time from Earth to Mars.
+
+Under this option, the total number of SLS flights needed for the Phobos mission would stand at 10, with 12 SLS flights needed for the first human Mars surface mission and then only 10 SLS flights for the second human Mars surface mission.
+
+The second option involves a hybrid of SEP and storable chemical propulsion systems for both the crew and cargo missions.
+
+Under this option, the total number of SLS missions for the Phobos campaign drops to 8, whereas the number of SLS flights for the first human mission to the Mars surface increases to 14.
+
+The number of SLS flights needed for the second Mars surface mission would remain at 10.
+
+In fact, the main difference between the two options comes in the number and configuration of the various propulsion elements.
+
+Under the Hybrid option, a total of zero Cryogenic Propulsion Stages will be needed, as opposed to 12 needed under the SEP-Chemical option.
+
+However, while zero Hypergolic Bi-Prop Stages would be needed for the SEP-Chemical option, a total of six of these stages would be needed for the Hybrid option.
+
+Likewise, the Hybrid option would see six 425 kW SEP Vehicles, whereas 14 281 kW SEP vehicles would be needed under the SEP-Chemical option.
+
+Lastly, approximately 19 additional tons of xenon would be needed for the Hybrid option over the SEP-Chemical option.
+
+SLS launch sequence for SEP-Chemical option:
+
+Under this first option, the SLS would be used to launch SEP as well as more traditional chemical propulsion stages to deliver hardware and crew to the Mars system.
+
+Phobos 2033:
+
+A Phobos mission in 2033 assumes the introduction of the SLS Block 2B variant of the Heavy Lift Vehicle in 2028, with an annual flight rate of one to two launches.
+
+The two Phobos dedicated flights of SLS in 2028 would take the Phobos Hab and Phobos Exploration Vehicle (PEV) elements to Cis-lunar space as well as the SEP for the Hab module.
+
+This would be followed by two SLS flights in 2029 bringing the Trans-Earth Injection (TEI) stage (and its SEP) to Cis-lunar space as well as the second flight, which would bring up a crew to perform final check outs of the Phobos Hab module.
+
+The year 2030 would then see the launch of the Earth Orbit Insertion (EOI) stage and taxi elements (with their SEP elements).
+
+At this point, all the launched hardware would then depart Cis-lunar space and be pre-deployed to Mars.
+
+In 2031, the Mars Transit Hab (or Deep Space Hab) would be launched, followed in
+
+2032 by the launches of the Mars Orbit Insertion (MOI) and Trans-Mars Injection (TMI) stages in two separate SLS missions.
+
+The launch of the first Phobos crew to the Transit Hab would take place in 2033.
+
+Assuming a full duration, approximately 500 day mission, the final SLS launch needed for the human Phobos mission would occur in 2035, when an SLS rocket would launch and Orion crew capsule to retrieve the Phobos crew following their return to Cis-lunar space.
+
+In all, this campaign would see the SLS deliver a total mass of 394.5t to Cis-lunar space.
+
+Mars 2039:
+
+Build up for the first human Mars mission would commence in 2033 with the launch of an SLS mission to deliver the TEI stage to Cis-lunar space.
+
+This would be followed in 2034 by the launch of the first two Mars Surface Landers on two separate SLS missions.
+
+The year 2035 would then see two more SLS missions, with the launches of the third and fourth Mars Surface Landers.
+
+This would be followed in 2036 with the launch of the fifth and final Mars Surface Lander.
+
+With the launch of the fifth lander, all pre-deployment payloads for the first human Mars mission will have been launched.
+
+The year 2036 would then see the launch of the EOI stage before the 2037 launches of the MOI and TMI stages on two separate SLS launches.
+
+In 2038, a crewed mission of Orion and SLS would bring a check out crew on a restock mission to the Mars Transit Habitat — which would have returned to Cis-lunar space in late 2035 from the human Phobos mission.
+
+If those checkouts and restocks are successful, the first crew for Mars would then launch in 2039 to the Mars Transit Habitat before departing Cis-lunar space for Mars.
+
+Assuming a nominal mission, a single SLS flight would be needed in 2042 to launch an Orion capsule to retrieve the first Mars crew and their cargo following their return to Cis-lunar space.
+
+For the first human mission to Mars, SLS’s launch campaign will see it deliver 630.7t of mass to Cis-lunar space.
+
+Mars 2043:
+
+Overlapping slightly with the completion of build up operations for the first Martian mission, the Mars 2043 surface campaign would begin with the launch of SLS in 2038 for the deployment of the TEI stage.
+
+This would be followed in 2039 by deployment of the EOI stage and the first Mars Surface Lander flights of SLS.
+
+The year 2040 would see the launch of the second and third Mars Surface Landers, followed in 2041 by the launch of the MOI and TMI stages on two separate SLS missions.
+
+At this point, all pre-deployment elements will have been launched for the second human Mars surface campaign.
+
+The year 2043 would then see two crewed missions of the SLS, the first in the opening part of the year with the crew launching to the Mars Transit Hab for checkout and restock operations following its return from the first Martian mission in 2042.
+
+The second crewed flight of SLS in 2043 would launch the second Mars crew to the Mars Transit Habitat for their deployment from Cis-lunar space to Mars.
+
+Following a nominal mission, a single SLS flight would be needed in 2046 to launch an Orion capsule to retrieve the second Mars crew as well as their cargo following their return to Cis-lunar space.
+
+For this campaign, as outlined, SLS will be called upon to deliver 483.2t to Cis-lunar space.
+
+SLS launch sequence for Hybrid option:
+
+The second option, the Hybrid variant, would see a divergence in the number of SLS missions needed for the Phobos and first Human Mars Surface missions due in large part the payload element needed for this option.
+
+Phobos 2033:
+
+Under the Hybrid option, build up for the Phobos mission would begin in 2028 with two flights of the SLS.
+
+The first mission would deploy the Phobos Habitat with a Hybrid Propulsion Stage (HPS) while the second mission would consist of a refueling tanker with the PEV.
+
+This would be followed in 2029 by two SLS missions that would launch a refueling tanker with space taxi and a crew check out mission with 15t of logistics for the habitat before the entire habitat pre-deploys to Mars the following year.
+
+The year 2030 would then see the launch of the Transit Habitat with HPS #1 followed by a refueling tanker mission.
+
+This would complete all necessary Phobos mission build up operations, allowing for the launch of the Phobos crew in 2032 (with 15t of logistics) and their subsequent departure from Cis-lunar space in the Transit Habitat structure.
+
+Following a successful mission, an SLS rocket would be used to launch an Orion module to retrieve the Phobos crew and their cargo following their return to Cis-lunar space.
+
+In all, this campaign would see the SLS deliver a total mass of 339.2t to Cis-lunar space.
+
+Mars 2039:
+
+Build up for this campaign would actually begin in 2031 with the launch of the HPS #2 and #3 elements on two separate SLS flights.
+
+HPS #4 would be launched in the first part of 2032, followed in 2033 by the launches of the HPS #5 and the first Mars Surface Lander.
+
+The year 2034 would see the launches of the second Mars Surface Lander as well as a refueling tanker.
+
+The following year, 2035, would then see the launch of the third Mars Surface Lander.
+
+The year 2036 would see the launch of the fourth Mars Surface Lander as well as another refueling tanker mission.
+
+This would be followed in 2037 by yet another refueling tanker mission and the deployment of the fifth and final Mars Surface Lander.
+
+The year 2038 would then see another refueling tanker mission followed by a crew check out and resupply (15t) mission of the Transit Hab.
+
+At that point, all elements would be either pre-deployed or in deployment formation to support the launch of the first crew to Mars in the opening part of 2039.
+
+Assuming a successful mission, the final SLS support launch for the 2039 human Mars campaign would occur in 2042 with the launch of an Orion module to retrieve the crew and their cargo following their return to Cis-lunar space.
+
+For the first human mission to Mars, SLS’s hybrid launch campaign would see it deliver 574t of mass to Cis-lunar space.
+
+Mars 2043:
+
+Build up for the second human Mars mission would begin in 2039 with the launch of a refueling tanker mission, followed in 2040 by the launch of the first two Mars Surface Landers.
+
+The year 2041 would see the launch of another refueling tanker as well as the third Mars Surface Lander.
+
+In the second part of 2042, following the Mars Transit Habitat’s return to Cis-lunar space from the first human Mars mission, a crew check out and logistics restocking mission, on the magnitude of 15t of logistics, would then launch on an SLS rocket.
+
+This would then pave the way for the launch of the second crew to Mars in 2043.
+
+That crew would then be retrieved by an Orion module in 2046 following the completion of their mission to Mars and return to Cis-lunar space.
+
+For this hybrid campaign, as outlined, SLS would be called upon to deliver 353.8t to Cis-lunar space.
+
+SLS payload fairing constraints/considerations:
+
+For the first and second human Mars surface campaigns, three different Mars Lander sizes are currently under consideration, an 18t, 27t, and 40t lander capability vehicle.
+
+Under these studies, the 18t lander would have a Mars atmospheric entry mass of 43.4t and would require five to six landings to support long duration surface stays.
+
+The 27t lander would have an atmospheric entry mass of 59t and would only require three to four landings to support long duration surface missions.
+
+Finally, the 40t would have an atmospheric entry mass of 82.2t and would only require two to three landings to support long duration human missions on the Martian surface.
+
+However, economy and efficiency might not be the driving factors in deciding which version of the lander is actually built.
+
+*Click here for more Mars articles*
+
+That determination might be driven solely by the payload fairing of the SLS rocket.
+
+The nominal fairing currently under consideration for SLS is an 8.4m fairing.
+
+According to the Evolvable Mars Campaign: Status Update to SLS Evolvability TIM document, the 18t lander would have a very tight packaging constraint within the fairing with “little room for integration support structure.”
+
+The Mars surface rovers that would be launched on landers one and three would have to be mounted vertically instead of horizontally, and a redesign of the MAV tanks and radiators would be required to fit within the 8.4m fairing.
+
+Furthermore, all of those considerations do not include the SEP units which would be manifested for launch with the landers under the SEP-Chemical option.
+
+Even more significant issues arise for the 27t lander variant within the 8.4m faring, most crucially being that the lander itself would not fit within the fairing.
+
+Expansion and elongation of the fairing are currently thought to be a non-starter as they would change the center of gravity too much to be viable.
+
+These issues will need to be addressed as Mars human surface mission hardware realities encounter the current SLS Block 2B design and as both elements move closer to fruition.
+
+(Images: Via NASA and L2 – including SLS renders from L2 artist Nathan Koga – The full gallery of Nathan’s (SpaceX Dragon to MCT, SLS, Commercial Crew and more) L2 images can be *found here*)
+
+(To join L2, click here: http://www.nasaspaceflight.com/l2/)

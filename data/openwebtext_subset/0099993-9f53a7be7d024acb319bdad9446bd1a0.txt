@@ -1,0 +1,83 @@
+heic1217 — Science Release
+
+Hubble helps find candidate for most distant object in the Universe yet observed
+
+By combining the power of the NASA/ESA Hubble Space Telescope, NASA’s Spitzer Space Telescope and one of nature’s zoom lenses, astronomers have found what is probably the most distant galaxy yet seen in the Universe. The object offers a peek back into a time when the Universe was only 3 percent of its present age of 13.7 billion years.
+
+
+
+We see the newly discovered galaxy, named MACS0647-JD, as it was 420 million years after the Big Bang. Its light has travelled for 13.3 billion years to reach Earth, which corresponds to a redshift of approximately 11 [1].
+
+This is the latest discovery from the Cluster Lensing And Supernova survey with Hubble (CLASH) [2], which uses massive galaxy clusters as cosmic telescopes to magnify distant galaxies behind them, an effect called gravitational lensing.
+
+“While one occasionally expects to find an extremely distant galaxy using the tremendous power of gravitational lensing, this latest discovery has outstripped even my expectations of what would be possible with the CLASH program,” said Rychard Bouwens (Leiden University, Netherlands), a co-author of the study. “The science output in this regard has been incredible.”
+
+Along the way, 8 billion years into its journey, the galaxy’s light took a detour along multiple paths around the massive galaxy cluster MACS J0647.7+7015. Due to the gravitational lensing, the team observed three magnified images of MACS0647-JD with Hubble. The cluster’s gravity boosted the light from the faraway galaxy, making the images appear far brighter than they otherwise would, although they still appear as tiny dots in Hubble’s portrait.
+
+“This cluster does what no manmade telescope can do,” said Marc Postman (Space Telescope Science Institute, USA), leader of the CLASH team. “Without the magnification, it would require a Herculean effort to observe this galaxy.”
+
+The object is so small it may be in the first stages of galaxy formation, with analysis showing the galaxy is less than 600 light-years across. For comparison the Milky Way is 150 000 light-years across. The estimated mass of this baby galaxy is roughly equal to 100 million or a billion suns, or 0.1 - 1 percent the mass of our Milky Way’s stars.
+
+
+
+“This object may be one of many building blocks of a galaxy,” explained Dan Coe (Space Telescope Science Institute), lead author of the study. “Over the next 13 billion years, it may have dozens, hundreds, or even thousands of merging events with other galaxies and galaxy fragments.”
+
+The team spent months systematically ruling out all other alternative explanations for the object’s identity before concluding that it is the distance record holder. This was important, as nearby objects (such as red stars, brown dwarfs and old or dusty galaxies) can mimic the appearance of an extremely distant galaxy and must be carefully excluded.
+
+The area around the galaxy was observed by Hubble through 17 filters — spanning near-ultraviolet to near-infrared wavelengths — with the galaxy appearing only in the two reddest filters. This was consistent with a highly redshifted galaxy, but did not fully exclude other possibilities. Images of the galaxy at longer infrared wavelengths taken by Spitzer were more conclusive, however: if the object were intrinsically red, it would appear bright in these images. Instead, the galaxy was barely detected, if at all.
+
+MACS0647-JD may be too far away for any current telescope to confirm the distance with spectroscopy [3]. Nevertheless, all the evidence points towards the fledgling galaxy being the new distance record holder.
+
+The galaxy will almost certainly be a prime target for the James Webb Space Telescope, scheduled for launch in 2018, which will be able to conduct spectroscopy to make a definitive measurement of its distance and study its properties in more detail.
+
+Notes
+
+[1] Redshift is a consequence of the expansion of space over cosmic time, which stretches the wavelength of light. This has the consequence of making a distant object appear redder than it really is. Objects with a higher redshift have had their light stretched more, and are more distant. The previous candidate for the most distant object observed has a redshift of 10.3 (heic1103); confirmations of several objects with redshifts between 7 and 9 have been reported using spectroscopy, which gives more robust results (see for example eso1041). This newly discovered galaxy’s redshift has been calculated as being approximately 10.8, with a 95% confidence that it lies between 10.3 and 11.3.
+
+[2] The new distance champion is the second remote galaxy uncovered in the CLASH survey, a multiwavelength census of 25 hefty galaxy clusters with Hubble's Advanced Camera for Surveys (ACS) and Wide Field Camera 3 (WFC3) instruments. Earlier this year, the CLASH team announced the discovery of a galaxy that existed when the universe was about 490 million years old (redshift 9.6), 70 million years later than the new record-breaking galaxy. So far, the survey has completed observations for 20 of the 25 clusters.
+
+[3] Redshift can only be precisely measured using spectroscopy, in which an object’s light is dispersed and its colour probed in detail. However, it can be estimated by comparing images made of an object through different coloured filters, a method called photometric redshift. The galaxy will only be visible in some of the filters (having been redshifted out of some filters altogether), and the redshift is derived from the bluest filter in which the galaxy is visible. Photometric redshifts, as used in this study, provide less certainty, but they can be calculated for objects much fainter than is possible with spectroscopic redshifts. For this reason, the paper refers to the object as a 'candidate z≈11 galaxy'
+
+More information
+
+The Hubble Space Telescope is a project of international cooperation between ESA and NASA.
+
+The international team of astronomers in this study consists of:
+
+Dan Coe (Space Telescope Science Institute, Baltimore, USA), Adi Zitrin (Institut für Theoretische Astrophysik, Heidelberg, Germany), Mauricio Carrasco (Institut für Theoretische Astrophysik, Heidelberg, Germany and Pontifica Universidad Católica de Chile, Santiago, Chile), Xinwen Shu (University of Science and Technology of China, Hefei, China), Wei Zheng (Johns Hopkins University, Baltimore, USA), Marc Postman (Space Telescope Science Institute, Baltimore, USA), Larry Bradley (Space Telescope Science Institute, Baltimore, USA), Anton Koekemoer (Space Telescope Science Institute, Baltimore, USA), Rychard Bouwens (Leiden University, Netherlands), Tom Broadhurst (University of the Basque Country, Bilbao, Spain and Ikerbasque Basque Foundation for Science, Bilbao, Spain) Anna Monna (Universitätssternwarter München, Munich, Germany), Ole Host (University College London, London, UK and Dark Cosmology Centre, Niels Bohr Institute, University of Copenhagen, Denmark), Leonidas A. Moustakas (Jet Propulsion Laboratory, California Institute of Technology, La Cañada Flintridge, USA), Holland Ford (Johns Hopkins University, Baltimore, USA), John Moustakas (Siena College, Loudonville, USA), Arjen van der Wel (Max Planck Institute for AStronomy, Heidelberg, Germany), Megan Donahue (Michigan State University, East Lansing, USA), Steven A. Rodney (Johns Hopkins University, Baltimore, USA), Narciso Bentez (Instituto de Astrofísica de Andalucía, Granada, Spain), Stephanie Jouvel (University College London, London, UK and Institut de Cincies de l’Espai, Bellaterra (Barcelona), Spain), Stella Seitz (Universitätssternwarte München, Munich, Germany and Max Planck Institute for Extraterrestrial Physics, Garching, Germany), Daniel D. Kelson (Carnegie Observatories, Pasadena, USA), and Piero Rosati (European Southern Observatory, Garching, Germany)
+
+The research is presented in a paper entitled “CLASH: Three Strongly Lensed Images of a Candidate z≈11 Galaxy” to be published in the December 20 issue of the Astrophysical Journal.
+
+Links
+
+Contacts
+
+Rychard Bouwens
+
+Leiden University
+
+Leiden, Netherlands
+
+Tel: +31 71 527 8456
+
+Email: bouwens@strw.leidenuniv.nl
+
+Dan Coe
+
+Space Telescope Science Institute
+
+Baltimore, USA
+
+Tel: +1 410 338 4312
+
+Email: dcoe@stsci.edu
+
+Oli Usher
+
+Hubble/ESA
+
+Garching, Munich
+
+Tel: +49-89-3200-6855
+
+Email: ousher@eso.org

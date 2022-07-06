@@ -1,0 +1,19 @@
+Pauly Comtois is the VP of DevOps at Hearst Business Media. Before that, he was Chef’s own VP of IT Operations. We recently caught up with Pauly and asked him about his time as Director of Operations and Application Support at a software company of about 200 people, where he introduced Chef and the DevOps culture. It’s a story that will be familiar to many who have made the journey away from manual processes and the negative effects of silos. Pauly’s DevOps story is below.
+
+The Situation
+
+Initially, I was responsible for only two teams. This grew to eight teams and a strong focus on DevOps.
+
+One group was the sys admins, who were strictly about infrastructure. They handled the network and SANs, configured the hardware, went to the data center to rack and stack things, the usual stuff. This predates the cloud, or at least the cloud was in its infancy.
+
+The other group was the app team, which was also part of operations. The team existed because the application developers didn’t want to be responsible for troubleshooting the application once it was deployed.
+
+They said, “We’re not going to be on call, we’re not responsible for running the code. Once it’s in operations, it’s operations’ responsibility.” Of course, that completely contradicts one of the main tenets of DevOps– you’re responsible for what you create.
+
+So, that’s why we created an app team in operations. They were former developers, support and systems administrators who were interested in operations. Their whole job was to maintain the application after it was deployed. They released the code, monitored the application and were on call for any application problem. This team operated alongside the other operations teams.
+
+Later, we formed a third team, the release team. They took over the job of deployments. The release team was a cross-functional team. Their backgrounds were from varying disciplines; one developer, one QA person, some sys admins, and a project manager who made sure that the features that were in the roadmap were the ones that were in the pipeline.
+
+When the release team first started we did everything manually and we used a package called ControlTier. There were six server pods, and it used to take about 12 hours on a weekend to deploy to one of them. It was miserable. Nine times out of ten, we ended up rolling back. I used to joke that operations’ job is rolling back code. The code wasn’t tested by the developers, the focus was on features and not bug fixes and QA had basically given up on the feedback loop. We would deploy it and roll it right back because it just didn’t work. The whole system was broken.
+
+In the next part of this DevOps story, coming the week of 2/9, Pauly will reveal the proposed solution to his situation and how it was actually implemented. Stay tuned!

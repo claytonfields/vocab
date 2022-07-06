@@ -1,0 +1,19 @@
+The WordPress plugin and theme editors have a basic, bare bones implementation of a text editor. They function well but are rather plain and limited in features. This may be due in part to the fact that many WordPress contributors cannot agree on whether or not the admin plugin and theme editors should be included in core.
+
+This hotly debated topic was reignited on the Tavern last year when we featured the controversial Code Revisions project, which added native revisions to the admin theme and plugin editors. The project was part of Google Summer of Code in 2013 and there was some discussion about the possibility of adding it to core.
+
+Whether or not you agree on having the admin editors in core, there are many plugin developers who are happy to extend the feature for those who use it. Syntax Highlight is a new plugin that adds syntax highlighting and a few other handy bits to the editors by incorporating the open source Ace Editor.
+
+The plugin adds AJAX saving through CTRL+S and has support for keyboard shortcuts (keybindings: Vim, Emacs and Default). If you make edits and attempt to leave the page, the plugin will ask you whether or not you want to leave when there are unsaved changes.
+
+Syntax Highlight enables editors to launch in fullscreen mode (CTRL+Enter) for an experience similar to the distraction free writing mode:
+
+It also includes a lighter theme which can be turned on via the plugin’s settings page:
+
+The settings panel gives you the option to set the default tab size, use soft tabs, turn on word wrap, use line numbers, set key bindings and enable full line selection.
+
+The plugin enables search and replace with regular expressions (CTRL+F, CTRL+H). It also supports all the other features included in the Ace Editor, including drag and drop text using the mouse, automatic indenting, live syntax checking (currently JavaScript/CoffeeScript/CSS/XQuery), and more.
+
+If you frequently use the admin plugin and theme editors and want to beef them up with syntax highlighting, this plugin is a decent option. At the very least, it makes the code more readable if you only use the editors for reference. You can download Syntax Highlight from WordPress.org.
+
+Like this: Like Loading...

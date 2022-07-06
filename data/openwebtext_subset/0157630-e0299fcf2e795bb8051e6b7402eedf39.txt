@@ -1,0 +1,349 @@
+Our next Heroes of the Storm patch has just arrived to the Public Test Realm and will be available for playtesting until September 26. During this time, we kindly request your assistance in trying out some of the new content it contains before we officially release the patch to the live version of Heroes. Just like last time, if you encounter any bugs or other issues during your PTR play sessions, please stop by the PTR Bug Report forum to let us know about your experiences.
+
+General
+
+New Map Rotation
+
+Starting September 27, the pool of Battlegrounds available in all modes, except Custom Games, will be temporarily limited to the following: Warhead Junction Braxis Holdout Towers of Doom Dragon Shire Battlefield of Eternity Cursed Hollow
+
+During this time, players can still select and play on any Battleground they wish using Custom Games.
+
+The reduced Battleground pool will remain in effect until the Machines of War event concludes during the week of October 17.
+
+Tutorial Improvements
+
+The second tutorial mission has received significant changes to gameplay, user interface, and instruction flow. This mission should now better serve to introduce players to some of Heroes of the Storm’s unique mechanics.
+
+Return to Top
+
+New Hero: Zarya
+
+Aleksandra Zaryanova is one of the world's strongest women and was a promising athlete, but all that changed when the Siberian omnium reawakened. As a soldier in the Russian Defense Force, she now proudly uses her strength to protect the ones she loves.
+
+Trait
+
+Energy Each time Zarya’s Personal Barrier or Shield Ally absorbs 10 damage, her Energy is increased by 1. Each point of Energy increases Zarya’s damage by 2%. After 0.5 seconds, Energy decays by 3 per second.
+
+
+
+Basic Abilities
+
+Particle Grenade (Q) Launch a Particle Grenade that deals damage to enemies within a small area. Deals 50% damage to Structures.
+
+Personal Barrier (W) Gain a Shield that absorbs damage for 3 seconds.
+
+Shield Ally (E) Grants an allied Hero a Shield that absorbs damage for 3 seconds.
+
+
+
+Heroic Abilities
+
+Graviton Surge (R) Launch a gravity bomb that detonates after 1 second and draws enemy Heroes toward the center for 2.5 seconds.
+
+Expulsion Zone (R) Launch a gravity bomb that deals light damage and creates an expulsion zone for 3.5 seconds. Enemies who enter the affected area are knocked back and have their Movement Speed reduced by 50% for 1 second.
+
+
+
+Return to Top
+
+New Battleground: Warhead Junction
+
+Once a testing facility for nuclear weapons, Warhead Junction has since fallen into ruin. However, the site's abandonment hasn't stopped its glitchy adjutant from continuing to produce and hand out nuclear weapons. Join the arms race of Warhead Junction, build up your stockpile, and rain hell on your enemies!
+
+Warhead Deployment
+
+Multiple Warheads will spawn periodically across the battleground.
+
+Collect Warheads
+
+Pick up a Warhead to activate your Nuke. Use it or you will drop it when you die!
+
+Call Down the Thunder
+
+Launch Nukes to devastate the enemy team's fortifications.
+
+Return to Top
+
+Art
+
+Heroes, Abilities, and Talents
+
+Chen and Nazeebo have received updated visual effects to coincide with their Talent reworks.
+
+Return to Top
+
+Shop
+
+Bundles
+
+New Bundles Thunder Guard Zarya Bundle – Available until October 11, 2016. Raider Rexxar Bundle – Available until October 11, 2016. Undying Legends Bundle – Available until October 18, 2016. Ultimate Undying Legends Bundle – Available until October 18, 2016.
+
+
+
+New Hero
+
+Zarya has been added to the in-game Shop.
+
+Mounts
+
+Returning Mounts Judgement Charger
+
+Removed Mounts Lunar Dragon Spectre Phantom Dire Wolf
+
+
+
+Skins
+
+Raider Rexxar
+
+Thunder Guard Zarya
+
+Master Zarya
+
+Price Changes
+
+Diablo’s prices have been reduced to $3.49 USD and 2,000 Gold.
+
+Muradin’s prices have been increased to $6.49 USD and 4,000 Gold.
+
+Return to Top
+
+Sound
+
+General
+
+The second Tutorial mission has received updated sound effects to coincide with its overhaul.
+
+Heroes, Abilities, and Talents
+
+Chen has received updated sound effects for his Elusive Brawler Talent and Storm, Earth, Fire Heroic Ability.
+
+The Seasoned Marksman Talent has received a new sound effect heard when the active ability awarded by the quest is used.
+
+User Interface
+
+Voiceover will now play on the MVP and Commendation screen when a player receives enough votes to reach Epic or Legendary status.
+
+Return to Top
+
+Heroes
+
+Return to Top
+
+Assassin
+
+Abilities
+
+Arcane Orb (W) Beginning size reduced by roughly 33% Maximum size reduced by roughly 33% Explosion radius reduced by roughly 15%
+
+
+
+Talents
+
+Level 4 Triumvirate (W) Now reduces the cooldown of Arcane Orb by 50%, instead of 5 seconds Travel distance required reduced from 65 to 50%
+
+Level 7 Zei's Vengeance (W) Added functionality: Now also reduces the cooldown of Arcane Orb by 25%
+
+
+
+Developer Comments: Arcane Orb and the Talents affecting it have been slightly underperforming over the past couple months. We are also unhappy with the unpredictably large explosion radius that occurs at close range detonations. To address these concerns, we have made some base size adjustments to the Orb missile while also buffing Zei’s Vengeance to help round out the full build. While the size changes definitely look like a nerf on paper, in actual testing we felt like they gave players tighter control with a lot less early-detonations on unintended targets.
+
+Return
+
+Tychus
+
+Stats
+
+Base Maximum Health increased from 1836 to 1925
+
+Base Health Regeneration increased from 3.8 to 4
+
+Talents
+
+Level 1 Press the Advantage (E) Basic Attack Range bonus increased from 25 to 35% Combat Tactician (E) Cooldown reduction increased from .75 to .8 seconds per Basic Attack. Shrug It Off (E) Removed
+
+
+
+Developer Comments: After the change the Relentless Soldier in a previous patch, Tychus had 2 different ways to gain Resistant. While we like that Tychus is a “tanky Assassin”, we felt that him having more ways to mitigate damage than some melee Assassins to be too much. We decided to remove Shrug It Off because it felt misplaced on a tier that was primarily about Utility and Mobility. To compensate for the loss of Shrug It Off, we’ve decided to buff his baseline Health and Regeneration and the other Talent options at level 1.
+
+Return
+
+Specialist
+
+Nazeebo
+
+Abilities
+
+Corpse Spiders (Q) Spiders will now fixate on whatever enemies are hit with the jar, dividing their focus among all available targets. Prefers Heroic targets. Spiders will now only spawn if you hit an enemy with the jar Reduced the travel speed of the jar, mostly at close range Increased the impact radius by 50% Spiders now move significantly faster toward their target Impact damage reduced from 91 to 50 Spider Attack's damage increased from 13 to 35 per attack Mana cost reduced from 60 to 50
+
+Zombie Wall (W) Zombie Health increased from 183 to 225
+
+Plague of Toads (E) ​ Number of Toads spawned reduced from 5 to 3 Now has 2 charges Damage changed from 87 damage on impact to 126 over 6 seconds Multiple instances of this damage effect can affect the same enemy Cooldown reduced from 10 to 8 seconds Mana cost reduced from 55 to 30
+
+Voodoo Ritual (Trait) Damage over time effect is now only applied to non-Heroes Duration increased from 4 to 6 seconds Killing an enemy affected by Voodoo Ritual no longer restores Health and Mana New Functionality: You now permanently gain 4 Maximum Health and 1 Maximum Mana if an enemy Minion dies while affected by Voodoo Ritual
+
+Gargantuan (R) Gargantuan now stays near the area where cast and attempts to attack any enemies that come nearby. Prefers Heroic targets. Initial impact damage reduced from 151 to 100 Stomp damage increased from 219 to 240 Attack range increased by 50% Cooldown increased from 60 to 70 seconds
+
+
+
+​Talents
+
+Level 1 Demolitionist (Passive) Removed Death Ritual (Trait) Removed Bribe (Active) Removed Blood Ritual (Trait) Moved to level 4 New Functionality: If an enemy dies while affected by Voodoo Ritual, heal for 2% of your Maximum Health and Mana. New Talent: Widowmakers (Q) Quest: After hitting Heroes 100 times with Corpse Spider attacks, their damage is increased by 30%. New Talent: Pandemic (E) Quest: After hitting 40 Heroes with Plague of Toads, it spawns 2 additional toads.
+
+Level 4 Spider Cluster (Q) Removed Gathering Power (Passive) Removed Mercenary Lord (Passive) Removed Envenom (Active) Removed Promote (Active) Removed New Talent: Hexed Crawlers (Q) Corpse Spiders restore 0.75% of your maximum Health and Mana each time they attack an enemy Hero. New Talent: Big Voodoo (Trait) Increases the Health and Mana bonuses from Voodoo Ritual by 100%.
+
+Level 7 Gidbinn (Passive) Removed Fresh Corpses (W) Removed New Talent: Spirit of Arachyr (Q) If your jar of Corpse Spiders hits only 1 enemy, spawn an additional spider.
+
+Level 13 Dead Rush (W) Moved to level 7 Increased zombie damage bonus from 50 to 100%. Toads of Hugeness (E) Moved to level 7 Bonus reduced from 20 to 15% per hop, and now caps at 60% bonus. Thing of the Deep (Passive) Moved to level 1 Range bonus reduced from 25 to 20% New Talent: Guardian Toads (E) If your Plague of Toads explodes on an enemy Hero gain Resistant for 2 seconds, reducing damage taken by 25% New Talent: Superstition (Passive) You take 50% less damage from Abilities, but 30% more damage from Basic Attacks
+
+Level 16 Specialized Toxin (Trait) Removed Leaping Spiders (Q) Removed Infested Toads (E) Removed Hardened Focus (Passive) Removed New Talent: Spider Colony (Q) Corpse Spiders recharges twice as fast while you are above 850 (+4% per level) Health. New Talent: Ring of Poison (W) Increases the duration of Wall of Zombies by 1 second, and now deals 375 damage over 4 seconds. Damage starts small and increases over the duration. New Talent: Soul Harvest (Active) Activate to gain 3% Ability Power and maximum Health for every nearby enemy, up to 15%. Health and Ability Power bonuses last 15 seconds. 15 second cooldown.
+
+Level 20 Humongoid (R) No longer makes the Gargantuan last indefinitely or increases its Basic Attack damage to non-Heroic enemies New Functionality: Reduces the cooldown of Gargantuan by 50 seconds, and the Mana cost by 50% Bolt of the Storm (Active) Removed New Talent: Vile Infection (Trait) Quest: After reaching 150 stacks of Voodoo Ritual, increase Voodoo Ritual's damage by 200% and cause it to also apply to Heroes.
+
+
+
+Developer Comments: Nazeebo is one of the oldest Heroes in the game, and his Talent tree was in dire need of an upgrade. The goal of the revamp was to increase the reward of mastering the Hero’s Abilities, maintain his identity as a zone control and damage over time character, embrace the fun mini-game that was Death Ritual, and provide interesting synergies between Abilities and Talents. We wanted to be sure to reinforce the designed weaknesses of the Hero that are lack of burst and lack of mobility, while still making him viable in the current metagame of Heroes of the Storm. Overall, a lot of his old Talents had to be revamped or replaced, but we find that he still feels a lot like the old Nazeebo, just more interesting!
+
+Level (Tier) Nazeebo Talents 1 (1) (!) Widowmakers (Q) (!) Pandemic (E) Thing of the Deep (Passive) — 4 (2) Hexed Crawlers (Q) Big Voodoo (Trait) Blood Ritual (Trait) — 7 (3) Spirit of Arachyr (Q) Dead Rush (W) Toads of Hugeness (E) — 10 (4) Gargantuan (R) Ravenous Spirit (R) — — 13 (5) Guardian Toads (E) Superstition (Passive) Ice Block (Active) — 16 (6) Spider Colony (Q) Ring of Poison (W) Soul Harvest (Active) — 20 (7) Humongoid (R) Annihilating Spirit (R) Fury of the Storm (Passive) (!) Vile Infection (Trait))
+
+​
+
+(!) indicates a Questing Talent.
+
+Italic text indicates a NEW Talent.
+
+Bold text indicates a MOVED Talent.
+
+Return
+
+Support
+
+Kharazim
+
+Talents
+
+Level 13 Sixth Sense (Passive) Block amount increased from 50 to 75% after being stunned or rooted.
+
+
+
+Return
+
+Malfurion
+
+Abilities
+
+Regrowth (Q) Cooldown reduced from 7 to 5 seconds Mana cost reduced from 60 to 35 Duration increased from 10 to 15 seconds Periodic heal reduced from 75 to 60
+
+Entangling Roots (E) Increased range by roughly 12% Delay before initial root reduced from .5 seconds to .25 seconds
+
+Innervate (Trait) Added Functionality: Now causes the target’s Basic Abilities to cooldown 50% faster for the duration of Innervate
+
+
+
+Talents
+
+Level 1 Harmony (Q) Removed
+
+Level 4 Rampant Growth (Q) Healing bonus reduced from 50 to 40%
+
+Level 7 Enduring Growth (Q) Removed
+
+
+
+Developer Comments: While we realize that Malfurion’s talent tree could use some work, and we want to do a deeper dive in the future, we wanted to give him a better niche among our other Support heroes in the meantime. His throughput healing should be higher, and a bigger part of his gameplay should now be rolling his heal-over-time effects among multiple allies to keep them alive. He now also has the unique ability to give allies cooldown reduction in addition to Mana, which should give him a new reason to be considered being added to a team. We’ve also buffed the initial root search for his Entangling Roots, which will enable him to more reliably root enemy Heroes instead of relying on his teammates to secure crowd control.
+
+Return
+
+Warrior
+
+Chen
+
+Abilities
+
+Storm, Earth, Fire (R) New Functionality: If all 3 Spirits die, Chen is killed Spirit Health increased from 50 to 75% of Chen’s maximum Health Each Spirit grants Chen a special ability: Storm (Q): Increases the Movement Speed of your Spirits by 50% for 5 seconds Earth (W): Fire and Earth Spirits leap at the target, slowing enemies in a large area by 70% for 1.5 seconds Fire (E): Increase the Basic Attack speed of your Spirits by 100% for 5 seconds
+
+
+
+Talents
+
+Level 1 Regeneration Master (Passive) Removed Keg Toss (W) Moved to Level 4 New Functionality: Quest: Hitting a Hero with Keg Smash increases its damage by 3, up to a maximum of 60. Reward: After gaining 60 bonus damage, Keg Toss’s range is increased by 125% and gains a second charge. Grounding Brew (Trait) Ability damage reduction amount increased from 25 to 30% Consuming Flame (E) Removed New Talent: Accumulating Flame (E) Quest: Setting a Hero on Fire increases the damage over time of Breath of Fire by 2%, up to a max of 60%. Reward: After gaining 60% bonus damage, Breath of Fire grants 1 second of Resistant per Hero set on fire, reducing damage taken by 25% New Talent: Freshest Ingredients (Trait) Quest: Gathering a Regen Globe increases Health Regeneration by 1 per second, up to a maximum of 30. Reward: After gaining 30 bonus Health Regeneration, 50% of Shields gained from Fortifying Brew are retained indefinitely after drinking. New Talent: Elusive Brawler (Active) Activate to avoid all enemy Basic Attacks for 2 seconds. Basic Attacks reduce the cooldown of Elusive Brawler by 3 seconds. 20 second cooldown.
+
+Level 4 Swift Reflexes (Passive) Removed Deadly Strike (Q) New Functionality: Flying Kick now deals 100% more damage if Chen has Fortifying Brew shields. Amplified Healing (Passive) Removed Deep Breath (E) Removed
+
+Level 7 Full Keg (W) Removed Combat Stance (Trait) Removed Ring of Fire (E) Moved to Level 4 Periodic damage increased from 30 to 50 New Talent: Refreshing Elixir (Passive) All regeneration and healing effects are increased by 20%. This bonus is increased to 60% while channeling Fortifying Brew.
+
+Level 13 Brew Strike (Q) Removed Enough to Share (Trait) Moved to Level 16 Relentless (Passive) Removed New Talent: Withering Flames (E) Setting an enemy Hero on fire reduces their Ability Power by 25% for 3 seconds.
+
+Level 16 Bottomless Mug (Trait) Removed Bolder Flavor (Trait) Moved to Level 7 New Functionality: Grants 50% of your full Shield instantly when you use Fortifying Brew, and causes Shields to persist for 1 second after drinking. Pressure Point (Q) Moved to Level 13 New Functionality: Flying Kick slows enemy Movement Speed by 40% for 1 second. This effect is doubled if the target is affected by Keg Smash. Combination Attack (Q) Removed New Talent: Flying Leap (Q) Increases the range of Flying Kick by 20% New Talent: Another Round (W) After hitting an enemy Hero with Keg Smash, the cooldown of the next Basic Ability you cast will be reduced by 3 seconds.
+
+Level 20 Untapped Potential (R) New Functionality: Increases Movement Speed of Wandering Keg by 25% Chen gains 50% damage reduction while in Wandering Keg Elemental Conduit (R) New Functionality: Your Sprits now have 100% of Chen’s Maximum Health. Storm (Q): Also grants Unstoppable to your Spirits for the duration of the Movement Speed boost Earth (W): Also reduces the cooldown of Leap by 3 seconds Fire (E): No longer an Active ability. Spirits now attack 100% faster while the Fire Spirit is alive Hardened Shield (Active) Removed Bolt of the Storm (Active) Removed New Talent: Purifying Brew (Trait) Passively reduce the duration of the next Stun or Silence effect by 75% and reset the cooldown of Fortifying Brew. This can only happen once every 10 seconds. New Talent: Stormstout Secret Recipe (Passive) Heal for 1.5% of your Maximum Health every time your Basic Abilities hit an enemy Hero.
+
+
+
+Developer Comments: We know how much passion our players have for Chen and spent months upgrading his Talent Tree to our newest philosophies. To give you an idea of what we were looking to improve, here were a couple of our goals with this update: Chen should be able to be a solo-tank for your team and not be afraid to constantly soak enemy skill-shots. Chen should be a constant threat to the enemy’s backline damage dealers. Chen should deal low amounts of burst damage while continually applying sustained damage at pointed targets. Chen should be extremely resilient in the absence of enemy stuns. As always, we are listening to your feedback and appreciate everyone taking the time to send it to us. Enjoy the new Talent Tree, and as Chen has said many times before- “It is important to master the Brew and not let it master you!”
+
+Level (Tier) Chen Talents 1 (1) (!) Accumulating Flame (Q) Grounding Brew (Trait) (!) Freshest Ingredients (Trait) Elusive Brawler (Active) 4 (2) Deadly Strike (Q) (!) Keg Toss (W) Ring of Fire (E) — 7 (3) Brewmaster's Balance (Trait) Bolder Flavor (Trait) Refreshing Elixir (Passive) — 10 (4) Wandering Keg (R) Storm, Earth, Fire (R) — — 13 (5) Pressure Point (Q) A Touch of Honey (W) Withering Flames (E) — 16 (6) Flying Leap (Q) Another Round (W) Enough to Share (Trait) — 20 (7) Untapped Potential (R) Elemental Conduit (R) Purifying Brew (Trait) Stormstout Secret Recipe (Passive)
+
+(!) indicates a Questing Talent.
+
+Italic text indicates a NEW Talent.
+
+Bold text indicates a MOVED Talent.
+
+Return
+
+E.T.C.
+
+Abilities
+
+Powerslide (Q) Range increased by 25%
+
+Rockstar (Trait) Radius increased by 10%
+
+
+
+Talents
+
+Level 1 Rolling Like a Stone (Q) Removed Block (Passive) Removed Prog Rock (E) New Functionality: Quest: Gathering a Regeneration Globe permanently increases the healing per second of Guitar Solo by 5, up to a maximum of 100. Reward: After reaching 100 increased healing, Guitar Solo also heals nearby allied Heroes for 53 Health every second while active. Pwn Shop Guitar (E) Moved to Level 16 Renamed to Aggressive Shredding New Functionality: Basic Attacks reduce the cooldown of Guitar Solo by 1 second. New Talent: Block Party (Trait) Rockstar also grants Allies a stack of Block, reducing the damage from the next Basic Attack by 50% for 8 seconds. Stacks up to 2 times.
+
+Level 4 Double-Necked Guitar (Q) Removed Mic Check (W) Moved to Level 13 Number of targets hit required to reduce Face Melt’s cooldown decreased from 3 to 2 Pinball Wizard (W) Moved to Level 7 Bonus damage increased from 50 to 150%​ ​ New Talent: Crowd Surfer (Q) Powerslide can now travel over walls and unpathable areas.
+
+Level 7 Just Keep Rockin’ (E) Removed Guitar Hero (E) Moved to Level 1 New Functionality: While Guitar Solo is active, you heal for 30% of the damage dealt by Basic Attacks. Also increases the Attack Speed bonus from Rockstar from 20% to 25%. Loud Speakers (W) Moved to Level 4 Follow Through (Passive) Renamed to Hammer-on New Functionality: After using an Ability, your next 2 Basic Attacks deal 30% more damage.
+
+Level 13 Groupies (E) Removed Spell Shield (Passive) Removed Show Stopper (Q) Moved to Level 16 Face Smelt (W) Slow amount reduced from 80 to 60%
+
+Level 16 ​ Speed Metal (Trait) Moved to Level 4 Movement Speed bonus reduced from 20 to 10% Echo Pedal (Passive) Moved to Level 7 Damage decreased from 59 to 32. Added Functionality: Now deals double damage vs. Minions and Mercenaries. Encore (W) Moved to Level 13
+
+
+
+Developer Comments: We like E.T.C.’s core gameplay, but wanted to improve his talent diversity. Many E.T.C. players end up picking the same talents in most games, especially at Levels 1 and 4, due to the importance of buffing Powerslide. We’ve streamlined that power, and have given him more options to play up the bard aspect of his kit, which should make him more of a team player.
+
+Level (Tier) E.T.C. Talents 1 (1) Guitar Hero (E) (!) Prog Rock (E) Block Party (Trait) — — 4 (2) Crowd Surfer (Q) Loud Speakers (W) Speed Metal (Trait) — — 7 (3) Pinball Wizard (W) Echo Pedal (Passive) Hammer-on (Passive) — — 10 (4) Mosh Pit (R) Stage Dive (R) — — — 13 (5) Mic Check (W) Encore (W) Face Smelt (W) — — 16 (6) Show Stopper (Q) Aggressive Shredding (E) Imposing Presence (Active) — — 20 (7) Tour Bus (R) Crowd Pleaser (R) Death Metal (Passive) Storm Shield (Active) Bolt of the Storm (Active)
+
+(!) indicates a Questing Talent.
+
+Italic text indicates a NEW Talent.
+
+Bold text indicates a MOVED Talent.
+
+Return
+
+Bug Fixes
+
+General
+
+Fixed an issue that prevented players from placing Healing Totems near destructible objects and unpathable terrain.
+
+Heroes, Abilities, and Talents
+
+Abathur: Fixed an issue causing Abathur’s Ultimate Evolution clones to deal damage to nearby enemies on expiration without learning the Volatile Mutation talent.
+
+Anub’arak: It is no longer possible to cast Cocoon on Heroic Vehicles, such as the Garden Terror or Dragon Knight.
+
+Auriel and Lunara: Fixed an issue causing Lunara’s camera to behave strangely after being resurrected by Auriel’s Resurrect.
+
+Diablo: It is no longer possible to cast Overpower on Heroic Vehicles, such as the Garden Terror or Dragon Knight.
+
+Nova: It is no longer possible for Nova to target Invulnerable Heroes with Triple Tap.
+
+User Interface

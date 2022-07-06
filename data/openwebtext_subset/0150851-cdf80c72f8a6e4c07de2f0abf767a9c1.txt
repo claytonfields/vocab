@@ -1,0 +1,19 @@
+ZombiU, the zombie action game from Ubisoft Montpellier that launched with the Wii U, will be released Aug. 18 on PlayStation 4, Windows PC and Xbox One, publisher Ubisoft announced today.
+
+Ubisoft is renaming the game to Zombi for the PC and new-generation ports, which will only be released digitally. Today's announcement confirms a leak from earlier this month, when the Taiwanese game rating board listed PS4 and Xbox One versions of Zombi.
+
+"The nail-biting survival experience has been optimized for PlayStation 4 system, Xbox One and Windows PC, using the power of the latest generation of hardware to bring gamers to a new level of horror," said Ubisoft in a press release today.
+
+ZombiU was a Wii U launch title in November 2012 and received positive reviews, but Ubisoft CEO Yves Guillemot later revealed that the game was not profitable. For more on Zombi, read our review of the Wii U original, and check out the five screenshots of the port below.
+
+Update: Ubisoft provided some further details on Zombi in a UbiBlog post today. The game doesn't include ZombiU's multiplayer component, since that mode required the Wii U GamePad.
+
+the developers wanted to "keep the original atmosphere"
+
+Otherwise, said Zombi producer Hélène Henry, the developers wanted to maintain the original experience as much as possible. Zombi primarily offers "small technical improvements on what was already there — the faster load times, and the small changes to controls," said Henry in an interview with UbiBlog. "In fact, a lot of time was spent getting the controls mapped as intuitively as possible, to keep the original atmosphere."
+
+ZombiU players had to look down at the Wii U GamePad to see the minimap. The developers of Zombi moved the minimap to the main screen, but otherwise tried to "maintain a minimal HUD as much as possible," according to Henry, who noted that the minimap disappears when it isn't required. There's now a dedicated button to access your backpack, but doing so still doesn't pause the game.
+
+Zombi offers a slightly increased field of view over ZombiU, and allows players to tweak it slightly. The developers also worked on the controls to improve "the look and feel of the first-person movement," said Henry. And the port provides players with two new melee weapons, a shovel and a nail bat; the cricket bat was the only one in ZombiU. The flashlight is changing, too: Players can now opt to shine a wider, stronger beam that uses up more battery life (and attracts more zombies).
+
+A Ubisoft representative told Polygon that Zombi is being developed by Straight Right, the Melbourne, Australia-based studio that made the Wii U port of Mass Effect 3.

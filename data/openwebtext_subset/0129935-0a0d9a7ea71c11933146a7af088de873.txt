@@ -1,0 +1,23 @@
+Formula E racing, Formula One’s all-electric cousin, announced plans for a race series featuring autonomous electric cars starting in 2016.
+
+The series, called Roborace, would be the first commercial races using self-driving car technology, and a highly public showcase of how advanced it has become. Organizers are hoping that the races will attract a younger audience to motorsports by creating a sci-fi version that just a decade ago would have seemed impossible to pull off.
+
+The autonomous car races, announced on Friday, will take place before Formula E events using the same tracks. This season, Formula E’s races wind through the hearts of cities including Beijing and Buenos Aires.
+
+Formula E, which premiered in 2014, is overseen by the Fédération Internationale de l’Automobile, the same body that organizes Formula One. The Formula E cars reach maximum speeds of around 140 mph compared to more than 200 mph for F1.
+
+Formula E has been marketed as a forward-looking effort to attract a younger crowd to auto racing through innovative (and controversial) features like music played at the track during races. Another is an unorthodox system called FanBoost that gives drivers who win an audience vote a one-time jolt of power for their cars that lets them drive faster.
+
+Roboracing is intended to build on that youth appeal. Formula E describes Roborace as “a global platform to show that robotic technologies and artificial intelligence can co-exist with us in real life,” clearly conscious that it’s as much a PR push as a competition.
+
+Roborace would continue a competitive tradition that has been fundamental to driverless car development. Starting in 2004, the U.S. Defense Advanced Research Projects Agency, or DARPA, hosted a series of “Grand Challenges” that offered big cash prizes to teams racing autonomous off-road vehicles through the Mojave Desert. There were no finishers the first year, but a team from Stanford took the prize the second year, and the competition has continued to spur advances in robotic vehicle design.
+
+Operating an autonomous car at 140 miles an hour would present a new set of challenges for sensor and software design. But it could also be a new wrinkle for the nascent autonomous vehicle industry, which has pitched driverless cars as a safer alternative to human drivers. Speed is hardly the emphasis. Last month, for example, police stopped a Google driverless car for traveling too slowly.
+
+The urban nature of Formula E courses creates an obvious tension between safety and speed. The image of super-fast robot cars zipping through downtown London could be great for public acceptance of driverless systems—right up until one collides with fencing around the track and kills a spectator. That has happened 46 times in conventional auto racing between 1990 and 2010.
+
+By some accounts, in fact, danger is fundamental to the appeal of motorsports—seemingly acknowledged by Formula E’s own excited highlighting of crashes. But that could make autonomous vehicle designers reluctant to even participate in Roborace because of the potential risk to their image. Then there’s the complicated web of liability that is still unresolved even for autonomous passenger vehicles being tested on city streets.
+
+Formula E hasn’t yet announced any participating teams, although it is being co-sponsored by the London-based venture capital firm Kinetik, overseen by Yotaphone creator Denis Sverdlov. One of the companies Kinetik has invested in, the electric truck maker Charge, will provide electrified trucks to service the robo-racers.
+
+Have a look at one robocar that’s the opposite of fast in this Fortune video:

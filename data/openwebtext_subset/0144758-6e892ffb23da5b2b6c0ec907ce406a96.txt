@@ -1,0 +1,17 @@
+The UK's Government Communications Headquarters (GCHQ) has created an account on the repository code hosting service GitHub and open-sourced its first project, Gaffer.
+
+Written in Java, Gaffer is a "framework that makes it easy to store large-scale graphs in which the nodes and edges have statistics such as counts, histograms and sketches," GCHQ stated in the project description. Developed primarily as a graph database, the software is "optimised for retrieving data on nodes of interest."
+
+It's obviously very hard to know what purpose Gaffer actually has within GCHQ, but graph databases are generally used for working out connections between various nodes. So, each node might be a surveilled terrorist or other source of data, and analysis of the graph might then show who or what is at the "centre" of that network. Perhaps there's a clue in the name of the software, too: "Gaffer" is British slang for "boss."
+
+GCHQ explained the key benefits of Gaffer over the other similar solutions:
+
+Gaffer is distinguished from other graph storage systems by its ability to update properties within the store itself. For example, if the edges in a graph have a count statistic, then when there is a new observation of an edge, the edge can simply be inserted into the graph with a count of 1. If this edge already exists in the graph then this count of 1 will be added onto the existing edge. The ability to do these updates without the need for query-update-put is key to the ability to ingest large volumes of data. Many types of statistics are available, including maps, sets, histograms, hyperloglog sketches and bitmaps used to store timestamps.
+
+Gaffer is distributed under the Apache 2.0 licence, a permissive free-software licence that allows anyone to modify and distribute the code in any way they see fit, as long as the original copyright notice and disclaimer are preserved.
+
+By default, Gaffer uses the Accumulo key/value store based on the BigTable technology developed by Google. It's worth mentioning that Accumulo itself was built by another intelligence body, the US National Security Agency (NSA), and contributed to the Apache Foundation in 2011. The general consensus on Hacker News is that Gaffer is actually rather neat, if you're looking for a mega-scale graph database.
+
+GCHQ didn't give any particular reason for open-sourcing Gaffer now but mentioned that a project called Gaffer2 is already in the works. It's supposed to become "a more general framework" with a number of improvements. There's no word on whether Gaffer2 will be open-sourced under the same licence.
+
+According to a special page on GitHub dedicated to the service's usage by governments, 70 official bodies in the UK are keeping some of their code there, including the Home Office and HMRC.

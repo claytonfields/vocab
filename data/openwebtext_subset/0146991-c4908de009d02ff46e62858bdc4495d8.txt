@@ -1,0 +1,169 @@
+Welcome to WikiProject College football! Our mission is to continually expand and improve Wikipedia's coverage of college football. This page and its subpages contain a forum for coordinating editors' efforts and building and maintaining quality and coherent style across all college football articles. If you would like to help, sign your name on the project participants list, visit our project's talk page, and check out the lists of requested tasks and articles in need of attention to see how you can help. Or give one of the participants listed below a shout if you have a question or need some direction.
+
+For general information on WikiProjects, please see Wikipedia:WikiProject and Wikipedia:WikiProject Council/Guide.
+
+Scope [ edit ]
+
+As mentioned above, this project covers all aspects of college football including articles about college football history, the programs and traditions of individual schools, college football rivalries, notable games, awards, rankings and championship systems, and overviews of seasons on a national, conference, and individual team basis. Articles regarding the stadiums and venues, mascots, fight songs, and other pageantry that support college football teams or events are also included in the project. Biography articles for college football coaches, players, and other notable contributors such as journalists and sportscasters fall within the scope of this project. In many cases, such biography articles will also fall under the scope of WikiProject National Football League or other sports-related projects. In addition, articles that cover American football concepts and strategies that underwent significant development within the crucible of college football, such as touchdown, two-point conversion, or option offense, also fall under the purview of this project.
+
+This project is limited to college football in the United States under the umbrella of the NCAA and the NAIA. At present, college football in Canada is organized under Wikipedia:WikiProject Canadian football—however, there are some colleges that participate in both Canadian Interuniversity Sport (CIS) and NAIA football. No other organized effort exists for non-American college football. If a need develops, a task force for British college football may be created. This project also does not cover junior college football, sprint football, or club teams. See WP:CFBTEAMS for more detail.
+
+At present, effort is concentrated in the following areas (examples in parentheses):
+
+Goals [ edit ]
+
+Organizational
+
+Create a set of standardized templates and article formats for coaches, teams, etc. Tag all college football articles, images, and other elements by placing the WikiProject College football template at the top of their talk pages. Categorize all college football articles into subcategories. Create subcategories for stubs and reclassify stubs into those subcategories. Find all college football stubs and label them.
+
+Content
+
+Make Wikipedia one of the premier online resources on college football. Bring College football to featured article status. Keep 2011 NCAA Division I FBS football season and related articles up to date, and maintain them as a reliable resource for enthusiasts during the season. Increase number of good articles and featured articles within the project.
+
+Portal
+
+Maintain Portal:College football and bring it to featured portal status.
+
+Family of WikiProjects [ edit ]
+
+Guides and resources [ edit ]
+
+Style guide : overview of style of common types of articles in the project
+
+: overview of style of common types of articles in the project Naming conventions : addresses some article naming conventions, with discussion leading to it on talk page
+
+: addresses some article naming conventions, with discussion leading to it on talk page Templates : commonly used templates for college football articles
+
+: commonly used templates for college football articles Images : sets guidelines and offers suggestions for images (photos, maps, logos, etc.) related to college football
+
+: sets guidelines and offers suggestions for images (photos, maps, logos, etc.) related to college football Notability : a comprehensive essay covering notability of organizations, teams, coaches, players, events, and other subjects related to the project
+
+: a comprehensive essay covering notability of organizations, teams, coaches, players, events, and other subjects related to the project Game summaries : Tips and guidelines for writing game summaries either as stand-alone articles or integrated into season or other articles.
+
+: Tips and guidelines for writing game summaries either as stand-alone articles or integrated into season or other articles. Reliable sources : guidelines about what does and does not constitute a reliable source in the world of college football teams and related topics
+
+: guidelines about what does and does not constitute a reliable source in the world of college football teams and related topics Vacated victories: guidelines on reporting vacated victories
+
+Structure and format [ edit ]
+
+See the following sub pages for information on article structures. If you would like to comment on the recommended format for an article type, please do so on the talk page for that article type's subpage.
+
+Article formats [ edit ]
+
+List formats [ edit ]
+
+Alerts, new articles, open issues [ edit ]
+
+Alerts [ edit ]
+
+Articles for deletion
+
+Proposed deletions
+
+Categories for discussion
+
+Templates for discussion
+
+Requested moves
+
+Please feel free to list your new college football-related articles here (newer articles at the top, please). By listing them here, we invite other editors to help expand and improve these new articles. New articles that have an interesting or unusual fact can also be nominated (within 7 days of creation/heavy expansion) for the Did you know? box on the Main Wikipedia page. Please remember to add {{WikiProject College football}} to the talk page of the article.
+
+Please place newest articles on the top
+
+Articles in need of attention [ edit ]
+
+Please feel free to ask for help from your fellow college football fans here (newer articles at the top, please).
+
+Malone Stadium - This article need to be updates, there is not much information about this article. The stadium at UL-Monroe has lots of history and a new scoreboard was installed. The stadium also plans to get a new athletic complex built. Much more information would be great! WillAndersULM (talk) 01:06, 31 December 2013 (UTC)
+
+Dynasty (sports) College football sections need a lot of cleanup and citations (note that in the context of this article that means citation not of championships or stats, but that a team has been called a dynasty by a reliable source). Also probably needs some correction; are Yale's 1874 to 1909 "championships" considered D-I FBS (or even NCAA?). Ideally this would be rewritten into prose (rather than list) discussion of college football dynasties.
+
+Blue-Gray Football Classic- Needs some dressing up, and I don't think it's templated/categorized properly for this project. I'm on a small wikibreak, but I keep hearing this game referenced on sportstalk radio lately ('tis the season), so punting to here...
+
+End, unfortunate such a once important position has such a paltry article. Cake (talk) 20:51, 25 February 2015 (UTC)
+
+Backfield, same as above though "bundle of positions" if you will. Cake (talk) 20:22, 19 March 2015 (UTC)
+
+Open deletion discussions [ edit ]
+
+Deletion review history [ edit ]
+
+Wikipedia:WikiProject Deletion sorting/American football/archive – dates back to September 2007
+
+Articles and pages requested to be moved [ edit ]
+
+Open
+
+Requests [ edit ]
+
+Games [ edit ]
+
+List of black college football classics, many games listed here need articles
+
+Teams [ edit ]
+
+Players and coaches [ edit ]
+
+Historically significant teams without articles [ edit ]
+
+Project editors have established and maintained articles for all 127 current NCAA Division I FBS football programs. However, many lower division and defunct college football programs remain without standalone articles. For example, the following schools won national championships at the Division I or historically equivalent level or made important contributions to the sport, but do not currently have football articles:
+
+World War II-era military service training programs
+
+As of August 2016, over 38,000 articles and lists and more than 18,000 images, categories, templates and other support elements have been identified within the scope of WikiProject College football; see here. As such, there are too many college football articles on Wikipedia to list them all here. Below are categories that contain college football-related articles:
+
+Category trees [ edit ]
+
+The College football Wikiproject currently maintains Portal:College football and assists on an as-needed basis in the maintenance of Portal:American football. Editors are encouraged to submit and nominate content on both portals. Portal:College football/Selected Content/Nominations provides an overview of scheduled content and examples of what qualifies to be featured content. In addition, important college football events should be added to the College Football News section of the portal, which is also maintained by project members.
+
+Recognized content [ edit ]
+
+Featured articles [ edit ]
+
+1924 Rose Bowl • 2000 Sugar Bowl • 2003 Insight Bowl • 2005 ACC Championship Game • 2005 Sugar Bowl • 2005 Texas Longhorns football team • 2006 Chick-fil-A Bowl • 2006 Gator Bowl • 2007 ACC Championship Game • 2007 Appalachian State vs. Michigan football game • 2007 USC Trojans football team • 2008 ACC Championship Game • 2008 Humanitarian Bowl • 2008 Orange Bowl • 2009 International Bowl • 2009 Orange Bowl • Aggie Bonfire • Hobey Baker • CenturyLink Field • Happy Chandler • John Sherman Cooper • Ben Crosby • Fightin' Texas Aggie Band • Gerald Ford • Chris Gragg • Otto Graham • History of American football • Richard Nixon • 2010 PapaJohns.com Bowl • Ramblin' Wreck • Ronald Reagan • Jackie Robinson • Rex Ryan • Jim Thorpe • Billy Joe Tolliver • Lawrence Wetherby • Tyrone Wheatley • William Wurtenburg • Scott Zolak
+
+Former featured articles [ edit ]
+
+Charles Ives • Theodore Roosevelt
+
+Featured lists [ edit ]
+
+2009 College Football All-America Team • List of Alabama Crimson Tide head football coaches • List of Arkansas Razorbacks head football coaches • Atlantic Coast Conference football champions • List of Auburn Tigers head football coaches • List of Clemson Tigers head football coaches • List of Colorado Buffaloes head football coaches • List of East Carolina Pirates football seasons • List of East Carolina Pirates head football coaches • List of Georgia Bulldogs head football coaches • List of Iowa State Cyclones head football coaches • List of Kansas Jayhawks head football coaches • List of Kansas State Wildcats head football coaches • List of LSU Tigers head football coaches • List of Appalachian State Mountaineers football seasons • List of Oklahoma Sooners football seasons • List of Texas Tech Red Raiders head football coaches • List of Virginia Tech Hokies football seasons • List of Alabama Crimson Tide bowl games • List of Alabama Crimson Tide football seasons • List of Arkansas Razorbacks in the NFL draft • List of Baylor Bears head football coaches • List of Connecticut Huskies bowl games • List of Connecticut Huskies in the NFL Draft • List of East Carolina Pirates in the NFL Draft • List of Heisman Trophy winners • List of Maryland Terrapins football honorees • List of Nebraska Cornhuskers head football coaches • List of North Carolina Tar Heels in the NFL Draft • List of Oklahoma Sooners in the NFL Draft • List of Texas A&M Aggies head football coaches • List of Texas Tech Red Raiders in the NFL Draft • List of UAB Blazers football seasons • List of Virginia Tech Hokies bowl games • List of Maryland Terrapins football seasons • List of Missouri Tigers head football coaches • List of Navy Midshipmen head football coaches • List of Oklahoma Sooners head football coaches • List of Oklahoma State Cowboys head football coaches • List of Tennessee Volunteers head football coaches • List of Texas Longhorns head football coaches • List of Texas Tech Red Raiders bowl games • List of Texas Tech Red Raiders football seasons • List of Vanderbilt Commodores head football coaches • List of Washington & Jefferson Presidents head football coaches
+
+Former featured lists [ edit ]
+
+2005 NCAA Division I-A football rankings • 2006 NCAA Division I FBS football rankings • List of Iowa Hawkeyes football seasons • Lists of Michigan Wolverines football passing leaders • Lists of Michigan Wolverines football receiving leaders • Lists of Michigan Wolverines football rushing leaders
+
+Good articles [ edit ]
+
+1879 Navy Midshipmen football team • 1882 Navy Midshipmen football team • 1883 Navy Midshipmen football team • 1884 Navy Midshipmen football team • 1885 Navy Midshipmen football team • 1886 Navy Midshipmen football team • 1892 Alabama Cadets football team • 1893 Alabama Crimson White football team • 1896 Michigan Wolverines football team • 1899 Sewanee Tigers football team • 1901 Michigan Wolverines football team • 1906–17 Stanford rugby teams • 1906 Vanderbilt Commodores football team • 1912 Vanderbilt Commodores football team • 1915 Vanderbilt Commodores football team • 1917 Georgia Tech Golden Tornado football team • 1918 Georgia Tech Golden Tornado football team • 1920 Georgia Tech Golden Tornado football team • 1921 Centre Praying Colonels football team • 1921 Georgia Tech Golden Tornado football team • 1921 Vanderbilt Commodores football team • 1922 Vanderbilt Commodores football team • 1923 Michigan Wolverines football team • 1925 Michigan Wolverines football team • 1928 Florida Gators football team • 1928 Georgia Tech Golden Tornado football team • 1943 Alabama Informals football team • 1947 Sun Bowl • 1949 Sun Bowl controversy • 1954 Orange Bowl • 1966 Liberty Bowl • 1968 Liberty Bowl • 1981 Peach Bowl (January) • 1984 Independence Bowl • 1986 Peach Bowl • 1990 Toledo Rockets football team • 1993 Independence Bowl • 1994 Gator Bowl • 1995 Sugar Bowl (December) • 1996 Orange Bowl (December) • 1997 Michigan Wolverines football team • 1998 Gator Bowl • 2001 Gator Bowl • 2002 Gator Bowl • 2002 San Francisco Bowl • 2004 Emerald Bowl • 2005 Texas vs. Ohio State football game • 2005 USC Trojans football team • 2006 ACC Championship Game • 2006 Oklahoma Sooners football team • 2007 Hawaii Bowl • 2007 Navy vs. North Texas football game • 2007 Texas Longhorns football team • 2008 Maryland Terrapins football team • 2009 ACC Championship Game • 2009 Alabama Crimson Tide football team • 2009 Big Ten Conference football season • 2009 Chick-fil-A Bowl • 2009 Michigan Wolverines football team • 2010 ACC Championship Game • 2010 Alabama Crimson Tide football team • 2010 East–West Shrine Game • 2010 Michigan Wolverines football team • 2011 Alabama Crimson Tide football team • 2011 LSU vs. Alabama football game • 2011 Michigan Wolverines football team • 2011 Orange Bowl • 2012 Alabama Crimson Tide football team • 2012 Liberty Bowl • 2012 MAC Championship Game • 2012 New Mexico Bowl • 2013 Alabama Crimson Tide football team • 2013 Cotton Bowl Classic • 2013 Penn State Nittany Lions football team • 2014 GoDaddy Bowl • ACC Championship Game • Tony Adamle • Marcus Adams (Canadian football) • Ralph W. Aigler • Tony Akins (Canadian football) • Ted Alford • Tuineau Alipate • Ian Allen (gridiron football) • Jeff Allen (defensive back) • Pokey Allen • Zock Allen • Butch Allison • Buddy Alliston • Gerald Alphin • Charles Alston (gridiron football) • Richard Alston (gridiron football) • Ronnie Amadi • Archie Amerson • Jon Anabo • Apogee Stadium • Mark Bavaro • Bert Bell • Gordon Bell (American football) • Stan Benjamin • Sean Bennett • Raymond Berry • Joe Biden • Doc Blanchard • LeGarrette Blount • Tony Boles • Lynn Bomar • Cory Booker • Frenchy Bordagaray • Justin Boren • Keith Bostic (American football) • Philip Henry Bridenbaugh • Jarrett Brown • Paul Brown • Phil H. Bucklew • Dick Butkus • Robb Butler • Buzz (mascot) • Curley Byrd • Charles Cabaniss • Robert Cade • Earl Campbell • George Campbell (American football) • Billy Cannon • Vaulx Carter • John Cena • Bob Chappuis • Jay Civetti • Jack Clancy • Josh Cody • Terrence Cody • Blanton Collier • Crab Bowl Classic • Hank Crisp • Brodie Croyle • Thom Darden • Dartmouth Big Green football under William Wurtenburg • Antone Davis • Joe Delaney • Gene Derricotte • Paul Des Jardien • Jacob L. Devers • Parnell Dickinson • Bobby Dodd • Maurice Douglass • William Lofland Dudley • Don Dufek • Drake Dunsmore • Darian Durant • Dan Dworsky • Kenny Easley • Mike Echols (gridiron football) • Ben Edwards (American football) • Keith Elias • Bump Elliott • Hayden Epstein • Obi Ezeh • Jack Faber • Forbes Field • Tate Forcier • Len Ford • Julius Franks • William Fuller (American football) • Lu Gambino • Frank Gatski • Don Gault • Elmer Gedeon • Georgia Tech Yellow Jackets football • Horace Gillom • Paul G. Goebel • Kevin Grady • Brandon Graham • Bud Grant • Ryan Grant (running back) • Joe Greene • Rex Grossman • Lou Groza • Remy Hamilton • Connor Hamlett • 2012 Hawaii Bowl • Mercury Hayes • Joel Heath • Ralph Heikkinen • Heinz Field • John Heisman • Junior Hemingway • Devin Hester • Ed Hochuli • George Hoey • Skip Holtz • Les Horvath • Chris Howard (American football) • Weldon Humble • Hal Hunter (American football, born 1932) • Don Hutson • Jack the Bulldog • Tommy James (American football) • Caitlyn Jenner • Johns Hopkins–Maryland lacrosse rivalry • Calvin Johnson • Dwayne Johnson • Ezra Johnson • John Henry Johnson • Brereton Jones • Dub Jones (American football) • Cato June • Mike Junkin • Mike Kafka • Keggy the Keg • Jack Kemp • Ted Kennedy • Wade Key • Don Kindt • Kevin King (American football) • Kevin Kolb • Jordan Kovacs • Oliver Kuhn • James Sloan Kuykendall • Dante Lavelli • Ryan Leaf • Roy Lester • Joe Lillard • Tyler Lockett • Jake Long • Steve Longa • Sid Luckman • Greg Mancz • Peyton Manning • Venric Mark • Leonard Marshall • Maryland Terrapins football, 1892–1946 • Maryland Terrapins football • Maryland Terrapins football under Jim Tatum • John Maulbetsch • Calvin McCarty • Josh McCown • Colt McCoy • Monk McDonald • Hugh McElhenny • Dan McGugin • Bo McMillin • Zoltán Meskó (American football) • Abe Mickal • Brandon Minor • Freddie Mitchell • John Mitchell (American football coach) • David Molk • Corey Moore (safety) • Jim Moran • Shane Morris • Steve Morrison (American football) • Marion Motley • Jonas Mouton • Captain Munnerlyn • Ed Muransky • 1998 Music City Bowl • Native American mascot controversy • Navy–Johns Hopkins football rivalry • Phil Nevin • Jared Norris • Robin Olds • Patrick Omameh • Bennie Oosterbaan • J. T. O'Sullivan • Ara Parseghian • Alan Pastrana • Walter Payton • Joe Perry (American football) • Ted Petoskey • Al Pollard • Irving Kane Pond • Ricky Powers • Jarrod Pughsley • Mike Quinn • Ralphie the Buffalo • Ramblin' Wreck from Georgia Tech • Roy Riegels • Dick Rifenburg • Garrett Rivas • Garland Rivers • Denard Robinson • Roy Roundtree • Lou Rymkus • Lou Saban • Mark Sanchez • Gale Sayers • Stephen Schilling • O'Brien Schofield • Germany Schulz • Norman Schwarzkopf Jr. • Da'Rel Scott • Clark Shaughnessy • Phil Simms • Greg Skrepenak • Jackie Slater • Torrey Smith • Sparty • Mac Speedie • Wilton Speight • Tai Streets • Everett Strupper • Jack Swagger • Jim Taylor (fullback) • Lawrence Taylor • TCF Bank Stadium • Pete Thomas (American football) • Three Rivers Stadium • John J. Tigert • Bob Timberlake (American football) • Y. A. Tittle • T. T. Toliver • Chris Turner (American football) • Toussaint Tyler • Brian Urlacher • Ryan Van Bergen • Steve Van Buren • Jon Vaughn • Michael Vick • Mark Vlasic • Rick Volk • Marquise Walker • Stan Walters • Bob Ward (American football) • Willis Ward • Pop Warner • Donovan Warren • Washington & Jefferson Presidents football • Joe West (umpire) • West Virginia Mountaineers football • Jamaal Westerman • J. T. White • Nikita Whitlock • Thomas Wilcher • Garry Williams (gridiron football) • Jordan Williams (American football) • Trevor Williams (American football) • Bill Willis • Al Wistert • Whitey Wistert • Butch Woolfolk • Jack Youngblood
+
+Former good articles [ edit ]
+
+2006 Alamo Bowl • Marcus Allen • Reggie Ball • Terry Bradshaw • Tom Brady • Clean, Old-Fashioned Hate • Tom Cousineau • Brett Favre • Fifth Down Game (1990) • Gaylord Family Oklahoma Memorial Stadium • Darren McFadden • Ohio Stadium • Oklahoma Sooners football • Luke Ravenstahl • Jack Tatum • Tim Tebow • Tyler Thigpen • Vince Young
+
+Featured pictures [ edit ]
+
+File:1899 Michigan Wolverines football team.jpg
+
+File:Jackie Robinson, Brooklyn Dodgers, 1954.jpg
+
+File:Official Portrait of President Reagan 1981.jpg
+
+File:Ronald Reagan with cowboy hat 12-0071M edit.jpg
+
+File:Shea Smith-edit1.jpg
+
+
+
+
+
+Participants [ edit ]
+
+Here is a list of College Football Wikiproject members, together with some of their interests. To join the group simply add yourself to the Wikipedia:WikiProject College football/Participant List, being sure to maintain alphabetical order.
+
+
+
+
+
+Active

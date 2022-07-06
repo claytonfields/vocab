@@ -1,0 +1,81 @@
+This post goes into the details of how you can add a "save game" feature to your games. Python's built-in shelve module makes this very easy to do, but there are some pitfalls and tips that you might want to learn from this post before trying to code it up yourself.
+
+To give an example of adding a "save game" feature to a game program, I'll be taking the Flippy program (an Othello clone) from Chapter 10 of "Making Games with Python & Pygame" (and Reversi from Chapter 15 of "Invent Your Own Computer Games with Python".)
+
+If you want to skip ahead and see the Flippy version with the "save game" feature added, you can download the source code and image files used by the game. You need Pygame installed to run Flippy (but not Reversi).
+
+
+
+The Naïve Ways to Implement "Save Game"
+
+A save game feature works by taking all of the values in the program's variables (which in total called the game state) and writes them out to a file on the hard drive. The game program can be shut down, and when next started again the values can be read from the file and into the program's variables.
+
+If you are familiar with Python's file I/O and the open(), write(), readline(), and close() functions, you might think that you can just open a file in write-mode, and then write out all the data to the hard drive that you want to load the next time the player plays the game. This is doable, but turns out to be a bad way to implement a "save game" feature.
+
+Read the detailed explanation. » What exactly is the format of the text you'll write out? You could write out text like this (if you were making an RPG): name=Hero gold=42 hp=55/60 ... This has several problems. When you read the content in from the file to load a saved game, you'll have to write a lot of code that is specific for your particular game: fp = open('savedGame.txt') name = fp.readline().split('=')[1] gold = int(fp.readline().split('=')[1]) currentHp, maxHp = fp.readline().split('=')[1].split('/') currentHp = int(currentHp) maxHp = int(maxHp) ... Yeesh. That's going to be a lot of code we need to write, test, and debug as the game gets more complicated. Using the open(), read() and write() functions is good for basic file I/O, but not when it comes to a "save game" feature. If you are familiar with JSON or XML, Python comes with built-in json and xml modules that can format your data to the JSON format or XML format. Then you can write this formatted text to a file. This is better, but still not as convenient as the shelve module.
+
+
+
+Quick Start: The shelve Built-In Module
+
+The shelve module has a function called shelve.open() that returns a "shelf file object" that can be used to create, read, and write data to shelf files on the hard drive. These shelf files can store any Python value (even complicated values like lists of lists or objects of classes you make).
+
+Say you had a variable with a list of list of strings, like the mainBoard variable in the Flippy program. Here's how you can save the state of all 64 spaces on the board (which are 64 string values) and the other variables (playerTile, computerTile, showHints, and turn):
+
+import shelve shelfFile = shelve.open('saved_game_filename') shelfFile['mainBoardVariable'] = mainBoard shelfFile['playerTileVariable'] = playerTile shelfFile['computerTileVariable'] = computerTile shelfFile['showHintsVariable'] = showHints shelfFile.close()
+
+The shelve.open() function returns a "shelf file object" that you can store values in using the same syntax as a Python dictionary.
+
+You don't have to put the word "Variable" at the end of the key. I just did that to point out that the name doesn't have to be the same as the variable with the value being stored. In fact, just like any dictionary key, it doesn't even need to be a string.
+
+The data stored in the shelf object is written out to the hard drive when shelfFile.close() is called.
+
+Note that the shelf file name is 'saved_game_filename', which doesn't have an extension. An extension isn't needed, but you can add one if you want. This will be explained more in detail.
+
+Here's the code to load the game state from a shelf file:
+
+import shelve shelfFile = shelve.open('saved_game_filename') mainBoard = shelfFile ['mainBoardVariable'] playerTile = shelfFile ['playerTileVariable'] computerTile = shelfFile ['computerTileVariable'] showHints = shelfFile ['showHintsVariable'] shelfFile.close()
+
+That's it for the basics. Think of a shelf object as a single dictionary that you store all of your game state variables in when you save a game, and then read all the game state values out of when you load a game. The shelve module handles all the file I/O details for you.
+
+The shelve.open() Function
+
+There are a few options you might want to pay attention to for the shelve.open() function. There are three optional parameters to the shelve.open() function you might want to pass, but the default values for these are what you want in 99% of the cases, so you can skip the rest of this section.
+
+Show the optional parameter explanations. »
+
+The flag parameter can be the string 'r' (to open the shelf file as read-only), 'w' (to open the shelf file for reading and writing), 'c' (to open for reading and writing, but also creating the shelf file if it doesn't already exist. This is the default.), and 'n' (delete the old shelf file and start with a new, blank shelf file). I don't really find this too handy, but there might be cases where it is useful. The flag parameter can be the string 'r' (to open the shelf file as read-only), 'w' (to open the shelf file for reading and writing), 'c' (to open for reading and writing, but also creating the shelf file if it doesn't already exist. This is the default.), and 'n' (delete the old shelf file and start with a new, blank shelf file). I don't really find this too handy, but there might be cases where it is useful. The protocol parameter is probably the one parameter you want to set. It defines the version that the "pickler" uses to store the data. ("Pickling" is the term used for converting values in your variables to text that are written out to files, which is done when you save a game. "Unpickling" is the reverse. That's what happens when you load a saved game. The shelve module makes use of the code in the more primitive (but more flexible) pickle module.) By default the call to shelve.open() uses the oldest, least efficient version. This is good because it also ensures that it will be the most widely supported no matter what version of Python people are using. However, if you want more efficiency, you can pass the integer 2 for this parameter (the versions are currently 0, 1, and 2). Or if you have "import pickle" in your script, you can pass pickle.HIGHEST_PROTOCOL and this will always use the latest version of the pickling protocol. But be warned, earlier versions of Python may not be able to read the shelf files produced by later versions of Python running your game script. To be safe, just use the default. There's more info about pickle protocol versions at http://docs.python.org/py3k/library/pickle.html The third optional parameter to shelve.open() is the writeback parameter. This is used for a situation like this: import shelve shelfFile = shelve.open('some_file') myList = [1, 2, 3] shelfFile['list'] = myList myList.append(4) shelfFile.close() In the above code, what is stored in the shelf file is the list [1, 2, 3] and not [1, 2, 3, 4]. The data that is stored in the shelf file is not updated even though the list that was placed in the shelfFile was updated. You need to think of the line shelfFile['list'] = myList as "Store the value in myList as it looks right now." If you want the shelf file to update whenever mutable values such as lists or dictionaries are updated, pass True for the writeback parameter. If you use shelve.open('some_file', writeback=True) in the above code, then the list that is stored in the shelf file will be [1, 2, 3, 4]. Having writeback adds some memory costs to your program, and since for saved games we usually open a shelf file, write to it, and close it immediately, it's not a very useful feature. You can ignore it.
+
+
+
+You can read the official documentation for shelve.open() and its parameters.
+
+File Formats and Shelf File Extensions
+
+About the file formats that the shelve module uses:
+
+It doesn't matter. The shelve module handles all the details. You can ignore it completely. It's one less thing you need to worry about so you can get back to making your game.
+
+You may notice that when you create shelf files, there are actually three files that are created. If you used 'some_file' in the shelve.open() call, the files that appear on your hard drive after you call the close() method are some_file.bak, some_file.dir, and some_file.dat.
+
+You don't really need to know what these files are used for. In my own experiments, you can delete the .bak file (I guess it's just a backup file, but keep it around anyway) but the .dat and .dir files are needed. The only reason I point this out is because if you want to copy your saved game files to another computer, you need to know that there is more than one file that needs to be copied.
+
+If you pass an extension to shelve.open() like 'some_file.txt', then the files will be some_file.txt.bak, some_file.txt.dat, and some_file.txt.dir.
+
+Security Warning
+
+Just like with any file, your players can modify the values in the shelf file. You can try obfuscated the data in it, but this never works in the long run. What this means in most cases is that people can make saved game hack programs to let players cheat. That's not really a problem.
+
+What can be a problem is if your game executes code depending on the content of the shelf file, than this can have bad security implications. Say as part of the save game file, you include a string that tells your game what program to run. Something like this:
+
+shelfFile['programToRun'] = 'notepad.exe'
+
+A malicious hacker could change the shelf file so that instead of the string 'notepad.exe' it is 'virus.exe' or some other value that could cause your game program to act badly because of a saved game file. In most cases, your games won't store data like this. But it's something that I just wanted to point out.
+
+Examples: flippy_withsavegame.py and reverse_withsavegame.py
+
+The good news is that the shelve module makes it as simple as possible to convert the values in variables to files on the hard drive, and vice versa. Just call shelve.open(), assign the values to the shelf file object, and then call the close() method.
+
+But it also helps to see this used in actual code. I've modified a couple Othello games from "Invent Your Own Computer Games with Python" and "Making Games with Python". Both are written for Python 3.
+
+Reversi is an Othello clone that uses ASCII text for graphics. Flippy is an Othello clone that has real graphics. You will need to download and install Pygame to run it.

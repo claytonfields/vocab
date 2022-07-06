@@ -1,0 +1,53 @@
+“The measure of a man is what he does with power.” – Plato
+
+The National Grid does not serve our nation.
+
+The UK’s electricity network is not designed for the 21st century. It is certainly not designed to be able to best exploit the resources we will want to be using in the post-oil age.
+
+The basic premise of the national grid is that until now we have run a centralised system with near-zero storage. Power is generated at a comparative few power stations and distributed to where it is needed.
+
+To minimise infrastructure costs and transmission losses, this led to a system whereby the National Grid (the operator) levies charges for connecting to the national grid (the infrastructure) based, in principle, on distance from “population centres”.
+
+Except what this actually means is distance from London. As shown below, if you want to connect a 1MW generator to the UK grid you’ll be paid over £5,000 per year to do so. Connect the same generator in Caithness and you’ll have to PAY £25,420 for the privilege.
+
+
+
+Top: Regional map of National Grid Connection Tariffs for 2013/14.
+
+Bottom: 2015/16 figures, Source: here.
+
+Except that it’s not even simply a matter of “distance from London”. Connect your generator at Penzance, 412km from the centre of London and you’ll be paid £5.8 per kW/yr but connect it in Gretna, 435km from London, and you’ll be paying £13.37 per kW/yr.
+
+What all this means is that any attempt by Scotland to contribute to the national grid is hampered from the beginning. The logic of the past, such that it was, was based on a system of centralised power generation where the fuel (coal and oil then later gas and uranium) could be transported to where the power could most efficiently be generated. This logic no longer applies to a future where the generators must go to where the wind, the tide, the water and the sun are. It also no longer applies to a future which will rely on many decentralised generators scaling from household sized rooftop solar panels out to massive offshore wind farms which have the potential to outstrip Scotland’s oil wealth many times over.
+
+A 2009 study by the EU found that the unrestricted technical potential of Scottish offshore wind (that is, if Scotland built an offshore wind turbine everywhere it was technically feasible to build one regardless of cost, navigation disruption, visual disruption or any other factor) then we could expect to generate somewhere in the region of 4,000 TWh of energy per year. For reference, between 1973 and 2015, the UK has extracted an average of 1,637,690 barrels of oil per day from the North Sea and surrounds (The 2015 average was around half of this long term average). Each barrel of oil contains a chemical energy content of 1.7MWh (not all oil is burned as fuel but some 85% currently is) so this implies an annual energy equivalent extraction of just a little over 1,000 TWh. Our offshore wind potential is four times larger than our entire oil output.
+
+Add to this an potential of around 45 TWh per year worth of onshore wind, Anywhere between 5.5 TWh and 45 TWh per year from rooftop solar, 2.7 TWh per year from hydro, 16.5 TWh per year from tidal, 45 TWh per year from wave, 7.6 TWH per year from geothermal and perhaps another 7 TWh from other sources such as biomass.
+
+Even excluding the vast offshore wind reserves, this all adds up to around at least 130 TWh per year which just in and of itself almost meets the 2013 total Scottish energy demand of 144 TWh which itself excludes further savings which could come by reducing our demand for things like heat for our homes (theoretical reductions of up to 60 TWh per year if every building in Scotland was replaced with a passively heated one) or other initiatives such as capturing and harnessing waste heat from our industries (a potential source of up to 35 TWh per year)
+
+So in terms of sheer capacity, Scotland is bathed in potential, far more than we could reasonably use and perhaps even far more than we could reasonably export (The total energy use of the entire EU is somewhere in the region of 12,000 TWh per year).
+
+Which brings us back to the national grid.
+
+If Scotland were to transfigure to a completely renewable electric society, as the Scottish Government clearly wants to be able to do, and was to connect the required 144 TWh worth of electricity to the UK grid then at current fees it would cost us some £333 million per year (which would be added to our utility bills). As stated at the beginning, we can’t move the wind and sun to the generators the way we could coal and gas so Scotland is quite simply being discriminated against by this charging regime.
+
+In fact, let’s take a moment to dispel something. This idea of there being one national electrical distribution grid stretching right across the UK and that Scotland would need to do some drastic upgrading in the event of independence was one of the Great Unchallenged Lies of the 2014 No campaign. There isn’t one distribution grid across the UK. There isn’t even one across the island of Great Britain. There isn’t even one electrical distribution grid covering all of Scotland!
+
+The UK Electricity Distribution (local and regional grids) and Transmission (high voltage, long range) grids. Source here.
+
+The first step towards realising our renewable potential will lie in taking back control of the grids in Scotland. The situation of our being economically penalised by the grid connection fees as well as the lack of ability to take this chance to reconfigure our grid from the 19th century mass generation model to one fit for the 21st century largely stems from our willingness to leave ownership and responsibility for the running of our electrical supply to “the market”. The UK is just about the only country in Europe which doesn’t contemplate state ownership of its own electrical infrastructure (except, of course, if it’s not OUR state doing the owning. Having France and China build our power stations is just fine).
+
+A few years ago, Common Weal published a paper on the potential for Scotland to take back control of our infrastructure (it wouldn’t cost us any more to do so than it does to leave it where it is) as well as the potential for using national borrowing to finance the expansion using cheap government bonds which are far lower than commercial bank rates and tiny compared to the return on investment on wind and solar projects.
+
+And cost will be a major factor in this transition (that is, what it will cost us if we don’t make that transition.
+
+If you had asked someone five years ago the question “In 2025, what will be the three cheapest ways to make electricity” they would have answered “onshore wind, natural gas and nuclear”. You would have then been reasonably well founded in building a policy based on new nuclear plants and fracking, assuming you were fine with continuing to ignore the climate, pollution and other economic issues.
+
+Ask the question again today and your top three would be “onshore wind, solar and offshore wind”. Anyone still backing Ineos, the Atlantic Margin or Hinkley Point C as the saviours of our energy supply have already lost that argument to sheer economics before any of those projects even begin.
+
+So we’ve fixed generation and we’ve fixed the infrastructure, we can just go ahead and start the conversion, can’t we?
+
+Not quite. The raw numbers are suggestive but there are still a couple of problems to be tackled in a 100% renewable Scotland. Part 2 will show what it looks like to move to more intermittent energy sources than we’re used to and what role energy storage can play in all of this.
+
+Advertisements

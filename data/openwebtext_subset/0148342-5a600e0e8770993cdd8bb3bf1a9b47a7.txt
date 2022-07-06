@@ -1,0 +1,7 @@
+Browsing around for bike-related goodies today, we came across this brilliant example of proletariat problem-solving in the name of an improved urban cycling experience. They call it the Traffic Loop Sensor Activator, or sometimes U.S. Patent #7,432,827--we call it a nice alternative to sweating for minutes at a time in the midst of high-speed traffic, waiting for a green light that never comes.
+
+The gadget, depicted above, directly triggers the inductive sensors embedded in the roadway at many intersections, by creating a strong but short-lived magnetic field that simulates the presence of a much larger conductor--like the steel body of a car. Note that it's not an always-on kind of deal; the cyclist must press a button to activate it when centered over the telltale two-rectangle groove of the induction sensor coil, but it's a heck of a lot better than hoping for a car to come along and rescue you, or risk running a red light with an excuse no dedicated motorist is going to believe.
+
+Obviously clunky and big, we'd love to see a sleeker version integrated into a few of the growing multitude of "urban commuter" bikes being trotted out lately, if only out of pure self-interest. We've gotta wonder, though, what the prototype testing looked like for this one. Late night intersection inspections maybe?
+
+>>Read more about it, and get directions for building your own (if you're nerdy enough)

@@ -1,0 +1,223 @@
+Dark.Revenant
+
+
+
+Posts: 2457
+
+
+
+
+
+
+
+AdmiralPosts: 2457 [0.8a] Starsector+ 3.7.0 « on: January 26, 2014, 12:08:21 AM » BIG ANNOUNCEMENT
+
+
+
+SS+ will no longer be updated going forward. The number of worthwhile features within it has dwindled, which can just be included in other mods. Crew salaries and probably vengeance fleets will be gone altogether. Nexerelin will likely take the officer death and battle map enhancements. Dynasector will improve the named bounty system. SWP will have the few remaining vanilla balance changes.
+
+
+
+
+
+
+
+Download Starsector+ 3.7.0
+
+Download Mirror
+
+(Requires (Updated))
+
+(Requires (Updated))
+
+
+
+Git Repository
+
+
+
+Edit SSP_OPTIONS.ini to enable or disable Starsector+ features! (Requires LazyLib 2.2 (Requires GraphicsLib 1.1.0
+
+
+
+
+
+
+
+We also recommend
+
+
+
+Having problems ? Visit the If you want to convert a save (from vanilla or an old version), use Save Transfer to keep your progress.We also recommend Version Checker to notify you when an update is ready.Having? Visit the Mod Troubleshooting Guide
+
+
+
+Main Features
+
+- Balance changes
+
+- Overhauled bounty system
+
+- Vengeance fleets
+
+- Campaign improvements
+
+- Not compatible with total conversions
+
+
+
+
+
+Other Features Your officers can die in battle
+
+Crew requires salary payments
+
+Fixes to some vanilla bugs
+
+
+
+Change Log
+
+Version 3.7.0 (May 6, 2017)
+
+Updated to support Starsector 0.8a
+
+Removed skills changes
+
+Removed soft fleet size limit
+
+Removed extra skill point scaling
+
+Removed extra crew bonus
+
+Reverted numerous weapon balance changes
+
+Reverted ship changes
+
+Further nerfed Hurricane MIRV cooldown from 10 to 15 seconds (vanilla is 5)
+
+Decreased amount of money gained by turning in AI cores to Tri-Tachyon, Independents, and Sindrian Diktat (2-3x base to 1.25-1.5x base)
+
+Increased rep reward for turning in AI cores to Tri-Tachyon (0.5x base to 0.75x base)
+
+Nerfed Damper Field to be 60/55/50/45% damage reduction, depending on ship size
+
+Version 3.6.2 (April 11, 2017)
+
+Outer Rim Alliance support
+
+Version 3.6.1 (February 6, 2017)
+
+Additional trade fleets
+
+Improved vengeance fleet behavior
+
+Fixed various minor bugs
+
+All factions with bounties can issue named bounties, not just DynaSector-supported factions
+
+Version 3.6.0
+
+Removed vent speed experiment
+
+Removed target leading pip (bugfix)
+
+Reverted market procurement mission "improvements"
+
+Version 3.5.2
+
+Fixed level scaling
+
+Version 3.5.1
+
+General compatibility update
+
+Version 3.5.0
+
+startOptions.json now called SSP_OPTIONS.ini
+
+Numerous features split to GraphicsLib, Ship/Weapon Pack, Underworld, DynaSector, and Audio Plus
+
+Increased commission bounty payment to 500 credits
+
+Improved Market Procurement mission
+
+Improved Vengeance fleet pacing
+
+Made procurement missions and hireable officers scale to the number of markets in the sector
+
+Buffed Repair Gantry
+
+Bug fixes galore
+
+(Older versions included in internal change log)
+
+
+
+
+
+Credits Dark.Revenant for general development Tartiflette for in-battle jump point artwork, and some misc. icons/splashes SS+ will no longer be updated going forward. The number of worthwhile features within it has dwindled, which can just be included in other mods. Crew salaries and probably vengeance fleets will be gone altogether. Nexerelin will likely take the officer death and battle map enhancements. Dynasector will improve the named bounty system. SWP will have the few remaining vanilla balance changes.(May 6, 2017)(April 11, 2017)(February 6, 2017) « Last Edit: May 10, 2017, 07:26:03 PM by Dark.Revenant » Logged
+
+HELMUT
+
+
+
+Posts: 1322
+
+
+
+
+
+
+
+AdmiralPosts: 1322 Re: [0.6.2a] Starsector+ Vanilla Enhancement Mod 0.2 « Reply #7 on: February 07, 2014, 09:21:26 AM » Haven't really tried the Revenant, however the Achilles seems very powerful, especially the long range variant. You can lob a massive amount of lrms across the map on a target, even a lone Achilles can take down without a scratch big meanies like the Dominator. It remind me a bit of Kadur's ships, low tech missiles boats that can swarm the screen with lrms. It's pretty much unstoppable unless you are largely outnumbered.
+
+
+
+I have yet to try a missile based fleet with those in the campaign but i'm pretty sure it will be very powerful. That's going to be fun. Logged
+
+Dark.Revenant
+
+
+
+Posts: 2457
+
+
+
+
+
+
+
+AdmiralPosts: 2457 Re: [0.6.2a] Starsector+ Vanilla Enhancement Mod 0.2 « Reply #8 on: February 07, 2014, 04:11:12 PM » It's a hard counter to the Dominator, but ships like the Aurora are pretty much immune to LRM spam. If you have proper shielding and/or point defense systems, dealing with a fire-support Achilles is not a problem.
+
+
+
+I had to do several takes with the Achilles to get it to succeed against that frigate fleet, by the way. It's really easy to mess up and get creamed since it has terrible armor coverage. Logged
+
+Dark.Revenant
+
+
+
+Posts: 2457
+
+
+
+
+
+
+
+AdmiralPosts: 2457 Re: [0.6.2a] Starsector+ Vanilla Enhancement Mod 0.3 « Reply #12 on: February 16, 2014, 06:29:48 AM »
+
+
+
+Integrated and updated arcibalde's Vanilla Addon mod (over 400 new variants!)
+
+NPC fleets now have randomized skills, aptitudes, crew veterancy, and a flagship
+
+Added Small Unit Tactics, Wing Command, and Logistical Oversight skills to the Leadership skill tree
+
+Added Engine Power Limiter, Expanded Flight Decks, Cargo Expansion, Extended Fuel Tanks, Additional Crew Quarters, Minimized Logistics, and Maximized Ordinance hull mods
+
+Revamped character creation difficulty settings; start in a shuttle, a frigate, a destroyer, or a cruiser + small fleet
+
+Balance changes! After much toil and trouble, I have finished the next update. No new ships or weapons, but there is a lot of content nonetheless. Logged

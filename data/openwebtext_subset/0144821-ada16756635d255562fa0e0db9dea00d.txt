@@ -1,0 +1,49 @@
+Gabe Zichermann is the chair of Gamification Summit (June 19-21) and author of the books Game-Based Marketing, Gamification by Design and The Gamification Revolution (Q1 2013). Gabe is also the founder of Dopamine , a strategic consultancy specializing in engagement science.
+
+Most of the interest in gamification and user engagement for startups centers on customer acquisition. This is partly because of the short time around startup planning, but also the strong need to show and grow traction as quickly as possible. With startups like Foursquare, Codecademy and StackOverflow using gamification to build unprecedented early customer engagement, it's no wonder so many founders want to talk about virality.
+
+
+
+
+
+SEE ALSO: How to Maximize Your Facebook Engagement
+
+But while some startups exit within 12 to 18 months without having to prove revenue models or market opportunity, many other breakthrough entrepreneurs are still running their companies after three or four years in increasingly crowded markets. These organizations must get serious about marketing, especially when subscription drives their revenue. And nothing is more important to serious marketers than loyalty — or its new-school proxy, engagement.
+
+By definition, loyalty is expressed when a consumer chooses your product/service when other options are mostly equal. It's a form of incremental affection whose balance can be easily disturbed. A new way of thinking about loyalty is in the framework of gamification. After all, if loyalty is about driving incremental user action in a crowded environment, gamification is able to do that and deliver viral user growth, improved satisfaction, and revenue. Here are five ways to develop loyalty, based on some of the principles of gamification.
+
+Define the Grind
+
+Choose a clear and easy-to-understand action as the core of your product and loyalty effort. Think checking in or tweeting. Repeating this activity regularly is called a "grind", though it need not feel negative at all. Sometimes your experience may have multiple grinds, like posting a photo and commenting (Think Instagram or Pixable) but it's important to think of the smallest unit of energy for users and make that as commonplace as possible. Once users are doing the grind regularly, you can begin to build other, more complex behaviors on top.
+
+
+
+Lay Down an XP System
+
+Next, you'll need a point system to understand the behavior of your users. Start with what's called XP or experience points. This is an incremental point system that tracks the behavior and knowledge of your users over time. Start by assigning each grind activity one point in your XP system.
+
+
+
+Create Five Social Actions
+
+Think of the top five social actions you want your users to take, and use verbs to describe them. Don't use "buy" or "subscribe" because those are outgrowths of good engagement rather than ends in and of themselves. Concepts such as "like," "comment," "argue," or "challenge" are good examples. It's critical to think of them as social actions because they will also help you attract new users. Now, assign XP point values to each of those social actions. Consider what the relative values should be. Is creating a profile worth 10 times the commenting, or just five times. Remember this initial table of values is just a starting point and will change as you test your system.
+
+
+
+Develop a Social Loop With Appointment Mechanics
+
+Consider the actions you just described. How do they fit into a social loop that includes a place for emotion, expression, positive feedback and return? If they don't contribute to this social loop, you can use this moment to try and expand or revise your design. Now, include an appointment mechanic that has users make a commitment to check in or come back on a regular basis, preferably every day (consider the power of Gilt Groupe's noon release schedule). Because of the signal-to-noise ratio in the market, appointment mechanics can be extraordinarily powerful, and you should build notifications into your product as soon as it's practical.
+
+
+
+Have a Reward System Based on SAPS
+
+Beyond the intrinsic rewards of your experience, users will expect to receive a tangible benefit for their good behavior. Now's a good time to start thinking about what that looks like, but turn the model on its head. Use SAPS: Status, Access, Power and Stuff to drive your design. This list is in order of stickiness and cost-effectiveness as tools for behavior change.
+
+Tangible rewards like merchandise, discounts, and cash equivalents are a default concept in loyalty program design but are increasingly becoming less relevant in the gamified world. Offer your users emotionally meaningful rewards. Think of experiences like Nike Plus and StackOverflow as good examples of stuff-free reward models.
+
+
+
+Obviously, many concepts that are critical to good gamified engagement aren't included in this discussion, including the importance of a redeemable point system (potentially used to redeem for rewards in SAPS models), monetizing loyalty itself (by selling virtual items or points to third parties) and demonstrable status items - e.g. physical loyalty cards. But as with all elements of good startup design, the first step is to get the core design and iterate in an agile fashion. With Gamification, startups can give major loyalty programs a run for their money, focusing on great design, user engagement and scalable, non-cash rewards.
+
+Image courtesy of iStockphoto, hocus-focus

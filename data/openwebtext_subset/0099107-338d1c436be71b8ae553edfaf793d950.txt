@@ -1,0 +1,81 @@
+Three people you may have heard of—writer John Gruber, developer Brent Simmons, and designer Dave Wiskus—have joined forces to create Q Branch, an app development company whose first product is a $5 iPhone app called Vesper. The app, released Thursday, aims to help “collect your thoughts.”
+
+Yes, it’s Yet Another iPhone Notes App. But it’s one that’s meticulously and tastefully designed—not surprising, coming from the principals of Q Branch. I’ve spent the past few weeks beta-testing the app, and in advance of the release I also talked to Gruber, Simmons, and Wiskus (all of whom have written for Macworld in the past) about what went into building it.
+
+A notebook in your iPhone
+
+There’s no shortage of notebook and reminder apps on iOS. I’ve used many of them, including Apple’s own Notes, Evernote, and a vast collection of text editors. And yet none of them has stuck for any length of time. The Q Branch group has had the same experience.
+
+Vesper's full list view.
+
+“I’d been waiting for [a note-taking app] I liked and wanted to use,” Simmons said. “That one just hadn’t appeared. There are good ones, for sure—but none that fit how I think and none that feel the way Vesper feels.”
+
+I certainly can’t guarantee that I’ll stick with Vesper for the long haul, but I’ve been using it quite a lot for the past few weeks. The app’s core is a simple list of notes. Each note has a title, displayed in bold, with the first couple of lines displayed below it. Tap and hold to “pick up” a note and re-order the list in any way you like.
+
+Tapping on a note enters the note editor. You can enter in as much text as you’d like, as well as attach a single image, which you can take directly from within Vesper or insert from your Camera Roll. Notes can be mailed, sent via message, or copied to the clipboard—there’s no syncing with other devices or any cloud-based sync services. Notes are organized via tags. Tap on the gray Tag button at the bottom of the note to add a tag, and a pretty orange pop-up will appear as you type, suggesting tags you’ve already entered.
+
+Autocompletion of tags.
+
+From the list view, you can tap the “hamburger” icon in the top left of the screen or just swipe from the left edge in order to display a filter list, which lets you limit the notes being displayed to those that contain a particular tag. There’s also an Archive list, where you can send old notes with a swipe.
+
+Vesper doesn’t do much, but that’s the point. “We built it for ourselves,” Gruber said. “I think anyone who is like us—anyone who appreciates attention to detail, doing a few things really well instead of many things mediocrely—will love Vesper.”
+
+Vesper's tag-filter list sidebar.
+
+It’s visually striking. I like the typography (the app’s one and only body font is a custom-tweaked version of Hoefler and Frere-Jones’ Ideal Sans) and the design of the tags and the filter list. It’s simple enough not to get in my way with a lot of fiddly organizational features, but provides me with more structure than something like the Notes app. Tagging notes made a lot of sense—I immediately made Work, Writing, and Recipes tags. I commingled work notes, ideas for my novel, a favorite recipe for buttermilk biscuits, and an idea for my podcast without any trouble. Once I started treating it as the iPhone equivalent of a small paper notebook tucked into a pocket, it all began to fit.
+
+That’s not to say there isn’t more to be done with the app. Syncing notes to other iOS devices (and perhaps a service like Dropbox) would be a natural, though I fear that any feature addition will make the app more cluttered, when simplicity is one of its real strengths. Too many fiddly feature additions and I’ll run screaming from it, just as I often do from Evernote.
+
+The story of Q
+
+Q is, of course, the mastermind who provides James Bond with all of his clever gadgets, as the leader of the British spy service’s Q Branch. (Vesper is the name of a cocktail invented by Bond as well as a pivotal character in Casino Royale.)
+
+"Bond’s gadgets have always been at the intersection of utility and elegance," Gruber said. "That’s as good a motto for a software company as any."
+
+“What I hope people pick up on is that in this scenario, we aren’t Bond,” Wiskus said. “We’re the people who make all the great tools for the agents to use.”
+
+Here’s a look at the formation of Q Branch and the creation of Vesper in the words of its three creators.
+
+Macworld: How did this project come about? When did you decide to work together? Did the idea for Vesper appear first, or did you decide to collaborate and then figure out what you wanted to build?
+
+Simmons: Last year at Çingleton I talked to John and Dave about the three of us building an app, because it occurred to me that we’d make a great team, and I was looking for something new and awesome to do. John already had the idea for Vesper, but I didn’t know about it in advance.
+
+Wiskus: Last summer, Justin Williams suggested that we work on an idea John mentioned to him. Justin had to drop out to keep up with freelance work, but I had completed a few iterations of design. When Brent pulled me and John aside in Montreal, we knew we wanted to work together but didn’t have anything in mind. I said, “Well, I have this idea of John’s I was working on,’ and showed them the early designs on my phone.
+
+Gruber: Right. It was an old idea of mine from around 2009, but I had long ago figured I wouldn’t be able to build it myself, so over the years I had offered it to developer friends when they asked me if I had any ideas for apps. The difference with what we’ve done here is that I didn’t just contribute the idea, I was part of the team. I don’t consider ideas for apps all that valuable. It’s the implementation of an idea that matters.
+
+Simmons: We talked it over, and decided pretty quickly that we’d build Vesper. Not long after that I decided to leave my then-current job and switch full-time to working on Vesper.
+
+What was the division of labor on this project? What did John do, what did Brent do, and what did Dave do?
+
+Simmons: I write code while Dave and John design. While I have input on design, it takes all my time keeping up with these madmen. Which I thoroughly enjoy. In the past I’ve designed my own software, though I didn’t necessarily do all the graphics. This is a very pleasant change for me—it’s great working with designers I trust, so I can concentrate on making those designs real. (Being a design-savvy engineer helps a ton.) I’m so proud of their work. Maybe they can’t say it, but I can: I think the design is hot. I love the way it looks and especially how it feels.
+
+Wiskus: Our org chart is a Venn diagram, but simply: John and I would talk, then I would go draw pictures and give them to Brent. Then we’d all look at them, talk things through, try things out in implementation, and start the process over again.
+
+"The last few years...have been the longest stretch in my life where I’ve done nothing new," Gruber said. "I had the itch."
+
+John, what made you want to build an app?
+
+Gruber: I didn’t seek it out. It’s Brent’s idea that we three would make a good team. But once he offered, I jumped at the chance. I’ve never worked with Brent before, but I’ve been using his software for over a decade now, and I’ve long been a beta tester on his stuff. I know his taste in software, and I know it matches mine. It sounded like fun, an opportunity I could not resist.
+
+Secondarily, I’ve always tried to do new things. The last few years, where I’ve done nothing but write Daring Fireball, have been the longest stretch in my life where I’ve done nothing new. I had the itch.
+
+The surprising part is how much designing for iPhone harkens back to my days doing print design. My earliest design work was print, and that was my first love. Of course as the years went on, I did more and more Web design and less and less print. And like everyone who made the switch from print to Web design, I bemoaned the lack of control. No control over the size of the canvas, severely limited selection of fonts, crude rendering resolution, etc.
+
+The control and fidelity afforded by the iPhone—world-class fonts, high resolution output, control over the size and placement of everything on screen—made me feel right at home.
+
+Vesper and Q Branch are James Bond references. Why the homage?
+
+Gruber: Bond’s gadgets have always been at the intersection of utility and elegance. Serve a necessary purpose, reliably, and look good doing it. That’s as good a motto for a software company as any.
+
+What does Vesper bring to the table that other apps don’t?
+
+Gruber: A few things. For one, the design supports any size note, naturally. I have two-word notes, and 200-word notes. Vesper supports photo attachments, which few others do, and the ones that do tend to be complex, fussy apps. But the three big things are organization, prioritization, and feel.
+
+With tags, I feel organized. I’ve got everything in my mind in Vesper. But with tags I can focus on just one area at a time. (E.g., I have a tag for articles I want to link to on Daring Fireball.)
+
+With drag-and-drop reordering, I can keep important stuff at the top of my list. This drove me nuts in other notes apps, which sort by date. I’d always be opening week-old notes and adding meaningless changes, like an extra line at the end, just to get them to sort back to the top of my list. Vesper notes are like cards in a stack—it’s easy to move one to the top of the stack.
+
+The last, feel, is the most subjective. But I think we’ve achieved something special with Vesper, where it feels both efficient and pleasing to use. I think this is more than just superficial. Our goal was to make it such that, if a quick little thought entered your head that you might want to put in Vesper, the appeal of using the app would push you over the edge to do it, to put it in Vesper rather than just keep it in your head. A complete reduction of friction.
+
+Wiskus: Most apps of this type enforce some kind of philosophy. Some have books you need to read just to understand them. We wanted something that worked the way our brains did naturally.

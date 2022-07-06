@@ -1,0 +1,119 @@
+size is large or unlimited.
+
+The data read is buffered in memory, so do not use this method if the data
+
++ cleanup properly a well-behaved application should kill the child process and
+
++ The child process is not killed if the timeout expires, so in order to
+
++ retrying communication will not lose any output.
+
++ :exc:`TimeoutExpired` exception will be raised. Catching this exception and
+
++ If the process does not terminate after *timeout* seconds, a
+
+``None`` in the result tuple, you need to give ``stdout=PIPE`` and/or
+
+@@ -407,11 +442,29 @@ Instances of the :class:`Popen` class ha
+
+``None``, if no data should be sent to the child.
+
+*input* argument should be a byte string to be sent to the child process, or
+
++ until end-of-file is reached. Wait for process to terminate. The optional
+
+- until end-of-file is reached. Wait for process to terminate. The optional
+
+Interact with process: Send data to stdin. Read data from stdout and stderr,
+
+accept more data. Use :meth:`communicate` to avoid that.
+
+a pipe such that it blocks waiting for the OS pipe buffer to
+
+@@ -392,11 +424,14 @@ Instances of the :class:`Popen` class ha
+
+This will deadlock when using ``stdout=PIPE`` and/or
+
++ :exc:`TimeoutExpired` exception. It is safe to catch this exception and
+
++ If the process does not terminate after *timeout* seconds, raise a
+
+Wait for child process to terminate. Set and return :attr:`returncode`
+
+@@ -380,11 +408,15 @@ Instances of the :class:`Popen` class ha
+
++the timeout expires before the process exits.
+
++:func:`call` and :meth:`Popen.communicate` will raise :exc:`TimeoutExpired` if
+
++All of the functions and methods that accept a *timeout* parameter, such as
+
+check_call() will raise :exc:`CalledProcessError`, if the called process returns
+
++ the child process so far will be in the :attr:`output` attribute of the
+
++ will be re-raised after the child process has terminated. The output from
+
++ will be killed and the wait retried. The :exc:`TimeoutExpired` exception
+
++ As in the :func:`call` function, if the timeout expires, the child process
+
+b'ls: non_existent_file: No such file or directory
+
+'
+
+@@ -305,8 +320,17 @@ This module also defines four shortcut f
+
++ The arguments are the same as for the :func:`call` function. Example::
+
+- The arguments are the same as for the :class:`Popen` constructor. Example::
+
++ :attr:`returncode` attribute and output in the :attr:`output` attribute.
+
+- attribute and output in the :attr:`output` attribute.
+
+:exc:`CalledProcessError` object will have the return code in the
+
+If the exit code was non-zero it raises a :exc:`CalledProcessError`. The
+
+Run command with arguments and return its output as a byte string.
+
+See the warning for :func:`call`.
+
++ will be re-raised after the child process has terminated.
+
++ will be killed and the wait retried. The :exc:`TimeoutExpired` exception
+
++ As in the :func:`call` function, if the timeout expires, the child process
+
++ The arguments are the same as for the :func:`call` function. Example::
+
+- The arguments are the same as for the :class:`Popen` constructor. Example::
+
+:exc:`CalledProcessError` object will have the return code in the
+
+zero then return, otherwise raise :exc:`CalledProcessError`. The
+
+Run command with arguments. Wait for command to complete. If the exit code was
+
+for the OS pipe buffer to accept more data.
+
+generates enough output to a pipe such that it blocks waiting
+
+@@ -265,34 +271,43 @@ This module also defines four shortcut f
+
+Like :meth:`Popen.wait`, this will deadlock when using
+
++ again. The :exc:`TimeoutExpired` exception will be re-raised after the child
+
++ If the timeout expires, the child process will be killed and then waited for
+
++ exception of the *timeout* argument, which is given to :meth:`Popen.wait`.
+
++ The arguments are the same as for the :class:`Popen` constructor, with the
+
+- The arguments are the same as for the :class:`Popen` constructor. Example::
+
+Run command with arguments. Wait for command to complete, then return the
+
+This module also defines four shortcut functions:

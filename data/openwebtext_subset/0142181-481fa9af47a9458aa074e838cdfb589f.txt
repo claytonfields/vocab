@@ -1,0 +1,35 @@
+All the Open Source codes under GPL licence from Jolla's operating system are packed into a public tar-file, earlier available only as a hardcopy ordered directly from Jolla Oy.
+
+
+
+This is one step forward in the company openness, however there are still steps to take
+
+Link to the Sailfish OS packages
+
+
+
+
+
+
+
+http://images.formeego.org/jolla/sources/
+
+
+
+Please note that these packages doesn't include any 3rd party propiertary code or Jolla's propiertary code. Sailfish OS is a full Open Source operating system, but Jolla has included more code into their phone - which they are not ready to share. The unshared part includes for example the Alien Dalvik by Myriad (Jolla's Android support), hardware drivers by Qualcomm and the buttonless User Interface by Jolla.
+
+
+
+SDK packages for developers are shared here:
+
+
+
+Content, latest version:
+
+Loading Sailfish OS content...
+
+
+
+Please note that these packages doesn't include any 3rd party propiertary code or Jolla's propiertary code. Sailfish OS is a full Open Source operating system, but Jolla has included more code into their phone - which they are not ready to share. The unshared part includes for example the Alien Dalvik by Myriad (Jolla's Android support), hardware drivers by Qualcomm and the buttonless User Interface by Jolla.SDK packages for developers are shared here: http://releases.sailfishos.org/sdk/latest/
+
+Link this post to your friends. Sharing is Caring!Link this post to your friends. Sharing is Caring!Source:, shared officially by https://twitter.com/JollaHQ Published: August 22, 13:14 UTC

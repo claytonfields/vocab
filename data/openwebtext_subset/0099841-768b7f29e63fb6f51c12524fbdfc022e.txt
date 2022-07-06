@@ -1,0 +1,47 @@
+Crusader Kings II : The Middle-Earth Project mod 0.3.1b has been released, you can download the new full build below.
+
+Posted by Lonhaldar on Jul 27th, 2014
+
+Middle Earth Project 0.3.1b
+
+Download CK2:MEP 0.3.1b
+
+This is a full update of the Middle Earth Project mod for Crusader Kings II. This update is compatible with version 2.1.6 of Crusader Kings II.
+
+This is a beta and there will be bugs. Nothing is set in stone and we will appreciate any input that you think might improve the mod. An Extended Map
+
+Look into Belegaer, the Great Sea of the West, and discover the borders of the lost lands of Beleriand and Numenor. New islands, like Tol Fuin or Tol Morwen appears now. We reworked too some areas, like Bellakar, or the areas of Gundabad and the Misty Mountains.
+
+Welcome to Gwaihir, the Lord of the Eagles, and all his kin in Rosroval, the "Peak of the Eagles". The Line of Golfimbul is still alive, and Mount Gram can prepar to war once again. All Eriador fears the new powers of the orcs of the North now!
+
+Create your own kingdom of middlemen in Enedwaith, and become the High King of Isenvale, to balance the power of both Arnor and Gondor!
+
+Craft your own objects !
+
+As a Dwarf or a Noldor craftsman, you're now able to craft your own objects. Create some jewels, forge weapons, and improve your skills to be the proud heir of Telchar of Nogrod, or Celebrimbor of Eregion !
+
+As a Noldor master or legendary craftsman, reconquer Ost-in-Edhil, and try to rebuild the Gwaith-i-Mirdain, the brotherhood of Celebrimbor, where were forged the Rings of Power. Gather the other craftsmen, and together, you'll give prestige and glory to your kin !
+
+Use the Rings of the Dwarves to create more wealth in your mines, or try to find the One Ring, and maybe you'll find a Lesser Ring, these rings forged by the Noldor of Eregion as essays of the Rings of Power.
+
+The Palantiri
+
+Now, the Palantiri are all created, one trait by Stone. Try to keep the stones in your dynasty, and gain a lot of prestige with them !
+
+As one of the guardians of the Palantiri, use your Stone during Wars to call your friends to the battlefield !
+
+As an elf or a numenorean, travel to Elostirion, and try to see the Lights of Tol Eresseä through the Stone of Elendil, the only one who wasn't connected with the others in Middle-earth. You can gain more prestige, or become more depressed... Will you be as perceptive than Elendil the Great?
+
+More corrections...
+
+- Fixed some bugs, like the "the Old" for elves and dwarves
+
+- Random generated numenoreans characters will now have some chance to gain one of the blood of numenor
+
+- Colonize and Purge the provinces of your vassals
+
+There is much more, and you can read the full changelog included with the download. That's all for now, we hope you enjoy this next step in the MEP ladder.
+
+
+
+Want to help? We are still in need of modders in scripting and events, as well as other things.Contact Redit or Lon here or on the Paradox Forums if you are interested in joining the MEP team.

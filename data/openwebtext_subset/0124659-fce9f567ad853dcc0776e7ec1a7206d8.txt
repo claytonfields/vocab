@@ -1,0 +1,19 @@
+Twitter has downplayed the significance of a data dump that leaked the login details of 55,000 twits.
+
+Most of the usernames and passwords copied into a string of five Pastebin posts on Monday are either duplicates or belong to blocked spammers, according to the micro-blogging site. A spokesman said it was in the process of resetting the passwords of compromised legitimate accounts.
+
+"We've discovered that the list of alleged accounts and passwords found on Pastebin consists of more than 20,000 duplicates, many spam accounts that have already been suspended and many login credentials that do not appear to be linked (that is, the password and username are not actually associated with each other)," Twitter's Robert Weeks told CNN.
+
+"We are currently looking into the situation. In the meantime, we have pushed out password resets to accounts that may have been affected," he added.
+
+It's unclear how the credentials were obtained, although one strong possibility is that hackers slurped the data from a phishing website that tricked users into revealing their login details. The motives of the miscreants who shovelled the passwords onto Pastebin also remain unclear. Airdemon, the site that broke news of the dump, suggested the dump is designed to highlight Twitter's supposed security shortcomings.
+
+Twitter has reason to be sensitive about data breaches. A pair of digital break-ins back in 2009 resulted in a privacy lawsuit from the FTC, which was settled last year with an undertaking from the micro-blogging service to improve its security practices.
+
+Occupy protest twit faces account occupation
+
+In other Twitter-related news, the messaging service is fighting a court order that would compel it to turn over the personal details and direct messages sent by a tweeter allegedly involved in the Occupy Wall Street protests.
+
+The case surrounds Malcolm Harris, who was charged with disorderly conduct during demonstrations on the Brooklyn Bridge last year. Harris was denied permission to challenge the disclosure order against the @destructuremal profile, a ruling that prompted Twitter to get involved in the case.
+
+The American Civil Liberties Union praised Twitter over its stance, thanking Twitter for standing up for free speech and individual privacy. ®

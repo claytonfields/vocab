@@ -1,0 +1,17 @@
+An important step for the cryptocurrency market is the one that Dash (Digital Cash) has achieved in the last days. It is the first cryptocurrency, other than Bitcoin and Bitcoin Cash, to reach the $1,000 dollars’ goal.
+
+On November the 6th, this cryptocurrency was traded around $275 dollars. Since then it keeps growing. The first days of December, it seemed to be stabilized between $650 and $800 dollars but in the last hours Dash has reach $1,250 dollars, arriving at new all time highs.
+
+At the beginning of the year, one DASH was worth $11 dollars. It has grown more than 10,000 percent in just one year. Bitcoin has grown more than 2,000 percent and Litecoin more than 4,000 percent. It was an incredible year for the cryptocurrency market as a whole.
+
+Dash Masternodes and Scalability
+
+The owners of 1,000 DASH have the possibility to create a masternode. These users that have masternodes are able to vote on the allocation of Dash’s monthly budget and decide the future of the currency. Dash masternode network has a budget for different projects that helps to improve the DASH network. The funds for these project comes form block rewards. Ten percent of the reward goes for these projects which are decided by the masternodes.
+
+According to the price that Dash accounts at the moment, it has $8 million dollars per month. That means that it has a bigger budget than other important cryptocurrencies.
+
+Some time ago, we have covered at UseTheBitcoin why Dash upgraded its software in order to provide the network with cheaper transactions. It has activated 2 MB blocks allowing the network to scale smoothly and with less problems as possible. That was achievable because of the masternodes. DASH masternodes get rewarded with 45 percent of the block reward.
+
+Evan Duffield, Dash founder, has commented about on-chain scaling solutions:
+
+“Even Satoshi Nakamoto, founder of Bitcoin seems to have simply assumed that advances in hardware and networking would solve the scalability problem for him. Dash is the first digital currency to come up with an answer to scalability that’s not based on technology that doesn’t yet, and might never exist. Dash will be able to rival the likes of PayPal and VISA simply by using its existing infrastructure.”

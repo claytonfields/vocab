@@ -1,0 +1,13 @@
+Researchers said MRI scans allowed them to target treatments in the body better, as well as potentially more quickly detect when cancer has spread. Photo by Robert Kneschke/Shutterstock
+
+SHEFFIELD, England, Aug. 18 (UPI) -- Researchers found they can target cell-based treatments at tumors using magnetic resonance imaging scanners, according to a new study with mice.
+
+MRIs generally are used to take detailed pictures inside the body for doctors to use when diagnosing patients. Researchers at the University of Sheffield used MRI scanners to control tiny super-paramagnetic iron oxide nanoparticles, or SPIOs, to primary and secondary tumors they said would ordinarily be impossible to reach by injection.
+
+"This not only increases the therapeutic efficacy but also decreases the risk of unwanted side effects," said Dr. Munitta Muthana, a researcher at the University of Sheffield, in a press release. "The beauty of using the MRI scanner to administer the therapy is that you can also use it for its original purpose providing a real-time image-guide to ensure the treatment has gone where it is needed."
+
+The researchers injected immune cells carrying SPIOs and the cancer killing oncolytic virus into mice with cancer, and directed to primary and secondary tumors in their bodies using an MRI scanner. The method result in an 800 percent increase in the therapy's effectiveness.
+
+Targeting cancer treatment this could potentially result in treatment being more effective overall and smaller doses of drugs could be used in those treatments, researchers said.
+
+The study is published in Nature Communications.

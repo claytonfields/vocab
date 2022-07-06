@@ -1,0 +1,63 @@
+Update: Oct. 12: Python script to query the API
+
+We are very excited to announce that JEB 2.3.6 integrates with a new project we called the Malware Sharing Network. It allows reverse engineers to share samples anonymously, in a give-and-take fashion. The more and the better you give, the more and the better you will receive.
+
+Files are shared with PNF Software (they are not shared directly with other users);
+
+Contributions and users are algorithmically ranked and scored;
+
+In exchange for their contributions, users receive more files, based on their score.
+
+The goal is to offer a platform for reversers that can (and wish to) share malware files to easily do it, with the added incentive of receiving samples in return — including relatively high-value files that may not be accessible to most users, such as files that are not publicly downloadable on most malware trackers; or files that are not present on malware databases at all, including VirusTotal.
+
+Obviously, the service is entirely optional. Any user, including users of the demo version, may use it whenever they please.
+
+Getting started
+
+The latest JEB update will let you know about the Malware Sharing Network right after you upgrade. You may also click the Share button in the toolbar at any time to get started.
+
+First time users should create an account. You will only need an email address and a password. Click the “Create an Account” button to sign up.
+
+Once you’ve successfully logged in, you will be able to view your profile. Things like your sharing score and other stats are displayed.
+
+Sharing a File
+
+Any time you are working in JEB, you can decide to share the primary file being worked on by clicking the Share button or the Share entry in the File menu:
+
+Before sharing a file, you may:
+
+redact the sample name;
+
+add a text comment;
+
+select a Determination, among four choices (“Unknown”, “Clean”, “Unsure” and “Malicious”).
+
+By hitting the Share button, you will submit the file to PNF Software. It will be added to our file portal, get scored, and eventually, be shared with other users who are participating in this sample exchange program.
+
+When your score gets high enough, you will receive samples. They will be accessible from our website, and also, using the Malware Sharing Network back-end API.
+
+API for Scripting
+
+After successfully logging in, you may have noticed that the API key field was populated. Power-users will be able to use it to perform automation and scripting with our back-end, such as querying samples by hashes, uploading and downloading files, etc. It’s all standard HTTP-POST queries with JSON responses.
+
+A Python wrapper to issue simple API queries can be found on our public GitHub repository. First make sure to set up your API key (either in source, or create an environment variable JEBIO_APIKEY, or pass it as a parameter if you are importing the script as a library).
+
+Queries return JSON output, except for download requests, that return binary attachments. The return “code” variable is set to 0 on success, !=0 on error.
+
+Here are a few examples:
+
+Query a file hash:
+
+$ jebio.py check 42aaa93a894a69bfcbc21823b09e4ea9f723c428 42aaa93a894a69bfcbc21823b09e4ea9f723c428: { "code": 0, "created": "2017-10-09 16:24:31", "filesize": 75599, "filestatus": 0, "md5hash": "879322cfd1c1b3b1813a27c3e311f1a5", "sha1hash": "42aaa93a894a69bfcbc21823b09e4ea9f723c428", "sha256hash": "57ae463e6bc53a38512c58a878370338dcfe0fb59eeedfd9b3e7959fe7c149d1", "userdetails": { "comments": "", "created": "2017-10-09 16:24:31", "determination": 0, "filename": "Raasta.apk" } }
+
+Note: the userdetails section is present only if you uploladed the file yourself.
+
+Upload a file:
+
+$ jebio.py upload 1.apk 1.apk: { "code": 0, "uploadeventid": 155 }
+
+Download a file: (subject to permission)
+
+$ jebio.py download a2ba1bacc996b90b37a2c93089692bf5f30f1d68 a2ba1bacc996b90b37a2c93089692bf5f30f1d68: downloaded to ba1d6f317214d318b2a4e9a9663bc7ec867a6c845affecad1290fd717cc74f29.zip (password: "infected")
+
+–

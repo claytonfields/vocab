@@ -1,0 +1,53 @@
+Hello from VMworld EMEA in Barcelona. Well, we can finally talk about vSphere 6.5 today. In this post, I want to highlight a number of new and enhanced features that you will find in vSphere 6.5 related to core storage. I am not going to discuss Virtual SAN (VSAN), Virtual Volumes (VVols) or I/O Filter enhancements (VAIO) specifically in this post, although you will no doubt see some new features tie directly into the latter. Instead, I want to talk about those features that are specific to core storage.
+
+1. VMFS-6
+
+The first new core storage feature that I want to highlight is that we have a new version of VMFS in vSphere 6.5, namely VMFS-6. A lot of the improvements to VMFS-6 are internal, and not directly visible to an end-user. However, what you should notice as a result of these internal improvements is an all round performance improvement, including faster file creation, device discovery and device rescanning. Another major enhancement could be considered future proofing; VMFS-6 is now 4K aligned, which will allow VMFS-6 to support newer 4K drives once they become supported. One other enhancement to call out is better ways to handle ATS miscompare issues which I know has been problematic for some storage arrays. There is now a new retry mechanism included in VMFS-6 to avoid (as much as possible) this situation.
+
+Lastly, you should note that there is no upgrade path from previous versions of VMFS to VMFS-6 due to the considerable amount of on-disk changes. Moving to VMFS-6 should be considered a migration. My understanding is that we will be publishing some guidance on how to migrate to this new version of VMFS using techniques such as Storage vMotion.
+
+2. UNMAP
+
+This is a feature I know that many of you have been waiting for. There is now automatic UNMAP with VMFS-6 and vSphere 6.5. This automated UNMAP crawler mechanism will reclaim what is termed “dead” or “stranded” space on VMFS-6 datastores. Blocks that have been freed will be reclaimed within 12 hours by the crawler. For more immediate reclaim of dead space, the manual method that was available in previous versions of vSphere is still available.
+
+3. Linux Guest OS SPC-4 support
+
+This enhancement increases the SCSI Primary Command specification in the Linux Guest VSCSI. In particular, this will enable in-guest dead space reclamation in Linux Guests. Linux distributions check the SCSI version before sending an UNMAP command, and because Linux guests were using older specifications up to now, it did not send UNMAPs. With SPC-4 support introduced in for Linux Guests in vSphere 6.5, these should now also be able to issue UNMAPs, meaning that dead or stranded space can now be reclaimed in a Linux Guest OS.
+
+4. NFS 4.1 Improvements
+
+The major NFS 4.1 client enhancements in vSphere 6.5 is to introduce support for hardware acceleration. In other words, certain operations may now be offloaded to the storage array.
+
+NFS 4.1 Kerberos also adds AES encryption support in 6.5. AES256-CTS-HMAC-SHA1-96 and AES128-CTS-HMAC-SHA1-96 are supported. The DES-CBC-MD5 encryption type is not supported in NFSv4.1 in 6.5.
+
+NFS v4.1 also includes full IPv6 support.
+
+Finally vSphere 6.5 introduces a new Kerberos integrity checking mechanism for NFS v4.1, called SEC_KRB5I. This feature uses checksum to protect NFS data.
+
+5. iSCSI Improvements
+
+There are also a few improvements to iSCSI to call out. The first is that we can now route connectivity between an iSCSI initiator and an iSCSI target. This is now fully supported. Another feature is the fact that we can now use different gateways setting per VMkernel interface. This implies that port binding can be used to reach targets in different subnets.
+
+Another enhancement is that iSCSI can now be used with NSX “opaque” switched.
+
+Finally, UEFI iSCSI boot is also supported, so you can now boot an ESXi host from an iSCSI LUN using UEFI settings in the system BIOS.
+
+6. SIOC version 2
+
+Storage I/O Control (SIOC) in vSphere 6.5 is now policy driven via I/O Filters. In a new Common Rules section to Storage Policies, you can now select SIOC. By default, there are three default settings for Limits, Reservations and Shares called Low, Normal and High. However you can go ahead and create your own custom settings. Once the policy is created, you can simply select that policy at VM provisioning time (or indeed, after the VM has been deployed). This is much easier approach to hand-editing each VMs and assigning them appropriate settings, which is what we had to do in the past. Here is an example of the SIOC allocations:
+
+It should be noted that the SIOC v1 implementation is still supported in vSphere 6.5, so you do not need to worry about upgrading your current SIOC setting when upgrading vSphere. However, you should probably consider gradually migrating your SIOC setting from v1 to v2 at some point.
+
+One final point: in this initial release of SIOC V2 in vSphere 6.5, there is no support for Virtual SAN or Virtual Volumes. SIOC v2 is only supported with VMs that run on VMFS and NFS datastores.
+
+7. VM Encryption
+
+Also new to vSphere 6.5 is VM encryption. Just like SIOC v2, VM encryption is implemented via I/O Filters. I am not going to highlight too much at this point, as I know my good pal Mike Foley is creating a lot of collateral on this very topic. Check out blogs/papers etc from Mike for the latest and greatest on this enhancement. Just by way of a teaser, this screenshot shows the default Encryption setting when selected via the Common rules in the policies section of vSphere:
+
+8. Limit Increases
+
+There are two major limit increases that I want to highlight. First, ESXi hosts running version 6.5 can now support up to 2,000 paths in total. Second, ESXi hosts running version 6.5 can now support up to 512 devices. This is a 2X increase from previous versions of ESXi where the number of devices supported was limited to 256.
+
+9. Upcoming white paper
+
+As mentioned in the introduction, this is just an overview. I am working with a lot of the engineering teams responsible for the above improvements and enhancements to bring you a white paper that looks into the above list of items in more detail. Watch this space around vSphere 6.5 GA.

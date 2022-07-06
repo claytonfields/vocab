@@ -1,0 +1,23 @@
+Creditors of failed Bitcoin exchange Mt. Gox are trying to force its CEO Mark Karpeles to go to the U.S. for questioning related to a fraud lawsuit.
+
+Gregory Greene and Joseph Lack asked a U.S. judge to order Karpeles to go to the U.S. for a deposition, according to a motion filed Tuesday in U.S. Bankruptcy Court for the Northern District of Texas, Dallas division, which granted the exchange temporary protection from creditors.
+
+Karpeles has to testify in the U.S. to protect domestic creditors because of his involvement in the management of the exchange and his peculiar knowledge of its coding and operations, according to the filing.
+
+The pair rejected a proposal from the Karpeles side to have the embattled CEO go to Taiwan to be questioned by lawyers in person or via video link, calling it "an unjustifiable misuse of judicial resources."
+
+The motion states that the plaintiffs have offered to pay for Karpeles' travel to the U.S.
+
+"He is someone who has availed himself of the protection of the United States courts and he wants all the advantages of a foreign representative who's been forthright, transparent and open without being forthright, transparent or open," Steven Woodrow, a Colorado-based lawyer for the plaintiffs, said.
+
+"Most foreign representatives, from our research, who have availed themselves of the United States courts, are more than willing to come to the United States to justify the relief that they're seeking," Woodrow added. "For some reason, Mr. Karpeles seems averse to coming to the United States. His attorneys won't tell us why."
+
+Karpeles did not respond to an email seeking comment. A lawyer for Mt. Gox in Dallas was not immediately available for comment.
+
+Greene and Lack are plaintiffs in an Illinois class-action lawsuit that claims that the bitcoin exchange in Japan was involved in massive fraud and the theft of bitcoins and currency worth hundreds of millions of dollars.
+
+After filing for bankruptcy protection with the Tokyo District Court on Feb. 28, saying some 850,000 bitcoins, worth about US$474 million, had gone missing, Mt. Gox also sought bankruptcy protection in Texas, which shields it from creditor lawsuits. Mt. Gox later said it found about 200,000 bitcoins in an old-format digital wallet.
+
+The latest motion by Greene and Lack also alludes to Bankruptcy Rule 2004, which states that the court may order the examination of any party of interest.
+
+The Tokyo court, meanwhile, is expected to decide whether Mt. Gox can be rehabilitated or whether it should be liquidated. The exchange has said it has consulted with Tokyo police regarding the disappearance of its bitcoins.

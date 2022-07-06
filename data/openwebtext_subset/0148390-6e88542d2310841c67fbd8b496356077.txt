@@ -1,0 +1,87 @@
+What will it take to fix global warming? Scientists say the world, within a few decades, will need to switch to energy that doesn't emit greenhouse gases. Even the optimists agree, it won't be easy.
+
+A New York hansom driver stands with his horse and cab in 1896. (Photo11: Library of Congress) Story Highlights Scientists say one solution to climate change is energy that emits no carbon
+
+Other options: pulling carbon from the sky or cooling the planet with aerosols
+
+Even optimists say technology won't fix global warming without public support
+
+In the 1890s, New York City was swamped — not by a storm but something smellier, horse manure.
+
+Horses, the primary mode of transportation, dropped more than a million pounds each day, causing a sanitation crisis. No one found a fix, and some estimated the streets would eventually be buried several feet deep.
+
+Then, "shift happened," says Harvard chemist Daniel Nocera. The automobile arrived, and almost overnight, it replaced horses and cleaned up the streets. Hailed as an environmental savior, it solved a seemingly insurmountable problem.
+
+What a difference a century makes. Cars are now known contributors to the modern-day scourge of climate change. Their heat-trapping emissions have helped warm the planet beyond its natural variability. So sea levels have risen, and drought, heat waves and hurricanes have intensified — as USA TODAY explored in a year-long series, "Weathering the Change."
+
+The series looks at different regions of the country. (Photo11: USA TODAY)
+
+As in the 1890s, society is once again looking for the Next Big Fix — whether high-altitude wind kites, "plug and play" nuclear reactors, giant synthetic trees to absorb carbon dioxide or sulfate aerosols to cool the planet. Next week at the Consumer Electronics Show in Las Vegas, two concepts will be on display: Toyota's hydrogen fuel-cell car, which emits no greenhouse gases, and Ford's hybrid, powered partly by renewable energy.
+
+Yet will technology deliver this time? Or will inertia push the planet, already struggling with higher temperatures, to a cataclysmic breaking point?
+
+"I'm totally optimistic," says Nocera, citing a plethora of technological advances, including his own "artificial leaf" for producing hydrogen fuel. "All over the world these things are happening." He says projections are based on current conditions but innovation can shift the paradigm, adding: "That's what discovery can do."
+
+Toyota is slated to display its hydrogen-powered concept car at the Consumer Electronics Shows in January 2014. The company plans to produce the vehicle, which has a driving range of at least 500 kilometers and refueling times as low as three minutes, around 2015. (Photo11: Toyota Motor Corp.)
+
+Even optimists agree it won't be easy. "No amount of new technology will magically solve the climate problem or even help much," unless there's broad consensus on the need for urgent action, says Harvard physicist David Keith.
+
+In Washington, D.C., where climate change remains politically divisive, action is unlikely. Congress has rebuffed a tax on carbon emissions, which Keith and other climate scientists say would be the best way to spur clean-energy innovation. Opponents such as the American Petroleum Institute say the tax could boost energy prices and hurt the U.S. economy.
+
+STORY: Plastic made from pollution hits U.S. market
+
+Global leaders have also made little progress in agreeing to cut greenhouse gas emissions, which continue to increase as rapidly developing nations such as India and China use coal to power economic growth.
+
+Still, change is bubbling up. Dozens of states now require that a portion of their electricity come from renewable sources. In October, California became the first to require its utilities to install energy-storage equipment — expected to boost technologies such as batteries that can be used when the sun doesn't shine or the wind doesn't blow. China has increased its use of solar power to reduce the smog blanketing its major cities.
+
+"The good news: We already know how to do a lot," says Jane Long, who's leading the California Council on Science and Technology's study on how the state can meet its pledge to slash emissions 80% from 1990 levels by 2050. Even so, she says breakthrough technologies, requiring a public and private partnership, will be needed to make fuels with nearly zero emissions.
+
+There's not a lot of time to make changes, says climate scientist David Archer of the University of Chicago. He says research suggests dire changes could occur if the Earth warms 2 degrees Celsius (or 3.6 degrees Fahrenheit) this century.
+
+"We're halfway there," Archer says, adding the planet could reach that mark as soon as 2040 if carbon emissions continue their current climb. "This is just the fire alarm. This is not the fire," he says, adding it will become costlier to cut emissions the closer the flames come.
+
+"It's important to recognize we don't know everything about climate change," Christopher Field told reporters last December at MIT's climate "boot camp." Yet Field, a senior fellow at Stanford University and co-author of research by the United Nations' Intergovernmental Panel on Climate Change, said enough is known to help society manage the risks and make smart investments.
+
+The 19th-century horse-manure crisis suggests some solutions may beget new problems, says Eric Morris, an urban planning professor at Clemson University who studied that malodorous chapter of history. But he says it also offers another lesson: "Never discount the power of human ingenuity."
+
+Here are six technologies — some old, some new — that might stem the worrisome warming trend:
+
+1.Solar geo-engineering is sort of the Hail-Mary pass when attempts to cut carbon emissions don't go far enough. It includes blasting sulfate aerosols into the stratosphere to reflect sunlight away from Earth or spraying fine sea salt into the sky to whiten clouds.
+
+"They all act very fast. They're all cheap enough that money is not the issue and they're all inherently imperfect," says Keith, author of the 2013 book A Case for Climate Engineering. "The thing we most need to do is talk about it," he says, adding more research is needed on the effects and efficacy.
+
+"One powerful country could do it by itself," if desperate enough for a quick but temporary fix," says climate scientist Ken Caldeira of the Carnegie Institution for Science. He notes how Mount Pinatubo's 1991 eruption in the Philippines, which fired sulfur particles high into the air, cooled global temperatures nearly one degree Fahrenheit in 1992 and 1993.
+
+2. Carbon capture, which traps emissions from power plants and removes them the atmosphere, might obviate the need for such a drastic step.
+
+Because of its current high cost, no commercial, coal-fired facility has yet to employ this technique. In May, the first effort is slated to debut in Kemper County, Miss; it's designed to capture 65% of carbon emissions. Earlier this year, MIT developed a simpler scrubbing system that it says can be added relatively easy to existing facilities.
+
+The U.S. Department of Energy is funding research on how to capture industrial emissions and either store them underground or use them to make products such as fuel, plastics, cement and fertilizer. Without federal funds, Mark Herrema founded Newlight Technologies, a California-based company that captures methane emissions from dairy farms and uses them to make plastic.
+
+Klaus Lackner, a Columbia University geophysicist, is working on synthetic trees that absorb carbon dioxide about a thousand times faster than natural trees. Keith's Calgary-based start-up, Carbon Engineering, funded partly by Bill Gates, is developing industrial-scale technologies to capture carbon from the atmosphere and use it to produce low-carbon transportation fuels.
+
+3. Artificial photosynthesis could yield an entirely new, emissions-free energy source. In 2011, Nocera unveiled his "artificial leaf" — a credit-card-sized silicon solar wafer that, when placed in a glass of tap water and exposed to sunlight, generates hydrogen and oxygen bubbles that can be stored and — when needed — recombined in a fuel cell to generate electricity.
+
+"We already know how to do this," Nocera says. The problem: His water-splitting device generates hydrogen fuel, but there's no network yet of hydrogen filling stations in the United States. So his start-up, Sun Catalytix, launched to develop the device, is now focusing instead on grid-scale flow batteries.
+
+DOE is funding related research at the Joint Center for Artificial Photosynthesis, led by the California Institute of Technology. "The goal is to produce a chemical liquid fuel" that can replace gasoline, says spokesman William Royea, adding it will likely take a decade or so to reduce costs enough to make it commercially viable.
+
+4. Solar and wind power have surged in recent years, and research is finding new applications. MIT and Sandia National Laboratories have developed ultralight, atom-thin solar cells that can be embedded in flexible products like drapes or harder structures like a tablet's outer shell to produce power. Similarly, they're developing transparent cells that can be placed on windows.
+
+Companies such as California-based Makani, acquired this year by Google, are trying to harness power from high-altitude wind, which is faster and steadier. Their challenge: tethering airborne turbines hundreds of feet off the ground without interfering with aircraft. MIT researchers are looking at far-offshore wind turbines and, to store their power and anchor them, huge concrete spheres that sit on the seafloor.
+
+"Storage will be the game changer" for solar and wind, because their power is intermittent but electric grids need consistency, says Bob Armstrong,director of the MIT Energy Initiative. So universities, start-ups and major companies are working to boost battery performance. Some advances debuted this year, including a battery by General Electric that's paired with a Texas wind farm to provide continuous power.
+
+5. Nuclear power, disliked by many environmentalists because of safety and waste disposal concerns, is welcomed by climate scientists including James Hansen as a major energy source that doesn't emit carbon.
+
+DOE has offered $8.3 billion in loan guarantees to help build a nuclear power plant in Georgia and is funding efforts by two companies — North Carolina-based Babcock & Wilcox and Oregon-based NuScale Power — to develop small modular reactors. These school bus-size versions of current light water reactors could be made in U.S. factories and moved from site to site. DOE says it expects commercial operation around 2025.
+
+TerraPower, a start-up in Bellevue, Wash., that's partly funded by Bill Gates, is developing a larger, 500-megawatt, "traveling wave" reactor that runs on nuclear waste and can go 40 years without refueling. Last year, Gates said the company is looking to build a demonstration plant and "China is one possible place." This month, DOE posted a proposed agreement between an unnamed U.S. company and the Chinese government to develop such a reactor.
+
+6. Efficiency is often seen as the invisible energy source, because it's energy not used. Though basic technology, its potential is huge. Long, who's studying California's efforts, estimates efficiency upgrades could halve the state's energy demand by 2050. Building practices such as superior insulation and air sealing have proven to slash a home's energy use up to 90%.
+
+"This is the best way to get at climate mitigation," says David Gottfried, co-founder of the U.S. Green Building Council, a private non-profit group. Noting that residential and commercial buildings account for nearly 40% of total U.S. energy use, he says ultra-efficient buildings can essentially become "our power plants of the future."
+
+IBM is working with cities, utilities and the federal government to boost efficiency by using sensors, meters and digital controls to monitor and automate how energy is used. The Obama administration is requiring new cars and light trucks to nearly double their fuel efficiency by 2025.
+
+Read or Share this story: http://usat.ly/KfVytG

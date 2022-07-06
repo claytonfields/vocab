@@ -1,0 +1,61 @@
+A report released by legislative auditors Friday says the State Board of Elections needlessly exposed the full Social Security numbers of almost 600,000 voters to potential hacking, risking theft of those voters' identities.
+
+The determination that election officials did not fully protect voters' personal information was one of several highly critical findings in the report. The audit also faulted state election officials' handling of issues including ballot security, disaster preparedness, contracting and balancing its books.
+
+State lawmakers called for a hearing in response to the Office of Legislative Audits report, which prompted strong reaction from critics of the board and its longtime administrator, Linda H. Lamone.
+
+"This audit is an A-to-Z criticism of the way the board operates," said Michael Greenberger, director of the Center for Health and Homeland Security at the University of Maryland School of Law. He said the "damning" findings call for the establishment of an independent, bipartisan commission of computer experts to examine the board's handling of information technology issues.
+
+Doug Mayer, a spokesman for Gov. Larry Hogan, said the report underscores some of the Republican governor's longtime concerns about a "lack of executive oversight" at the board, where the day-to-day management is outside the administration's control.
+
+"This is a perfect example of why those concerns are valid," Mayer said. "Properly securing Maryland's election data is critically important and needs to be given the utmost priority."
+
+Lamone said she agreed with most of the auditor's findings, but "virtually everything" they identified has already been addressed.
+
+"We were working on a lot of these things even before the auditors came in," she said.
+
+The audit found that the board needlessly retained the full nine-digit Social Security numbers of about 592,000 active and inactive voters in its data base — or almost 15 percent of the state's 4.1 million registered voters — when only the last four digits were needed. The report said the board then shared voters' personal information — including driver's license numbers and the last four digits of Social Security numbers — with a third-party organization without ensuring that the data was safeguarded.
+
+CAPTION Anton Black's family speaks about “Anton’s Law,” named after Anton Black, who died in law enforcement custody on Maryland’s Eastern Shore. (Luke Broadwater, Baltimore Sun video) Anton Black's family speaks about “Anton’s Law,” named after Anton Black, who died in law enforcement custody on Maryland’s Eastern Shore. (Luke Broadwater, Baltimore Sun video) CAPTION Baltimore County Executive Johnny Olszewski Jr. launches a task force to look into sexual assault investigation in the county. (Alison Knezevich, Baltimore Sun video) Baltimore County Executive Johnny Olszewski Jr. launches a task force to look into sexual assault investigation in the county. (Alison Knezevich, Baltimore Sun video)
+
+The organization that received the data is the Electronic Registration Information Center (ERIC), a nonprofit that helps state election officials around the country identify ineligible voters. While auditors did not question the board's cooperation with ERIC, they said state officials had not received sufficient assurances that ERIC and its outside contractor were adequately protecting data.
+
+Auditors warned that such information is frequently the target of criminals attempting identity theft.
+
+Aviel Rubin, a computer science professor at Johns Hopkins University who has frequently sounded alarms about election security, said the report "exposes a lack of best practices in the area of securing personal voter data and protecting the information in their databases."
+
+"This report tells me that the [elections board] is way behind the high-tech industry in maintaining the availability and security of their information," Rubin said. He said the board "needs to get its act together and catch up with best practices in the industry."
+
+Lamone said she's confident in the protections her agency has adopted to prevent hacking. She said officials do not ask for voters' full nine-digit Social Security numbers, but sometimes people voluntarily provide that information on registration forms.
+
+The information the state provides to ERIC doesn't include full Social Security numbers and is encrypted before it is sent, Lamone said. "You can't get into ERIC data. There's no way" she said.
+
+Lamone rejected Greenberger's call for an independent commission as unnecessary.
+
+"I think we're doing everything we can here," she said.
+
+Lamone was appointed elections administrator under Democratic Gov. Parris N. Glendening in 1997. Under current law, the administrator is appointed by the five-member state board, which the governor is allowed to fill with three members of his own party. Hogan's board has a 3-2 Republican majority, but state law requires a 4-1 vote for the board to take action. Lamone has kept her job with the support of the the General Assembly's Democratic leaders.
+
+In addition to the finding on Social Security numbers, the audit identified several other lapses in the state elections process and in board operations. According to auditors:
+
+•The board did not ensure the accuracy of its voter registration rolls and allowed too many people — its employees and those of local election boards, as well as contractors — to have access to that database when they did not need it for their job duties.
+
+•Officials allowed voters to receive ballots solely by providing publicly available information such as name, address and date of birth. Auditors recommended they also require information such as the last four digits of the Social Security number to guard against voter fraud.
+
+•The board could not document why it awarded two contracts worth $18.8 million without competition. Auditors also found other violations of state procurement rules.
+
+•The agency ended its 2015 budget year with a deficit of $3.4 million that it could not explain.
+
+Greenberger said the report's findings are consistent with his dealings with the board over the years. He said Lamone has run the board as a "personal fiefdom" and has dismissed criticism by outside information technology experts as partisan attacks by Republicans.
+
+The board's problems have less to do with dishonesty than with defensiveness and incompetence, Greenberger said.
+
+"It is one day going to play out during an election where the results will be called into question and there will be no adequate audit trail to determine who the winner of the election is," he said.
+
+Two senators, one from each party and both critics of Lamone, called for the legislature's Joint Audit Committee to meet this summer to delve more deeply into the findings.
+
+"There are certainly things [in the report] I'd think would be troublesome to our voters," said Sen. Gail Bates, a Howard County Republican.
+
+Sen. Cheryl Kagan, a Montgomery County Democrat, said the agency has long been mismanaged.
+
+"We've got a big election next year and voters have to have confidence that our State Board of Elections is performing in tip-top shape," she said. "This audit is clear evidence we're not there yet."

@@ -1,0 +1,15 @@
+It’s no Willie Mays over-the-shoulder-at-the-warning-track catch*, but it’s still pretty impressive for a robot.
+
+Researchers at the Ecole Polytechnique Fédérale de Lausanne in Switzerland have unveiled a bionic arm with three joints and four fingers that can catch objects in mid-flight. It automatically detects the trajectory and shape of irregular objects, and can go from motionless to a closed grasp in less than five hundredths of a second.
+
+The researchers trained the system’s software algorithms using a ball, an empty bottle, a half-full bottle, a hammer and a tennis racket. (Learning to return a serve** will presumably come next.)
+
+“Increasingly present in our daily lives and used to perform various tasks, robots will be able to either catch or dodge complex objects in full-motion,” said Aude Billard, head of the Learning Algorithms and Systems Laboratory at EPFL, in a statement.
+
+The team already has a specific application in mind: Affixing the arm to satellites to capture flying space debris.
+
+Check out the system in action in the video below:
+
+* This is probably my first sports reference in a story during my journalism career. Feel free to send balloons.
+
+** And this is my second.

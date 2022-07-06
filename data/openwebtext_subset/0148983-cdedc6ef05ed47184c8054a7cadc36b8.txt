@@ -1,0 +1,55 @@
+From RAD Studio Code Examples
+
+This sample shows how to integrate and use REST services in your application by using the Spitcast API in a C++ application.
+
+Location
+
+You can find the SurfSpotFinderApp sample project at:
+
+Start | Programs | Embarcadero RAD Studio Berlin | Samples and then navigate to: CPP\Multi-Device Samples\Cloud\SurfSpot Finder
+
+and then navigate to: Subversion Repository: C++: http://sourceforge.net/p/radstudiodemos/code/HEAD/tree/branches/RADStudio_Berlin/CPP/Multi-Device%20Samples/Cloud/SurfSpot%20Finder
+
+
+
+Description
+
+The application connects to the REST service from Spitcast to retrieve the list of Surf spots (sea locations for surfing). The application creates a main form that has a TMultiView component. The TMultiView component contains a list of Surf spots. Select a Surf spot from the SurfSpot finder list in order to display its location info: Location, Longitude and County. Each location info is displayed on an item of a TListBox. The sample also uses a TPanel with a TWebBrowser component for displaying the location on google maps.
+
+Note: Public distribution of Spitcast API content must acknowledge Spitcast as the content source, and provide a link to spitcast.com. The Spitcast API is available for non-commercial use. Commercial use is possible by prior arrangement.
+
+How to Use the Sample
+
+Navigate to the location given above and open CppSurfSpotApp.cbproj . Select the target platform. Press F9 or choose Run > Run .
+
+Files
+
+File Contains CppSurfSpotApp.cbproj
+
+CppSurfSpotApp.cpp The project itself. MainUnit.h
+
+MainUnit.cpp
+
+MainUnit.fmx The main form.
+
+Classes
+
+TForm4, the form class, implements the main visual component of the application. It contains a TMultiView component and a TPanel with a TWebBrowser component for displaying the location on a map. It also contains the following components: TRESTClient, TRESTResponse, TRESTRequest, and TRESTResponseDataSetAdapter.
+
+Implementation
+
+For the TMultiView1 component, in the Object Inspector , set the TargetControl property to Panel1 and the MasterButton property to backbtn .
+
+, set the TargetControl property to and the MasterButton property to . For the RESTClient1 component, in the Object Inspector set the BaseURL property to http://api.spitcast.com .
+
+set the BaseURL property to . For the RESTRequest1 component, in the Object Inspector set the following properties: The Client property to RESTClient1 . The Response property to RESTResponse1 . The Resource property to api/spot/all . The Method property to rmGET . Right-click the RESTRequest1 component and click Execute .
+
+set the following properties: For the RESTResponseDataSetAdapter component, in the Object Inspector set the following properties: The Response property to RESTResponse1 . The Dataset property to FDMemTable1 .
+
+set the following properties: Right-click the FDMemTable and select Fields Editor . Right-click the Fields Editor , select Add Fields and the fields county_name , latitude , longitude , spot_id , and spot_name .
+
+. For the TMultiView1 component, visually bind the Surf Spots list from the Spitcats API call.
+
+Uses
+
+See Also

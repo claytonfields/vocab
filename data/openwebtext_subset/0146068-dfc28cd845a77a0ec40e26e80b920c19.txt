@@ -1,0 +1,85 @@
+Time for the 2012 updates!
+
+As has become a habit (2009, 2010, 2011), here is a brief overview and update of some of the most discussed model/observation comparisons, updated to include 2012. I include comparisons of surface temperatures, sea ice and ocean heat content to the CMIP3 and Hansen et al (1988) simulations.
+
+
+
+First, a graph showing the annual mean anomalies from the CMIP3 models plotted against the surface temperature records from the HadCRUT4, NCDC and GISTEMP products (it really doesn’t matter which). Everything has been baselined to 1980-1999 (as in the 2007 IPCC report) and the envelope in grey encloses 95% of the model runs.
+
+
+
+
+
+
+
+Correction (02/11/12): Graph updated using calendar year mean HadCRUT4 data instead of meteorological year mean.
+
+The La Niña event that persisted into 2012 (as with 2011) produced a cooler year in a global sense than 2010, although there were extensive regional warm extremes (particularly in the US). Differences between the observational records are less than they have been in previous years mainly because of the upgrade from HadCRUT3 to HadCRUT4 which has more high latitude coverage. The differences that remain are mostly related to interpolations in the Arctic. Checking up on the predictions from last year, I forecast that 2012 would be warmer than 2011 and so a top ten year, but still cooler than 2010 (because of the remnant La Niña). This was true looking at all indices (GISTEMP has 2012 at #9, HadCRUT4, #10, and NCDC, #10).
+
+This was the 2nd warmest year that started off (DJF) with a La Niña (previous La Niña years by this index were 2008, 2006, 2001, 2000 and 1999 using a 5 month minimum for a specific event) in all three indices (after 2006). Note that 2006 has recently been reclassified as a La Niña in the latest version of this index (it wasn’t one last year!); under the previous version, 2012 would have been the warmest La Niña year.
+
+Given current near ENSO-neutral conditions, 2013 will almost certainly be a warmer year than 2012, so again another top 10 year. It is conceivable that it could be a record breaker (the Met Office has forecast that this is likely, as has John Nielsen-Gammon), but I am more wary, and predict that it is only likely to be a top 5 year (i.e. > 50% probability). I think a new record will have to wait for a true El Niño year – but note this is forecasting by eye, rather than statistics.
+
+People sometimes claim that “no models” can match the short term trends seen in the data. This is still not true. For instance, the range of trends in the models for cherry-picked period of 1998-2012 go from -0.09 to 0.46ºC/dec, with MRI-CGCM (run3 and run5) the laggards in the pack, running colder than the observations (0.04–0.07 ± 0.1ºC/dec) – but as discussed before, this has very little to do with anything.
+
+In interpreting this information, please note the following (mostly repeated from previous years):
+
+Short term (15 years or less) trends in global temperature are not usefully predictable as a function of current forcings. This means you can’t use such short periods to ‘prove’ that global warming has or hasn’t stopped, or that we are really cooling despite this being the warmest decade in centuries. We discussed this more extensively here.
+
+The CMIP3 model simulations were an ‘ensemble of opportunity’ and vary substantially among themselves with the forcings imposed, the magnitude of the internal variability and of course, the sensitivity. Thus while they do span a large range of possible situations, the average of these simulations is not ‘truth’.
+
+The model simulations use observed forcings up until 2000 (or 2003 in a couple of cases) and use a business-as-usual scenario subsequently (A1B). The models are not tuned to temperature trends pre-2000.
+
+Differences between the temperature anomaly products is related to: different selections of input data, different methods for assessing urban heating effects, and (most important) different methodologies for estimating temperatures in data-poor regions like the Arctic. GISTEMP assumes that the Arctic is warming as fast as the stations around the Arctic, while HadCRUT4 and NCDC assume the Arctic is warming as fast as the global mean. The former assumption is more in line with the sea ice results and independent measures from buoys and the reanalysis products.
+
+Model-data comparisons are best when the metric being compared is calculated the same way in both the models and data. In the comparisons here, that isn’t quite true (mainly related to spatial coverage), and so this adds a little extra structural uncertainty to any conclusions one might draw.
+
+Given the importance of ENSO to the year to year variability, removing this effect can help reveal the underlying trends. The update to the Foster and Rahmstorf (2011) study using the the latest data (courtesy of Tamino) (and a couple of minor changes to procedure) shows the same continuing trend:
+
+
+
+
+
+
+
+Similarly, Rahmstorf et al. (2012) showed that these adjusted data agree well with the projections of the IPCC 3rd (2001) and 4th (2007) assessment reports.
+
+Ocean Heat Content
+
+Figure 3 is the comparison of the upper level (top 700m) ocean heat content (OHC) changes in the models compared to the latest data from NODC and PMEL (Lyman et al (2010) ,doi). I only plot the models up to 2003 (since I don’t have the later output). All curves are baselined to the period 1975-1989.
+
+
+
+
+
+
+
+This comparison is less than ideal for a number of reasons. It doesn’t show the structural uncertainty in the models (different models have different changes, and the other GISS model from CMIP3 (GISS-EH) had slightly less heat uptake than the model shown here). Neither can we assess the importance of the apparent reduction in trend in top 700m OHC growth in the 2000s (since we don’t have a long time series of the deeper OHC numbers). If the models were to be simply extrapolated, they would lie above the observations, but given the slight reduction in solar, uncertain changes in aerosols or deeper OHC over this period, I am no longer comfortable with such a simple extrapolation. Analysis of the CMIP5 models (which will come at some point!) will be a better apples-to-apples comparison since they go up to 2012 with ‘observed’ forcings. Nonetheless, the long term trends in the models match those in the data, but the short-term fluctuations are both noisy and imprecise.
+
+Summer sea ice changes
+
+Sea ice changes this year were again very dramatic, with the Arctic September minimum destroying the previous records in all the data products. Updating the Stroeve et al. (2007)(pdf) analysis (courtesy of Marika Holland) using the NSIDC data we can see that the Arctic continues to melt faster than any of the AR4/CMIP3 models predicted. This is no longer so true for the CMIP5 models, but those comparisons will need to wait for another day (Stroeve et al, 2012).
+
+
+
+
+
+
+
+Hansen et al, 1988
+
+Finally, we update the Hansen et al (1988) (doi) comparisons. Note that the old GISS model had a climate sensitivity that was a little higher (4.2ºC for a doubling of CO 2 ) than the best estimate (~3ºC) and as stated in previous years, the actual forcings that occurred are not the same as those used in the different scenarios. We noted in 2007, that Scenario B was running a little high compared with the forcings growth (by about 10%) using estimated forcings up to 2003 (Scenario A was significantly higher, and Scenario C was lower), and we see no need to amend that conclusion now.
+
+
+
+Correction (02/11/12): Graph updated using calendar year mean HadCRUT4 data instead of meteorological year mean.
+
+The trends for the period 1984 to 2012 (the 1984 date chosen because that is when these projections started), scenario B has a trend of 0.29+/-0.04ºC/dec (95% uncertainties, no correction for auto-correlation). For the GISTEMP and HadCRUT4, the trends are 0.18 and 0.17+/-0.04ºC/dec respectively. For reference, the trends in the CMIP3 models for the same period have a range 0.21+/-0.16 ºC/dec (95%).
+
+As discussed in Hargreaves (2010), while this simulation was not perfect, it has shown skill in that it has out-performed any reasonable naive hypothesis that people put forward in 1988 (the most obvious being a forecast of no-change). However, concluding much more than this requires an assessment of how far off the forcings were in scenario B. That needs a good estimate of the aerosol trends, and these remain uncertain. This should be explored more thoroughly, and I will try and get to that at some point.
+
+Summary
+
+The conclusion is the same as in each of the past few years; the models are on the low side of some changes, and on the high side of others, but despite short-term ups and downs, global warming continues much as predicted.
+
+References

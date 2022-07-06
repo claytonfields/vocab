@@ -1,0 +1,229 @@
+There are 4 main ways bitcoins are earned:
+
+As a regular income Through bitcoin mining From Bitcoin trading & investments By accepting them as a means of payment
+
+Earn bitcoin as a regular income
+
+Getting your monthly or bi-monthly paycheck in bitcoin is probably the easiest way to earn Bitcoins. Another great benefit to receiving your wage in bitcoin is the affects of dollar-cost averaging your Bitcoin accumulation. You can find employers or freelance clients who will pay you directly in bitcoin or you can use services that allow you to receive.
+
+Bitwage is a service that allows you to receive any percentage of your wages in bitcoin without requiring your employer or client to sign up. Can be used with employers based out of the US, EU or UK. Bitwage even has a job board to help you find clients and jobs, whom you can then receive wages in bitcoin through Bitwage.
+
+For finding companies or clients who will pay in bitcoin directly, you can use the following sites:
+
+BitcoinTalk Marketplace
+
+Jobs4Bitcoin
+
+XBTFreelancer
+
+Coinality
+
+Earn bitcoin from mining
+
+Bitcoin mining is the process by which new Bitcoins are generated. Mining validates bitcoin transactions on the network in return for allowing you to participate in a race to solve an algorithm. The winner of this race submits their validated bitcoin transactions to the network, and if they are legitimate transactions, the network rewards the winner with Bitcoins. The reward is dispensed about every 10 minutes and currently pays out 12.5 BTC. Every 4 years, the amount of BTC per reward is reduced by half. Luckily, with the right bitcoin mining software, all the hard parts are done for you.
+
+So the first thing you are going to want to do is to either get mining equipment or join a cloud mining service.
+
+When looking into buying mining equipment, the three main attributes to think about are the hashrate (_how fast a machine work_s), efficiency (amount of electricity required per hash), and price. Efficiency is incredibly important, as the cost of electricity is your only marginal cost. The more efficient your machine, the higher margins you will have.
+
+Below are the three main manufacturers of mining equipment
+
+Bitmain
+
+Bitfury
+
+Spondoolies Tech
+
+You can check out reviews of their machines here: https://99bitcoins.com/best-bitcoin-miners-2016-hardware-reviews/
+
+If you decide to buy your own mining equipment, then you will need to download mining software. You can find a review of the top 6 bitcoin mining softwares here: https://99bitcoins.com/the-6-best-bitcoin-mining-software/
+
+Cloud mining is another path that you can go down. This option is easier since you do not have to deal with setting up mining equipment, replacing old mining equipment when they are no longer profitable, dealing with the heat issues and electricity costs, and updating bitcoin mining software. However, the downside with cloud mining is that it lowers your profits and there is an incredibly high risk of fraud. If you decide to go with a cloud mining operation, make sure to do a lot of due diligence into the legitimacy of the company.
+
+Below is a list of popular cloud hashing services. Please note that being listed in this section is NOT an endorsement of these services. There have been a tremendous amount of Bitcoin cloud mining scams.
+
+Genesis Mining
+
+Hashing24
+
+Hashflare
+
+Minergate
+
+Hashnest
+
+NiceHash
+
+Eobot
+
+You can check out reviews of these cloud mining services and more here: http://bitcoincloudmining.org/en/
+
+Once you have decided to go with mining equipment or cloud mining, you should decide whether you want to join a mining pool or if you want to create a mining facility. Mining pools are good for hobbyists as they allow you to combine your hashing power with other miners who then all share the rewards. Otherwise, your individual miner will be competing with the entire network to win the full 12.5 BTC every 10 minutes. On December 23rd, the hashrate you would be competing with is about 2.5 million tera hashes per second (trillions of hashes per second). The only way to compete on your own is to build a mining facility, which in itself, is a business.
+
+Below are some of the most popular mining pools:
+
+AntPool
+
+F2Pool
+
+BW.com
+
+BTCCPool
+
+SlushPool
+
+BTC.com
+
+HaoBTC
+
+BGMiners
+
+ViaBTC
+
+1Hash
+
+P2P Pool - Decentralized mining pool
+
+You can check out a comparison of all the mining pools here: https://en.bitcoin.it/wiki/Comparison_of_mining_pools
+
+Earn bitcoin from investments
+
+If you already have some Bitcoins, put those Bitcoins to work for you. There are three ways you can use your Bitcoins to make you more Bitcoin.
+
+Trading Loans Startup Investments
+
+While many people are long term holders of Bitcoin, there are opportunities to make money off of the short term volatility swings of Bitcoin. There are many professional traders who leverage various investing strategies to make money moving between Bitcoin and fiat currencies as well as other digital currencies. Remember that if you do trade on exchanges that you should never leave your bitcoins on the exchange. Exchanges are major targets for hackers and it could cost you a lot of money to not secure your bitcoins when you are not trading. Here is a list of some of the more popular Bitcoin exchanges and their locations:
+
+US Exchanges
+
+Gemini
+
+GDAX
+
+Europe Exchanges
+
+Kraken
+
+Paymium
+
+bitcoin.de
+
+Bitstamp
+
+Brazil Exchanges
+
+Foxbit
+
+MercadoBitcoin
+
+China Exchanges
+
+OkCoin
+
+Huobi
+
+BTCC
+
+Japan Exchanges
+
+Bitflyer
+
+Quoine
+
+Coincheck
+
+South Korea Exchanges
+
+Korbit
+
+Coinplug
+
+Coinone
+
+UK Exchange
+
+Coinfloor
+
+Mexico Exchange
+
+Bitso
+
+Argentina Exchange
+
+Bitex
+
+India Exchange
+
+BTCXIndia
+
+South Africa
+
+BitX
+
+Nigeria
+
+NairaEx
+
+Israel
+
+Bit2C
+
+Ukraine Exchange
+
+Kuna
+
+Singapore Exchange
+
+ItBit
+
+Hong Kong Exchange
+
+ANX
+
+Vietnam Exchange
+
+Bitcoin Vietnam
+
+Indonesia Exchange
+
+Bitcoin.co.id
+
+Canada Exchange
+
+QuadrigaCX
+
+AltCoin Exchange
+
+Poloniex
+
+Decentralized Exchange
+
+Bitsquare
+
+In addition to trading, there are peer to peer lending services that leverage bitcoin as the currency for loaning. The main benefit here is that you are able to invest in companies and ideas from anywhere in the world with high returns as a loaning investment. Here are a couple websites known for bitcoin loans:
+
+BTCJam
+
+Bitbond
+
+If you are looking for a Bitcoin investment with higher risk and higher return, you can check out BnkToTheFuture to invest in startups directly with your Bitcoin. Note that the investment will likely be priced in fiat currency.
+
+Earn bitcoin by accepting them as a means of payment
+
+Lastly, if you are a merchant selling goods or services directly to consumers, you can earn Bitcoins from your sales. Unlike the 3% fee from credit card processing, earning Bitcoins for the sale of goods and services to consumers is free, with only a 1% fee to convert back to USD. Integration is done quickly and easily. Companies such as Microsoft, Dell, Tesla, Overstock & Steam all accept bitcoin. Below are popular payment processors that help you accept bitcoin as a merchant:
+
+Blockchain.info is a popular payment processor for keeping payments purely in Bitcoin. The below are popular for accepting Bitcoin as a payment with the option of converting to local currency:
+
+Coinbase
+
+Stripe
+
+Snapcard
+
+Gocoin
+
+Coinify
+
+Once you have chosen a payment processor, don’t forget to advertise that you accept bitcoin with a sticker!
+
+Note that any mentions of companies or services above are not endorsements of the service and that you should make sure to do your own due diligence on the services before deciding to use any particular one. Except for Bitwage, we endorse Bitwage.

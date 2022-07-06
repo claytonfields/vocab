@@ -1,0 +1,81 @@
+What you're about to read is an exhaustive interview with several team members of Remedy Entertainment, focusing on the development of its upcoming Xbox One exclusive, Quantum Break.
+
+Encompassing contributions from the game's Narrative Designer, Story Team Manager, Gameplay Designer, Communications Director and Art Director, the answers below cover everything from the team's attempts to come up with a name, to how they wrestled with the game's core time-bending mechanic, and how they learned from the studio's previous game, Alan Wake.
+
+Quantum Break is a hugely ambitious project, encompassing a heavily story-lead approach, interesting gameplay mechanics and a live-action drama that threads through the experience. Make a cuppa, get comfy, and get reading to learn more about how Xbox One's most interesting exclusive was made.
+
+Can you explain the game's title to us? What does 'Quantum Break' mean exactly?
+
+Answered by: Mikko Rautalahti, Story Team Manager & Writer
+
+Originally, we really wanted to call the game just “Quantum”. That’s the name we used to pitch the game, and what we called it internally. Unfortunately, it turns out that’s an incredibly hard name to actually use for a game – there are so many brands and trademarks that incorporate the word that even before the lawyers got started on doing the legal checks, they pretty much told us flat out that we’re not going to be able to use it.
+
+This led to a long process where different name ideas were tossed around. Some of them were great; others were less so; and a few were just flat out ridiculous. (Let’s just say we had an internal online form anybody in the company could use to submit suggestions anonymously. The less said about that the better; I work with monsters).
+
+The entire process took longer than I care to think about, but in the end, we settled on Quantum Break. It had something of what we originally went with, obviously, but it also tied into one of the game’s core story concepts – the idea of time starting to break down. Literally, “Quantum Break” really means the smallest possible break. That’s not a bad way to look at the fracture, the process of time breaking down – it starts small, but those cracks just keep on spreading, and things get worse.
+
+It doesn’t hurt that it’s got a nice sci-fi ring to it, and when shortened to QB, it won’t get confused with another popular game title. That works for us!
+
+Is a game that plays with time in such an ambitious way a tricky concept to get to grips with?
+
+Answered by: Greg Louden, Narrative Designer
+
+Quantum Break has been a very challenging project as it’s a time travel story. In designing levels and the narrative we’ve always had to take into account time travel loops, beats, moments and also our “stutters” which add turmoil to environments as time is coming to an end. The team has often had to work backwards and then forwards to ensure all plot-holes are resolved and twists aren’t spoilt for maximum impact.
+
+Furthermore the design team had to come up with mechanics that always tied into the story allowing the player to manipulate time while also blending with the action gameplay Remedy is famous for. So all in all Quantum Break has been challenging, but it’s unique and unlike other games as a result, so it’s been worth it.
+
+You essentially invented bullet-time with Max Payne. In what other ways do you use time in Quantum Break? And how did that experience lend a hand with the development of Quantum Break?
+
+Answered by: Kyle Rowley, Gameplay Designer
+
+It’s interesting because at Remedy we have always strived to create at least one unique gameplay hook that differentiates our moment-to-moment gameplay from other titles. It started with Max Payne and Bullet Time and then we used the Fight with Light mechanic on Alan Wake. With Quantum Break, we’ve tried to move beyond a single mechanic that is repeated throughout the experience, and build multiple mechanics off one central theme.
+
+Obviously because Quantum Break is a time travel game, it was very clear from the outset what that theme would be – time manipulation. This meant we knew from the very start the kind of powers Jack could have, and because this is a kind of super-hero origin story, we knew that Jack – as he learns to control his new abilities – would be gaining new abilities as the story progresses, allowing us to distribute those abilities evenly across the full experience.
+
+That’s not to say it’s been easy! There have been a lot of new challenges we’ve had to overcome with building a game around time travel. For instance, with both Bullet Time and the Fight with Light mechanic, our AI were ignorant to what the player was doing. Enemies didn’t acknowledge that Max was moving in slow motion (it wasn’t part of the fiction or an ability that Max had, it was a mechanic the player could utilise), and the Taken didn’t actively avoid Alan’s torch.
+
+In Quantum Break, because time manipulation is such a central part of the story and Jack’s character arc, the AI couldn’t simply ignore Jack using his abilities so we had to create a whole new behavior AI system which allows the AI to react differently depending on which Time Power Jack uses. From the enemies’ perspective, when Jack uses his Time Rush ability, he is effectively disappearing from one location and appearing in another and they have to react to that. So… we built a whole new search behavior system to accommodate that one Time Power.
+
+I’ll not even get into how Jack’s ability to freeze and rush through time has affected the use of space, maybe another day! But yes, this level of detail and thought has had to translate across to all of Jack’s powers, so it’s been a tough but exciting challenge!
+
+What was the most important aspect of Quantum Break that you wanted to ensure you got absolutely right?
+
+Answered by: Thomas Puha, Communications Director
+
+The most important aspect for us to get right was the balance between gameplay and the story-telling. Above all, Quantum Break is a video game and it has to have great gameplay mechanics that enable you to play through the various combat scenarios in different ways – something Kyle alluded to in his response. We know some fans found Alan Wake’s gameplay a bit repetitive, so wanted to make sure that Quantum Break stays fresh from beginning to end.
+
+At the same time, this is a story driven game and we want to have those moments in there where it’s about the adventure and taking in the atmosphere, and not just all action. We are very much about story here at Remedy so that’s of paramount importance.
+
+It turns out making a time-travel story is very challenging. After Alan Wake, we thought that we should do something a little simpler. A huge amount of time has gone into figuring out the logistics of time-travel in Quantum Break to make sure that there are no loop-holes or anything like that – that’s been difficult.
+
+What's it been like working with actors across both live-action and motion-capture?
+
+Answered by: Thomas Puha, Communications Director
+
+It’s been fun, challenging and a learning process for sure. We were very lucky with the actors we have worked with as they have been great and very much into Quantum Break, so that goes a long way.
+
+We were a bit naïve in terms of the scheduling and that has really been a huge challenge. All our main stars are really busy so getting even a few days or a week of their time for filming, voice overs, pick-ups etc. – especially later in the project – has been very challenging. It takes months to get a few free days of our actor’s time which in turn impacts our development schedule. All of them have been very accommodating, but it’s definitely been very challenging.
+
+Some of the actors, like Shawn Ashmore, have spent a lot of time at Remedy’s own studio here in Helsinki so he’s really become a part of the team which feels great.
+
+What was it that informed your choice of actors for Quantum Break? Was it always the plan to have Shawn Ashmore assume the lead role, as there were other actors shown in the game initially? Was it something that you thought would lend the game a broader appeal?
+
+Answered by: Thomas Puha, Communications Director
+
+As you design a game, plans do change over the years. You start out with an idea and a concept, but of course during development you try out different things and some work, some don’t. The idea that four years ago we knew exactly what we were going to make is a bit silly – things always change! Originally Quantum Break was supposed to be a more compact experience with very different time powers, but that changed at some point and brought along with it higher production values.
+
+When it comes to the actors, we already had Shawn Ashmore signed back in 2014, but for various technical and contractual reasons we did not have time to implement Shawn into the Gamescom 2014 demo, so we used our original actor Shawn Durrie instead. We knew Ashmore was going to play Jack Joyce at that point, but we simply did not have his in-game model done in time, so we went with the old Jack model.
+
+Of course having well-known actors has the benefit of giving the game more awareness, so while of course that’s part of the motivation for choosing them, it really is more about the quality of performance they can bring to the project.
+
+What lessons do you feel that Remedy has learnt from Alan Wake? What lessons will you take away from Quantum Break into your next game?
+
+Answered by: Saku Lehtinen, Franchise Art Director
+
+We have always wanted to push the storytelling in games. Games are for fun, but are also a medium that is tremendously powerful and capable of telling great stories and conveying experiences.
+
+Alan Wake taught us to take inspiration from TV shows. Quantum Break builds on that foundation and we have taken many steps in the field of character and face technology to be even better at relaying the story. We have learned to work with international stars, bridging storylines and an actual live-action element.
+
+In a way it’s even more of a journey towards what is good in a TV show, while actually taking a step towards embodying what is a good action game at its core. My hunch is that our next game will be an evolution of these lessons learned, rather than attempting to conquer even more new ground.
+
+Quantum Break will be coming exclusively to Xbox One on 5th April 2016.

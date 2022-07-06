@@ -1,0 +1,241 @@
+Change how you think about Bitcoin and profit
+
+Miko Matsumura Blocked Unblock Follow Following Aug 10, 2017
+
+Think and Grow Rich (tip o the nib to Napoleon Hill)
+
+In this article, I will teach you a way of reasoning about Bitcoin price movements that will:
+
+Make you rich
+
+Help you predict price fluctuations better
+
+Help you diversify your holdings sensibly
+
+The usual caveats apply, this article does not constitute investment advice.
+
+Why listen to me?
+
+Skip this section if you just want to read and be entertained. If you are like “who the F are you?” read on. =)
+
+I’ve been in Silicon Valley for 25 years and am a LP with Pantera Capital’s ICO Fund, I’m also a founder of Cryptocurrency startup http://evercoin.com
+
+I got in on ETH at $13 USD. I know it’s not that amazing, and I know it just means I’m lucky.
+
+I am one of the organizers of the Advanced Crypto Asset Trading group on Facebook and we have a regular meetup in San Francisco called “Crypto Underground”. A number of the ideas in this piece are sourced from numerous conversations with people in this group, and so I wanted to acknowledge the debt to this group for a large variety of mindsets which I describe here. I’ve been doing the circuit of Blockchain conferences including Blockchain Summit most recently, and have started signing up to speak at more of this kind of event.
+
+I am heading to Zug Switzerland on Saturday on the Crypto Valley Trip blogged by Fred Wilson. Anyhow I feel like I am luckily a part of a lot of tribes right now who are talking about Bitcoin and I want to share this knowledge.
+
+People are saying really stupid things right now
+
+People are printing articles that say the stupidest things about Bitcoin prices like comparing Bitcoin prices to Moore’s Law or to Tulips or Gold. As far as Moore’s law, it concerns the doubling of transistor density on microprocessors at the same price point. The analogy is nonsensical — the only correlation is to talk about a doubling interval which is a property of exponential growth.
+
+Is Bitcoin really worth 3x the price of Gold?
+
+Saying that Bitcoin has reached “three times the price of gold” is just exceedingly stupid since you are comparing an arbitrary unit of Bitcoin to the price of an ounce of gold. If you compare the total market cap of bitcoin (today about $56 Billion USD) to the total value of all gold (today about 8.6 Trillion USD) you are on more solid footing. If you want to compare Bitcoin to gold it’s clearly NOT “three times more valuable” Gold is actually one hundred and fifty three (153x) times more valuable than Bitcoin.
+
+Bitcoin is NOT worth 3x the value of Gold
+
+No, people are just stupid.
+
+If you take the analogy of Gold, this suggests that if Bitcoin achieves the value of Gold (8.6 Trillion) as a store of value, the price of bitcoin will go up by a factor of 153x which would result in a price of 519,516 US$ (over half a million dollars) per Bitcoin. If it were truly worth “three times” the value of gold, the price per Bitcoin would be over 1.5M USD.
+
+So Bitcoin is digital gold?
+
+I’m not saying that this is how you reason about the price of Bitcoin — I’m merely pointing out how insanely stupid many people are in reasoning about the price. The author of the article that asserts that Bitcoin is 3x more valuable than gold is off by three orders of magnitude (today off by 459X).
+
+I’m going to use the word “Bitcoin” in this article for simplicity’s sake, what I am asserting is generalizable to most cryptocurrency assets, Bitcoin just happens to be the largest by volume (on most days) and by market cap (on all days so far).
+
+Bitcoin isn’t anything you’ve ever seen before
+
+Bitcoin is not gold.
+
+Bitcoin is not a tulip.
+
+Bitcoin is not a microprocessor.
+
+Bitcoin is not a currency.
+
+Bitcoin is not a stock.
+
+Bitcoin is NOT anything that you’ve ever seen before. By definition. Read the Satoshi Nakamoto white paper.
+
+So what is Bitcoin?
+
+I’m going to assert “none of the above”. I realize that’s weak, but it means two essential things:
+
+The behavior of systems in the past (gold, tulips, microprocessors, stocks, currencies) is at best an imperfect and conflicting set of metaphors that will predict outcomes in Bitcoin. Since we have no unified way to reason about how Bitcoin will behave, the price of Bitcoin will be governed by tribes that represent different mindsets, and the price will reflect a complex amalgam of their beliefs and the total trading volume (by dollar value) on any given day.
+
+So at some level, the answer is not only “none of the above” but it is actually “all of the above”. This means that every metaphor currently in popular use represents the mindset of a nonzero sized “tribe”. There may be some ridiculous metaphors whose tribe is restricted to the one person who wrote the article and nobody else. But let’s explore some of the major tribes next.
+
+Who are the tribes that govern Bitcoin’s price?
+
+Traders:
+
+Metaphor Bitcoin is a ForEx (Foreign Exchange) currency.
+
+Action: Trade
+
+Mindset: Technical Analysis
+
+Volume: High
+
+Influence: High
+
+Timeframe: Days to weeks
+
+Description: Technical analysis will dominate their behavior. The technical narrative is exemplified by the views presented on https://www.tradingview.com. If you immerse yourself in this tribe you will see phrases like “Support Level”, “Resistance Level”, Ascending/Descending Triangle(s), “Cup and Handle formation” and other tradeable signals. The time frames where these narratives play out is often days and weeks, and indeed there are many traders who represent significant capital in Bitcoin. So this is one tribe with a meaningful narrative.
+
+2. Hackers:
+
+Metaphor Bitcoin is a security system
+
+Action: Exploit Vulnerability
+
+Mindset: System Penetration
+
+Volume: Low
+
+Influence: Medium
+
+Timeframe: instant
+
+Description: This is a meaningful but heterogeneous tribe that operates in multiple styles. At the most superficial level are “street level” scammers, who simply troll ICO slack channels and post false bitcoin addresses and the like. Behavior like this only serves to mildly suppress the price of Bitcoin, as the reputation of Bitcoin as a haven for scams. More meaningful impact can include “high level” scam artists who themselves create ICOs. Possibly even more meaningful exploitation and manipulation is happening at higher levels including pump and dump groups. I’m aware of telegram channels with thousands of participants which initiate “pumps” on low market cap coins and trigger “dumps”. This form of exploit is hard to execute on a large market cap coin like Bitcoin, but if you’re trading lower market cap assets, please be aware this is happening. Bitcoin itself may be vulnerable to “spoofing” attacks, made famous by a notorious entity called “Spoofy”. “Spoofy” supposedly has enough volume to place $60 million dollar trades, which is certainly enough to market make on an exchange. One recent market mover was Bitcoin Cash, which could be viewed as an exploit.
+
+3. Tech Fundamentalists:
+
+Metaphor Bitcoin is an Open Source Community
+
+Action: Support
+
+Mindset: Software Development
+
+Volume: Medium
+
+Influence: High
+
+Time Frame: Months to Years
+
+Description: This group views Bitcoin as an Open Source project, and acts accordingly. The place where this narrative has been dominant is around August 1st the timeframe of Segwit lock-in. This tribe looks at the software technology fundamentals and invests accordingly. Things that matter to this tribe are the credibility of the core development team, the size and support of the developer community and any upcoming technical challenges including forks. One place where you might see this narrative holding a suppressive influence on price is in the case of Ether. There is an upcoming version of Ether called “Casper” which implements a “proof-of-stake (PoS)” mechanism for governing the chain. Proof-of-Stake is also the supported governance mechanism for Tezos, which may be first to market. The intriguing possibility with PoS is that it essentially “forks away” the influence of miners — the very source of the recent (and upcoming) Bitcoin Fork crisis. This is a very high influence group as can be seen by the recent rally of Bitcoin’s price after August 1st.
+
+4. HODLers:
+
+Metaphor Bitcoin is a global-class reserve currency
+
+Action: hold
+
+Mindset: thesis investment
+
+Volume: Low
+
+Influence: High
+
+Time Frame: Years
+
+Description: This is a surprisingly influential tribe in Bitcoin, and this tribe defies conventional narratives such as “ForEx” traders. It’s called HODLing because of this Bitcoin Talk post called “I AM HODLING” To some extent the meme of HODL has become a battle cry that cryptocurrency HODLers use when they encounter volatility. Other memes dominate the HODL narrative including this amusing description of Bitcoin volatility.
+
+It’s been rumored that “Satoshi Nakamoto” the creator of Bitcoin has 1M Bitcoins that he is HODLing. The truth of the matter is that there is no “Satoshi Wallet” that contains 1M Bitcoins. The dominant narrative in the HODL community is that if Bitcoin is a global-class reserve currency, it could increase in value by more than 100x.
+
+Another meme associated with the Dogecoin community is the battle cry “to the Moon!”. This represents a crypto-maximalist mindset and informs HODLers in many crypto currencies including Bitcoin.
+
+DOGECOIN TO THE MOON!
+
+The unprecedented effect HODLers have on the price of Bitcoin is that it sets a “price floor” since there are a group of investors who have decided to perform a multi-year long-term hold.
+
+5. Venture Investors
+
+Metaphor Bitcoin is a startup
+
+Action: Invest
+
+Mindset: Venture Capital
+
+Volume: Medium
+
+Influence: High
+
+Time Frame: Weeks to Years
+
+Description: This mindset actually may have a suppressive effect on the price of Bitcoin, because if Bitcoin is a currency, there will only be a few dominant cryptocurrencies, but if Bitcoin is a stock, there will be many thousands of such stocks including many forks of Bitcoin itself. This means that those in the investor tribe will diversity. The investor mindset is dictated by thesis, diligence, leading and following, and the goal to invest early in assets that appreciate more and faster by percentage than Bitcoin. We are already seeing that mindset in the explosion of Initial Coin Offerings (ICOs). A clever and bold investor can turn a relatively small holding of Bitcoin into a huge fortune.
+
+6. Algorithmic Traders
+
+Metaphor Signal Processing
+
+Action: Allow algorithms to explore the search space
+
+Mindset: Investment Banking/High Frequency Trading/Quant
+
+Volume: Low but Growing
+
+Influence: Medium
+
+Time Frame: Microseconds to days
+
+Description: An increasing number of algorithmic traders are entering this space including classical quant traders, algorithmic players, evolutionary algos, and new “Machine Learning” players. Since the blockchain is visible to everyone, the opportunities for data mining and machine learning are vast. As far as “trading signal” this group is worth watching. As trading volume from algorithmic players increases, the ability of human “Day Traders” to gain Alpha should decrease. Amateur day traders of cryptocurrency should consider throwing in the towel, as algorithms will likely be countertrading signals like emotion-driven investment “strategies” including FOMO (Fear Of Missing Out) and Panic Selling. These bots have no emotions and will punch you in the gut and take your lunch money.
+
+7. Institutional Investors
+
+Metaphor Bitcoin is an asset class
+
+Action: Hedge
+
+Mindset: Manage Portfolio
+
+Volume: Low but Growing
+
+Influence: Medium
+
+Time Frame: Months to Years
+
+Description: At the moment Institutional Investors are mostly sitting on the sidelines — but we are seeing increasing signs that there is a “wall of money” coming into Bitcoin because it is a new asset class. People who claim it is “risky” do not understand the portfolio management mindset, which is essentially that risk is about exposure as well as asset holding correlation rather than the properties of any individual holding. There are many milestones between today and when major institutions will be able to invest — not the first being increased SEC regulation. More SEC regulation will make it safer for larger institutional investors to deploy large volumes of capital. Another analyst says that if Banks accept Bitcoin as collateral, this will be another trigger for Institutional investment.
+
+8. Geopolitical tribes:
+
+Metaphor: variable
+
+Action: variable
+
+Mindset: variable
+
+Volume: High
+
+Influence: High
+
+Timeframe: variable
+
+Description: My friend Sebastian Job on our Advanced Crypto Asset Trading group is to be credited for pointing this out: Geopolitical tribes. While there are many with different interests, I would throw them into several broad categories.
+
+a) Troubled Fiat Currencies: In countries like Argentina, the fiat currency is experiencing terrible inflation and devaluation pressure. In these circumstances, fiat value goes down and bitcoin value goes up.
+
+b) Financially regulated countries: Many eyes are on the US SEC for their attempts to signal regulatory intent in cryptocurrency. The strict requirements could create opportunity for other locations such as Switzerland, Singapore, Korea, Japan, Maldives and Gibraltar to name a few crypto-havens.
+
+c) Russia: The impact of Russia on cryptocurrency is difficult to describe, and possibly the topic of a long piece unto itself.
+
+d) China: China is the source of many mining companies, so there is a lot of hash power there. Because of the mining, China has lots of stockpiles of bitcoin and other cryptocurrencies. Another important phenomenon to know about China is their history developing independent internet companies like Baidu, Ali Baba, Ren Ren, Tencent and many others. Because of the tendency for China to create and invest in their own versions of Internet services, there is a tendency for investors to buy into coins such as AntShares/NEO which is touted as the “Chinese Etherium”.
+
+9. Unbankers
+
+Metaphor: Bitcoin is money
+
+Action: deposit
+
+Mindset: Banks suck
+
+Volume: Low
+
+Influence: Low
+
+Timeframe: Years
+
+Description: This group is motivated by irritation, annoyance, disgust or general resistance to centralized financial institutions and in some cases governments. Trust in Banks and Governments (and collusion between them) is dropping and the emergence of Bitcoin Debit Cards is fueling an unbanking movement that has some people getting paid their salaries in Bitcoin and living their entire lives on Bitcoin. While currently a small fringe element, the geopolitical pressures may cause this trend to increase.
+
+Get in where you fit in
+
+Since Bitcoin and Cryptocurrencies are new, there are many historical mindsets that fail to describe reality. That said, it’s not meaningless to look at each of these lenses and understand how they will affect the price. At different timeframes, one of these narratives will be dominant — so for example during the August 1st window for SegWit lock-in, the technology fundamentalist narrative was the dominant narrative, whereas before that, the dominant narrative was the Trader narrative. My personal approach to cryptocurrencies hybridizes all of these tribal mindsets and looks for ways in which the influence of tribes waxes and wanes at various times.
+
+Final word
+
+If you liked this piece, please LIKE or share it on Twitter or Facebook using the buttons on the side. If you want more content like that please follow me here on Medium or on twitter at http://twitter.com/mikojava
+
+If you want more content of this type in your email inbox, please subscribe below! We’ll be in touch.

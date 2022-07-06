@@ -1,0 +1,47 @@
+Json Schema Editor, built with Vue.js and Firebase
+
+json-schema-editor
+
+JSON Schema is a powerful tool for validating the structure of JSON data. The JSON Schema Editor is an intuitive editor for JSON schema. It provides a tree view to present the structure of schema, and a property inspector to edit the properties of schema element. For more details about JSON schema, visit Understanding JSON Schema.
+
+Overview
+
+Features
+
+Pallet of schema elements
+
+Pallet of user schemas
+
+Tree View of schema elements
+
+Context Menu
+
+Property Inspector of schema elements
+
+Text View of schema
+
+Drag and
+
+Undo and Redo could keep track of every update of the schema.
+
+Schema Repository
+
+Copy content of schema to the system clipboard.
+
+Download content of schema as a JSON file.
+
+Load content of schema from a JSON schema file.
+
+JSON Schema Editor is using schema element as a building block of JSON schema. The schema element is an object or array in json schema, which may have properties or items. JSON schema is a tree of schema elements. The user could edit the schema by composing the tree of schema elements, and setting the properties or items of these elements.
+
+The Editor
+
+The first moment visiting the editor page you will the following message: User not sign in User can not retrieve and store custom schema, please sign in to access these features. (almost self-explanatory)
+
+The editor composes of six parts:
+
+Pallet of schema elements Pallet of user schemas Tree View of schema Context Menu Property Inspector of schema element Text View of schema
+
+A view of the editor
+
+The JSON Schema Editor developed with Vue.js 2 and Firebase, has also a project repository where you can take a look at the source code & open new issues.

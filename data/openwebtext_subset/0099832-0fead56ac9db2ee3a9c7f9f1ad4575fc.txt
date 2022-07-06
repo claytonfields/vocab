@@ -1,0 +1,51 @@
+Ten Years on, New Estimates of the Economic Cost of the Wars in Iraq and Afghanistan
+
+This week marks the tenth anniversary of the American invasion of Iraq. What have the wars in Iraq and Afghanistan cost the United States to date? What additional bills will come due in the future? Economists and budget analysts have made many estimates since the early 2000s. Only one regularity has emerged from their work: Each new round of estimates is higher than those before.
+
+Last week the Watson Institute for International Studies at Brown University released a new set of estimates. The numbers are summarized on the web site of the institute’s Cost of War project and detailed in a paper by Professor Neta C. Crawford. The institute’s estimate of the total cost of the two wars now comes to just under $4 trillion.
+
+It wasn’t supposed to cost so much
+
+The wars were not supposed to cost so much. As the administration of President George W. Bush was building a case for the Iraq war in 2002, with some 5,000 American troops already deployed in Afghanistan, the question of cost naturally came up. In September of that year, Lawrence B. Lindsey, then Chairman of the President’s Council of Economic Advisers, estimated that a new Iraq war would cost $100 billion, maybe $200 billion at a maximum.
+
+With a midterm election on the horizon, the White House viewed that estimate as shockingly high. The President quickly dismissed Lindsey. Many observers saw his war cost estimate as a major reason. Later that year, Mitchel E. Daniels Jr., then head of the Office of Management and Budget, told the New York Times that $50 to $60 billion would be a more realistic figure, the same or a bit less than the cost of the 1991 Gulf War.
+
+As it turned out, the cost of the Iraq war came to $770 billion over the next twelve years, measured by Defense Department appropriations alone. DoD appropriations for Afghanistan added another $609 billion, pushing the cost of the two wars to well over a trillion, or $1,379 billion to be exact. The following chart, which gives the year-by-year tally, makes Lindsey’s estimates, let alone Daniels’s, look preposterously optimistic.
+
+Getting to Four Trillion
+
+$1,379 billion is a lot of money, but it still isn’t $4 trillion. How do we get from the total DoD appropriations to the larger cost figure that Crawford gives?
+
+We start by adding in three budget items that represent war expenditures by agencies other than DoD. The State Department and U.S. AID spent some $84 billion on reconstruction and development aid in Iraq and Afghanistan. Next comes $19 billion in military aid to Pakistan. Operation Noble Eagle added another $29 billion, largely for mobilizing the National Guard for homeland security operations. That brings the total to just over $1,510 billion.
+
+There is more. The Watson Institute study attributes several more expenditure categories either to the war itself or the climate of war that shaped U.S. policy decisions after 9/11. These include:
+
+$135 billion for medical care and benefits of Iraq and Afghan war veterans.
+
+An estimated $743 billion in additions to the Pentagon’s base budget. Although these funds were not spent directly in the war theaters, the researchers believe they would not have been appropriated had the wars not been undertaken.
+
+$455 billion for homeland security. Again, the assumption is made that much or all of this spending would not have been undertaken but for the war and climate of war.
+
+$130 billion in additional spending on war operations and war-related base budget for 2014.
+
+We are now up to $2,973 billion, roughly $3 trillion, through the projected end of Afghan combat operations in 2014. However, the costs of war will have a long tail that extends for decades after American troops come home. One of the biggest components will be future expenditures for medical care and other benefits for war veterans. The Institute estimates those at $754 billion through 2053, for a total of $3,727 billion.
+
+Finally, there are interest payments. For the most part the wars were financed by borrowing, so the above costs added directly to the federal debt. The Institute study calculates the interest costs of war borrowing at $254 billion through the end of FY 2012. We have now arrived at Watson Institute’s figure of just under $4 trillion.
+
+The Institute suggests that possible future interest payments might eventually add as much as $7 trillion more, but that is far more speculative. Although we can fairly say that war costs added directly to federal deficits in the early years, more recently the size of those deficits and the accumulated debt have begun to affect both taxes and spending for other programs. Without past war expenditures, the federal debt at the end of 2012 would have been about 51 percent of GDP rather than the actual 71 percent. That would have reduced the pressure to raise taxes as part of the fiscal cliff negotiations at the end of 2012 and to cut spending by letting the sequester go into effect in 2013. From 2012 on, then, it becomes less reasonable to say that the federal debt would be dollar-for-dollar lower without the wars. Saying that does not diminish the budgetary opportunity cost of war expenditures. It just means that as we go forward, we may bear them in the form of a squeeze on other programs or higher taxes rather than as interest payments on war debt.
+
+What about the cost of human life?
+
+The Watson Institute study addresses only the budgetary costs of the war. Beyond that, there are human costs. Most people would agree that the human costs of war are beyond quantification, and for the most part, I would go along with that. Still, to help put the budgetary costs of the war in perspective, we could try applying statistical value of life methodology to war casualties.
+
+Various U.S. agencies apply statistical values of life to evaluate costs and benefits of life-saving policy measures like improving road safety or reducing air pollution. Courts use statistical value of life numbers in awarding compensation for accidental death. The values of life used in such situations come, among other sources, from studies of the extra pay required to compensate for differences in risk of death among various occupations. These highly imperfect numbers tend to run in the range of $6 to $8 million for the life of an American of working age. The same method can be used to calculate proportionately smaller values for the reduction in quality of life as the result of disability.
+
+Just as a back-of-the envelope exercise, suppose we imagine what the additional budgetary cost would have been if the U.S. government had paid a death benefit of $7 million dollars for each service member killed in action and a $1 million cash benefit for pain and suffering to each person wounded in combat. Applying those numbers to 5,200 killed and 50,000 wounded would add about another $85 billion to the cost of the war. That does not include the statistical value of life of more than 1,000 American soldiers and contractors who died from noncombat causes in the two war theaters, or the almost 1,400 allied military personnel who died there.
+
+The Watson Institute also estimates that between 158,000 and 202,000 civilians have been killed in Iraq, Afghanistan, and Pakistan during the war. I won’t even pretend to suggest what statistical value of life would fairly compensate those war victims and their families. Pick your own number, multiply it out, and add it to the total.
+
+The bottom line
+
+Many people will object to the entire premise of the Watson Institute study and of this post. They will say that the dollar cost of the war and the statistical value of the lives lost in it are completely beside the point. The war was never about economics; it was about national security, national honor, and bringing peace and democracy to oppressed peoples in far-away lands.
+
+Still, one can’t help but wonder. If Congress had been told that the price tag would be not $50 billion, but $4 trillion, would it have voted so overwhelmingly for the Iraq War Resolution of October 2, 2002?

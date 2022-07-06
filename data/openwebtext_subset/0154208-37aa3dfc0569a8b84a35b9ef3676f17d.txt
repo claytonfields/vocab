@@ -1,0 +1,49 @@
+Call 911 from the side of the road, and GPS satellites can tell dispatchers exactly where to send help. Airline passengers have access to detailed maps that show exactly where they are during their journey. Hop onto WiFi, and somehow Google knows whether you're logging on from Lima or London, and will give you detailed suggestions about what to eat.
+
+For all these abilities, how is it that we have no idea where Malaysia Flight 370 has gone? The answers offer a humbling look at the limitations of our current technology.
+
+What happened to radar?
+
+Radar only extends so far. Most of us landlubbers understand that air traffic controllers typically use radar to monitor a flight's progress. That's all very well over land. But radar also has a limited range, and you can't put a radar station in the middle of the ocean. So pilots often have to stay in contact through other means, such as periodic radio check-ins. In between check-ins, the controller has only a general idea of where a plane is and where it's headed.
+
+According to the Associated Press, Flight 370 may have been in contact with military radar in its final moments — but whether a civilian air traffic controller knew where it was is less clear. We know that Flight 370's transponder signal was lost just as the plane was supposed to be entering Vietnamese air space — and because transponders are meant to work with radar, that suggests the plane was close enough to shore to be on somebody's screen.
+
+What about those flight maps that passengers see while they're on board a plane? Could those be used to reverse-engineer Flight 370's location?
+
+Not really. According to Melissa Rudinger, the vice president of government affairs at the Frederick, Md.-based Aircraft Owners and Pilots Association, those maps you sometimes see in the seat back in front of you are actually the result of data being collected by ground stations that's "packed into a format you can view." So even if you could get your hands on that information, it would probably still contain the same unknowns that are confounding investigators right now.
+
+(The Washington Post)
+
+Could somebody have turned off the aircraft's transponder?
+
+That's a tricky question. Pilots can send coded messages over the transponder in an emergency. But we're not really sure what happened to the transponder in this case. We don't know, for instance, if anybody tried to tamper with it. But why would they? Reports suggest that nobody on the plane made a distress call of any kind — no radio transmission, nothing. That implies there wasn't time to cry for help in the midst of a technical breakdown or a violent struggle. If that's the case, it's not likely an attacker — if there was one — would try messing with the transponder while they were still trying to gain control of the aircraft.
+
+Are there any other failsafes?
+
+In the United States, aircraft are required to come with an emergency locator transmitter. Meanwhile, on the commercial market, you can also get personal locator beacons that transmit distress signals on a universally recognized radio frequency. (This technology is often marketed to climbers, backpackers and other adventure-seekers.)
+
+The International Civil Aviation Organization, or ICAO, is the global body that sets standards for emergency locator transmitters.
+
+"If a country wants to be a world player in aviation, they are adopting the ICAO standards," said Rudinger. "But it's up to each individual country whether they want to adopt."
+
+Okay, so what about passengers' cellphones? Could they be tracked?
+
+The reason you can be tracked on land is because your phone is constantly talking to the cell towers that provide you service. No service? No location. While you're in the air, there's not much of an opportunity to use your cellular network — although that's changing in Europe and may soon begin to change in the United States, too. Technology now enables the use of cellular networks if a plane carries a special base station that sends communications to a commercial satellite, which then relays it to the ground. But adoption will be voluntary among airlines.
+
+Phones often carry GPS chips.
+
+Good thought. Yes, many cellphones do have GPS. But it's not the kind you'd find in a car. Cellphones typically rely on a kind of "assisted" GPS — one that requires a constant data connection. Without WiFi or a cell tower, you're not able to connect with the satellite.
+
+You just said WiFi. Did Flight 370 have WiFi?
+
+WiFi would almost certainly have helped. Mobile devices on the plane would have been communicating with the Internet right up until its other communications systems went down. But Malaysia Airlines does not appear to offer in-flight WiFi.
+
+What other technologies might have helped maintain a fix?
+
+The Federal Aviation Administration wants to transition to a next-generation air traffic control system that uses satellites to keep tabs on planes. It's called, appropriately, Next Gen. Satellites have a distinct advantage over radar — a technology that dates back to World War II — in that they can monitor wide swaths of territory, including oceans. Together with a system called automatic dependent surveillance-broadcast, or ADS-B, aircraft can even use satellites to transmit system information in real time back to controllers, said Rudinger.
+
+"There are airplanes today that can do it continuously," she said. "But the ability to do it, and doing it, are two different things."
+
+It's up to each airline to adopt it ADS-B. Next Gen itself is still years away. And even if we had it now, the FAA is mainly concerned with domestic airspace. Malaysia Airlines would not have been covered. Someday, however, a worldwide version of Next Gen might prevent any future Flight 370s.
+
+Speaking of satellites, U.S. officials have examined spy satellite imagery from the region and have turned up no clues about what happened to the plane.

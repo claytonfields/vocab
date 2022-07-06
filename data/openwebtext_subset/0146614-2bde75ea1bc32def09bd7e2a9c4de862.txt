@@ -1,0 +1,39 @@
+Update: Internet service provider Hathway (screenshot), and cellular operator Airtel (screenshot) have sent out notifications to customers stating that their networks have been affected due to the cyclone. A spokesperson from Reliance Jio told MediaNama that its network faced “negligible impact” and that it is working on fixing connectivity issues.
+
+Internet Service Providers (ISPs) like ACT, YOU broadband, have said that this is due to the Cyclone Vardah which has hit the southern coast of India, and has affected “major Internet gateways”. While users of Hathway and BSNL broadband have reported slowdown or outages, YOU Broadband had sent out a message to users stating that the Cyclone has affected “major Internet gateways” that provides connectivity.
+
+The Internet outage has also affected services of cellular operators like Reliance Jio, and Airtel in areas of Bangalore, and southern cities like Coimbatore, Chennai, MediaNama has learnt from sources. MediaNama wrote to Jio, ACT, Spectranet, Airtel, and Hathway for a comment. A spokesperson from ACT Fibernet confirmed with MediaNama that their network has been impacted by the Cyclone, while adding that its team has been working on clearing the outage. We are yet to hear back from rest of the ISPs/telcos.
+
+“ACT Fibernet’s network has been impacted by the Cyclone Vardah on multiple counts that include downtime in international Gateway, power shutdown in switches and routers and last mile fiber disconnections due to Tree Falls, pillar collapses and so on. Close to 50% of our network was impacted in Chennai leading to intermittent network issues. Our team has been working round the clock and reinforcement team from Bangalore has also joined the restoration work in Chennai,” the spokesperson from ACT told MediaNama.
+
+Twitter users have also reported outages in several cities:
+
+@IndiaPostOffice @rsprasad since last 2 months my local post master says our internet server are down for challan he says jo karna hai karlo — Amit Trivedi (@mittrivedi11) December 13, 2016
+
+@Spectranet_in Internet down from morning and cc is not picking calls. CaN number 160434 — Prakash Patrayani (@ashprak) December 13, 2016
+
+@HathwayBrdband – No internet since last evening. Ur servers go down atleast twice a week. WHy on earth are u running shop! U shud be sued — Abhinav Trivedi (@Alteredpandit) December 13, 2016
+
+@SpectranetCare @Spectranet_in Spectranet in South Bangalore seems to be down and I am not able to reach your customer care number either. — Indu Prasad (@induprasad) December 13, 2016
+
+What man My @BSNL_WB connection is down since morning. Not even 1Mbps speed.Can't even open a tweet. — Vivek Mittal (@VivekMittalSlg) December 12, 2016
+
+Reliance and jio is already down from morning. Airtel and Bsnl LL is working as of now. — Carthik Nagaraajan (@carthiknaga) December 12, 2016
+
+Airtel is having issues since 11:54. https://t.co/INvjlB44gw RT if it's down for you as well #Airteldown — Down Detector India (@DownDetectorIN) December 13, 2016
+
+Vodafone is having issues since 19:56. https://t.co/3bHKZVDthh RT if it's down for you as well #Vodafonedown — Down Detector India (@DownDetectorIN) December 12, 2016
+
+Aircel is having issues since 19:10. https://t.co/W9lxqdiG35 RT if it's down for you as well #Airceldown — Down Detector India (@DownDetectorIN) December 12, 2016
+
+Impact of Internet outage
+
+Countrywide Internet outages could adversely affect online payments and transactions, which already took a beating last month due to rise in digital transactions post demonetization. Last month, card transactions at Point of Sale (PoS) were failing due to the load on machines. Although, the failure rates came down over the month, mas Internet outages can affect:
+
+-Banks and ATMs rely on leased Internet lines. This could affect online transactions like the NEFT and RTGS that are cleared via Bank networks. Deposits/Withdrawals at ATMs could fail.
+
+-With the government yet to flush ample cash into the economy and with the movement towards a cashless economy, a mass Internet outage could affect mobile wallet transactions.
+
+Also Read: Internet in Mumbai slows down as DDoS attack clogs the network
+
+Image source: Flickr user ben dalton under CC BY-SA 2.0

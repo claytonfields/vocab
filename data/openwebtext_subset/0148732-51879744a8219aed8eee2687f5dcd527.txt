@@ -1,0 +1,27 @@
+Microsoft on Tuesday warned customers that its malware detection engine, used in a wide range of its products including Security Essentials and Windows Defender, could be disabled if an attacker sent a malformed file as an email attachment.
+
+Along with the security alert, Microsoft issued an update to patch the vulnerability.
+
+A successful attack would leave a Microsoft-guarded PC wide open to subsequent exploits, the company warned.
+
+“An attacker who successfully exploited this vulnerability could prevent the Microsoft Malware Protection Engine from monitoring affected systems until the specially crafted file is manually removed and the service is restarted,” Microsoft said in an advisory yesterday.
+
+That engine is the foundation of the company’s enterprise- and consumer-grade security products, including Windows Intune Endpoint Protection, System Center 2012 Endpoint Protection, Microsoft Security Essentials, Windows Defender and the Microsoft Malicious Software Removal Tool.
+
+The latter is a PC-cleaning tool updated monthly that seeks out and destroys selected malware. Windows Defender is the security software packaged with Windows 8 and Windows 8.1, while the free Security Essentials has been a mainstay for many consumers and even small businesses running Windows 7.
+
+Microsoft said it had no received no reports that the vulnerability had been exploited in the wild. But the bug was serious, marked “important”—Microsoft’s second-highest threat label.
+
+It wasn’t difficult to see why: If the anti-malware software was set to automatically scan every incoming file, as most are, an attacker could cripple defenses simply by attaching a specially-crafted file to an email message. Most customers, especially consumers, would have no idea that their PCs were now unguarded.
+
+The update Microsoft released at the same time it published the advisory will be automatically delivered to the malware detection engine in the next 48 hours, Microsoft said.
+
+A Google security engineer, Tavis Ormandy, reported the vulnerability to Microsoft.
+
+Gregg Keizer covers Microsoft, security issues, Apple, Web browsers and general technology breaking news for Computerworld. Follow Gregg on Twitter at @gkeizer, on Google+ or subscribe to Gregg’s RSS feed. His email address is gkeizer@computerworld.com.
+
+See more by Gregg Keizer on Computerworld.com.
+
+Read more about malware and vulnerabilities in Computerworld’s Malware and Vulnerabilities Topic Center.
+
+This story, "Microsoft to patch hole in its malware detection engine" was originally published by Computerworld .

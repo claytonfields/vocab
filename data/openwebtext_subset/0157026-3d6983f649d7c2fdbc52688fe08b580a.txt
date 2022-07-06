@@ -1,0 +1,15 @@
+BitMEX, a Seychelles Islands-based cryptocurrency trading platform, has sold all of the Bitcoin Cash (BCH) cryptocurrency granted to its customers during the Bitcoin clone’s creation in August, and says it will credit those users with an equivalent value of Bitcoin (BTC).
+
+BitMEX didn’t disclose the volume of the selloff, but BitMEX accounts for the majority of Bitcoin-to-dollar trading globally, implying it had sizable BCH holdings. There’s no sign that the move had a direct market impact, though. Both Bitcoin and Bitcoin Cash continued to trend down following the announcement of the selloff’s completion, with regulatory signals from South Korea possibly playing a role.
+
+But the BitMEX selloff is symbolically significant. Bitcoin Cash was created as a fork of Bitcoin, as part of an ongoing feud between two factions of Bitcoin’s so-called ‘scaling debate.’ Payment processing on the Bitcoin network has become increasingly sluggish and expensive, and Bitcoin Cash has some technical differences which advocates argue help solve that problem, making it a superior system.
+
+The supporters of Bitcoin and Bitcoin Cash have become vitriolic opposing factions. By simply selling off its customers’ Bitcoin Cash, BitMEX is signalling (intentionally or not) a degree of support for Bitcoin over Bitcoin Cash.
+
+Get Data Sheet, Fortune’s technology newsletter.
+
+Trading platforms have significant leverage in the situation because Bitcoin Cash was created as a copy not only of Bitcoin’s structure, but also its transaction history. That means everyone who owned Bitcoin at the time of the fork also instantly owned an equivalent amount of Bitcoin Cash. But things weren’t so simple for traders or investors whose Bitcoin were being held by third parties like Coinbase or BitMEX, which needed to make technical accommodations to get the funds to customers. BitMEX has previously refused to support Bitcoin forks, contributing to the cancellation of another Bitcoin spinoff, Segwit2x, in November.
+
+The support of exchanges and trading platforms is a significant factor in the viability of a cryptocurrency, given how central speculators currently are to the market. Coinbase, in a contrasting example, ultimately chose to add Bitcoin Cash to the assets it let customers trade on the platform, and distribute the new currency to all customers who were owed it.
+
+Correction: This article previously incorrectly stated that BitMEX is based in Honk Kong.

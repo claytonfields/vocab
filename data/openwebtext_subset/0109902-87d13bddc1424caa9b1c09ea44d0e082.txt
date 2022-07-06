@@ -1,0 +1,11 @@
+Here's an important consideration for Europeans in light of the NSA dragnet surveillance revealed by the recent leaks: some of the amendments to the controversial new EU Data Protection Regulation would open the door to the secret transfer of EU citizens' private information to US intelligence agencies. The UK Liberal Democrat MEP Baroness Ludford has advocated amendments that do this. The Open Rights Group and principled UK LibDems are calling on the Baroness to withdraw her support for these amendments and support transparency and accountability in the handling of sensitive personal information of Europeans.
+
+For instance, the Baroness is behind amendment number 1210.
+
+This removes the right to know if your data might be transferred to a third country or international organisation. It does this by deleting the following bit of the proposed Regulation:
+
+Article 14 – paragraph 1 – point g
+
+(g) where applicable, that the controller intends to transfer to a third country or international organisation and on the level of protection afforded by that third country or international organisation by reference to an adequacy decision by the Commission;
+
+It hardly needs spelling out given the recent news about PRISM and state surveillance, but knowing which companies or countries your data might be moved to is likely to increasingly be a fundamental consideration for someone deciding whether to share personal data.

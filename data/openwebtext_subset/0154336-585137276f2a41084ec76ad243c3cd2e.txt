@@ -1,0 +1,13 @@
+The Apache Software Foundation (ASF) has announced that GoDaddy, one of the largest domain registrars worldwide, and Chinese networking and telecommunications specialist Huawei have become its newest Silver sponsors. Huawei and GoDaddy join Basis Technology, Cloudera, WordPress co-founder Matt Mullenweg, PSW Group and VMware's SpringSource at the third level of sponsorship, for which the ASF requires an annual donation of $20,000 to help fund its work.
+
+The Foundation has also welcomed Twitter as a new Bronze sponsor, the lowest level of sponsorship available. As a Bronze sponsor, the company behind the popular microblogging service will donate $5,000 per year to the ASF. Among the projects at Apache that Twitter uses is the Mesos cluster manager, which is currently inside the Apache Incubator. Twitter runs Mesos on hundreds of its production servers. "Sponsoring the ASF is not only the right thing to do, it will help us sustain our existing projects at the ASF by supporting the foundation's infrastructure," said Twitter Open Source Manager Chris Aniszczyk, adding that, "We have a long history of contributing to Apache projects, including not only Mesos, but also Cassandra, Hadoop, Mahout, Pig and more."
+
+Established in 1999, the Foundation is the non-profit organisation that provides organisational, legal and financial support for a wide variety of open source projects, including more than 100 Top-Level Projects such as the Apache HTTP Web Server, the ASF's first project, and Hadoop, the popular distributed processing framework.
+
+See also:
+
+
+
+Citrix becomes platinum Apache sponsor, a report from The H.
+
+(crve)

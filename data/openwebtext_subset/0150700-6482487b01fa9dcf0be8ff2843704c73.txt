@@ -1,0 +1,9 @@
+Just a heads up before you install the game, take note that it does use Google Analytics to collect anonymous usage data as well it can also send anonymous error reports to the server if an unexpected error occurs.
+
+Also, this being a beta, there will be a reset of stats before the game goes public.
+
+The final version will have a few undecided limitations with the option of purchasing the full game.
+
+The beta version requires permissions to access your logs in the case of a crash!
+
+Hi everyone,I've been working on a multiplayer game for a little while now and it's about to the point where I need to get some more people using it. It's called Navy Wars and it's a turn based game where you try to take out your opponents fleet.Here are a few screen shots:The game is a work in progress, so there will be bugs and there will be changes. It was developed on a Nexus S, a Nexus One and a Nook Color. It hasn't had much exposure on other devices yet, so this should be a good test. If you run into any crashes, please email as much detail as you can to [email protected] and also use the built in crash reporter being as detailed as you can be when submitting a report.I think the game is pretty straight forward to play. If you register, post your username here so others can challenge you.Live in Android MarketEdit: The game requires at least Android 2.2Edit: Follow on twitter for updates! - http://twitter.com/#!/navywars [YOUTUBE]vlVvsrxarQY[/YOUTUBE]

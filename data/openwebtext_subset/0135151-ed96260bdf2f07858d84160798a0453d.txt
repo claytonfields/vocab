@@ -1,0 +1,29 @@
+Electronic privacy is all the rage in these post-Petraeus days. Can the government really go pawing through our email at will? Well, pretty much so, it turns out, at least, until the Supreme Court gets around to focusing a little bit of its attention on this newfangled, electronic world of ours. But email isn't the only data we pass around in electronic form, and with all of our attention focused on our in-boxes, we may be missing a larger world of privacy perils—and the unlikely guardians who have been fighting a rearguard action against official snoops.
+
+As it turns out, the feds are very interested in tracking all of our electronic communications, very concerned that private industry isn't assisting snooping efforts as much as officials would like—and maybe not so eager to share that bit of discord between the federal government and the telecommunications industry with the world at large.
+
+In a letter addressed to the Electronic Frontier Foundation, dated September 7, 2012, Immigration and Customs Enforcement FOIA Officer Catrina M. Pavlik-Keenan explained that a number of documents sent to the online civil liberties organization a year earlier were actually exempt from freedom of information disclosure:
+
+Please return any original copies of these documents to the ICE FOIA Office at the address below. If these records were provided to you on a disc, please return the original disc. You should also destroy any electronic or paper copies of these documents.
+
+What could have inspired such regrets in a federal agency that it attempted the likely impossible task of retrieving inconvenient documents from an organization generally dedicated to discomfiting obstinate government agencies?
+
+As EFF staff attorney Jennifer Lynch wrote:
+
+EFF had requested documents from the government in response to reports that the feds wanted to expand the reach of the notorious Communications Assistance for Law Enforcement Act, which mandates that telecommunications companies and equipment manufacturers build-in wiretapping capabilities for ease of government snooping. In this fast-moving world of ours, the FBI and other other law-enforcers want to see CALEA applied to Skype, Google, and other new forms of online communication. What EFF received in return for its queries was evidence that telecommunications companies that have long fallen under the umbrella of the wiretapping law, and which have even been given immunity to liability for their cooperation with legally questionable snooping in alleged terrorism cases, are actually often dragging their feet on complying with eavesdropping requests, and sometimes even telling the feds to get lost—at least, until they come back with better paperwork. The documents secured by EFF were actually part of a report compiling such incidents of “non compliance with a lawful electronic surveillance order.”
+
+That report was compiled to bolster the FBI's “Going Dark” initiative to enhance its powers to wiretap without being stymied by intransigent private-sector types. As FBI General Counsel Valerie Caproni told a House subcommittee last year:
+
+Any solution to the Going Dark problem should ensure that when the government has satisfied a court that it has met the legal requirements to obtain an order to intercept the communications of a criminal, terrorist, or spy, the government is technologically able to execute that court order in a timely fashion that is isolated to the individual subject to the order.
+
+That is, the FBI wants to expand not just its legal reach, but its ability to satisfy its nosiness on its own, without waiting on the assistance of third parties.
+
+That the federal government is growing impatient with the way individuals, organizations, and corporations deal with matters-digital is no secret. Even as Sen. Joe Lieberman's (I-Conn.) far-reaching Cybersecurity Act, described by the EFF as a potential conduit for private information to the National Security Agency, was going down to defeat in the Senate, President Obama was preparing, and then issuing, Presidential Policy Directive 20, assigning the military broad cybersecurity authority by fiat. Exacty how much authority isn't clear, since the White House has refused to reveal the details—a move the Electronic Privacy Information Center is appealing on freedom of information grounds.
+
+More troubling, the president has apparently prepared another directive that would implement Lieberman's failed bill by executive order, establishing "voluntary" standards for cybersecurity and data-sharing between private industry and government officials that few observers believe would remain a matter of simple preference. As the Heritage Foundation's David Inserra cautions, the bill uses the word "voluntary," but "then requires that sector-specific agencies explain to Congress why they haven’t made these standards mandatory." A presidential directive would take this controversial, twice-defeated legislation, and impose it from on-high.
+
+Ultimately, though, in an Internet-connected world, federal agencies may find that they've acquired long-sought powers, only to see their targets slip through their fingers. The EFF cautions that expanding government snooping power and forcing companies to incorporate easy wiretapping into their products "will impair innovation and drive Internet development offshore."
+
+That horse may already be out of the barn. This fall saw the launch of Silent Circle, a secure-communications company that includes on its team Phil Zimmerman, the inventor of PGP encryption. The company, helmed by a former Navy SEAL, deliberately based itself outside the United States, and beyond the reach of American laws and agencies.
+
+Determined to corral or bypass communications services that don't cooperate as fully as they'd like, U.S. officials may simply have inspired a new breed that don't even have to pay them lip-service.

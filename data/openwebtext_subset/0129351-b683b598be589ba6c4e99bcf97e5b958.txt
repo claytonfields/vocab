@@ -1,0 +1,15 @@
+Image: Pixabay.
+
+More people are getting online than ever, fueling an ever-burgeoning digital economy, but America's poor are being left behind.
+
+According to a new study from the Brookings Institute's Metropolitan Policy Program, only 46.8 percent of US households below the poverty line (specifically, households making under $20,000) are subscribed to broadband internet services. That's 42 percent lower than the 88.8 percent broadband adoption rate with households making over $50,000.
+
+The researchers follow the US census' definition of a broadband connection, which includes landline connections (DSL, cable modem, fiber optics), and wireless services (smartphone, tablet data plans, etc), but not dialup.
+
+The researchers also tied income and education to the low subscription rate, which seems to be the exact opposite of what's happening in the UK. While Brits are well connected, the US seems to be hobbled by something of a class divide when it comes to the internet. There doesn't seem to be one clear-cut answer as to why the poor are kept offline, but broadband internet is more expensive and harder to access than it is in other countries.
+
+"Many metropolitan areas that have low adoption rates to begin with often saw the biggest gain just because they had a low share of households to begin with." Joseph Kane, one of the co-writers of the paper, told me. The biggest gains came from towns that had relatively low broadband internet adoption: Fresno, California from 66.1 percent of households to 71.5 percent, Youngstown, Ohio from 63.6 percent to 68.9 percent.
+
+So while the silver lining is that internet adoption is growing, the not-so-silver lining is that the numbers say it's still disproportionately benefiting the middle class while the poor still have few options.
+
+"As we make this transition to an all digital economy, broadband is becoming the defining infrastructure of the 21st century," Kane told me. "More households are getting a high speed subscription, but clearly there's still more work to be done."

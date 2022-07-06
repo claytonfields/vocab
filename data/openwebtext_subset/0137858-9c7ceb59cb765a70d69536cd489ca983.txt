@@ -1,0 +1,61 @@
+LOS ANGELES (CBSLA.com/AP) — Withering cyberattacks on server farms of a key internet firm repeatedly disrupted access to major websites and online services including Twitter, Netflix and PayPal across the United States on Friday. The White House called the disruption malicious and a hacker group claimed responsibility, though its assertion couldn’t be verified.
+
+Manchester, New Hampshire-based Dyn Inc. said its data centers were hit by three waves of distributed denial-of-service attacks, which overwhelm targeted machines with junk data traffic. The attacks, shifting geographically, had knock-on effects for users trying to access popular websites across the U.S. even in Europe.
+
+“The complexity of the attacks is what is making it so difficult for us,” said Kyle York, the company’s chief strategy officer. “What they are actually doing is moving around the world with each attack.” He said an East Coast data center was hit first; attacks on an offshore target followed later.
+
+The data flood came from tens of millions of different Internet-connected machines — including increasingly popular but highly insecure household devices such as web-connected cameras. It was an onslaught whose global shifts suggested a sophisticated attacker, though Dyn said it had neither suspect nor motive.
+
+BROAD EFFECTS
+
+The level of disruption was difficult to gauge, but Dyn serves some of the biggest names on the web, providing the domain name services that translate the numerical internet addresses into human-readable destinations such as “twitter.com.”
+
+Steve Grobman, chief technology officer at Intel Security, compared an outage at a domain name services company to tearing up a map or turning off GPS before driving to the department store. “It doesn’t matter that the store is fully open or operational if you have no idea how to get there,” he said in a telephone interview.
+
+Jason Read, founder of the internet performance monitoring firm CloudHarmony, owned by Gartner Inc., said his company tracked a half-hour-long disruption early Friday in which roughly one in two end users would have found it impossible to access various websites from the East Coast.
+
+“We’ve been monitoring Dyn for years and this is by far the worst outage event that we’ve observed,” said Read.
+
+Dyn provides services to some 6 percent of America’s Fortune 500 companies, he said. A full list of affected companies wasn’t immediately available but Twitter, Netflix, PayPal and the coder hangout Github said they experienced problems.
+
+HACKERS CLAIM RESPONSIBILITY
+
+Members of a shadowy collective that calls itself New World Hackers claimed responsibility for the attack via Twitter. They said they organized networks of connected “zombie” computers called botnets that threw a staggering 1.2 terabits per second of data at the Dyn-managed servers.
+
+“We didn’t do this to attract federal agents, only test power,” two collective members who identified themselves as “Prophet” and “Zain” told an AP reporter via Twitter direct message exchange. They said more than 10 member participated in the attack. It was not immediately possible to verify the claim.
+
+Dyn officials said they have received no claim of responsibility, but are working with law enforcement.
+
+The collective, @NewWorldHacking on Twitter, has in the past claimed responsibility for similar attacks against sites including ESPN.com in September and the BBC on Dec. 31. The attack on the BBC marshaled half the computing power of Friday’s onslaught.
+
+The collective has also claimed responsibility for cyberattacks against Islamic State. The two said about 30 people have access to the @NewWorkdHacking Twitter account. They claim 20 are in Russia and 10 in China. “Prophet” said he is in India. “Zain” said he is in China. The two claimed to their actions were “good,” presumably because they highlighted internet security problems.
+
+Another collective member the AP previously communicated with via direct message called himself “Ownz” and identified himself as a 19-year-old in London. He told the AP that the group — or at least he — sought only to expose security vulnerabilities.
+
+During the attack on the ESPN site, “Ownz” was asked if the collective made any demands on sites it attacked, such as demanding blackmail money. “We will make one demand actually. Secure your website and get better servers, otherwise be attacked again,” he said.
+
+THE VULNERABLE INTERNET
+
+For James Norton, the former deputy secretary at the Department of Homeland Security who now teaches on cybersecurity policy at Johns Hopkins University, the incident was an example of how attacks on key junctures in the network can yield massive disruption.
+
+“I think you can see how fragile the internet network actually is,” he said.
+
+Dyn officials said attacks stemmed from tens of millions of devices connected to the internet — closed-circuit video cameras, digital video recorders and even thermostats — that were infected with malware.
+
+“The Internet of Things sort of ran way ahead of how the Internet was architected,” Dyn’s York said on a call with reporters. He said there are between 10-15 billion such devices online.
+
+Dyn first became aware of an attack around 7:00 a.m. local time, focused on data centers on the East Coast of the U.S. Services were restored about two hours later. But then attackers shifted to offshore data centers, and problems continue.
+
+“It is a very smart attack. As we start to mitigate they react and start to throw something that’s over the top,” York said on a call with reporters.
+
+The second attack broadened its net, affecting the U.S. West Coast. “Prophet” of New World Hackers said hacktivists of the broad, more amorphous Anonymous collective piled on in the third wave on Friday afternoon.
+
+“We’ve stopped all our attacks,” he said at midafternoon. The U.S. Department of Homeland Security was monitoring the situation, White House spokesman Josh Earnest told reporters Friday. He said he had no information about who may be behind the disruption.
+
+Security experts have recently expressed concern over increasing power of denial-of-service attacks following high-profile electronic assaults against investigative journalist Brian Krebs and French internet service provider OVH .
+
+In a widely shared essay titled “Someone Is Learning How to Take Down the Internet,” respected security expert Bruce Schneier said last month that major internet infrastructure companies were seeing a series of worrying denial-of-service attacks.
+
+“Someone is extensively testing the core defensive capabilities of the companies that provide critical internet services,” he said.
+
+(TM and © Copyright 2016 CBS Local Media, a division of CBS Radio Inc. and its relevant subsidiaries. CBS RADIO and EYE Logo TM and Copyright 2016 CBS Broadcasting Inc. Used under license. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed. The Associated Press contributed to this report.)

@@ -1,0 +1,63 @@
+I would like to make an analogy between building software and building a car. I know it is imperfect one, as one is about design and the other is about manufacturing, but indulge me, the lessons are very similar.
+
+A piece of software is like a car. Lets say you would like to test a car, which you are in the process of designing, would you test is by driving it around and making modifications to it, or would you prove your design by testing each component separately? I think that testing all of the corner cases by driving the car around is very difficult, yes if the car drives you know that a lot of things must work (engine, transmission, electronics, etc), but if it does not work you have no idea where to look. However, there are some things which you will have very hard time reproducing in this end-to-end test. For example, it will be very hard for you to see if the car will be able to start in the extreme cold of the north pole, or if the engine will not overheat going full throttle up a sand dune in Sahara. I propose we take the engine out and simulate the load on it in a laboratory.
+
+We call driving car around an end-to-end test and testing the engine in isolation a unit-test. With unit tests it is much easier to simulate failures and corner cases in a much more controlled environment. We need both tests, but I feel that most developers can only imagine the end-to-end tests.
+
+But lets see how we could use the tests to design a transmission. But first, little terminology change, lets not call them test, but instead call them stories. They are stories because that is what they tell you about your design. My first story is that:
+
+the transmission should allow the output shaft to be locked, move in same direction (D) as the input shaft, move in opposite (R) or move independently (N)
+
+Given such a story I could easily create a test which would prove that the above story is true for any design submitted to me. What I would most likely get is a transmission which would only have a single gear in each direction. So lets write another story
+
+the transmission should allow the ratio between input and output shaft to be [-1, 0, 1, 2, 3, 4]
+
+Again I can write a test for such a transmission but i have not specified how the forward gear should be chosen, so such a transmission would most likely be permanently stuck in 1st gear and limit my speed, it will also over-rev the engine.
+
+the transmission should start in 1st and than switch to higher gear before the engine reaches maximum revolutions.
+
+This is better, but my transmission would most likely rev the engine to maximum before it would switch, and once it would switch to higher gear and I would slow down, it would not down-shift.
+
+the transmission should down shift whenever the engine RPM fall bellow 1000 RPMs
+
+OK, now it is starting to drive like a car, but still the limits for shifting really are 1000-6000 RPMs which is not very fuel efficient way to drive your car.
+
+the transmission should up-shift whenever the estimated fuel consumption at a higher gear ration is better than the current one.
+
+So now our engine will not rev any more but it will be a lazy car since once the transmission is in the fuel efficient mode it will not want to down-shift
+
+the transmission should down-shift whenever the gas pedal is depressed more than 50% and the RPM is lower than the engine’s peak output RPM.
+
+I am not a transmission designer, but I think this is a decent start.
+
+Notice how I focused on the end result of the transmission rather than on testing specific internals of it. The transmission designer would have a lot of levy in choosing how it worked internally, Once we would have something and we would test it in the real world we could augment these list of stories with additional stories as we discovered additional properties which we would like the transmission to posses.
+
+If we would decide to change the internal design of the transmission for whatever reason we would have these stories as guides to make sure that we did not forget about anything. The stories represent assumptions which need to be true at all times. Over the lifetime of the component we can collect hundreds of stories which represent equal number of assumption which is built into the system.
+
+Now imagine that a new designer comes on board and makes a design change which he believes will improve the responsiveness of the transmission, he can do so because the existing stories are not restrictive in how, only it what the outcome should be. The stories save the designer from breaking an existing assumption which was already designed into the transmission.
+
+Now lets contrast this with how we would test the transmission if it would already be build.
+
+test to make sure all of the gears work
+
+test to make sure that the engine is not allowed to over-rev
+
+It is hard now to think about what other tests to write, since we are not using the tests to drive the design. Now, lets say that someone now insist that we get 100% coverage, we open the transmission up and we see all kinds of logic, and rules and we don’t know why since we were not part of the design so we write a test
+
+at 3000 RPM input shaft, apply 100% throttle and assert that the transmission goes to 2nd gear.
+
+Tests like that are not very useful when you want to change the design, since you are likely to break the test, without fully understanding why the test was testing that specific conditions, it is hard to know if anything was broken if the tests is red.. That is because the tests does not tell a story any more, it only asserts the current design. It is likely that such a test will be in the way when you will try to do design changes. The point I am trying to make is that there is huge difference between writing tests before or after. When we write tests before we are:
+
+creating a story which is forcing a particular design decision.
+
+tests are a collection of assumptions which needs to be true at all times.
+
+when we write tests after the fact we:
+
+miss a lot of reasons why things are done in particular way even if we have 100% coverage
+
+test are often brittle because they are tied to particulars of the current implementation
+
+tests are just snapshots and don’t tell a story of why the component does something, only that it does.
+
+For this reason there are huge differences in quality when writing assumptions as stories before (which force design to emerge) or writing tests after which take a snapshot of a given design.

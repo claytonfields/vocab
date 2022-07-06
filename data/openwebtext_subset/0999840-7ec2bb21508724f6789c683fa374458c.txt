@@ -1,0 +1,97 @@
+Greetings fellow Agonians!
+
+Today we wanted to present a development update on the progress of our Early Access Road Map, discuss the contents of our upcoming patch, and give some marketing updates as we prepare ourselves for launch. We will be releasing our next community competition tomorrow where you will be able to submit unique mob names and lore backstories that we will tie into our new unique rare mob spawn mechanics described below. We are at a very exciting time in the development of Darkfall: Rise of Agon as we get closer to our official launch, and all of us at Big Picture Games look forward to the coming months.
+
+Without further ado, let's get into it!
+
+Marketing Update:
+
+Playthrough Convention
+
+The marketing team has been gearing up for the upcoming Playthrough gaming convention that Brad and Michael will be attending this weekend in Raleigh, North Carolina. There have been many things we have been working on from banners and fliers to even some giveaways for those who stop by and say hello. This will be the first time that we publicly show off Darkfall: Rise of Agon and we cannot wait to talk about the project and what we have in store for the upcoming launch. Speaking of launch, our official launch date will be announced at the convention on Saturday. We hope to get to meet some of you in our community and invite everyone on Saturday to join us at the Crank Arm Brewing Company at 10:00 P.M. EST only a block away!
+
+Lighting the Fuse
+
+We want to ensure that when the game launches we can provide our players with as many friends and enemies to fight alongside with as possible. In the coming weeks we will be starting our external marketing campaigns that we have been planning internally and will not be letting up until we officially launch. We also have some things planned where you in our community can lend a helping hand to us in this endeavor. Stay tuned for more information as this train is about to leave the station.
+
+Next Patch Update
+
+The development team is currently working on our next Early Access patch which is currently scheduled to land at the end of February or beginning of March. This next patch will focus primarily on our new PvE spawn mechanics and the other changes listed below.
+
+Champion Spawn PvE Mechanics
+
+In the next patch we will be implementing our Champion Spawn PvE mechanics. This is a new system that changes the way certain mob spawns will function and provides a way for players to test their mettle against waves of enemies. This is the way that the system will work:
+
+Upon entering a Champion Spawn the player will notice a new UI at the top of their screen where they can choose to begin the spawn mechanics
+
+Players must kill a certain number of mobs within the allotted time to clear that wave of monsters and move onto the next stage
+
+Players that fail to complete the wave in time will have the spawn reset to the beginning of the challenge
+
+The first wave will consist of numerous monsters of lower difficult, and each wave afterwards will add in new threats and challenges
+
+The final stage will consist of a named Champion Spawn with stronger attributes and a better reward, although they will be guarded by a set number of minions as well
+
+For the initial iteration we will have these mechanics on a few mob spawns, but plan to add more throughout Early Access and after launch. The loot tables will be getting an overhaul as well once we begin to implement our unique recipes and rare items to the game.
+
+Named Unique Rare Mobs
+
+We also will be implementing the mechanics for our new Named Unique Rare Mobs. Although we may only get a few in with the next patch, our upcoming community competition will provide you with the opportunity to create some of the additions we will add throughout Early Access. Once the mechanics go into the game, it becomes much easier for us to add to this system and continuously implement new unique mobs.
+
+These mobs will be named, have stronger attributes as well as better loot tables, and will have a rare chance to spawn at certain mob locations. Eventually we plan to implement backstories to these new monsters where players can unlock the lore of each one in the game. As with champion spawns, we plan to add new unique items to these mob's loot tables at a later date.
+
+Respawn Scaling
+
+Another mechanic coming with this patch is our first iteration of respawn scaling. This will eventually be applied to all new player spawns to help with spawn rates for players who can clear spawns quickly. The faster that you kill mobs, the faster that they will spawn, as well as potentially increase the amount of spawns that occur. This is not dependent on how many people are present at the spawn, rather how efficient you are at clearing the spawn itself.
+
+Decreasing Tedium in Gearing
+
+There are multiple changes coming with this patch to how you can gear and de-gear in the game. The following is a list of what to expect:
+
+One button on the paperdoll to completely degear yourself
+
+Faster equipping of armor
+
+Ability to queue up armor pieces to equip by double clicking on multiple pieces
+
+Cooking Update
+
+We have completed our initial overhaul of the cooking profession and have added around 20 new cooking recipes, as well as many new ingredients. Mana regeneration is also now a benefit that can be found on some food, along with some other benefits.
+
+Other Changes
+
+There are some more changes coming with the patch such as new system messages for skins that do not produce items, changes to Digging, mount/ship/warhulk ownership changes, and a new staff seen below.
+
+Road Map Update
+
+Task System and NPX
+
+We are finalizing the list of tasks and actions that new players will be guided through for initial guidance. There is a lot of work required in order to get the Task System implemented, as it needs new tracking of mechanics and a brand new UI, along with the flexibility to expand it past the new player guidance. This system is currently being designed, along with some changes we can make outside of it to help ease new player experience (such as spawning in Action mode instead of GUI mode).
+
+Wilderness Portals
+
+Our artist Demo has been creating some new assets for our upcoming Wilderness Portal network. We are currently planning to have over 100 portal locations throughout the lands that will be providing one-way travel throughout the world of Agon. We have been working through some issues with placement of these new assets but are on schedule to have the system implemented for launch.
+
+Here are a few teasers of some of the new wilderness portals that have been created:
+
+Deployable Player Vendors
+
+The developers have begun working on the mechanics of the deployable vendors, but the brunt of the work on the coding side still needs to be accomplished. This system is still planned to be implemented for launch, but is not planned for the upcoming patch or the one thereafter.
+
+In the meantime our artist Adam has put together the initial draft of the art asset which you can see below:
+
+Crafting Updates
+
+After this patch we will have gone through the initial crafting changes of most of the professions in the game. We will be focusing on some of the combat updates that we want to work on after the game launches, and part of that will tie into the professions of Armorsmithing, Tailoring and Shieldcrafting. For this reason we will be holding off on making our changes to these professions until we can tie them into the changes we plan to focus on after launch.
+
+Economy Updates
+
+We are currently going through a pretty massive overhaul of the in-game economy, focusing on resource sinks and faucets as well as loot tables and resource locale. This will be a task that we will be working on all throughout Early Access to ensure that we can have a good starting point for the in-game economy when we launch. These changes, along with our persistence changes and monitoring tools we have implemented, will provide us with more insight and control of the economy. It is imperative to have a strong balance of risk vs reward when this game goes live, as that is one of the pillars of this game.
+
+Thanks for reading and stay tuned for our upcoming community competition!
+
+Join us for the discussion!
+
+Sincerely,
+
+- The Team at Big Picture Games

@@ -1,0 +1,17 @@
+At its main plant in Ingolstadt, German carmaker Audi has for the first time deployed a robot that works ‘hand-in-hand’ with humans – without a safety barrier and ideally adapted to the employees’ working cycles.
+
+It is the first human-robot cooperation at the Volkswagen Group to be applied in final assembly. This innovative technology makes work easier for the assembly employees and makes ergonomic improvements.
+
+For Dr. Hubert Waltl, Board of Management Member for Production at Audi AG, human‑robot cooperation opens up entirely new possibilities: “The factory of the future will feature increasing interaction between man and machine. That allows us to automate routine operations and to optimise ergonomically unfavorable workplaces.” But also in the future, there will be no factory without people. “People will continue to make the decisions on production processes. And our employees will continue to be essential for future-oriented, successful production.”
+
+Peter Mosch, chairman of the Group Works Council of Audi AG, commented: “We see the opportunities presented by the advancing interaction between man and machine. The decisive aspect for us is how this development is guided. We welcome it when it neither jeopardizes jobs nor leads to people losing independence to machines.”
+
+For the employees of the A4/A5/Q5 assembly lines at Audi’s Ingolstadt plant, the new, direct cooperation between humans and robots is an enormous help: Until now, they have had to bend over material boxes to take out the coolant expansion tanks. At first glance, this seems like a simple task, but with frequent repetitions it can lead to back problems. From now on, the task will be taken over by a robot, known internally as ‘PART4you’.
+
+It works hand-in-hand with the Audi employees and is fitted with a camera and an integrated suction cup. This enables it to pick up the components from the boxes and to pass them to the assembly workers – without any safety barrier, at the right time and in an ergonomically optimal position. “In a production process with increasing diversity of model versions, PART4you provides the employees with important assistance. It selects the correct component and holds it ready to be taken. This means that the employees no longer have to reach over long distances or bend down repeatedly. The robot becomes an assembly assistant operating at the same speed as the assembly worker – and not the other way around,” said Johann Hegel, Head of Assembly Technology Development.
+
+“Thanks to a soft protective skin with integrated safety sensors, there is no danger to the employees,” explained Hegel. Because PART4you fulfills the special safety precautions for cooperating robots, the intelligent system has received the required certificate from the employers’ liability insurance association.
+
+Since 2013, Audi employees in the A4 body shop in Ingolstadt have been working with the same type of robot equipped with an adhesive nozzle instead of a suction cup – but with fixed timing and without passing components. In the body shop, the robots support the employees by applying adhesive to bonded seams. Instead of applying the adhesive to the body parts themselves, the employees only have to put them in place and start the automatic procedure.
+
+Audi is planning further applications of human-robot cooperation, also at its international production sites.

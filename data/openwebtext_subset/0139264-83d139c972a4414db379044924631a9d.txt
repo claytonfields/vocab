@@ -1,0 +1,43 @@
+Update March 2017 Our Analyzer software for OpenSSL application audit is now available, get in touch to try it.
+
+Original post:
+
+Cryptosense software is designed to give our users visibility on the crypto their applications are using. We have tracing tools for PKCS#11 and Java, and recently we’ve been working on one for the OpenSSL crypto library (libssl and libcrypto). We’d like to share a couple of early results.
+
+The idea of the tool is that it inserts a shim between an application that (dynamically) links to openSSL and the libraries themselves, and writes out an abstract logical trace of the operations. We can send this trace to our Analyzer where it will be checked for simple crypto issues like weak algorithms and short keys, as well as more complicated bugs like key-management issues, insecure interactions between crypto operations, bad nonce or randomness management etc. We needed some real applications that use OpenSSL to try it out, and it seemed logical to start with OpenSSL’s own command-line tools that carry out simple operations using the library.
+
+Password-based key derivation in OpenSSL Commands
+
+The OpenSSL command line tools give access to a lot of functionality. For our first tests, we concentrated on commands that derive an encryption key from a password. This was because the documentation isn’t too clear about how exactly this will be done, so it seemed an area where our tool could shed some light.
+
+The principles of password-based key derivation are similar to that of hashing passwords for secure storage. The idea is to derive the key in such a way that it’s difficult for an attacker to guess the key starting from a dictionary of possible passwords. The same techniques apply, such as salting the hash with a unique (public) value for each key that’s derived, so that an attacker cannot test guesses against many keys at once, and using many iterations of a hash function to calculate the key from the password, so that the attacker has to do a lot of computational work to turn each password from the dictionary into a guess at the key. These days we often also want to choose the hash function so that it requires a lot of memory and is hard to parallelize, to resist against attacks using dedicated hardware.
+
+So how do the OpenSSL commands stand up? Well not too well, at least not in version 1.0.1k that we tested (the current version in popular Linux distributions), though it looks like there will be some improvements in version 1.1 (currently in beta). Let’s look at a couple of results in detail.
+
+Encrypting files
+
+The enc command allows you to encrypt a file using one of the symmetric-key ciphers included in OpenSSL under a key derived from a password. We ran
+
+
+
+openssl enc -v -aes-256-cbc -salt -in file.txt -out file.enc -pass pass:mySillyPassword
+
+
+
+We ran the analyzer over the resulting trace and obtained this:
+
+So OpenSSL is using one iteration of salted MD5 to derive the key (if there were no salt or a zero string, the Analyzer would have raised another warning). This is not good, and you may want to reconsider your password policy if you use this command for anything serious. It doesn’t look like things will improve much in OpenSSL 1.1.0 – the manpage suggests that SHA-256 will replace MD5 but no iteration parameter will be added.
+
+Encrypting Private Keys
+
+The pkcs8 command allows you to store a private key in an encrypted container. If you call it using the first example in the manpage:
+
+openssl pkcs8 -in key.pem -topk8 -v2 des3 -out enckey.pem
+
+Our tracer reveals that the key derivation uses PBKDF2 and 2048 iterations of HMAC-SHA-1. There is no command line option to change iterations (except to remove them). Using 2048 is not too bad, but it’s not considered best practice (see our article on PBKDF2 parameter choice). OpenSSL v1.1 adds an iteration parameter to allow this to be increased further. You can also beef up the hash function used inside PBKDF2 using a switch like -v2prf hmacWithSHA512
+
+There are also host of other, weaker, password-based encryption methods available, but you would have to deliberately choose them with command line switches like -v1 PBE-SHA1-3DES
+
+Conclusions
+
+Password-based key derivation in OpenSSL command-line functions could do with some modernization. Meantime, if you have an application that calls the OpenSSL libraries and you’d like to try it out with our tracer tool, we’d be very interested to hear about it.

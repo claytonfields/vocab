@@ -1,0 +1,7 @@
+Sony might be staring down the barrel of another PlayStation Network security breach. The company, having just had a successful launch of the PlayStation 4 console, has sent out emails to an unknown number of users requiring them to change their passwords because of “irregular activity” on the account. It seems the warning might have come too late for some — users are beginning to report fraudulent charges on the linked credit cards.
+
+Unlike the breach a few years back, it doesn’t appear that mountains of customer data were stolen, but someone seems to have at least gained access to usernames and passwords. Reports indicate content is being purchased on accounts without authorization. One user tells IGN that $150 was charged to his PSN Wallet, and another says FIFA 14 content was bought by someone with his profile.
+
+It may seem odd that someone would steal account credentials only to add content to the victim’s account, but there is a way for the thief to benefit. By adding his or her console to the victim’s account the thief is able to download all the content they want and play it offline, assuming there is no additional DRM measure employed by the game. One user has also reported $650 charged to a clothing retailer on the card used for PSN, but it’s not clear if the supposed perpetrators got that kind of access.
+
+Sony hasn’t spoken publicly about the breach yet, but the emails are genuine. Something happened, but we might have to wait until after the weekend to find out what.

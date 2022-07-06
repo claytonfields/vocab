@@ -1,0 +1,29 @@
+If somebody’s ‘going to ground’, it’s usually an indication that something’s gone wrong. But Eve: Valkyrie’s first ground-based map is a reflection of growing confidence at VR studio CCP Newcastle. Solitude, out as part of the Groundrush update on Tuesday, is a Descent-like planetary base riddled with nooks, crannies and underground passageways. It’s exactly the sort of thing the team would never have attempted before the VR dogfighter’s release last year.
+
+Related: the best space games on PC.
+
+“When we launched, everything was focused on player comfort,” remembers lead game designer Andrew Willans. “Controls and accessibility. Being a generation one VR game, we were really focused on eliminating anything that could potentially cause issues.”
+
+One of those issues, it transpires, were horizons. Early on in testing, CCP discovered that the visible curve of nearby planets caused nausea in a subset of players. Valkyrie consequently launched with Zero Horizons, if you will, and certainly nothing approaching a planetary battlefield. But that was then.
+
+“It just felt the right time to do something more radical,” Willans says. “To do something genuinely slap-in-the-face, holy s***, this is new. It made sense to locate it on the surface of a planet.”
+
+Where Valkyrie’s launch maps tapped into the freedom of space, Solitude brings the walls in close – building on the claustrophobic, Star Wars-style trench runs of last June’s Carrier Assault update. The team have surmounted the horizon problem by sinking their base deep into a crater, embedding a hidden Minmatar complex in the rock itself.
+
+“I’d be a liar if I said there wasn’t some fan service to some of the games we loved when we were younger,” Willans admits. “I’m old now, so I remember Descent really well. There are some moments in there, when you fly in through the maintenance tunnels, that give you that feel of those tight corridors.”
+
+The map retains Valkyrie’s signature slingshot launch, pinging you outwards from the bowels of the base at the start of a match – but once outside, an unfamiliar landscape of angular, jutting towers gives way to service tunnels and steam pipes.
+
+“You end up with underground and overground. I’m not going to break into ‘wombling free’, but that splits the action up on a whole new level, literally,” laughs Willans.
+
+Much of the map’s action takes place beneath the surface. CCP have taken inspiration from the brightly coloured corridors of real-life hospitals, to give players clear indication about where they are in the overarching structure. If Groundrush mode has a defining feeling, it’s the one-track thrill of chasing a pilot down in those tunnels. Either that, or the satisfaction of exploiting map knowledge to take another player on a wild goose chase. CCP expect players to pore over the enemy-free Scout mode to learn the channels and escape routes of Solitude’s industrial architecture.
+
+“Without the terrain, without feeling that sense of danger, you don’t feel that speed and that adrenaline rush,” adds Willans.
+
+Beyond that cat-and-mouse, the terrain fosters new tactical possibilities. In a Valkyrie first, it’s now easy to break line of sight. A narrow canyon runs down one side of Solitude, allowing pilots to reach objectives unseen, in a fashion that simply wasn’t feasible in the stark stretches of open space.
+
+For me, Valkyrie’s strongest statement of intent remains a training level – an escort mission gone wrong which climaxes with the sudden and horrifying appearance of an imposing Amarr Titan. It’s still worth watching on YouTube, and stands as one of VR’s most astonishing set pieces.
+
+With this new mode, CCP are tapping into that same sense of vulnerability – contextualising your tiny spacecraft in a vast landscape, and foregrounding the sense of scale that is one of virtual reality’s greatest strengths.
+
+“We dial everything up to give that sense of big fish in a huge pond,” says Willans. “Even though we fly around in these great big carriers, it’s still a very personal thing. It’s you and the cockpit.”

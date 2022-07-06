@@ -1,0 +1,11 @@
+There were a number of exciting things happening at ICML this past week, which took place in Lille, France.
+
+Deep learning remains the primary interest among a lot of research and excitement at ICML, where questions related to them would percolate even to the Bayesian nonparametrics and approximate inference sessions. It looks like a lot of the community has been paying more attention to introducing uncertainty in neural networks. (Deep) generative models are starting to get more headway now that approximate Bayesian inference algorithms—variational inference especially—are more tractable. Buzzwords now concentrate on variational autoencoders, probabilistic backpropagation, and deep latent variable models.
+
+On strictly the probabilistic side, there continues to be more work on increasing computational gains with subsampling, distributed implementations, and sparse GPs. There’s been a lot of interesting work on trying to merge various approximate inference algorithms in order to obtain a more unifying framework.
+
+ICML had this running theme on generalizability since Leon Bottou’s keynote talk, discussing the limitations of machine learning and the general inability for current algorithms to easily infer from small data sets as humans do. Transfer learning, zero-shot learning, and comments on approaches from cognitive science received more exposure.
+
+There was another theme on context and learning actual concepts: why should a picture of a car on a road have a higher probability of being classified as a car than a picture of a car in a swimming pool? It seems no matter how powerful our computer vision algorithms get, they still do not grok what a car is. The statistical answer is that it’s nigh impossible to learn a true “test” distribution that is not the same distribution as that generated for the training data; cars in swimming pools are simply something our algorithms haven’t seen much of, and we should be able to somehow weight the learning more on the tail of the distribution.
+
+Favorite papers

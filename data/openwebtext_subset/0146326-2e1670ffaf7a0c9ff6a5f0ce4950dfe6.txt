@@ -1,0 +1,35 @@
+August 2014, Google released an article sharing their thoughts on how they planned to focus on their “HTTPS everywhere” campaign (originally initiated at their Google I/O event).
+
+The premise of the idea was that every website, regardless of what it was doing, should be communicating securely between point A and point B. To help motivate users, it went right for the carotid artery by making it a ranking factor in search.
+
+December 2015, Google adjusted their crawlers to start start prioritizing and indexing HTTPS pages by default. If you had HTTP / HTTPS, they would start giving more weight to your HTTPS pages.
+
+January 2017, they updated Chrome 56 to flag input fields that were not using https. This helped educate and make users aware that their data was not being collected / transmitted securely.
+
+August 2017, Google begins notifying website owners if their websites have forms that are running over non-HTTPS. If the website owner does not take action before October when a user visits their website they will be created with a “not-secure” warning in the URI section of the browser, extending the original warning restricted to the form.
+
+Regardless of your personal feelings about HTTPS, which I’ve openly shared in the past here and here, it’s only a matter of time before the “non-secure” applies to any website running over HTTP, regardless of any data capture features on this site.
+
+If you’re unclear if this change will affect your site, here are a few questions to ask yourself:
+
+Does your site use Forms? If it does, is the site using HTTPS on the page? This applies to CMS applications (e.g., WordPress, Drupal, Joomla!, etc…) login panels as well.
+
+If you’re using forms and not using HTTPS you an expect this to start impacting your website in the coming months.
+
+Getting Started With HTTPS
+
+There will be two issues that are inevitable as you get started:
+
+1 – You’ll likely run into Mixed Content Warnings during the deployment; I’ve put a guide to help you with that.
+
+2 – You’ll likely experience a hit to your rankings as the searches shift from HTTP -> HTTPS. It will recover, don’t freak out. To help in the process submit a new sitemap including the new HTTPS links. Google provides a guide on how to do this via their Search Console.
+
+Google has a simple breakdown of the core steps that will help point you in the right direction.
+
+If you manage your own web server, and have the technical ability, take a look at LetsEncrypt; it’s a free, open, transparent Certificate Authority (CA) managed by the Internet Security Research Group (ISRG). LetsEncrypt is a non-profit with the simple goal of making SSL accessible to all website owners. They provide a simple Getting Started guide that will help you deploy the certificates to servers.
+
+You also have the option to start a dialog with your host. They all have their own unique approach to handling SSL certificates. Some are free, some are paid; their real value however will come in what you’re getting. Free doesn’t mean free of effort, and paid doesn’t mean fully serviced.
+
+Another option would be to start a dialog with your security provider. For instance, at Sucuri we bundle SSL certificates into our cloud security services and will help you get things configured and deployed.
+
+Regardless of the route you choose, take a few moments to put a plan in place, make sure it allocates enough time for the change. Changing from HTTP to HTTPS can be a bit of headache if done blindly. If you’re not sure what you’re doing, consult your developer.

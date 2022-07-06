@@ -1,0 +1,9 @@
+Oscillating chemiluminescent reaction using a luminol-H2O2-KSCN-CuSO4-NaOH system.
+
+Long ago, according to the second law of thermodynamics, chemical reactions could only go one way, from starting material A to product B, since in every natural thermodynamic process the sum of the entropies of all participating bodies is increased. The except is the oscillating reactions, a classical example of non-equilibrium thermodynamics.
+
+In 1951 Boris Pavlovic Belousov noted, while investigating the citric acid circle, that in a mix of potassium bromate, cerium(IV) sulfate, malonic acid, and citric acid in dilute sulfuric acid, the ratio of concentration of the cerium(IV) and cerium(III) ions oscillated, causing the colour of the solution to oscillate between a yellow solution and a colorless solution. Belousov made two attempts to publish his finding, but was rejected on the grounds that he could not explain his results (because of the second law of thermodynamics) to the satisfaction of the editors of the journals to which he submitted his results.
+
+During the last 60 years, several oscillating chemical reactions have been described, some of them uses luminol as a chemiluminescent indicator as seen on the above gif. Chemiluminescent reactions are also among the most fascinating demonstrations. Many of these demonstrations can be found in the Journal of Chemical Education.
+
+9:30 pm • 20 September 2015 • 235 notes • View comments

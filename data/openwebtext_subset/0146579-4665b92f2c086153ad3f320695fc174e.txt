@@ -1,0 +1,7 @@
+Knot DNS is a high-performance authoritative-only DNS server which supports all key features of the modern domain name system.
+
+Open source Knot DNS is open-­source. It is com­plete­ly free to down­load and use. The source code is avail­able un­der GPL li­cense. Our de­vel­op­ment process is trans­par­ent and driv­en by the needs of com­mu­ni­ty and do­nat­ing user­s.
+
+Feature-packed Knot DNS pro­vides es­sen­tial DNS fea­tures in­clud­ing in­cre­men­tal zone trans­fers (IXFR), dy­nam­ic up­dates (DDNS) and re­sponse rate lim­it­ing (RRL). More ad­vanced fea­tures in­clude au­to­mat­ic DNSSEC sign­ing, dy­nam­ic A/AAAA/PTR records syn­the­sis, or rapid on-the-fly re­con­fig­u­ra­tion.
+
+High performance The serv­er was de­signed to meet the needs of root and TLD name server­s. It is ca­pa­ble of non-stop op­er­a­tion. The re­spond­ing code is com­plete­ly lock­-free and the serv­er is there­fore ca­pa­ble of achiev­ing a very high re­sponse rate.

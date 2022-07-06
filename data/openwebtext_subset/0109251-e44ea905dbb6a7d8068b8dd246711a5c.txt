@@ -1,0 +1,15 @@
+A unanimous Supreme Court ruled Monday that regulations for debt collectors do not extend to companies that purchase debts.
+
+In delivering his first opinion of the court, Justice Neil Gorsuch relied on the plain text of the Fair Debt Collection Practices Act in finding that Santander Consumer USA does not qualify as a debt collector because it purchased the $3.5 billion portfolio of auto loan debts it had been hired by CitiFinancial to collect.
+
+Because the law defines debt collectors as “those who regularly seek to collect debts ‘owed ... another,’" Gorsuch said the statute’s plain language seems to focus on third-party collection agents regularly collecting for a debt owner instead of a debt owner seeking to collect debts for itself."
+
+ADVERTISEMENT
+
+CitiFinancial had argued if Congress had been aware of defaulted debt purchasers like Santander, it would have treated them like traditional debt collectors because they pose similar risks of abusive collection practices.
+
+But in affirming the lower court rulings, Gorsuch said it is not the court’s job to rewrite a constitutionally valid text under a banner of speculation about what Congress might have done had it faced this question.
+
+“Constant competition between constable and quarry, regulator and regulated, can come as no surprise in our changing world,” he wrote. “But neither should the proper role of the judiciary in that process — to apply, not amend, the work of the People’s representatives.”
+
+The ruling more narrowly defines what constitutes a debt collector, limiting federal regulations that protect consumers from abusive, unfair or deceptive debt collection practices.

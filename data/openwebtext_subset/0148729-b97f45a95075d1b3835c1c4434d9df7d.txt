@@ -1,0 +1,75 @@
+CSIRO Parkes radio telescope has discovered around half of all known pulsars.
+
+This article was originally published at The Conversation. The publication contributed the article to Space.com's Expert Voices: Op-Ed & Insights.
+
+A pulsar is a small, spinning star – a giant ball of neutrons, left behind after a normal star has died in a fiery explosion.
+
+With a diameter of only 30 km, the star spins up to hundreds of times a second, while sending out a beam of radio waves (and sometimes other radiation, such as X-rays). When the beam is pointed in our direction and into our telescopes, we see a pulse.
+
+2017 marks 50 years since pulsars were discovered. In that time, we have found more than 2,600 pulsars (mostly in the Milky Way), and used them to hunt for low-frequency gravitational waves, to determine the structure of our galaxy and to test the general theory of relativity.
+
+Read more: At last, we've found gravitational waves from a collapsing pair of neutron stars
+
+What is a pulsar?
+
+The discovery
+
+In mid-1967, when thousands of people were enjoying the summer of love, a young PhD student at the University of Cambridge in the UK was helping to build a telescope.
+
+It was a poles-and-wires affair – what astronomers call a "dipole array." It covered a bit less than two hectares, the area of 57 tennis courts.
+
+Jocelyn Bell Burnell, who discovered the first pulsar. (Image: © CC BY-SA)
+
+By July it was built. The student, Jocelyn Bell (now Dame Jocelyn Bell Burnell), became responsible for running it and analysing the data it churned out. The data came in the form of pen-on-paper chart records, more than 30 metres of them each day. Bell analysed them by eye.
+
+What she found – a little bit of "scruff" on the chart records – has gone down in history.
+
+Like most discoveries, it took place over time. But there was a turning point. On November 28, 1967, Bell and her supervisor, Antony Hewish, were able to capture a "fast recording" – that is, a detailed one – of one of the strange signals.
+
+In this she could see for the first time that the "scruff" was actually a train of pulses spaced by one-and-a-third seconds. Bell and Hewish had discovered pulsars.
+
+But this wasn't immediately obvious to them. Following Bell's observation they worked for two months to eliminate mundane explanations for the signals.
+
+Bell also found another three sources of pulses, which helped to scotch some rather more exotic explanations, such as the idea that the signals came from "little green men" in extraterrestrial civilisations. The discovery paper appeared in Nature on February 24, 1968.
+
+Later, Bell missed out when Hewish and his colleague Sir Martin Ryle were awarded the 1974 Nobel Prize in Physics.
+
+A pulsar on 'the pineapple'
+
+CSIRO's Parkes radio telescope in Australia made its first observation of a pulsar in 1968, later made famous by appearing (along with the Parkes telescope) on the first Australian $50 note.
+
+Australia's first $50 note featured the Parkes telescope and a pulsar. (Image: © By Source, Fair use.
+
+Fifty years later, Parkes has found more than half of the known pulsars. The University of Sydney's Molonglo Telescope also played a central role, and they both remain active in finding and timing pulsars today.
+
+Internationally, one of the most exciting new instruments on the scene is China's Five-hundred-metre Aperture Spherical Telescope, or FAST. FAST has recently found several new pulsars, confirmed by the Parkes telescope and a team of CSIRO astronomers working with their Chinese colleagues.
+
+Why look for pulsars?
+
+We want to understand what pulsars are, how they work, and how they fit into the general population of stars. The extreme cases of pulsars – those that are super fast, super slow, or extremely massive – help to limit the possible models for how pulsars work, telling us more about the structure of matter at ultra-high densities. To find these extreme cases, we need to find lots of pulsars.
+
+Pulsars often orbit companion stars in binary systems, and the nature of these companions helps us understand the formation history of the pulsars themselves. We've made good progress with the "what" and "how" of pulsars but there are still unanswered questions.
+
+As well as understanding pulsars themselves, we also use them as a clock. For example, pulsar timing is being pursued as a way to detect the background rumble of low-frequency gravitational waves throughout the universe.
+
+Pulsars have also been used to measure the structure of our Galaxy, by looking at the way their signals are altered as they travel through denser regions of material in space.
+
+Pulsars are also one of the finest tools we have for testing Einstein's theory of general relativity.
+
+Read more: Explainer: Einstein's Theory of General Relativity
+
+This theory has survived 100 years of the most sophisticated tests astronomers have been able throw at it. But it doesn't play nicely with our other most successful theory of how the universe works, quantum mechanics, so it must have a tiny flaw somewhere. Pulsars help us to try and understand this problem.
+
+What keeps pulsar astronomers up at night (literally!) is the hope of finding a pulsar in orbit around a black hole. This is the most extreme system we can imagine for testing general relativity.
+
+Jocelyn Bell Burnell describes how she discovered pulsars.
+
+Finally, pulsars have some more down-to-earth applications. We're using them as a teaching tool in our PULSE@Parkes program, in which students control the Parkes telescope over the Internet and use it to observe pulsars. This program has reached over 1,700 students, in Australia, Japan, China, The Netherlands, United Kingdom and South Africa.
+
+Pulsars also offer promise as a navigation system for guiding craft travelling through deep space. In 2016 China launched a satellite, XPNAV-1, carrying a navigation system that uses periodic X-ray signals from certain pulsars.
+
+Pulsars have changed our our understanding of the universe, and their true importance is still unfolding.
+
+George Hobbs, Team leader for the Parkes Pulsar Timing Array project, CSIRO; Dick Manchester, CSIRO Fellow, CSIRO Astronomy and Space Science, CSIRO, and Simon Johnston, Senior research scientist, CSIRO
+
+This article was originally published on The Conversation. Read the original article. Follow all of the Expert Voices issues and debates — and become part of the discussion — on Facebook, Twitter and Google +. The views expressed are those of the author and do not necessarily reflect the views of the publisher. This version of the article was originally published on Space.com.

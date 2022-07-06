@@ -1,0 +1,21 @@
+In a recent post by Derek Lowe on a Chinese journal’s finding that 31% of its submitted papers contained plagiarized material, an editor for a scientific journal noted in the comments that he randomly selected a Tetrahedron Letters paper from a developing country and Googled the first sentence. That sentence (“Multicomponent reactions (MCRs) are important for generating high levels of diversity…”) shows up in very similar form in three different papers, all from institutions in Iran and China. In two of the papers, the second sentence of the paper is exactly the same, all 22 words.
+
+Also, compare the two first sentences, the first by Shaterian et al.[1] and the second by Adib et al.[2] The highlighted words are the same.
+
+“Multi-component reactions (MCRs) are important for the achievement of high levels of brevity and diversity. They allow more than two simple and flexible building blocks to be combined in practical, time-saving one-pot operations, giving rise to complex structures by simultaneous formation of two or more bonds, according to the domino principle.” “Multicomponent reactions (MCRs) are important for generating high levels of diversity, as they allow more than two building blocks to be combined in practical, time-saving one-pot operations, giving rise to complex structures by simultaneous formation of two or more bonds.“
+
+While cutting and pasting other people’s introductory sentences is certainly embarrassing and almost certainly plagiarism, there is some difficulty in summarizing a set of facts in a different way each time. It certainly can be done — below are three different labs’ introductory sentences for chemistry towards the total synthesis of the azaspiracids, which are marine natural products. Again, the same words are highlighted in red.
+
+Nicolaou et al.[3]: “ The azaspiracids are a group of notorious marine neurotoxins whose accumulation in mussels causes serious human poisoning known as azaspiracid poisoning syndrome (AZP) upon their consumption.” Geisler, Nguyen and Forsyth[4]: “ The azaspiracids are remarkable natural products that combine a unique, complex structure with an acute and perhaps chronic human health hazard.” Evans et al.[5]: “(-) -Azaspiracid -1 is a structurally complex marine neurotoxin that is implicated in seafood poisoning .”
+
+You can see that Nicolaou, Forsyth and Evans all have specific ideas they’re trying to get across: what the compound is, where it comes from and what it does to people. But they’ve all managed to have relatively few words actually overlap. Is this sort of cutting-and-pasting ‘real’ plagiarism? — it’s just the quotation of a particularly useful string of words, one might assert, not the stealing of ideas. I don’t think this is a very good way of thinking about things, but I can’t quite reason why. In addition, I doubt that any of the authors of the MCR papers were native speakers of English. Clearly, that plays some role in their choice to cut and paste; again, not an excuse, but another contributing factor. I’m trying to see if I can come up with extenuating circumstances, but I just can’t. My adviser in graduate school held out “the same five words in a row” as a general rule of thumb for how to spot and/or avoid plagiarism — what about the same five ideas in a row? What do you think, reader? How do you avoid cutting and pasting? And what should we do (if we should) to stop this sort of thing? Do we need TurnYourJournalSubmissionIn.Com?
+
+References:
+
+1. Shaterian, H.R.; Yarahmadi, H.; Ghashang, M. Arkivoc. 2007, 16, 298-313.
+
+2. Adib, M.; Mahdavi, M.; Bagherzadeh, S.; Zhu, L.-G.; Rahimi-Nasrabadi, M. Tet. Lett. 2010 , 51, 27-29.
+
+3. Nicolaou, K.C.; Frederick, M.O.; Petrovic, G.; Cole, K.P.; Loizidou, E.Z. Angew. Chem. Int. Ed. 2006 , 45 , 2609-2615.
+
+4. Geisler, L.K.; Nguyen, S.; Forsyth, C.J. Org. Lett., 2004, 6, 4159-4162.

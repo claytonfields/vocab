@@ -1,0 +1,13 @@
+Peretz Partensky/Langton Labs Aaron Swartz speaking at Freedom to Connect conference in Washington, DC, on May 21, 2012.
+
+Tributes to Aaron Swartz, a 26-year-old Internet activist who was an early builder of Reddit, were popping up across the Web on Saturday, after reports of his suicide began to circulate.
+
+A spokeswoman for New York’s medical examiner told the Associated Press that Swartz hanged himself in his Brooklyn apartment and was found Friday. Swartz was a computer prodigy who as a teenager helped create the RSS news reader and later fought to make online content available for free.
+
+BoingBoing writer Cory Doctorow has a lengthy post about Swartz’s life and character, and it’s an absolute must-read. For example, here are some of his accomplishments, as referenced by Doctorow:
+
+Swartz “co-wrote the RSS specification when he was 14.” RSS is a news reader that is still in use by many today, though the technology has certainly evolved.
+
+He was an early builder of Reddit, but was close enough to a co-founder “as makes no damn,” Doctorow wrote.
+
+“At one point, he singlehandedly liberated 20 percent of US law.” Swartz used a system that gives Americans access to their own public domain case-law to put that data in the public domain.

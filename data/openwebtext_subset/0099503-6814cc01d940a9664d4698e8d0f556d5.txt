@@ -1,0 +1,43 @@
+Here are some recent developments on bitcoin and the blockchain from around the world.
+
+Russia’s Love-Hate Relationship
+
+Russia’s stance towards bitcoin and blockchain is a study of a great contrast. While Russia has been unfriendly towards bitcoins, it is showing enthusiasm towards its underlying technology, the blockchain. However, this could be changing. As Russia’s Central Bank moved to embrace the blockchain technology, comments by Andrei Lugovoi, Deputy Chairman of the Russian State Duma Committee for Security and Anti-Corruption generated hope for the future of cryptocurrencies as well.
+
+A press release by Russia’s Central Bank revealed that the central bank is setting up a working group to engage in the “analysis and evaluation” of application possibilities of new financial technology. An extract from the release read, “The Central Bank established the Working Group on the analysis of advanced technologies and innovations in the financial market. Among the priority issues - the study of distributed technologies (e.g. blockchain), as well as new developments in the mobile, payment, and other areas.”
+
+Russia’s has been hard on its attitude towards bitcoin but the same has seen a gradual shift from a time when the Finance Ministry prepared a draft on banning all forms of money substitutes in Russia which includes bitcoins. According to Andrei Lugovoi, “In the beginning of 2016 after a series of meetings with the fiscal authorities and businesses, it was stated that in the future the Central Bank could begin to legalize and regulate certain transactions with Bitcoin, particularly peer-to-peer transactions and settlements with individuals.” Russia currently ranks fifth in the world with 200,000 users of cryptocurrency users, and thus if the above proposal is enforced, it will provide a big boost to virtual currencies.
+
+
+
+Bitcoin Could Be ‘Real Money’ in Japan
+
+In an interesting development, Japan’s financial regulators are reportedly considering treating virtual currencies such as bitcoin equivalent to real money, a move that would strengthen the mechanism of consumer protection and pave a way for growth in the virtual economy. Currently, virtual currencies in Japan are “recognized as objects but are not treated on a par with their more established counterparts.”
+
+As per the Nikkei report, FSA is considering amendments to legislation to include virtual currencies such as bitcoin as “fulfilling the functions of currency.” The proposal will be submitted during the ongoing Ordinary Diet Session. This move would bring entities like exchanges for virtual currency under a regulatory preview with tighter oversight, thereby enabling virtual currency to expand in a safer mode.
+
+Australia, Bitcoin & Blockchain
+
+In a recent speech Greg Medcraft, Chairman, Australian Securities and Investments Commission (ASIC) spoke about the blockchain. He said, “This technology has the potential to fundamentally change our markets and our financial system .... Blockchain will have profound implications for how we regulate.” ASX has already collaborated with Digital Asset Holdings, LLC to develop solutions for the Australian equity market using the blockchain technology. Meanwhile in February, Melbourne based Bitcoin Group, a company that mines bitcoins, completed its initial public offering raising $4.2 million to be listed on Australian Stock Exchange (ASX). It was the first IPO by a company engaged in bitcoin mining.
+
+Other than finance, blockchain is being applied to politics. Flux, “a revolutionary political party and politico-economic structure” is looking to revamp the way the orthodox system of politics by bringing in the blockchain technology. Flux provides a modern voting system using the blockchain technology which allows transparency, immutable records and ease of online voting. It filed its papers with the Australian Election Commission in January, and aims to elect six senators. Flux describes itself as “a layer for the redistribution of political power. And when a Flux candidate is elected they become a gateway for voters to directly influence parliament.” Flux now has 1238 registered members according to the website.
+
+Blockchain Coming to Korea
+
+The Korea Stock Exchange (KRX) as reported by The Korea Times has begun “preliminary steps” to develop a trading platform for off-board dealers based on the blockchain technology. The new platform will bring together buyers and sellers OTC which would facilitate trading by reducing efforts in finding trade partners and reducing costs involved.
+
+Dubai’s Global Blockchain Council
+
+To promote innovation and adopt next generation technologies at a global level, Dubai Museum of the Future Foundation recently announced the launch of Global Blockchain Council. Al Aleeli, CEO, Dubai Museum of the Future Foundation said that “the significant growth in the volume of transactions using Blockchain platform during 2015, which reached 56%, refers to the great opportunities that can be utilized through the optimal application of this technology in the relevant sectors." According to him, the global investments in blockchain could reach $300 billion over the next four years. The Global Blockchain Council will explore and promote blockchain and digital currencies as well as study its advantages and disadvantages while working on ways to utilize the technology in the best possible way.
+
+European Parliament
+
+A new draft report by the European Parliament on virtual currencies stresses that virtual currencies and blockchain technology can contribute greatly towards consumer welfare and economic development by dramatically lowering transaction costs for payments and transfer of funds while enhancing the speed and resilience of payment systems, and allowing transactions to be tracked in case of malfeasance.
+
+The report calls for the creation of a horizontal Task Force DLT (distributed ledger technology) under the leadership of the Commission to facilitate the necessary technical and regulatory expertise to support the relevant actors (at both EU and Member State level) in efforts to ensure a timely and well-informed response to the new opportunities and challenges.
+
+Meanwhile the European Central Bank (ECB) showed “openness to new technologies” and said that it intends to assess the relevance of blockchain and distributed ledger technology for various banking services like payments, securities settlement as well as collateral.
+
+Final Word
+
+The developments around bitcoin and the blockchain technology are fast evolving. While banks, and technology companies are already involved in many such projects, governments are becoming increasing open the changes which have entered the financial ecosystem (and extending beyond finance), while making sure that they do not compromise on issues such as money laundering and other illicit activities.

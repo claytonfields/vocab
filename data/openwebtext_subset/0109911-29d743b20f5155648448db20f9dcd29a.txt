@@ -1,0 +1,13 @@
+Firefox fixes vulnerability that left Tor users exposed: FBI may be responsible
+
+Mozilla has announced the rollout of an update to its Firefox browser that fixes a newly reported vulnerability, one that has left Tor users exposed. Not only has this vulnerability made it possible for Tor users to be deanonymized, Mozilla says the exploit is being actively used for this purpose. The vulnerability affects Windows, macOS, and Linux, though the exploit itself only works against Windows users.
+
+According to Daniel Veditz writing on Mozilla’s blog, the company received the exploit code early yesterday — the same exploit was published on a Tor Project public mailing list by someone else soon after, making it publicly known. According to Mozilla, a Firefox bug allows the exploit to work, though the victim needs to load a Web page with malicious SVG and JavaScript code.
+
+It is a serious vulnerability, with the exploit itself allowing spies or whomever else to collect both the MAC address and IP addresses of the victim. It’s not clear who is behind the exploit. However, Mozilla says it works in a manner very similar to the FBI’s network investigative technique for unmasking Tor users.
+
+That has stirred up speculation that the FBI itself may be behind the exploit; or, perhaps, another government or law enforcement agency working from a similar foundation. As Veditz points out, anyone can now use this exploit to deanonymize Tor users who are running the vulnerable version of Firefox…meaning that even if the government did create this exploit in secret, it opened the doors for every other hacker and snoop in the world to do so, as well.
+
+The Firefox vulnerability fix will be rolling out soon and will automatically be installed once available. If you use Tor with Firefox, avoid doing so until after you’re sure the fix (which is listed as critical) is installed on your system. As always, be sure to set up Tor properly to help avoid being detected.
+
+SOURCE: Mozilla Blog

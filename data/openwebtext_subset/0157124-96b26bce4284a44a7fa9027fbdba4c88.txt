@@ -1,0 +1,35 @@
+I’ve been using the bleeding edge version of GNOME Shell for some time now. I’ve put off coming to quick judgements during that time. I wanted to get used to it. Also, it’s been changing a lot. Now that I have given the shell some time and now that the implementation has matured, the time has come to come to some conclusions about the current design.
+
+So what’s the shell like? The good news is that GNOME Shell contains some really cool features and has some real quality. The bad news is that there are a few problematic aspects of its design.
+
+What’s cool
+
+The activities button. It’s a hot corner. You don’t have to look at it. You just throw the mouse into the corner and the overlay pops up. Muscle memory takes over before long. Soon you barely have to think about opening the overlay. It just happens.
+
+Instant search. GNOME Shell does much of what GNOME Do does, enabling fast keyboard based application launching and switching. It currently only takes me three keystrokes to launch Firefox using GNOME Shell: Super L (aka the Windows key), f, return. That’s it. Pretty cool, huh?
+
+Messaging. The messaging tray is one of the more recent additions to the shell. I really like the concept of the tray. It gives users the ability to receive and respond to messages without having to switch window. A little notification peeps up from the bottom of your screen. If you want to read the full message, you hover over it. If you want to reply you can type your reply right into the box, all without switching window.
+
+The application menu. Many GNOME applications have a File menu that contains entries which don’t have anything to do with files – open a new window, quit, etc. This bugs the hell out of me. GNOME Shell will help to put an end to this sort of thing. Each app will have an application menu in the Shell, which means that we’ll get much more logical menus. We’ll also get snazzy application loading indications. This will be a definite improvement to the current desktop.
+
+The application well. It’s like a dock, only a bit different. The use of columns means that the application well can accommodate more items than a dock. I think the well looks really good, too.
+
+What’s not so cool
+
+The zoom out animation. At first I didn’t mind the shift to and from the overlay mode, but I’ve found it increasingly unenjoyable as time has gone on. The shift feels jarring and it can be uncomfortable to watch if I’m tired.
+
+Overlay arrangement. The representation of workspaces in the overlay leaves large amounts of screen estate unused (this contributes to the severity of the zooming in and out effect) and adds complexity to the design. I’d really like to see the representation of workspaces removed from the overlay. This 30 second hack of Jon McCann‘s beautiful mockup shows what I mean:
+
+Top panel arrangement. The arrangement of the elements in the Shell’s top panel seems aesthetically and conceptually awkward to me. Visually, there’s little rhythm and large amounts of the screen edge go unused. Conceptually, the order of Activities button, Application Menu, Clock, System Status and Session Menu seems like a bit of a jumble.
+
+The session menu. The top right hand corner is one of the most valuable parts of the screen, and yet it has been devoted to the session menu – an item which will be infrequently used.
+
+Also, I’m unconvinced that most users will understand the idea of a session menu. I doubt most of them know what a session is even is… I’ve personally seen someone struggle for a good long time to find shut down. Why would you click on something with your name on it to turn off your computer?!
+
+What happens next?
+
+GNOME Shell is a bold project. This is a good thing; exactly what GNOME 3 should be about. The Shell has some brilliant features too (far more than I’ve been able to describe in this post). Preventing distraction and helping people to concentrate on the task in hand is a worthy and worthwhile aim that is backed up by strong evidence that users are increasingly suffering from constant distraction. If the Shell works as intended, it will make its users’ lives better.
+
+There are issues with the Shell though, and some changes are needed if it is going to succeed. (The recent proposals made by Seth Nickell need to be taken seriously. His proposal for the top panel overcomes many of the problems I’ve outlined above). These changes wouldn’t be an admission of failure. Far from it. They would be a way of building on the excellent work that has already been done and they would be a way of getting people excited about the awesomeness that is already there.
+
+Advertisements

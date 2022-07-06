@@ -1,0 +1,59 @@
+SimCity. (COURTESY OF ELECTRONIC ARTS)
+
+So far this spring has been a momentous season for the American city. Stockton, California, became the country’s largest municipal bankruptcy, collapsing under $1 billion in debt incurred before the housing crisis knocked the city on its back. And in Michigan, the governor appointed an emergency manager to take control of Detroit and save it from insolvency of its own, caused by a shrinking population and unwieldy pensions obligations.
+
+ADVERTISEMENT Thanks for watching! Visit Website
+
+And then there was the release, in early March, of a rebooted SimCity, the first new installment of the metropolitan video game in a decade.
+
+The most important lesson of SimCity is that growth is the only successful urban policy.
+
+In it, anyone can run a city with the power of a Detroit-style emergency manager, unfettered by democracy or public unions, a Robert Moses on steroids. After its release, city geeks—adherents of an urbanist intellectual style that is strikingly common these days—debated the merits of the new SimCity: What use is a city simulation that doesn’t include democracy? Are the assumptions in the model too favorable to suburban sprawl over walkable urbanism? Are its cities green or environmentally exploitative? What does the end of agriculture as a zoning option in the game mean for the urban chicken farmer?
+
+ADVERTISEMENT Thanks for watching! Visit Website
+
+ADVERTISEMENT Thanks for watching! Visit Website
+
+In most media outlets, coverage of SimCity’s release was dominated by headlines about the game’s epic software problems, which likely drowned out—for the average reader—much of this discussion among urbanist wonks. But what both conversations obscured was a more basic fact: that urbanist wonkery as a contemporary phenomenon practically grew up with SimCity.
+
+First introduced in 1989—a few short years before the “the new urbanism” became an organized movement—the game introduced the public to the ideas behind urban planning and public finances, viewing cities as zoning grids and interlocking systems that affected how it changed and grew.
+
+"I remember being a grad student and leaving SimCity on for days at a time with certain policies in place to see what would happen,” Drew Williams-Clark, a Chicago city planner, told Fast Company, which polled urban planners about the game and even challenged a group of them to build the “best” cities in a contest promoting it.
+
+In 1994, the Princeton sociologist Paul Starr wrote with some suspicion about SimCity and other “computer simulations that turn public policy and ideas into popular entertainment,” wondering about the implicit political assumptions smuggled in through the games’ models. Starr opened his piece with an anecdote about his then nine- and 11-year-old daughters obsessively playing an early version of SimCity. Those daughters are now pushing 30. Along with them, a whole generation has gained a weirdly intimate, market-driven, heavily stylized appreciation of city government and planning through the game.
+
+They have also acquired something else: a characteristic optimism about cities. As Starr wrote 20 years ago, the first SimCity arrived on the heels of “a broader collapse of confidence in planning in the 1970s and 1980s,” a period marked by loss of faith in predictive models. It was also a period marked by a loss of faith in cities themselves. SimCity’s long run reflects, if anything, the opposite: the hope that Americans have placed in their cities in recent years, spurred by an enthusiastic, wonkish understanding of how and why they work.
+
+SimCity. (COURTESY OF ELECTRONIC ARTS)
+
+WHEN ROGER EBERT DIED earlier this month, I came across his review of another work of art about cities that came out the same year as the first SimCity, Spike Lee’s racially-charged Do the Right Thing. Ebert considered the movie, and the mixed messages it contained, a reflection of the “weary, urban cynicism that has settled down around us in recent years.”
+
+In 1989, the crime rate was peaking and crack was tearing apart the inner city, manufacturing was beginning its downward slide but the information economy hadn’t begun to even partially replace it, and racial tensions were far higher—think New York city pre-Rudolph Giuliani, much less Mike Bloomberg. Suburbs were in, urbs were out. In the first edition of SimCity, an initial scenario was called "Detroit, 1972" and had gamers trying to solve the decaying city’s crime problem and put it on a sustainable path to growth.
+
+While Detroit’s problems have yet to be solved, today we think differently about cities in general. The big problem of the city today isn’t the hollowing out of the urban core that America saw in the '70s and '80s, but the filling-in (more people live in cities here than ever before) and the pushing out to suburbs—which have become the new locus of poverty. To put it simply: We talk about more about gentrification than white flight.
+
+The American city is an icon. Books like Edward Glaeser’s The Triumph of the City detail the economic advantages of cities—for health, for jobs, for quality of life. Richard Florida’s Who’s Your City? promotes his idea of cities as a gathering place for the creative, post-industrial economy.
+
+For younger writers like Ryan Avent and Matt Yglesias (both former SimCity obsessives) the quest to grant more people access to these urban engines of prosperity has the quality of a moral crusade. In their view, zoning rules, NIMBY politicking, and other structural impediments to density all conspire to limit the supply of urban housing and commercial space, creating an artificial scarcity of real estate in vibrant cities like San Francisco, Los Angeles, Austin, and New York. Density is also increasingly seen as an environmental good, bringing with it efficiencies in energy expenditures as the costs of climate control and transportation are reduced. So many problems, from joblessness to gentrification, could be forestalled if cities simply let themselves hold many more people, homes, and businesses.
+
+SimCity. (COURTESY OF ELECTRONIC ARTS)
+
+In SimCity—whose Mac edition is due out in June—this dynamic becomes tangible. The new game doesn’t reflect all of the ways cities could be optimized: Your simulated metropolis must be built around roads for cars and without bike lanes, although your public transit options include light rail and buses; there is no multi-use zoning. Some of these restrictions are due to the limits of the simulation itself, some due to gamification. The new edition it is at once far more sophisticated than previous siblings, and yet less daring than it could be. Heavy traffic is a far more realistic problem than in previous editions, but I still can’t impose a congestion tax to help clear my downtown and raise revenue.
+
+But as has always been the case, the game is strongest as an economic model. It tasks you to turn empty land into prosperity within the structure of what the game’s original designer, Will Wright, called “a capitalistic land value ecology”—a concept that bears more than a passing resemblance to the assumptions behind some market-focused urban debates of today. The player has to turn a plot of land into a city by creating the right market parameters: Real estate must be zoned and provided with the right infrastructure (roads, water, power) for sim-citizens to build homes and shops; urban services (police, fire, and education) to protect the participants in the market. Players specialize their city’s economy with industrial policies designed to support everything from oil wells to trade. Nearly everything else—construction, design, daily life—happens independently.
+
+While playing, it’s easy to solve your early economic problems by zoning more land and collecting more taxes. But soon you run out of land, your budget is in the red, pollution is becoming a problem, and your industries are running out of workers. As the city grows and more services are demanded, density becomes your watchword. This is a true nod to the realities of urbanism, where building up is the only way to efficiently capture the economic benefits of new residents.
+
+The most important lesson of SimCity, and of the real Detroit, is that growth is the only successful urban policy. But the brilliant decisions of the past become traps as you realize how they limit new development. It makes for an engaging, obsession-creating game, and a troubling reality.
+
+One common rap against young market urbanists today is that they are too impatient with the human realities of politics. It’s true that SimCity takes politics out of the picture, but there are moments in the game when this very absence is instructive, eerie, and conspicuous: When a poorly planned city of my design ran out of residential space—and workers—it became clear that only massive restructuring would save the city from failure. An entire neighborhood would need to be wiped out and re-zoned for the greater whole to thrive. My digital bulldozers wasted no time. Obviously, the real world doesn’t work that way.
+
+That’s partially the point. In his 1994 critique of the SimCity’s simulated approach to politics, Starr concluded that the best simulations work to expose their assumptions. What cities need to do to survive can be a political mess. To survive, mine needed massive redevelopment that anywhere else would have been choked by local interests. Making those kinds of changes to a city’s plan aren’t easy, whether the need is for a new economic base or simply lower rent.
+
+SimCity. (COURTESY OF ELECTRONIC ARTS)
+
+But the easy decisions to protect existing residents from change—decisions that create sprawl and raise rents—mean that if the bottom falls out and growth halts in the city, the necessary adjustments are that much harder. A lack of density has become a liability in Detroit, as city services are spread too thin over a sparsely populated city. And after the economic problems comes the social disruption that surrounds the previous generation’s take on cities, knotty thickets that politicians rarely navigate with grace. Which is why, when it comes down to it, the people who deal with the problems of failing cities are judges, as in the case of Stockton; unelected boards, as in the financial rescue of insolvent New York in 1975; or an emergency manager.
+
+The juxtaposition couldn’t be clearer in Detroit, where the manager with SimCity powers, a black bankruptcy attorney named Kevyn Orr, was greeted by protesters delivering him Oreo cookies symbolizing betrayal of his race. Orr recently restructured Chrysler; now he will have to do the same for Detroit. The optimistic euphemism for the task is “right-sizing”—how else do you fix the problems of a city that was built to serve a population of 1.5 million (and service the pensions of all the workers in a city of that size) that now has a population of just 700,000 people? While the meat of his work will be credit negotiations, there is no shortage of bold city plans with experimental zoning techniques designed to attract new industry—and new people—to a more consolidated city.
+
+SimCity doesn’t nearly begin to capture the costs, human and financial, of Detroit’s management problem, or any metropolitan dislocations. But if you can picture how a player would fix a broken city—one blogger actually has suggested just that as a way to crowdsource solutions—you can find the most important assumption built into the models of SimCity, today’s and the original: That building a sustainable metropolis is possible at all.

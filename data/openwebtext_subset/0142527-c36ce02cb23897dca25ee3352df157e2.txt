@@ -1,0 +1,21 @@
+Facebook officially launched its Marketplace on Monday, once again attempting to carve out a piece of peer-to-peer local sales.
+
+The feature, which Facebook has been testing for the past year, allows users to post items they want to sell and casually shop goods for sale in their communities. The tool integrates with Facebook Messenger so users can negotiate and arrange logistics.
+
+Facebook is not facilitating in-app payments at this time but likely will head in that direction, based on the company’s efforts to turn Messenger into a friend-to-friend payment app.
+
+Although Messenger has been a key focus for Facebook in recent years, Marketplace is replacing the chat tool in the Facebook iOS app’s navigation bar. That switch gives some insight into how much of a priority Marketplace is for Facebook.
+
+In Marketplace, users can search specific items or browse items for sale by category. They can also adjust the distance they’re willing to travel for an item, using a built-in location tool.
+
+If that sounds familiar, it’s because Marketplace is nearly identical to Bellevue, Wash.-based OfferUp.
+
+OfferUp has seen tremendous success by challenging Craigslist with its user-friendly, mobile-first marketplace for buying and selling within communities. This David and Goliath story may have a twist ending, with Facebook entering the ring as another giant to fight.
+
+OfferUp’s tremendous growth is the reason Facebook has been trying to tap the local buying and selling space for years. In 2007, the company rolled out its first iteration of “Marketplace” but weak traction led Facebook to shut the feature down in 2014.
+
+Facebook does have a key advantage over Craigslist and (to a lesser extent) OfferUp. There’s a heightened sense of security and accountability when arranging a sale via the Facebook portal because user names and basic information are associated with the transaction.
+
+Scams and safety concerns have always been a problem for Craigslist. OfferUp already uses Facebook authentication to build a sense of trust. Now, it seems, Facebook wants to leverage that trust for its own gains.
+
+Facebook Marketplace is rolling out in the U.S., UK, Australia, and New Zealand on iOS and Android over the next few days. It will be available on desktop and in other countries later this year.

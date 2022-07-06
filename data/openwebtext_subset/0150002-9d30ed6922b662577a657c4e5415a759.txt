@@ -1,0 +1,15 @@
+When we released Pokémon GO on iOS and Android devices on July 5, we were anticipating that millions of people around the globe would play our new game. What we did not foresee was that Pokémon GO would immediately become a global phenomenon. From initial release in Australia and New Zealand to now being available in more than 90 countries, Pokémon GO has since been downloaded more than 500 million times.
+
+Over the last four years, Niantic’s engineering team built and scaled Ingress, our first Real World game, creating a unique software architecture to provide an optimal platform with massive scalability for all of our games going forward. While our platform was architected to avail itself of any of the available cloud providers, our experience with Google Cloud Platform made it the obvious choice to bring Pokémon GO’s augmented reality world to life.
+
+Google Cloud Platform’s range of services allowed us to focus solely on our players rather than sink time into managing and securing servers and infrastructure. Having the real-time shared world of Pokémon GO inhabited by hundreds of millions of players required scalable architecture throughout the the serving stack. The Cloud Datastore service that we were utilizing was soon running at more than fifty times our original projections. Player demand ultimately spiked by more than an order of magnitude, ten times our most aggressive estimates, requiring hot fixes and ongoing game changes against a backdrop of massive growth in players.
+
+With Google Cloud product and engineering teams at our side as consultative partners, Niantic was able to overcome the rush of millions of enthusiastic Trainers and stabilize the service. Engineering teams from both companies began working hand-in-hand around the clock the moment it became clear that the game’s popularity would exceed our wildest estimates. More than a dozen teams across Cloud Platform and other core Google products rallied to support us as we pushed live improvements to the game for our players. In parallel, Google’s infrastructure teams worked to tune systems, ensuring sufficient capacity for us to keep up with the game’s skyrocketing popularity.
+
+We want to extend a huge thank you to the Google Cloud team for their support and look forward to growing the Pokémon GO community with them in coming years.
+
+
+
+
+
+Phil Keslin, CTO Niantic

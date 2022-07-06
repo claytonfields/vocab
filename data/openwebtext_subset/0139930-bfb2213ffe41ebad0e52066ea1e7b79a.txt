@@ -1,0 +1,21 @@
+OCZ Technology recently announced a firmware update for owners of Sandforce-based SSDs, including the Vertex 2, Vertex 2 LE, and Agility 2. The firmware update addresses many issues, but unfortunately OCZ put the changelog in a dumb PDF file.
+
+Here’s a text version for you:
+
+Issues resolved since version 1.29
+
+Improved the time required to wake up from sleep & standby
+
+Further improved NAND flash end of life behavior
+
+Fixed a rare condition that could cause the drive to reset and clear the data
+
+Fixed a rare condition in which a drive could hang if repeatedly rebooted without sufficient time to recover between cycles
+
+Reduced the drive boot time when it was shutdown improperly
+
+Improved FW efficiency for performance improvements of up to 5%
+
+Improved the File System block error handling process
+
+Known open issues:

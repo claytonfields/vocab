@@ -1,0 +1,21 @@
+With Live 8 in the hands of Ableton fans, two big questions remain for a lot of aficionados: first, how the heck do you deal with this new warp marker interface, and second, how can you make controller mappings for hardware more effective? Thanks to some enterprising, expert users, we’ve got video solutions to each of those problems.
+
+Warp: Engage
+
+The new Warp Mode in Live may actually be friendlier to new users; it’s existing users, accustomed to the previous way of working, who seem thrown for a loop. (Erm… excuse the pun.) I’m at a bit of a disadvantage myself in that I tend not to do a lot of warping/remixing. But Medway Studios has a set of tutorials specifically geared for people wanting some tips on how to assimilate the new working method:
+
+Part 2:
+
+Our friend Dennis DeSantis of Ableton offers his own take in a video shot at NYC-based music tech learning center dubSpot. This is a pretty good conceptual overview of what the whole thing is about.
+
+Basically, what I’m hearing is that people used to previous versions of Warp Markers, while they find it confusing at first, do like the new system once they understand how it works.
+
+Controllerism
+
+Mark Mosher has been doing fantastic tutorials on his site Modulate This. For one thing, he’s got tips for getting Wacom tablets to work in Live 8 and finally getting text entry support, which means Kore works properly in Live at long last (among others).
+
+Best of all, he has a tutorial that demonstrates how he’s putting together all his controllers – the Notation ReMOTE SL with Automap and the Akai APC40 – and making them function more effectively using some subtle controller changes in Live 8.
+
+What’s interesting to me is that this isn’t so much about unique, proprietary stuff added to the APC integration, but basic feature improvements in Live itself, which could help you be more effective with other controllers, as well. That’s the kind of functionality I like to see, because it helps everyone.
+
+All of this is great, but we are getting a little heavy on the Ableton-only video tutorials. It’s time to pick up the screencasting tools and demonstrate other tools, too. I’ve got some time blocked out this summer for the task. Requests?

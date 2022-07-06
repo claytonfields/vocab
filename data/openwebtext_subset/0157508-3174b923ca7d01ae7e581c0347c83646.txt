@@ -1,0 +1,73 @@
+I’d like to thank my amazing Calculus III instructor, Professor Wolfson, for showing me this. Undoubtedly will always be my favorite professor and I only wish to someday be a quarter as knowledgeable as him. Anyhow! Let’s jump right in.
+
+What if I told you that you can wrap the entire real number line, every point on it, around a circle of radius 1? Go ahead, choose whether I’m a loony or not now before continuing to read.
+
+Did you choose? Alright. Now look at the animated graph below.
+
+I’m going to try to motivate you to sort of “prove” this in your head before I get into the mathematics behind it. While looking at the gif, just note the following:
+
+Consider the very top point of the circle, the point (0,1), as undefined. Note that as the slope changes, where the line intersects the circle and the x-axis changes as well. In a single snapshot of the gif, let’s call the point it intersects on the x-axis as or just for short. Call the point it intersects on the circle Now try to imagine this: in that random snapshot of the gif (where the line is held still) map (“assign”) the point to . Now go to the next snapshot and do it again, and again, …
+
+Now let the slope instead of being anything in the range (-10, 10), be anything in . What follows is every single point on the real number line (x-axis) gets assigned to a point on the circle! With room to spare even, that point on the top of the circle never got assigned anywhere after all.
+
+Let’s get down and dirty in some math now.
+
+Err, I’m sorry, I won’t say that again. Sounded a lot cooler in my head.
+
+Finding the Function:
+
+We can actually find the exact function that tells us where our point goes on the circle. It’ll be a function mapping one number to two, or more explicitly, , where .
+
+To get started we need to know what we have to work with. Without loss of generality let’s let the radius be 1 (that is, you can make the radius whatever you please, I just wanted to make it look pretty in the end). What we have is
+
+which is actually all we need. Let’s leave the in there for now though to avoid having to deal with messy equations, and just remember that our circle doesn’t include the point .
+
+From here it’s a matter of some plug and chug!
+
+
+
+
+
+
+
+
+
+
+
+Great! Now we complete the same procedure for the other coordinate.
+
+
+
+
+
+
+
+
+
+
+
+Here we must choose for the numerator because otherwise things would simplify to , and remember, (0,1) wasn’t defined on our circle.
+
+
+
+The Function:
+
+All this, in summary, provides the following function:
+
+
+
+which, after plugging in the fact that provides…
+
+And there we have it! Any point on the real number line can be mapped to the point on our circle of radius 1! Go ahead and try a few points and mess around if you want. Let’s end on some final notes regarding this:
+
+It’s pretty cool looking at how “dense” the circle is packed, for instance, the bottom half of the circle is mapped only points from but what about perhaps the upper-left tiny little 1/1000 segment of the circle? Oh dear…
+
+but what about perhaps the upper-left tiny little 1/1000 segment of the circle? Oh dear… Thing about the difference in the arc-length of a circle over its entire domain versus the arclength of over entires domain . What in the world is going on here?
+
+versus the arclength of over entires domain . What in the world is going on here? Explicitly calculate the inverse of , that is, if I gave you a point on the circle, can you tell me what it was assigned? By finding the explicit inverse function (showing it exists), we showed that the circle and the real numbers are isomorphic (have the “same size” set of points!!).
+
+, that is, if I gave you a point on the circle, can you tell me what it was assigned?
+
+Edit: Part 2 of this is up!
+
+Advertisements

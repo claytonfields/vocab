@@ -1,0 +1,19 @@
+The cold winters in recent years have led some people to question the reality of climate change. But the winters have come at times where the global temperature was at or near record highs—so the issue was how the cold was distributed around the globe as much as anything else.
+
+At the same time, there have been some suggestive hints that climate change may be influencing that distribution, at least indirectly, through the loss of Arctic sea ice. The idea was very preliminary, however, and it was difficult to get data that conclusively supported it. Now, a group of Japanese researchers found evidence that the loss of sea ice makes cold winters in Eurasia twice as likely as they would be otherwise.
+
+The challenge of attributing cold winters to the loss of sea ice is that both of these phenomena show strong year-to-year variability. Thus, in order to tease out a correlation, you need long-term data on both. But we've only had accurate satellite measurements of sea ice since about 1980. If there is a connection between the two, it should show up in climate models if they're fed sea ice conditions that match those of the present. But climate models show strong variability in the winter weather they generate, which again makes determining any correlations very difficult.
+
+The Japanese team started with a weather phenomenon and worked backward. Cold Eurasian winters (with cold centered on eastern Russia and extending from Eastern Europe to China) tend to be associated with an anti-cyclone pattern centered over Eastern Russia. This draws cold air down across Eastern Europe while pushing warmer air into the Arctic, creating a "warm Arctic, cold Eurasia" pattern.
+
+The authors reasoned that this blocking system would be most strongly influenced by the sea ice closest to it, which is in the Barents and Kara Seas north of Scandinavia and Russia. This helps the authors get rid of a potential source of variability: the distribution of ice within the Arctic. Even in years when the total ice is similar, it's likely to be distributed differently—more near Greenland one year, more north of Russia the next.
+
+They then selected the 10 years in the satellite recorded with the least ice in this region, as well as the 10 with the highest levels of ice. These were then compared with the actual historic data for Eurasian temperatures and fed into a large ensemble of climate models.
+
+The authors found a very strong correlation between the low sea ice years and a strong warm Arctic-cold Eurasia pattern. This pattern was enhanced by the phase of the Arctic Oscillation, a variable pattern of air pressure found in the Arctic. The warm Arctic-cold Eurasia pattern also showed up in climate models when they were fed the appropriate ice conditions, although it wasn't as intense as it is in the real world data. Overall, the results suggest a cold Eurasian winter is twice as likely in a low ice year than it is when ice cover is higher.
+
+With sea ice expected to continue to decline, is this a pattern we should be expecting to persist? The authors show that the recent chills are superimposed upon a general warming within Eurasia. By the end of this century, climate models suggest that this warming should reduce the probability of cold winters, even as the sea ice continues to vanish.
+
+This is a significant result in that it provides some indication of how to tease out a relatively difficult-to-spot trend within noisy data, but it only provides a partial picture of Arctic behavior. In addition to Eurasia, Western Europe and North America have experienced unusually cold winters as well. These have been blamed on a relatively weak jet stream, but the new study doesn't speak to whether that was a contributing factor or not. In other words, there's still quite a bit of work left to do on this topic.
+
+Nature Geoscience, 2014. DOI: 10.1038/NGEO2277 (About DOIs).

@@ -1,0 +1,35 @@
+Bitcoin ABC Developers Announce Medium-Term Bitcoin Cash Roadmap
+
+This week the Bitcoin ABC development team released its medium-term plans for the Bitcoin Cash (BCH) roadmap. Developers say the proposal represents goals for the next 6-12 months.
+
+See also: The Cryptocurrency Market Cap Trends Higher – Commanding $300Bn This Week
+
+Bitcoin ABC and Seven Development Teams Aim to Improve Bitcoin Cash
+
+Two weeks ago news.Bitcoin.com reported on the successful bitcoin cash hard fork, and more recently we covered the BCH developer’s plans to change the currency’s address format. On November 28 the Bitcoin ABC programmers revealed their medium-term future roadmap for the BCH blockchain. The organization is also collaborating with seven other development teams who have a shared vision.
+
+“Bitcoin ABC developers have been collaborating and communicating with developers and representatives from several projects, including Bitcoin Unlimited, Bitprim, Nchain, Bitcrust, ElectrumX, Parity, and Bitcoin XT,” explains the Bitcoin ABC medium-term roadmap.
+
+Although these are independent projects, each with their own development processes and priorities, we share a common vision for advancing bitcoin cash — While we can only speak for ourselves, plans for Bitcoin ABC align with this shared vision.
+
+The BCH Network’s Primary and Secondary Goals
+
+The development team explains the ultimate goal is to keep improving BCH as a currency and network. “It should ‘just work,’” details the roadmap and this includes being more reliable, scalable, and have low fees. Bitcoin cash should be ready for the mainstream masses to adopt as soon as possible the developers emphasize.
+
+In the next 6-12 months Bitcoin ABC also plans to improve secondary goals that aim to enhance the BCH network’s features. Tentative BCH features and future upgrades include increasing the block size limit again towards an adaptive block size. The possibility of removing ordering consensus and implementing canonical transaction ordering. According to the Bitcoin ABC developer ‘Mengerian,’ this could help with adding Gavin Andresen’s Graphene technology. “Additionally, it also paves the way for techniques to enable massive scaling in the future, such as sharding, and parallelized block validation,” Mengerian explains.
+
+The Need to Be Proactive
+
+Further, the team plans to improve the Difficulty Adjustment Algorithm (DAA) even more so and also reactivate certain bitcoin-Opcodes that were deactivated in the past. Moreover, the programmers want to add protocol extension points to facilitate future Opcode upgrades which could lead to developments like Colored Coins. All of the proposed BCH protocol upgrades are dependent on “further discussion, implementation, and testing.” The Bitcoin ABC team is calling on anyone who wants to help improve bitcoin cash for the better.
+
+“For anyone interested in seeing these features (or others) in bitcoin cash, now is the time to step up and work on them — The protocol upgrades will need solid implementation, with lots of time for review and testing,” explains the medium-term Bitcoin ABC roadmap.
+
+We do not want to be in a position where people push for last-minute changes to be included in the protocol upgrade. We need to be proactive.
+
+“Working together, we will make bitcoin cash the best money the world has ever seen,” the developers conclude.
+
+What do you think about the bitcoin cash team and its plans for future upgrades? Let us know what you think in the comments below.
+
+Images via Shutterstock, Twitter, and Bitcoincash.org.
+
+Bitcoin Games is a provably fair gaming site with 99% or better-expected returns. Try it out here.

@@ -1,0 +1,120 @@
+Excellent colour reproduction is the charm of the X series by FUJIFILM, a company with its
+
+roots as a film manufacturer. With beautiful images and sophisticated design, the number of X series users are on the rise in recent years. You may wonder “how does the X series achieve such high image quality in APS-C format? Are they going change for full frame to achieve even higher image quality?”
+
+Amazon Japan met with Optical Device & Electronic Imaging Products Manager Takashi Ueno to follow up a previous interview, and talked about the reason why the X series will not go for the full frame format.
+
+Who is Ueno-san?
+
+Takashi Ueno worked for the Professional Film Photography Division from 1996 to 2011 as a manager as well as a lecturer of workshops and galleries to promote the fun of shooting with film. He now works as a product planner for the X Series of digital cameras. He has been taking photographs since the age of 7 and is a certified photo master expert.
+
+Chapter 1: “X series” – compact and lightweight cameras that excel in image quality
+
+Amazon: It has been a year since the last interview, and X series fans have significantly increased. We can see that the Fujifilm X fanbase is expanding, and as a result, we’re starting to hear comments like:
+
+“FUJIFILM is well regarded for its color and image quality, but why are the FUJIFILM cameras APS-C mirrorless instead of full frame DSLR?”
+
+Generally speaking, when we hear the words “high image quality”, we tend to think of full frame D-SLRs, but why are the X series interchangeable cameras APS-C mirrorless?
+
+Mr. Ueno: First of all, when the company started developing its own interchangeable cameras, there was nothing that we had to drag from the film days. For example, SLR manufacturers kept the same lens mount when they shifted from film to digital in order to make their already existing lenses compatible for both formats. FUJIFILM had already withdrawn from the 35mm film SLRs in the early 80s, so we were able to start everything from scratch. This was a huge advantage.
+
+Amazon: Starting from scratch was a huge advantage. Why so?
+
+Mr. Ueno: Building an interchangeable lens camera from scratch meant that we could choose any sensor size from full frame, APS-C, to Micro Four Thirds. We gave a lot of thought to this, and reached our conclusion that APS-C is the best format for the optimum balance of body size and image quality.
+
+Amazon: Generally speaking, I think many people believe that the bigger sized full frame sensors capture more light and therefore can achieve higher image quality. But why did you choose APS-C?
+
+Mr.Ueno: Yes, higher image quality can be achieved with full frame sensors, but in order to maximize the use of the sensor size, the lens will be very bulky and heavy.
+
+As you know, the size of full frame sensor, 24x36mm is exactly the same as the size of 35mm format analog film. But how they each receive light onto the imaging surface is completely different.
+
+Firstly, the angle of light that film and imaging sensors can receive differ from each other. Film can receive light at the slanted angle of up to 45 degrees without any problem, but in case of the digital camera, the light needs to be as perpendicular to the sensor as possible. Slanted angle light causes mixed colors and therefore the real colors sometimes cannot be reproduced. In order to receive the light perpendicular to the sensor, it is important to make the rear glass element on each lens as big as possible to put the light beams parallel from the outlet of the light to the sensor. Finally, the back-focus distance should be shortened as much as possible to eliminate the degradation in image quality.
+
+In case of SLRs, there is also the mirror box, it is very difficult to design an ideal lens especially for wide-angle and standard focal length lens. It is physically impossible to shorten the back-focus distance. As a result, many of the high image quality lenses for SLR bodies are designed with extended forefront and are of the larger diameter. You can see that by looking at the SLRs lens lineup.
+
+Amazon: Yes, I see. The lenses are bigger for brighter and high performance lenses. It also is a burden for users to use larger sensors and lenses.
+
+Mr. Ueno: Yes, if you attach the large and heavy high performance lens to the full frame DSLR, then you will certainly get high image quality. The combination will maximize the potential of the full frame, but if you have to carry the bulky lens everywhere to achieve the high image quality, then this is not what FUJIFILM is aiming for.
+
+With the X series, we wanted to create a camera system, like the 35mm format in the analog era, that combined the elements of high enough image quality, portability and photo expression, and that are best suited in the field of snap shooting and portraiture, or reportage and documentary for the professionals.
+
+We aimed for the system with the optimum balance of high image quality and compact lightweight body that professionals can use. With that idea in mind, we came to the conclusion that the APS-C mirrorless system is the way to go as opposed to full frame D-SLR.
+
+Amazon: OK, Smaller and lightweight body can be achieved with APS-C but how about the “High image quality” part?
+
+Mr. Ueno: The technology of the FUJINON lens has a lot to do with that. With the power of FUJINON lens, we can achieve the full frame image quality with the APS-C sensor. We have the technology at the FUJIFILM. FUJINON lenses are widely known within the industry for their TV and Cine lenses and they are even used for satellites. They were already well regarded as high quality lenses in different fields. APS-C is certainly smaller than full frame. We learned that the disadvantage can be recovered with the lens performance through various simulations.
+
+Amazon: The technology of FUJINON lens is that great.
+
+Mr. Ueno: Here is an example. It is generally believed that the lens performs at its best with 1 to 2 stop down from the maximum aperture. We tried to break the norm. Because if there is such belief, then the lens is very unlikely to perform at its best from corner to corner with the aperture wide open. But if we can break the norm, then we will achieve bokeh and sharpness that is equivalent to that of a full frame with 1 to 2 stop down. We can achieve the image quality that is equivalent to that of full frame.
+
+Which is better? An f/1.4 lens on a full frame sensor and then used 1 stop down to prevent degradation in the image quality in the corner or an f/1.4 lens on an APS-C that see no degration in the image quality at its maximum aperture value?
+
+You cannot really see the difference in bokeh between the APS-C wide open and the full frame one stop down. However, if the APS-C is wide open, then the shutter speed will be twice as fast as the full frame resulting in be less blur caused by hand shake or subject movement. If the picture becomes blurry, then the high image quality becomes meaningless.
+
+Amazon: I see. The Image quality of large and heavy “Full frame body + High performance lens” can be achieved with “Small APS-C body + High performance lens”. This is very unique to FUJIFILM.
+
+Mr. Ueno: Yes, we can only do this with the FUJINON technology. Some may think that the system stands at halfway between of everything, but we believe it has the best balance of everything. And this is why we chose the APS-C format. Of course, this is not only achieved solely by the FUJINON technology. We cared about the lens, so we had to consider about the sensor and processor carefully, too.
+
+Chapter 2 ：Expanding the lens lineup that meets the performance of “X-Trans sensor”
+
+Amazon: FUJIFILM also looked into the sensor.
+
+Mr. Ueno: Yes. The first X100 used the bayer patterned sensor. Later, when we were in the process of creating a new interchangeable lens camera, we planned on using the “16M X-Trans” sensor that had a unique color filter array, as opposed to the 12M bayer sensor that the original X100 had. Through various simulation, we learned that the 16M X-Trans sensor had the potential to rival the resolution of a 24M bayer sensor.
+
+The combination of FUJIFILM color reproduction, the X-Trans sensor, and the FUJINON lens technology, allowed us to create an interchangeable lens camera that could rival the image quality of full frame D-SLR in the APS-C format.
+
+Amazon: We can see the advanced technological level of FUJIFILM not only by the lens, but also by learning the process of developing its own sensor. How do the X-Trans sensor and lens performance relate to each other?
+
+Mr. Ueno: If we make a cheap low performing lens, then the degradation in image quality is more apparent for the X-Trans sensor than a typical sensor. X-Trans sensor requires high performance lens.
+
+When we made our first kit lens with the X-E1, the image quality that this lens created was completely different from the other ordinary kit lens.
+
+Amazon: X-E1 kit lens – you mean the first zoom lens of the XF lens XF18-55mm?
+
+Mr. Ueno: Yes. The maximum aperture of XF18-55mm is F2.8 at wide and F4 at telephoto. A typical kit lens is F3.5-5.6, but that wouldn’t create enough bokeh nor photographic expression for an APS-C sized sensor.
+
+We made it f/2.8 to achieve both brightness and high image quality. Consequently the cost would be higher, so there was the problem with the price even though we wanted a wider range of people to use our product. This is why we then created the XC lens “XC16-50mm” and “XC50-230mm” as the beginners’ model. The only difference is the material used for the lens exterior. The inside is the same optical design and technology as the XF lens.
+
+Amazon: I see. The XF lens lineup is further expanding now, especially for the zoom lenses.
+
+Mr. Ueno: Yes. During the first three years since our launch of the first interchangeable lens camera in 2012, we mainly targeted the first year on the short prime lenses that are best matched with X-Pro1 which had optical viewfinder. The second year, we focused on the practical lenses that allowed users to expand the focal range. And the third year we developed high spec lenses for the professionals and enthusiasts.
+
+The result are the XF50-140mmF2.8mm in September 2014 and XF16-55mmF2.8mm in February 2015. I think we have a lineup now that covers a complete typical shooting range.
+
+Amazon: The XF50-140mmF2.8mm and XF16-55mmF2.8mm are your “red badge” series?
+
+Mr. Ueno: Yes, the red badge series are the zoom lenses intended for the professionals.
+
+Amazon: Where does the XF18-135mmF3.5-5.6 R lie? It is a kit lens for the X-T1 that many professionals use.
+
+Mr. Ueno: The versatility is the first priority for XF18-135mmF3.5-5.6 R. We understand that the image quality is not quite the same as the f/2.8 constants, but still good enough so that the user doesn’t need to change the lens while shooting. We design each XF lens to have highest image quality possible for its presumed usage and purpose.
+
+Another example of this is the minimum working distance of 70cm on the XF56mmF1.2, We sometimes hear customers demand a shorter working distance such as 40cm. As you know, the image quality in the peripheral parts are reduced when the distance gets shorter. The XF56mmF1.2 is a lens designed for portrait and snap shooting, so we believed that shortest distance of 70cm would be enough.
+
+If the minimum working distance had been 40cm with the compromise on the image quality on the peripheral parts, then we had to extend the focus lens movable range. And as a result, the lens will be bigger and autofocus speed will be slower.
+
+Our priority was to create a lens that has high resolution from corner to corner and that has adequately fast autofocus, so the minimum working distance became 70cm, which is enough for portrait photography – its presumed purpose.
+
+If you want to get closer, then we have the XF60mmF2.4 Macro, which is another great lens. We make it so that beautiful description of each subject will be delivered to the maximum potential.
+
+This is the fundamental idea of X series.
+
+Amazon: I understand well now. Which lens do you recommend for those that want to get into using the
+
+X series?
+
+Mr. Ueno: I would recommend the XF18-55mmF2.8-4 as the gateway to the X series. As I said earlier, although the lens is a kit lens for starting out, it doesn’t mean that the image quality has been compromised. You can actually experience the high image quality of the XF lens and it covers the standard shooting range. We would recommend to use the lens, and then search for other lenses that satisfies your need 100%.
+
+The start is easy, and the goal is endless. This is the charm of the XF lens.
+
+—
+
+This interview was originally conducted in Japanese and published on Amazon Japan’s website. It was translated into English by Fujifilm Japan for use here.
+
+Share this: Twitter
+
+Facebook
+
+Tumblr
+

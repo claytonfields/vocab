@@ -1,0 +1,17 @@
+Leadwerks Software has reached their Kickstarter campaign goal of $20,000 to make their game development tools run natively in Linux. The campaign began June 18 and raised their target amount in just three weeks. With an extra three weeks left in the campaign, the company is setting out “stretch goals” including Android and OUYA development in Linux, as well as support for the virtual reality headset Oculus Rift.
+
+The company’s Kickstarter page lists three goals for the campaign. First, they point out that most Linux games are ported over from Windows, rather than being developed
+
+natively on Linux. The company wants to change this by putting the game development
+
+process on Linux.
+
+Second, the company hopes to expand the Linux library of games. They say that putting game development tools in the hands of Linux users will allow more Linux games to be built, and can even lead to Linux-exclusive titles.
+
+Leadwerks features impressive graphics, and the company says they want to bring this technology to Linux. This will let Linux users play AAA games that run natively on Linux, instead of going through emulators like WINE. The company points out that the superior performance of OpenGL on Linux makes it the perfect platform for AAA games.
+
+Check with the judge:
+
+“We’re really excited to be working with Steam and the Linux community,” said Josh Klint, founder of Leadwerks Software. “We think there’s a unique opportunity here. The timing is right. I think Linux is really ready for mainstream PC gaming, and we really just want to take Linux gaming to the next level”.
+
+You can view the Leadwerks for Linux Kickstarter campaign here.

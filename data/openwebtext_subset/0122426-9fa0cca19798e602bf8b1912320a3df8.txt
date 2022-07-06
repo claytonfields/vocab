@@ -1,0 +1,17 @@
+This patch prepares the grounds for the arrival of Hearthstone’s second exciting expansion: The Grand Tournament!
+
+When The Grand Tournament goes live later this month, you’ll be able to arm yourself with 132 all-new cards, recruit chivalrous knights of all shapes and sizes, and have a whole lot of festive fun! This patch also begins tracking your highest earned rank in Ranked Play mode, and you’ll be rewarded with a Highest Rank Bonus at the end of the season. Remember, The Grand Tournament pre-purchase bundle remains available until the expansion goes live.
+
+We’re also adding a new card back and fixing some bugs. The full patch notes are below!
+
+General
+
+The following card back has been added: Tournament Grounds – Acquired by reaching Rank 20 or higher in Ranked Play mode during the month of August.
+
+
+
+New quests added, including one to win games in Tavern Brawl mode!
+
+Tavern Brawl victories now count towards earning the Heroes of the Storm mount award.
+
+A bonus chest will be granted at the end of each season based on the highest ranked reached in Ranked Play mode.

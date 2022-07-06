@@ -1,0 +1,11 @@
+Over the last few months developers and websites haven’t seen much iOS 7 beta traffic coming out of Apple’s set of IP addresses in Cupertino. However, over the last few days traffic from devices running iOS 7 has increased for a number of websites and apps.
+
+Onswipe has reported that it has seen a big spike in traffic on its partner sites that run its HTML5 optimized mobile websites. Cult of Mac has seen the number of visits from iOS 7 users increase in our traffic logs, starting around April 29th as well.
+
+A number of other websites have confirmed the iOS 7 usage increase as well. With WWDC nearly a month a way, it’s likely that Apple has expanded its internal iOS 7 beta testing program to include more people.
+
+WWDC kicks off on June 10th in San Francisco, where Apple is expected to unveil iOS 7 along with OS X 10.9. While iOS 7 probably won’t be released until the iPhone 5S comes out in late summer or early fall, developers will should get a beta build of iOS 7 shortly after WWDC.
+
+It’s been rumored that Apple is now in “crunch time” with iOS 7, and pulling engineers of OS X 10.9 to make sure it gets out as soon as possible. Jony Ive has taken over the design aspects of iOS, so iOS 7 is expected to have a more minimalist design with flatter surfaces and fewer skeuomorphic elements.
+
+Via: TechCrunch

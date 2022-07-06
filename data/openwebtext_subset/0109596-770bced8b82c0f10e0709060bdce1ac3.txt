@@ -1,0 +1,57 @@
+Patterns became the first of Linden Lab’s new products to be made available to the public with an initial debut on Thursday October 4th in what the Lab calls the “Genesis Release”. This has been (and remains) available at a discount price of $9.95 on the Patterns website. The “full” release of the product will apparently not be until “late” 2013 – presumably to give both users and Linden Lab plenty of time to add to the Patterns universe and make it something truly unique – and at a price of $19.95.
+
+As I pre-ordered my copy back in September, I was quite keen to find out what Patterns is like – and provide some initial feedback.
+
+Downloading and Installing
+
+Patterns is being made available through Steam, so you’ll need to sign-up there if you’re planning to try the Genesis Release for yourself. To download the software, you’ll need an activation code, which will be e-mailed to you. Use this with the Product Activation process within the Steam client to initiate download and installation – full instructions accompany the activation key. Installation is an automated process, leaving you with the option of starting Patterns from your Steam Library, your desktop, via shortcut, your start menu, and so on. No fuss, no bother, as with all Steam installations (or all (three) that I’ve seen). In this lies a hint as to how Second Life will arrive on people’s computers once the SL / Steam link-up is completed.
+
+Start-up and First Looks
+
+Launching Patterns is somewhat similar to the first use of SL: the first thing you’re asked to do is to agree to a very familiar Terms of Service (although it has some notable and obvious exceptions, the term “boilerplate” sprang to mind reading it – but then, why should LL reinvent their legal wheel?). Confirming your acceptance of the ToS brings up the Patterns splash screen in full.
+
+Clicking PLAY presents you with the options to RESUME, or start a NEW session. HELP displays some basic instructions for using Patterns (how to move, how to collect materials, how to build, etc.), while OPTIONS displays those setting you can tweak. The look of both these latter screens is perhaps best termed “retro”.
+
+NEW gives you three options: 1, 2, 3. These refer to the number of individual game sessions you can create and save – so it is possible to have up to three sessions of Patterns ongoing, although you can only ever use one of them at a time.Start and save three sessions, however, and you’ll have to overwrite one of them the next time you select NEW.
+
+Once you’ve started a session and the game has loaded, you’re inside a large pyramid, and need to break out. This is done by pressing and holding the right mouse button and “busting” some of the material comprising the pyramid’s walls. This breaks the material (“substance”, in Patterns parlance, which left me wondering if I was guilty of substance abuse when smashing up walls and objects…) into its component triangles, which you can then collect as you “fire” at them – they are added to the requisite substance counter at the top of the screen. You can then use any substances you have acquired (up to the total number collected) to build objects of your own.
+
+Note that not all materials appear to be “bustable”; some may collapse as you fire at them, some may not (such as the “bedrock” supporting each of the floating platforms). Also note that “busting” objects and walls, etc., is range limited, with out-of-range objects being outlined in yellow, and those you can break-up in green.
+
+Once outside, you’re in a platform-like world, where you can continue use the right mouse button to assist you in collecting a range substances you may wish to use for building later, differentiated by look and texture, each with differing properties to be discovered as you gain familiarity with the game.
+
+In order to build, you must first start collecting shapes. This involves finding special “starene” objects in-world and then busting them. Building is done using the left mouse button to select a shape from your shape tray (or use the number keys), then selecting the preferred substance from the menu of substances at the top right of the screen (you can only use the substances you have collected). There are a couple of basic rules for building, which are square faces will only snap to square faces and triangles to other triangles. suitable surfaces are outlined in green. It’s here that the different properties of the substances come into their own: some are better suited to certain tasks / situation than others.
+
+There is also the small matter of physics as well, which can make itself felt whatever you’re doing (try bridging a gap between platforms with the wrong materials, and you’ll see what I mean). Be wary of trying to jump between platforms, or stepping off the edge of the one you’re on. If you fall a decent distance, you’ll come to the shattering conclusion it may have been a mistake. Be careful of anything overhead as well, when building upwards.
+
+Shapes can also be rotated using the R key. Shape placement is a matter of determining what you want to do, and manoeuvring the camera to a position where you can actually do it – and, use the green outline of shape faces as a guide. Here is where Patterns again follows the Second Life model: camera placement leaves a lot to be desired. You can toggle between views using TAB, and move the camera up/down, left/right by moving the cursor around the screen, but it is still something of a PITA – moreso if you’re an SL user, as the temptation is to tap ESC to try to reset the camera is strong; however, in Patterns, all it will do is display the main menu.
+
+Nevertheless, with a little trial an effort, it is possible to start building things – as my first bridge between platforms shows, even if it did start sounding like the rock was about to collapse as it neared completion. Remember you can jump, so it’s not always necessary to completely bridge chasms.
+
+Collecting shapes allows you to construct more complex objects, not all of which need be static – wheels can be pushed and rolled, for example. Existing objects, such as trees can, if “busted” correctly, can be made to fall and form stepping-stones. You can also create shapes of your own using a kind of “workbench” (for want of a better word), one (or more, I presume) of which can be found in-world for those who look.
+
+Not everything is in plain sight, either, so be prepared to look up and down, and to break through walls.
+
+There is probably far more to Patterns than this, with things I’ve likely missed in this first look; but for now, this will hopefully give a general look and feel for the product.
+
+Initial Thoughts
+
+Patterns is hard to quantify – again, something it shares in common with Second Life. It’s clearly not a game in the traditional sense. It is also a curious mix of the frustrating, the repetitive and the strangely addictive. My first 25 minutes didn’t go well at all; the camera positioning came close to driving me bonkers, and adjusting mouse sensitivity didn’t seem to help, either the camera would whip around in response to mouse movements, or it would crawl painfully slowly; even with very incremental adjustments to a slider, mouse/camera movement seemed to leap from one to the other. When trying to build, this became especially annoying, as even with the TAB option to swap between camera positions, I seemed to be spending a lot more time just trying to get to a position where I could actually do what I wanted, rather than actually build. This became especially tiresome when trying to bridge chasms or build complex stairways to reach between platforms, rather then building free-form.
+
+That said, I admit to actually getting drawn-in to Patterns; whether this was 50% fascination / curiosity and 50% bloody mindedness (“I’ve started, so I’ll finish”), I’ve no real idea, All I do know is that when I saw a “starene” shape in the distance, I wanted to find out what it would give me shape-wise, and once I’d discovered the secret inside one structure, I was anxious to find out if others had anything hidden within. I also found that exploration aside, I did start experimenting with putting triangles together to make a wheel and then trying to combine triangles and cubes to make “organic” shapes and mimic the trees around me.
+
+I also had a bit of fun simply being destructive, building and wrecking things, partly because I was curious as to when / how the physics engine would sit up and notice I was doing something Newton would demand it took action against, partly because it was actually fun. Three-o’clock-in-the morning-God-why-aren’t-I-in-bed fun, I’ll grant you, but fun.
+
+But all that said, right now, Patterns is a lonely affair. You play on your own and there is no interaction. From the promotional blurb, it appears users will be able to “share” their creativity via Twitter, You Tube and Facebook, and Genesis Release users will be able to contribute directly to the development of Patterns in some way. Even so, it feels as if Patterns is already lacking something.
+
+Part of the joy in “shared creativity” is showing-off what you’ve done to friends, and having them respond with, “Wow! But what if you / we did this…”, and then trying things together, sharing in the immediate feedback of the creative process. Patterns doesn’t have any of this. Whether such an ability is on the cards for future iterations, I’ve no idea; maybe there will be some form of server-based version in the future; although I think I’ll be surprised were that to prove to be the case. For now however, and allowing for the fact my familiarity with the share creative capabilities of SL may well be biasing my opinion, the Patterns universe already feels a slightly empty place, and in need of something more.
+
+Looks-wise, it again falls into the curate’s egg category. It has very smooth graphics, and in-world views look reasonably good, with sunshine, shadows, and the like; even the Lego-ish clouds don’t really seem out-of-place. However, the main menu, options screen and help screen are unlikely to win fans. I’m not really a player of games, but even to me they look like something pulled out of the late 1990s and dropped into Patterns, fostering a complete “Bleah!” reaction.
+
+Of course, the $64,000 question is – will Patterns be any kind of commercial success? Right now, that is impossible to answer; not so much because it has only just been launched, but because a lot depends on how well it develops between now and the formal launch in 2013. Part of me does feel that the Genesis Release has perhaps suffered the Humble effect and has been pushed out a little prematurely (rather like some recent SL releases of late); it’s as easy to become bored with it as it is to get drawn in – and boredom isn’t a good thing to instill among users. Hopefully the promised rapid iteration cycle will discourage the former and encourage the latter.
+
+Even so, I’m not ready to pass judgement just yet, one way or the other. Patterns is going to need a little time, and I feel it is only fair that judgement is withheld until we’ve had the chance to see a few iterations and found out how we, as Genesis users, get to have input to enhancing it. I will say that after playing with it for a good couple of hours last night and again using it this morning (so much for the housework!), have left me feeling somewhat ambivalent towards it at this point in time.
+
+Articles on Patterns in this blog
+
+Advertisements

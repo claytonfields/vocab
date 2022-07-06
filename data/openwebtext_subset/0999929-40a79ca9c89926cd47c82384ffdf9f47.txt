@@ -1,0 +1,37 @@
+Beijing Sets Deadlines for Bitcoin Exchanges - Customers to Withdraw Funds Quickly
+
+Beijing has ordered all affected bitcoin exchanges to post a notice of their closure by midnight on Friday. Now, the exchanges are urging customers to withdraw their funds as regulators have also set a deadline for them to come up with plans to allow withdrawals “in a risk-free manner.”
+
+Also read: China’s Regulatory Crackdown Forces More Bitcoin Exchange Closures
+
+Exchanges Ordered to Announce Closing Dates
+
+Chinese authorities have ordered Beijing-based cryptocurrency exchanges to stop trading and allowing new registrations as of Friday, according to a government notice, which was verified by Reuters. “The notice was signed by the Beijing city group in charge of overseeing internet finance risks and circulated online.” The notice read:
+
+All trading exchanges must by midnight of Sept. 15 publish a notice to make clear when they will stop all cryptocurrency trading and announce a stop to new user registrations.
+
+China’s top bitcoin exchanges have already complied. Btcc announced that “Btcchina will completely shut down its exchange businesses on September 30th,” the company tweeted. However, the only businesses affected are those relating to Btcchina; other Btcc businesses are unaffected as “Btcc is a separate company from Btcchina,” the company noted, adding that “Btcc Pool, Btcc USD Exchange, Btcc Dax, Btcc Mobi, & Btcc Mint are not affected by this change.”
+
+Huobi and Okcoin made similar announcements on Friday, stating that they are closing on October 31. Huobi announced that new user registration and CNY deposit service have already stopped, stating that:
+
+The actual closing of CNY trading will take place on October 31st. We will close all CNY to cryptocurrencies trading one asset at a time.
+
+Okcoin similarly posted a notice on Friday, outlining its closing policies. The company emphasized that the only service closing is the RMB trading business. The rest of its businesses are not affected. “Because regulators have not announced that bitcoin and digital assets are illegal, Okcoin will actively explore, strive for, expect to continue to provide Chinese users with compliant digital asset services,” the company wrote.
+
+Many others have also announced their closure such as Viabtc and Yobtc. Another exchange C2CX announced that it will close on September 30.
+
+Customers Urged to Withdraw Funds Quickly
+
+The regulators have additionally instructed the exchanges to come up with plans of how customers can withdraw their funds, Reuters reported. “Platforms should also tell the government by Wednesday Sept. 20 how they will allow users to make withdrawals in a risk-free manner and handle funds to make sure investor interests are protected,” the news outlet detailed.
+
+Btcchina has already made announcements regarding the withdrawal of user funds. All withdrawals are processed within 24 hours, the company revealed. In addition, even after September 30 when the exchange has ceased operations, customers can still continue to withdraw funds. Furthermore, its Blockchain+ trading platform will open up bitcoin cash (BCC, BCH) withdrawals before Sunday, September 24. The company assured customers that the exchange and its Blockchain+ trading platform have enough funds to accommodate all customer withdrawals including CNY, BTC, LTC, BCC, and ETH, and tweeted that:
+
+Btcchina encourages customers to withdraw their funds as quickly as possible. Customers can withdraw their funds whenever they want.
+
+Huobi’s notice also gave some details about how it will deal with withdrawals. While CNY deposit service has stopped, digital asset deposits and withdrawals, as well as CNY withdrawals, will remain open. “BCC withdrawal service will be enabled before September 20th,” the exchange wrote.
+
+What do you think of Beijing’s orders? Let us know in the comments section below.
+
+Images courtesy of Shutterstock, Btcc, Twitter
+
+Need to calculate your bitcoin holdings? Check our tools section.

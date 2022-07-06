@@ -1,0 +1,85 @@
+Baseball blogs are nothing if not vehicles for the hottest of takes. Playing on that, I’m going to make five bold predictions about five players for the Dodgers’ 2017 season. Some will be positive, some won’t be, but that’s the nature of bold predictions.
+
+1. Trayce Thompson will hit 20 home runs in the majors
+
+This might not be that bold a prediction, but it’s all predicated on health and playing (both of which are intertwined).
+
+Thompson hit 13 home runs in 262 plate appearances last season. He did so with a 24.1 HR/FB%, which was 15th-highest in baseball among players with 250 plate appearances. Of that top 15, he had the third-lowest fly ball percentage overall at 31.8 — behind Ryan Braun (25.1 percent) and Domingo Santana (25.6 percent).
+
+He appears to be over the two fractured vertebrae in his back from last season and is a candidate to get a lot of playing time in the outfield for the Dodgers this season. Andre Ethier was slated to be the starting left fielder, but a mild herniated disc in his back and his missing most of the 2016 season with a broken leg means we don’t know just how much Ethier is going to play this season. Yasiel Puig is far from a sure bet for 550-600 plate appearances, so there might be some opportunities in right field for him. And if Joc Pederson can’t handle — or doesn’t get a chance to prove himself against — left-handed pitchers, Thompson could draw some starts in center field.
+
+2. Ross Stripling will be the second-best reliever (by WAR) on the team
+
+Stripling is going to break camp with the team for a second consecutive season. This time, it’s as a reliever — along with Luis Avilan (probably), Grant Dayton, Chris Hatcher, Kenley Jansen, Sergio Romo and Alex Wood.
+
+I’d be lying if I said this tweet wasn’t the inspiration behind this prediction.
+
+Pitchers who threw three pitches that each induced >10% whiffs + >50% GBs: Carrasco
+
+Arrieta
+
+Stroman
+
+Stripling!
+
+Mike Montgomery my boyyyyyyy — Alex Chamberlain (@DolphHauldhagen) February 28, 2017
+
+It broke down as such:
+
+Curveball: 12.46 SwStr%, 63.08 GB%
+
+Slider: 10.56 SwStr%, 64.71 GB%
+
+Changeup: 14.01 SwStr%, 62.16 GB%
+
+This includes his time in the starting rotation, but the numbers are impressive nonetheless. His offspeed pitches are definitely his best offerings to induce grounders and get swinging strikes.
+
+Overall, in his 24 1/3 relief innings, he posted some solid numbers: 2.22 ERA, 3.52 FIP, 1.08 WHIP, .216 BAA, 58.8 GB%, 9.7 SwStr%. It isn’t unreasonable to think he could improve on this performance going forward, as he’ll now be three years removed from Tommy John surgery and should establish himself as a fixture in the Dodger bullpen. He won’t throw a ton of high-leverage innings (i.e., the 8th/9th innings), but he should be used liberally when there is a need for a grounder or maybe a strikeout. No one on the staff projects to be as good — combined — at this than Stripling does.
+
+He might still make some spot starts here and there, but I’m betting most of his damage comes out of the bullpen.
+
+3. The left field platoon will produce at least 3 wins above replacement
+
+Most left fields are platoons, as some guy named Mike wrote about prior to last season. The Dodgers’ situation this season will be no different. Here is the Dodgers’ left field projection, courtesy of FanGraphs.
+
+
+
+Full disclosure: I maintain the Dodgers’ depth chart at FanGraphs, but not the actual projections themselves.
+
+That quintet is projected to be about a win worse than league-average. Admittedly, the projection is a bit low on Ethier (.256/.327/.405, 0.3 WAR) and Toles projects to be the most productive. Between them, they account for 0.8 of the projected WAR amount. But if Thompson fulfills prediction No. 1, Gutierrez’s defense doesn’t drag down his value too much and Van Slyke is recovered from a poor 2016 season, they could best that number easily.
+
+Ethier (140 wRC+) and Toles (139 wRC+) should draw the lion’s share of action against right-handed pitching. Thompson (127 wRC+ vs. LHP, 110 vs. RHP) might steal some plate appearances if he’s healthy and productive. Gutierrez (129 wRC+) and Van Slyke (138 wRC+) will handle southpaws. They (likely) won’t be on the roster all at the same time, so come the postseason, there could be some tough decisions to make.
+
+The 5-headed combo will be productive enough to prevent the Dodgers from trading for a full-time left fielder (Braun, Andrew McCutchen, etc.) before the trade deadline, but it will also keep Cody Bellinger from making any kind of impact in left field in the 2017 season.
+
+A comatose sleeper for some productive playing time is Brett Eibner. He’s athletic, has power and is a plus-defender. Of the five, only Thompson can lay claim to those criteria.
+
+4. Hyun-Jin Ryu makes only 10 starts for the Dodgers
+
+Ryu has been the biggest and most surprising story this spring. After logging exactly four innings the last two seasons, he won a spot in the rotation with his spring performance. But I’m skeptical he actually contributes that much to LA in 2017.
+
+While it’d be nice to see him get back to his high-end No. 3, borderline No. 2 status of two years ago, those days are probably gone. That’s because his fastball velocity is not what it once was. He started off spring throwing in the low-to-mid-80s before working up to sitting in the high-80s. He has cracked the 90 MPH barrier sparingly, and it’s unclear if more work will help him rediscover his lost velocity. Maybe, this is just the guy he is now.
+
+The big question is: Will Ryu only make 10 starts because of injury or ineffectiveness? It’s easy to argue both, with injury being the easier of the two. Shoulder and elbow injuries have sapped him of 3 MPH of sitting velo. Luckily, his command hasn’t seemed to waver, which is a positive for him. But it remains to be seen if he can maintain that command. Guys can miss up in the strike zone and over the plate at 91-94 MPH; it’s a lot harder to do that at 87-89 MPH. If Ryu can’t have pinpoint command and his offspeed stuff doesn’t keep hitters off balance enough (a real possibility), he might just find himself relegated to the bullpen.
+
+And here’s where I’m gonna have my cake and eat it too: If his command goes to hell, it could very well be because he is injured.
+
+5. Logan Forsythe fails to reach 500 plate appearances
+
+The Dodgers’ biggest offseason move was acquiring Forsythe for Jose De Leon. He ripped up the Cactus League (.419/.490/.488) and is projected to the team’s leadoff hitter. In his last two seasons, he has averaged 591 plate appearances, so this prediction is a little bit out there.
+
+But factor in two things:
+
+He has three separate disabled list stints in his career He received injections in his knee this spring
+
+Two of the three DL stints were of the 60-day variety (plantar fasciitis in 2013, fractured seamsoid in 2012), while he missed four weeks in 2016 with a fractured shoulder blade. He also had a couple injury concerns in 2010 and ’11 while in the minors. The knee thing, though, is a bit more concerning. Here’s what Ken Gurnick wrote about it back in February:
+
+“Forsythe, the Dodgers’ most significant acquisition of the offseason, said he’s ready to go after receiving a Synvisc injection in his left knee earlier in the week. The injection, similar to what Justin Turner said he has received the last three years, supplements the fluid in arthritic joints for added cushion and lubrication, providing up to six months of pain relief.”
+
+It’s not nothing, and knee injuries can be fickle. If he fails to reach the 500 PA plateau, it won’t be because of poor performance. In fact, he’ll be one of the five most productive Dodger hitters in 2017 despite failing to get to 500 PAs.
+
+—–
+
+Bookmark this post to see how dumb I look come October. I shied away from making a prediction about Mr. Puig, because he’s truly the most unpredictable player on the team (and maybe in baseball).
+
+Bonus prediction: The Dodgers will make it to the World Series in 2017. For a team that hasn’t been there in 29 years, I’d say it’s a bold prediction.

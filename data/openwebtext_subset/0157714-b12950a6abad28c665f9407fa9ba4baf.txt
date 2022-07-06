@@ -1,0 +1,51 @@
+A game when games were new
+
+Tyler Neylon Blocked Unblock Follow Following Mar 31, 2013
+
+You’re in a virtual world hunting the ultimate easter egg. You’re standing in the back of an empty 80s pizza joint, staring at an old arcade machine with an immobile quarter sitting on top of it. The game: Pac-Man. You sit down and crack your knuckles. Your goal: the perfect score.
+
+I’m not going to tell you what happens next. Ernest Cline’s Ready Player One can tell you. What I will tell you is a story — no, a legend — of one of the world’s oldest video games. And how my wife didn’t believe I could code it in a day.
+
+Level 256 and The Perfect Score
+
+Pac-Man wasn’t supposed to have a perfect score. It wasn’t supposed to end. But it does end because of a glitch — the level 256 glitch.
+
+Levels 1 through 255 look exactly the same. But when the player gets to 256 a memory error occurs, causing half the playing field to be rendered as gobbledygook. It’s impossible to eat all the pellets, so it’s impossible to beat the level. The game must end with Pac-Man’s Quixotic demise.
+
+Every level has a maximum score — there’s a maximum number of pellets, ghosts, and fruit you can eat. At first a perfect score is a lot of work, since you must eat every ghost with every power pellet. The ghosts are vulnerable for less and less time every level. After level 19, they’re never vulnerable. Add up the perfect level scores, and you get the perfect game score. 3,333,360 points.
+
+As I write this, only six people have ever achieved a perfect score in the three decades since Pac-Man was created.
+
+The original recipe
+
+My own challenge began when I made a remark about how easy it is today to build the old-school games like Pac-Man. Less than a day, easy, I said. My wife, being skeptical, and I, loving a code crunch, turned this into an official double-dog-dare. I had to do it.
+
+Along the way, I jumped into the rabbit hole of Pac-Man minutiae and came out impressed with some of the clever firsts the game pulled off.
+
+When Halo came out in 2001, it was praised for its dynamic soundtrack, which was more reactive to players’ actions than many previous games. Ahead of its time, Pac-Man had a crude version of a dynamic soundtrack in 1980. I noticed the changing ambient sounds in some videos of the original game and analyzed the game’s audio to see what was happening.
+
+This is a spectrogram of Pac-Man’s standard background audio. It’s a frequency-over-time graph. High notes appear at the top of the graph and low notes at the bottom. Later gameplay is farther to the right. The triangle-like motions sound a little like an ambulance siren whistling up and down. In fact, the sawtooth lines you see in the image depict a linear boomerang so precise that it’s a good guess that this is an entirely synthetic sound.
+
+The cool part about this sound is that it gradually increases in pitch as you get farther in a level. The music changes as things get dicey — a dynamic soundtrack on a 3 MHz Z80 processor!
+
+That’s not even my favorite part.
+
+The AI. Oh, those sneaky mostly-rhyming Pinky, Blinky, Inky, and… Clyde. Enough personality to put a Koopa Troopa to shame.
+
+Every ghost has its own strategy. Red is a New York cabbie, always moving directly toward our yellow hero. Pink is Wayne Gretzky, anticipating where the Pac is going to be. Blue wants to be opposite Red, so together they form a trap. And Orange is a diversion, getting close enough to be scary and then calling off the chase. Individually, they’re pesky, and working together, they’re downright devious. In retrospect, many games are disappointing in their bad-guy buckets of “easy and numerous” versus “challenging and rare.” Here’s some solid enemy teamwork.
+
+On top of all that, the ghosts attack in waves, giving the game a rhythm of tension and release. If you like details, Chad Birch wrote an excellent post on the exact techniques each ghost uses. I learned from his post and built those AIs into my own version in the challenge.
+
+PacPac
+
+PacPac began life as Pac-Man-in-a-day. Here’s a timeline in screenshots as pieces of the game were added over the first hours: a maze, our protagonist, pellets to eat, power pellets, ghosts, eyes for ghosts, extra lives, and ghostly legs:
+
+There’s something beautifully fun about quickly building something new. This is what I aim for at hackathons — a delicate balance between what is already known and what is learned through creation.
+
+The challenge was a success. PacPac is open source and accepting contributions on github. So far it has three different mazes — thrice as many as the original. Here are the first two:
+
+Level three has a fun twist.
+
+What’s more, the levels are designed to be easy to edit by young players. My first fascination with programming came through the ability to modify games through their source and data files. The best outcome I can imagine for PacPac is to open the eyes of a player peeking behind the curtains for the first time and stepping toward their own potential as a creator.
+
+Maybe you’re one of the inspired ones. The ones who love to learn, to dream, and to build. Just in case it’s you out there, dreaming up virtual worlds — don't forget a few good easter eggs.

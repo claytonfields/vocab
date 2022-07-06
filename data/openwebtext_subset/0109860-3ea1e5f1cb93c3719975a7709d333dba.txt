@@ -1,0 +1,125 @@
+Each of these failures will result in the Boost.Python system throwing boost::python::error_already_set . In general, Boost.Python reports all errors at the Python-to-C++ layer using error_already_set . This means that it’s much harder to ignore/not notice Python exceptions in C++. Some people might not like this as much as others, but, considering the ubiquity of exceptions in Python, it means that using Python code from C++ requires less mental translation.
+
+In this example, the code inside the try block can fail in several ways that will result in Python exceptions:
+
+Boost.Python makes it much easier deal with Python exceptions in a consistent and uniform manner with the boost::python::error_already_set exception. This C++ exception is thrown whenever a Boost.Python operation results in a Python exception being thrown. Consider the following code:
+
+Clearly, handling Python exceptions from C++ code requires diligence and consistent checking of error codes, and, really, who wants to deal with that? (A: C programmers, apparently.) A more natural system is one in which Python exceptions are somehow converted to C++ exceptions at the Python-C++ boundary, and where exception propagation continues out of Python into C++.
+
+When calling Python code from C++, one issue you will almost certainly have to deal with is handling exceptions thrown from the Python code. Python exceptions are not exceptions in the C++-language sense. That is, an exception thrown in Python code does not start stack unwinding in C++ or trigger catch blocks. Rather, a Python exception is generally indicated by an error return value from a C-API function call, and information about the exception can be retrieved by yet more calls to the Python C-API.
+
+Translating to Concrete Exception Types
+
+When using Boost.Python, the error_already_set exception means both
+
+that it’s easier to catch Python exceptions in C++ and that you’re
+
+more likely to do so (since they can’t easily be ignored.) Obviously,
+
+though, this is of limited usefulness if you can’t determine the real
+
+nature of the error. error_already_set is just a signal indicating
+
+that something happened, and it doesn’t tell you what happened
+
+(i.e. the type of the exception.)
+
+In order to figure out the original Python exception, you’ll need to
+
+use the Python C-API. There are three functions that are particularly
+
+useful in this situation:
+
+PyErr_Fetch: Retrieves the current error indicators (type, value, and traceback)
+
+PyErr_Restore: Sets the current error indicators
+
+PyErr_GivenExceptionMatches: Determines if an exception object is
+
+of a specified type
+
+A simple recipe for translating Python exceptions into C++ works like
+
+this:
+
+Catch error_already_set , indicating that a Python exception has
+
+been thrown
+
+, indicating that a Python exception has been thrown Use PyErr_Fetch to get the error indicators, Python objects
+
+describing the Python exception
+
+to get the error indicators, Python objects describing the Python exception Use PyErr_GivenExceptionMatches to determine the type of the
+
+Python exception
+
+to determine the type of the Python exception If the Python exception is not of a type that you want to
+
+translate, you can keep the exception active with PyErr_Restore
+
+and allow some other part of your code to handle it.
+
+This is a very straightforward algorithm, and can form the basis for
+
+more complex translation systems. However, it is not without its
+
+complexities.
+
+Specifically, you need to be cognizant of the reference-counting
+
+associated with the PyObjects retrived with PyErr_Fetch . Each of these
+
+references is owned by the caller after the call. That is, their
+
+ref-counts have been pre-incremented for the caller, and it’s the
+
+caller’s responsibility to decrement the counts when done with
+
+them. This seems like a clear case where boost::python::object should
+
+be used, right?
+
+Not so fast. If you immediately wrap the results of PyErr_Fetch with
+
+objects , you’ll run into trouble if you try to use PyErr_Restore ,
+
+which takes ownership of the PyObjects you pass it. That is,
+
+PyErr_Restore assumes that you have pre-incremented the ref-counts
+
+on the objects you pass in. See the problem? A boost::python::object
+
+will try to decrement its ref-count when it destructs, but
+
+PyErr_Restore wants the ref-count left alone. The following code
+
+shows the problem:
+
+... catch (const error_already_set&) { PyObject *e, *v, *t; // get the error indicators PyErr_Fetch(&e, &v, &t); // wrap them in objects to // ensure ref-count decrementing object e_obj(handle<>(e)); object v_obj(handle<>(v)); object t_obj(handle<>(t)); // do some work . . . // We've determined that we don't // want to handle the exception, so // we reset it for later processing PyErr_Restore(e, v, t); } // BOOM!
+
+The problem is that when the objects ( e_obj , v_obj , and t_obj )
+
+go out of scope, they decrement their ref-counts, taking them to
+
+zero. However, PyErr_Restore thinks that it owns the refs and
+
+does the same thing, meaning that they get dec-ref’d too many
+
+times, resulting in big problems in the Python garbage collector.
+
+But What About borrowed ? A possible solution to the ref-counting problem above is to use
+
+borrowed references when constructing the objects . A borrowed
+
+reference actually increments the reference count on construction, meaning
+
+that PyErr_Restore would
+
+have clean shared ownership of the the objects
+
+when it was called. However, this has the downside that you will have too many (i.e. 2) references to the
+
+objects if/when the Python exception is converted into a C++ exception (or otherwise handled),
+
+i.e. when PyErr_Restore is not called.

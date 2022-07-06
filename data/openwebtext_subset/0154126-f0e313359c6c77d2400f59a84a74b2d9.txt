@@ -1,0 +1,143 @@
+For Socorro Aguirre Cruz, a home care worker in Staten Island, New York, with nearly 50 years of cleaning experience, many of the challenges faced by gig workers today have been part of her life for decades. Work has been precarious for her long before the emergence of massive, venture capitalist-funded gig platforms that began disrupting — and in some cases destroying — a number of industries.
+
+"It was hard to find work, especially not speaking English," Cruz says. "I was badly paid for a lot of work, and sometimes I didn't get paid at all. They took advantage of my situation as an immigrant here."
+
+As the gig economy grows, more and more stories of worker exploitation are coming to the fore. And as reports of shady labor practices at Uber, Lyft, Taskrabbit, Postmates, and Amazon Mechanical Turk show, these issues run rampant across all sectors of the gig economy. In the home services industry, the platform Handy has made a name for itself, connecting people with pre-screened professional cleaners, fixers, and other professionals. Within three years of its founding, however, the company already faced lawsuits for allegedly underpaying workers and making them pay severe fees for minor transgressions.
+
+To counter poor labor practices, gig workers and entrepreneurs are now taking matters into their own hands by launching their own digital platforms for various services. Called "platform cooperatives," these businesses bring the structure of traditional cooperatives, including worker ownership and governance, to the digital world.
+
+This June, Cruz and five others formed Brightly Cleaning, a worker-owned cooperative, with support from two social service organizations based in New York City, New York: The La Colmena Staten Island Community Job Center and the Center for Family Life. Brightly Cleaning soon became one of the first members of the new platform cooperative Up & Go.
+
+
+
+Socorro Aguirre Cruz, worker-owner of Brightly Cleaning of Staten Island. Photo courtesy of The Center for Family Life
+
+"We're getting a lot of jobs," Cruz says. "This work means we can grow more as a co-op, and help other co-ops grow too. It's like a tree that keeps extending its branches."
+
+While platform cooperatives have the potential to stand against the tide of exploitative, venture-backed companies, funding is a challenge. For venture capitalists, there's no incentive to invest in businesses that will not eventually be sold to other investors for a return. For most banks, making loans to new technology businesses is too risky.
+
+But Up & Go and an array of other emerging platform cooperatives are finding innovative, diverse solutions to become financially-viable businesses in the long term. Together, they are charting the way forward for the creation of a far more equitable digital business sector; one that could restore the promise of a sharing economy based on the true sharing of wealth and power — and not the exploitation of workers for profit.
+
+Grants from Foundations
+
+Up & Go received multiple grants — one from the Robin Hood Foundation, a nonprofit based in New York City, New York, that focuses on fighting poverty, and another from the citizenship initiatives program of the multinational British Bank Barclays. The impetus for launching Up & Go came from our understanding of the marketing challenges facing worker coops – along with the Robin Hood Foundation's research and focus on the impact of the digital gig economy on low-income workers, says Sylvia Morse, Up & Go's project coordinator.
+
+"What are the opportunities to create platforms that are more worker focused? That was how the idea was born," Morse says. The Robin Hood Foundation, which is known for its innovative methods in tackling poverty in the New York City area, was willing to invest in a project like a platform cooperative.
+
+"We were of the opinion that the folks that benefit the least in the world from being 'on demand' are the ones that Robin Hood wants to help the most — those sitting on the bottom rung of the economic ladder," Steven Lee, managing director for income security at the Robin Hood Foundation, says. "[We] came up with this [idea] of creating a tech platform that would source work from consumers around New York City and match those consumers with the low-income worker population."
+
+Up & Go is jointly owned by three cooperatives that receive 95 percent of the payment from every booking — a far higher figure than any privately owned platform. The remaining five percent goes towards the development and management of the platform.
+
+"We believe that with this initial investment and with the model of having a portion of the booking going back into the platform, and with the worker-owned businesses making an investment, Up & Go can be financially sustainable," Morse says. The key focus now will be making sure more consumers are aware of the platform, refining the user experience, and bringing more worker-owned cooperatives onboard, she says.
+
+Given the rapid growth of gig work, finding alternatives to business as usual models that focus solely on the bottom line is becoming essential to protect workers. Earlier this year, the Oxford Internet Institute, a multidisciplinary research center, based in Oxford, England, released the Online Labour Index. The Index showed that the online gig economy grew by 26 percent globally in 2016. It shows no signs of slowing down. [Disclosure: I was interviewed about my experiences as a freelancer for the Institute's study.]
+
+
+
+A snapshot of the global gig work marketplace, by the Oxford Internet Institute
+
+Data from Intuit, based in Mountain View, California, and Emergent Research, located in Lafayette, California, expects a doubling of on-demand workers in the U.S. by 2021. While gig work offers a number of benefits, including flexible work hours and diverse income streams, it can also lead to exploitation. Low wages, unsteady work, and lack of benefits are just a few of the many documented impacts of gig work and the rise of on-demand platforms. Platform cooperatives seek to counter this trend by putting power, ownership, and profits in the hands of workers.
+
+The concept of platform cooperatives has been around since at least 2014. It takes inspiration from the cooperative sector, which has played a key role in the global economy for decades. Like traditional worker cooperatives, platform cooperatives follow a core set of democratic and collective values. Member-owners of Up & Go like Cruz vote on major decisions and share in the profits.
+
+This kind of shared ownership and profits is what makes funding a sometimes insurmountable hurdle for platform cooperatives. "Tech investors still expect outsized control and return for what they perceive to be as the risk," says Jason Weiner, an attorney specializing in sharing economy law, social and regenerative enterprise, employee-ownership and cooperatives. "A platform co-op could look at least as risky, and offer less liquidity, so investors tend to balk on the terms that platform co-ops are offering."
+
+The very thing that makes platform cooperatives attractive to workers — shared control and ownership — is a turnoff to many investors. "The capital required to launch a platform co-op is as much as a traditional lean tech startup," Weiner says. "There is a mismatch between supply of capital and demand of capital."
+
+Cooperative Banks and Credit Unions
+
+Take La'zooz, an Israeli ride-hailing platform cooperative that got ample media coverage as an ethical alternative to large, venture-funded ride-hailing giants. Like many early-stage platform cooperatives, La'zooz was unable to access funding to get off the ground.
+
+"No funds [meant] no real capacity to push development and to build a product that could be an alternative to giant startups backed with millions/billions of dollars by VCs," says Eitan Katchka, co-founder of La'zooz, who is currently working for Commuterz, an Israel-based mobility platform.
+
+When Uber entered the market, it was hailed for disrupting the taxi industry. But before its entrance, the taxi industry sought a profit out of necessity. If it failed to make money, it would go bankrupt. But as Vox reported this year, Uber has never made a profit in its history. Why? Because it's able to burn through billions of venture capital dollars in a quest to grow as fast as possible. Because platform cooperatives lack this kind of funding, experts point to a need for other institutions to step in.
+
+"We have yet to see a significant, institutional financing in this new wave of platform cooperative ideas," says Nathan Schneider, a scholar in residence of media studies at the University of Colorado Boulder. "That absence is glaring."
+
+Schneider says cooperative banks and credit unions — the institutions that invest in traditional cooperatives — could be potential sources of credit for platform cooperatives. "People who have been interested in cooperative development and investment see cooperatives as small businesses in local communities," Schneider says. "They tend to be not oriented into investing in the tech industry, which requires a specific tool set." Schneider says he hopes that as awareness of platform cooperatives grows, this barrier can be overcome.
+
+"It's great that there are a diversity of projects trying to address financing … some more traditional, some more exploring new territory," says Schneider. "The way we created [early cooperative] economies was from the grassroots and we have to reinvent what that looks like online."
+
+One funding model that is already showing promise for platform cooperatives is crowdfunding. Before the advent of crowdfunding websites, traditional cooperatives like cooperative grocery stores, cafes, and bakeries, often sought financial support from community members. "Platform co-ops could be the key that unlocks crowdfunding model," Schneider says. "So far, in non-cooperative spaces, [equity crowdfunding] has been slow to get moving."
+
+Equity Crowdfunding
+
+Some platform cooperatives are turning to equity crowdfunding , which combines shared ownership with crowdfunding. One of the first examples of a platform cooperative using the equity crowdfunding model is Resonate, a music-streaming service based in Ireland that is in beta, but currently accepting new members to join and test the service.
+
+"We are not ready for mass consumption, but once we get through that process of really getting things much more stable and user friendly, then we'll be able to do more aggressive marketing campaigns," says Peter Harris, the founder of Resonate.
+
+
+
+Resonate co-founder Peter Harris. Image courtesy of Resonate
+
+Harris has high hopes for Resonate. The service benefits musicians and labels — who get more revenue for songs than on existing corporate platforms like Apple Music and Spotify — as well as listeners, who can own a song after a certain number of plays. Resonate's model means that it is co-owned by musicians, labels, and listeners. All get voting rights and a share of future dividends.
+
+Resonate was the first project for Seedbloom, self-described as a "a seeding, equity crowdfunding, and governance platform for co-ops and ethically driven enterprises." Victor Matekole, the founder of Seedbloom, comes from a corporate background, where he saw first-hand the problems of exploitative financing.
+
+"Seedbloom really came out of a strong desire to fix our economy," Matekole says. "Platform cooperatives were something that I came through by working with Resonate, and I saw it a solution for… how to direct capital out of the financial world and towards projects that are oriented towards financial and social justice."
+
+Seedbloom and Resonate launched their equity crowdfunding campaign in 2016. While the campaign only reached 20 percent of its goal of raising 50,000 euros, it was enough to launch the platform. Today, Resonate is live, and for five euros, users can become a member of the cooperative, with full voting rights. Once the app is out of beta mode, they also earn dividends. Two hours of listening a day for a month would cost around approximately two to four euros, with nearly all of that going to musicians themselves.
+
+
+
+Snapshot of artists on Resonate
+
+"The campaign was in many ways a success," Matekole says. "It brought new talent into the project, in particular developers, and we got a product out with just 10,000 euros." Seedbloom hopes to take the lessons from the Resonate campaign and apply them to future equity crowdfunding campaigns for startup platform cooperatives, he says.
+
+One of the standout — and financially viable — platform cooperatives out there is Stocksy United, a stock photo platform cooperative based in Victoria, British Columbia, Canada, founded by Bruce Livingstone and Brianna Wettlaufer [Stocky is a sponsor of Shareable]. Photographers may seem like they have little in common with home care workers, but they share similar challenges. Photographers are also dependent on companies like Getty Images for work, and often face challenges in getting paid.
+
+That's why in 2012, Livingstone and Wettlaufer decided to form Stocksy. Unlike other platform cooperatives, Stocksy received a start-up loan for one million dollars from one of its founders. What followed shows the potential of a well-designed platform cooperative.
+
+"With that money we were able to employee key staff to have the building blocks for a strong tech company, from senior marketing to backend systems development," says Nuno Silva, Stocksy's vice president of product and one of its founding members. "Within eight months of being in business we were cash positive and in the black, already in the process of paying back the loan."
+
+In fact, by mid 2016, Stocky's members were able to pay off the loan entirely. Today, Stocksy has nearly 1,000 contributing artists, and an annual revenue of $10.7 million in 2016. The platform cooperative model is what made it all possible.
+
+"A platform co-op provides the foundation to run an ethical, sustainable business that’s made stronger by its member-shareholders," says Silva. "It's a model we hope more entrepreneurs will consider as an option and as a means to benefit the many and not just a select few."
+
+But not all platform cooperatives can get a large loan from a member, access foundational grants, or turn to equity crowdfunding options. That's why many in the community are looking at alternative methods for raising capital that could spur even more growth in platform cooperatives.
+
+Blockchain and Alternative Currencies
+
+One model that people are exploring is the use of blockchain and alternate currencies. The blockchain is an open, distributed ledger that records transactions between parties transparently. One of the most well-known of the blockchain-based currencies is Bitcoin. Bitcoin is just one of many virtual currencies in existence.
+
+Blockchain, as a technology, has many functions and can be used in many diverse ways. Resonate, for example, plans to use a blockchain to keep track of how often songs are streamed as a way to openly distribute revenues and assign ownership of songs to listeners. But the real potential lies in how this technology can be encoded with cooperative values, creating the potential for digital, cooperative currencies.
+
+"In this different kind of economy we have to rethink what is money, what is the relationship of money, and how it is used as a form of exchange," says Boyd Cohen, joint professor at the EADA Business School and the Universitat de Vic in Barcelona, Spain. "Cryptocurrency changes a lot of things in these equations, and opens up opportunities for new business models and ways of thinking about platform co-ops."
+
+In fact, 2017 has seen a massive spike in the amount of funds raised by what are called Initial Coin Offerings. While, the Initial Coin Offering market is incredibly speculative and prone to the same types of financial abuses as traditional markets, some advocates see potential in redirecting this technology.
+
+"It's important that people from the blockchain community work with people in the sharing and co-op movement, so that the things we are designing have the values of the co-op movement hard-coded into its DNA," says Jamie Burke, the founder of Outlier Ventures, a London, United Kingdom-based investment firm with deep knowledge of cryptocurrencies.
+
+Burke and Cohen are working with three start-ups to launch a meta platform cooperative token in the coming months. The idea behind creating a platform cooperative-specific currency or token is that it would create self-reinforcing ecosystems of financial and technical resources for emerging platform cooperatives.
+
+One organization exemplifying this kind of self-reinforcing system is Purpose Ventures, based in Berlin, Germany. The group has created a fund that invests only in what it calls "steward-owned companies," a term that includes, but is not exclusive to platform cooperatives. The organization doesn't take ownership of its investments, which are all evergreen and focused on long-term, sustainable growth instead of short-term capital accumulation.
+
+"We are totally interested in also investing in them and helping [platform co-ops]," says Armin Steuernagel, co-founder of Purpose Ventures. "We've invested in several platforms that are thinking of going in that direction."
+
+Similarly, next year Seedbloom is planning to launch 6fund, named after the six cooperative principles. 6fund is aimed at supplementing Seedbloom's existing equity crowdfunding model by providing platform cooperatives access to long-term, sustainable capital sources.
+
+"How can we take some of the funding that comes through, and take portions of that money and constantly circulate it through new projects," says Seedbloom’s Matekole. "There is a desire and need for a vehicle in which large cooperatives can actually invest and spread risk of investment across projects."
+
+Seedbloom hopes to make 6Fund a viable product for pension funds and other institutions to invest in, tapping into an even greater capital resources for platform cooperatives.
+
+"You're not going to see the crazy returns like the high-tech startups," says Matekole. "But what I hope that we see from platform co-ops are investments that are stable, and in the end … more ethical."
+
+Support from Unions
+
+Unions are also increasingly playing an important role in supporting platform cooperatives, since labor rights are essential to both. In California, United Health Workers West — a 150,000-member strong union — helped nurses launch the NursesCan Cooperative, a platform cooperative for licensed vocational nurses to provide on-demand care options for health care providers.
+
+While United Healthcare Workers West did not directly invest in the cooperative, it did play an important role in helping provide legal support and building connections with potential employers. United Healthcare Workers West hopes this model is replicated around the U.S.
+
+
+
+NursesCan Cooperative's members. Photo courtesy of UHW-West
+
+"There are deep and powerful connection between democratic workplaces and what unions organize around," says Ra Criscitiello, research coordinator at United Healthcare Workers West. "I hope that both unions and workers co-ops can start to see the value in partnering more."
+
+The platform cooperative movement has grown in leaps and bounds in the past few years. The network and support that aspiring platform cooperatives have today is greater than ever before. In the meantime, venture capitalist money is not as plentiful as it was just a few years ago, which could stem the tide of venture-backed start-ups, creating an opening for platform cooperatives to enter the market.
+
+While there still aren't many functional platform cooperative alternatives to various gig economy platforms, change is in the air. Up & Go, Resonate, Stocksy, and NursesCan show that platform cooperatives are making their way into many sectors of the economy, from home care to health care.
+
+Cruz and her colleagues at Brightly Cleaning Cooperative hope that the opportunities they've gotten by joining Up & Go can help other gig workers facing exploitative practices. "We are so lucky to be part of Up & Go," Cruz says. "It's a backbone that supports us and protects us. We really want to provide this opportunity to other workers as well."
+
+Header image of Up & Go's launch event courtesy of The Center for Family Life.

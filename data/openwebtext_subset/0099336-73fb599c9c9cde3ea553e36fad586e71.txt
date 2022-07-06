@@ -1,0 +1,21 @@
+Are we on the verge of creating artificial intelligence capable of finding answers to the world’s most pressing challenges? After steady progress in basic AI tasks in recent years, this is the vision that some leading technologists have for AI. And yet, how we will make this grand leap is anyone’s guess.
+
+Eric Schmidt, the executive chairman of Alphabet (formerly Google), says AI could be harnessed to help solve major challenges, including climate change and food security. Speaking at an event convened in New York this week to discuss the opportunities and risks in AI, Schmidt offered no details on how the technology might be adapted for such complex and abstract problems.
+
+Demis Hassabis, CEO of Google Deepmind, a division within Google doing groundbreaking work in machine learning, and which aims to bring about an “artificial general intelligence” (see “Google’s Intelligence Designer”), said the goal of this effort was to harness AI for grand challenges. “If we can solve intelligence in a general enough way, then we can apply it to all sorts of things to make the world a better place,” he said.
+
+And the chief technology officer of Facebook, Mike Schroepfer, expressed similar hope. “The power of AI technology is it can solve problems that scale to the whole planet,” he said.
+
+Eric Schmidt
+
+A steady stream of advances—mostly enabled by the latest machine-learning techniques—are indeed empowering computers to do ever more things, from recognizing the contents of images to holding short text or voice conversations. These advances seem destined to change the way computers are used in many industries, but it’s far from clear how the industry will go from captioning images to tackling poverty and climate change.
+
+In fact, speaking after his talk, Schroepfer was eager to limit expectations, at least in the short term. Schroepfer said that recent advances were not enough to allow machines to reach human levels of intelligence, and that two dozen or more “major breakthroughs” would be needed before this happened. And he said many people apparently had the wrong idea about how rapidly the field was moving. “People see one cool example, and then extrapolate from that,” he said.
+
+The event, organized by New York University as well as companies leading the effort to harness artificial intelligence, including Facebook and Google, comes at a delicate moment for academic researchers and companies riding the wave of progress in AI. Progress seems certain to revolutionize many industries, perhaps with negative consequences, such as eradicating certain jobs (see “Who Will Own the Robots?”). It will surely also raise new ethical questions, such as the legal and moral liability in self-driving cars, or the implications of autonomous weapons (see “How to Help Self-Driving Cars Make Ethical Decisions”).
+
+But the impressive progress has inspired some within the field of AI (as well as a few outside it) to pontificate about the long-term implications of the technology. Sometimes this discussion has focused on the challenge of controlling AI should it become vastly more powerful and independent—something that is very far from possible today.
+
+Worries over the long-term risks of AI recently inspired the foundation of a new nonprofit called OpenAI dedicated to advancing artificial intelligence that benefits humanity (see “What Will It Take to Build a Virtuous AI?”). OpenAI is funded by a billion-dollar grant from Tesla and SpaceX founder Elon Musk, who has been outspoken about the long-term dangers of AI, and other technology heavyweights.
+
+Hassabis and several others acknowledged that the ethical issues should be taken seriously. “As with any technology, if it’s going to be that powerful, we have to think about how to use it ethically and responsibly,” he said.

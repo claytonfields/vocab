@@ -1,0 +1,31 @@
+Email
+
+Business Finance
+
+By Matt Gould | September 5, 2016, 11:40 PM | Techonomy Exclusive
+
+The financial sector is on the brink of an AI revolution, poised to adopt a sophisticated platform that can create simple narratives and actionable analyses from varied data sets.
+
+New technology has already radically shifted customer and corporate expectations, including online lending systems that help creditors use personal data to vet potential borrowers and systems such as Schwab Intelligent Portfolios or Betterment that use algorithms to help advise people on where and how to invest their money.
+
+Many of these technological advances are possible because of new techniques to gather and analyze data, and more data is being generated every second. In fact, Gartner forecasts that by 2020 about 1.7 megabytes of new information will be created every second for each person on earth. But less than 0.5% of all data is ever analyzed. The fact is, data is being generated faster than any person or companies’ ability to analyze it. We’re being inundated. And industries like financial services that run on numbers and data are most likely to be overwhelmed.
+
+The financial tools we generally use today use numbers for input and offer in response more numbers disguised in graphs, charts, and dashboards. Existing solutions can only convey data in charts or snapshot visuals. We need machines to be able to explain the data, not just repeat it in different formats.
+
+This is where automation – more specifically artificial intelligence– comes into play. Artificial intelligence platforms can provide a solution for automating the gathering and analysis of vast amounts of data. This level of automation offers a massive opportunity for financial institutions to offer desirable business improvements like bespoke customer service, automated but empathetic financial performance reports geared directly to individuals, and simple-to-understand trading strategy suggestions.
+
+One such platform is a subset of artificial intelligence called natural language generation (NLG), a technology able to humanize and simplify data analysis and reporting. NLG combines data analytics with computational linguistics to deliver in words information otherwise hidden in diverse data sets, and deliver actionable insights. By mimicking natural human syntax, the technology can go beyond crunching numbers to simplify data and tailor the analysis based on the audience.
+
+I’ve spent the last five years working with a team of sciences at Arria NLG, a global leader in NLG, developing the sophisticated technology that makes such translation of data a reality. The platform is composed of two major “skill sets:” analysis & interpretation and information communication. In the analysis & interpretation stage, the system evaluates various sources of data that need to be explained and extracts and deduces from this data important facts and insights that should be communicated. The results of this process are informational units we call messages. Then starts the second stage: information communications. This stage of processing takes the messages delivered by the analytics and works out how to communicate the information they contain in an articulate and coherent manner using plain language and, where appropriate, graphical representations of the data with automatically generated annotations. Voice output can also be produced.
+
+For example, take a financial advisor who spends most of her day interpreting data to provide investors with up-to-date information about their assets and investments. NLG can replicate this adviser – looking at data as she does, writing and even speaking the insights she provides in her tone and voice. NLG technology digests large sets of financial data and generates tailored reports that explain portfolio performance. The financial advisor can then review, assess, and share the reports or schedule automatic delivery to her client, saving hours of rote analytical work. These financial advisors are liberated from having to spend their days reporting past performance and freed to spend time researching investment strategies or providing other advice to clients.
+
+But AI isn’t just a tool for Wall Street. Automated financial tools are emerging to help small businesses who do not have full finance departments or CFOs. NLG systems can gobble up financial data ranging from quarterly earnings to which invoices are outstanding, and provide analysis and forecasts. With NLG systems a small business owner doesn’t have to be an accounting expert: the technology provides facts and analysis in a simple and concise format, and then the owner makes the strategic decisions.
+
+AI will drive the future of personal finance. For example, imagine your stock portfolio has experienced a wide range of fluctuations over the past year. While you’ve been able to stay afloat despite the change, you wonder what it means for your portfolio in the long term. The green and red arrows and charts are meaningful, but it’s hard to comprehend the impact of global events on stock price. Using NLG, with the click of a button a report is generated instead. Each puzzle piece – current events, risks, trends, new stocks, revenue reports – come together to provide you with streamlined portfolio insight and recommendations.
+
+In the next five years, data-to-information services will transform the scope of business solutions. We will also see the effects of automation in other sectors, such as marketing, that are struggling to derive insights from massive amounts of data .
+
+To take advantage of the huge opportunity presented by these large new data sources, we need to understand data. This is the expertise of NLG –to take data and communicate important information as an expert to a non-expert, creating language from scratch.
+
+Matt Gould is CSO and Co-Founder of Arria NLG, a leader in the development and deployment of Natural Language Generation (NLG) software technologies.

@@ -1,0 +1,43 @@
+PARIS — Mobile satellite services provider Iridium Communications on July 30 said the Russian launch of its first two Iridium Next second-generation satellites would be delayed by two months, to December, because of a recent problem with hardware assuring the satellites’ Ka-band feeder links.
+
+McLean, Virginia-based Iridium said that despite the delay, it still expects commercial launch provider SpaceX to conduct the seven following Iridium Next launches, each carrying 10 satellites, by the end of 2017.
+
+Insurance officials in the past have said they want to see the first two Iridium Next satellites operational for around four months before underwriting coverage for the follow-on launches, to be sure there are no systemic issues on the satellites.
+
+That would put the first SpaceX Falcon 9 launch in April 2016 at the earliest even if Hawthorne, California-based SpaceX keeps to its original Iridium Next schedule despite its heavily booked manifest and delays related to its June 28 failure.
+
+In a July 30 filing with the U.S. Securities and Exchange Commission (SEC), Iridium said it was having trouble assembling the insurance package that its creditors require as a condition of their loan.
+
+One of the requirements is that Iridium complete the full eight-launch, 72-satellite insurance package three months before the first launch, scheduled aboard a Russian-Ukrainian Dnepr rocket.
+
+In its SEC filing, Iridium said it has begun negotiations with its creditors on a covenant waiver allowing them to proceed with the first launch even as the company seeks to complete the coverage for the full constellation.
+
+Iridium said it has already raised more than 60 percent of the required coverage.
+
+The insurance Iridium is seeking is in three parts and starts with a standard policy covering the Dnepr launch and the two satellites’ first year in orbit.
+
+The second policy covers the SpaceX Falcon 9 launches. Iridium needs less insurance than it normally would because it has purchased a relaunch option to be exercised if one of the Falcon 9 rockets fails, Iridium spokeswoman Diane Hockenberry said. The relaunch would not require additional insurance, she said.
+
+Iridium would use the relaunch option and load a new Falcon 9 with the nine spare satellites it has ordered as part of its 81-satellite contract with Iridium Next prime contractor Thales Alenia Space of France and Italy.
+
+Insurance proceeds then would cover the purchase of a 10th satellite ­— whose costs likely would be negligible given that the contractor will have amortized its nonrecurring engineering charges over the 81 spacecraft — and the new Falcon 9 launch.
+
+Iridium will need insurance coverage for the six remaining Falcon 9 launches. The policy it has secured from those insurers that have signed on up to now provides for full coverage with a deductible of two satellites per batch of 10 launched on each rocket.
+
+Iridium would need to lose three satellites from a given launch to make a claim but in that case it could claim for all three losses, plus a pro rata share of the launch cost.
+
+The third policy is what Iridium calls its Constellation Aggregate Insurance, which kicks in for losses that are not covered by the other two policies – but with a five-satellite deductible. Iridium would need to lose six satellites not covered by the previous policies to make a claim under this third policy.
+
+The policy then would reset at zero, meaning the loss of another six satellites would result in another insurance claim. After the 12th loss, each subsequent satellite failure would be covered. The coverage level is somewhat less if Iridium still has ground spares available that have not been committed by a failure under the first two policies.
+
+There is another element that has added to the total cost of the insurance Iridium wants and may help explain why the company has opened negotiations with its creditors on a covenant waiver.
+
+The credit facility Iridium is using to finance Iridium Next – most of it guaranteed by the French export-credit agency, Coface – requires Iridium to insure any relaunches it may need following launch failures. It further requires Iridium to insure the premium it must pay for these policies.
+
+“As a result of changing conditions in the space insurance market, we do not believe we will be able to complete the full placement of insurance prior to the first launch, and we may not be able to place the supplemental insurance for launch premiums on relaunches at all,” Iridium said in its SEC filing.
+
+Satellite and launch insurance rates have been at historically low levels for several years now despite failures of the Russian Proton rocket, the most recent of which – in May – was insured for $390 million.
+
+The June failure of the SpaceX Falcon 9 carried no insurance – not for SpaceX, and not for NASA or the other customers whose hardware was lost, according to insurers.
+
+As a result, insurance premiums are not expected to rise much beyond where they are now unless there are more insured losses. But Iridium Next is a special program and its insurance requirement is turning out to be unusual as well.

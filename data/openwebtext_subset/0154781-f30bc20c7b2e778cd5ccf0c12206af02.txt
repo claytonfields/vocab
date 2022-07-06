@@ -1,0 +1,133 @@
+Ministry of Sound. You'd think it would be obvious from the name, but such is the size and scale of what is now a fully fledged media brand, you could be forgiven for overlooking the fact that Ministry of Sound began life as a club, where the number one priority was sound quality.
+
+Mention Ministry of Sound now and it means different things to different people. There are the ubiquitous music compilations (60 million sold to date). Then there's the record label, which began life putting out underground dance music singles but has now had 19 no.1 singles and signed pop acts such as London Grammar.
+
+Then there's the radio station, which boasts more than 1 million listeners a month, the club nights around the world (1000+ every year), the merchandise, accessories and now a brand-new range of custom-designed Ministry of Sound audio products. More on those later.
+
+But the people behind the operation now are adamant that the brand was built on the sound system. A system which draws hundreds of thousands of people to an out-of-the-way corner of southeast London every year, which won the Best Club Sound System at the International Dance Music Awards from 2010 to 2013 (every year they ran the category), and stands as arguably the most famous dance-music venue in the world.
+
+Ahead of the launch of the brand's new headphones and wireless speakers, we visited the club to find out how it all began, the sonic secrets of 'The Box' and how the system is tweaked on a weekly basis to stay ahead of the competition...
+
+MORE: Bowers & Wilkins Sound System: 144 drivers, 120k watts
+
+In the beginning...
+
+Phil Faversham, club development director
+
+The Ministry of Sound (MoS) opened in 1991 and was inspired by probably the most famous club in the history of electronic dance music: Paradise Garage in New York. Fronted by Larry Levan, one of the founding fathers of house music, the club was crucial in the birth of house music and built around a custom-designed sound system.
+
+Justin Berkmann, the founder of MoS, fresh from spending time in New York, came back to London in 1991 eager to replicate the Paradise Garage experience.
+
+Phil Faversham, club development director at MoS and previously a touring DJ and award-winning music producer, takes up the story: "Justin spent a year driving round London looking for a venue and eventually stumbled across this old bus garage in Elephant & Castle.
+
+"The criteria were connectivity in terms of transport and distance from the nearest neighbours, because the intention was always to recreate that Paradise Garage sound. It was sound system first, service second and design last, which is pretty much the opposite to every other club now. Sound is always last, as a general rule of thumb, which is kind of odd as it’s a music-orientated experience. Vegas clubs spend more on lighting than the sound system."
+
+Once the venue was found, work began on a custom-built system based on a Richard Long design - the man behind the New York club system they wanted to replicate. Following a lot of trial and error, a system was installed.
+
+A process of tweaking followed, before the club opened with little fanfare. The total cost to build was around £750k, of which some £500k was spent on the sound. It sent a message of intent from the off, but left the rest of the facilities unashamedly basic.
+
+Phil says: "It was open 24-hours, with no alcohol licence. Everyone thought he [Berkmann] and James Palumbo [fellow MoS founder] were mad to put all of their money into the sound system... and it was a runaway success, all from word of mouth."
+
+MORE: McIntosh's 80,000 watt Despacio sound system
+
+The modern Ministry system
+
+The system that has picked up all the awards, and stands today, is as much about the room, known as The Box, as it as about the components - a hi-fi principle if ever there was one.
+
+Chris Thoms, club production manager, explains: "The sound system is only one half of the equation. There's also the room, the acoustic environment. As much time and effort has gone into the room as the sound system. The room is acoustically treated so it’s a snappy, clean sound."
+
+Reflections are kept to a minimum thanks to the treatment and also the layout of the six speaker stacks. The reverb time is less than a second meaning that "everything you hear is coming from a speaker, not bouncing off a wall", as Chris puts it.
+
+"A speaker can be acoustically amazing, but if you put it in a poor space it won’t sound good," Phil adds. "Over-specified systems where loud equals good… that’s a very basic approach. There’s a ceiling to which that is meaningful."
+
+"It's generally driven by price," adds Chris. "And that often means you have to run it at 90 to 95 per cent capacity, which will have a negative effect on the sound."
+
+On that subject, it turns out the Ministry of Sound system is itself massively over-specced - purely so it can run well under capacity.
+
+"Each stack can kick out 25,000W," says Phil. "The subs runs never normally run at more than 15-20 per cent, the amps are running at 30 per cent and the higher mids/treble at about 60 per cent, so there’s no distortion - it's all about clarity.
+
+"This thing purrs along way under its limit of headroom. It’s massively over-specced, over-engineered, over-thought… but the sound is the driver. Frankly, eveything else is secondary."
+
+MORE: Listening to Bjork's MOMA speakers through 49 B&W speakers
+
+What's in The Box?
+
+The Ministry of Sound speaker system now, as it was originally, is custom-designed for the club.
+
+"It’s all Martin Audio components, some of which you can buy, some you can't. All of the cabinets are designed specifically for the system. In that respect it’s entirely custom-designed," says Chris.
+
+"Bits of the original system started to deteriorate beyond repair, so in the mid-2000s Martin Audio began to replace components, which were largely made up of JBL and EAW bits. The top got done first, subs a few years later, then the big subs around 2010."
+
+"Since 2010 all we’ve done is installed some new grilles, which stops people poking their hands in them." Was this an issue? "Yes!" comes the resounding chorus. "The only reason we were replacing drivers was because people were poking them or put drinks in them. We were never stressing the drivers or having to replace them."
+
+And this makes a change from the early days, when we're told a certain unnamed resident DJ would proclaim it wasn't a good night unless he'd blown eight drivers. That began to prove rather expensive...
+
+The speakers in The Box come in 12s, it seems. There are 12 x 21inch, 9.5kw active subs, 12 x 18in subs and 12 x Martin Audio W8C mid-high speakers. As well as the Soundcraft SI console, there are Lab Gruppen and Powersoft amps, plus BSS Soundweb London processing and crossovers.
+
+Each of the six stacks in the room is capable of pumping out 25,000W of power and would cost around £60,000 a stack to replace. All the speakers and electronics in the room? Somewhere around £500,000. And that's before you factor in the cost of the room itself, which is around another £250,000 of build costs.
+
+Managing the sound
+
+As Phil explains, knowing the room inside out allows them to make on-the-fly tweaks in line with what the DJ is playing, as well as longer-term changes as required.
+
+For example, Chris explains that the central stacks at the front and back of the room are delayed by a few milliseconds, which makes them appear further away - a neat trick to make the sweetspot a little bigger.
+
+It's an ongoing process, as Phil explains: "We have external acousticians and we’ve studied that room and system in infinitesimal detail. We know the frequency response and how it performs in every square of the room. We know where the hot-spots are."
+
+We're shown a map of the dancefloor that indeed plots the frequency response in every corner of the room. This clearly helps when making adjustments using the processing console - something which happens on a minute-by-minute basis when it comes to club nights.
+
+"Everything goes into a front-of-house console, which is a Soundcraft SI Series with lovely preamps that makes everything kind of nice," Chris explains. But running their regular test tracks and getting the system sounding how they like it sadly isn't the end of the matter.
+
+"We’d love to run the system flat every night, the way we know we like it. But if DJs get carried away or play music that isn’t well-produced, or is made for radio, then we take a bit off the top and a bit off the bottom. We always want it to be clear, never distorted. We build in lots of headroom. If someone leaves our club with their ears ringing we’re not doing our job right. We’re about clarity."
+
+Thankfully it seems Chris is usually able to be a little more hands-off with the system during his working night. "Good DJs, good music - we have no problem," Chris smiles.
+
+It's also Chris and Phil's job to stay on top of developments in club and speaker design to ensure Ministry keeps its self-proclaimed place - albeit with plenty of awards to back it up - at the top of the club sound system league.
+
+"We always go and listen to other systems to see if there’s anything that beats it... but it hasn’t happened yet," says Chris.
+
+So where do Ministry rate the system? "Space in Ibiza has a great system... Sven Vath’s Cocoon system when it was open.” And what about the other big-hitter in London clubland, Fabric? “Who?” comes the joking reply, before various platitudes are offered.
+
+Why sound quality matters
+
+The most important people in the club are of course the paying punters and while it would be easy to dismiss the idea that people care about audio quality at 3am, there's no doubt in Chris and Phil's minds that the quality of the system impacts on their experience in a positive way.
+
+"Whether they consciously care or not, the quality of the sound absolutely matters," Phil says. "Whether they walk away knowing how that’s impacted on their night, I don’t know. The common thing [at other clubs] is for people to leave the club and complain about their ears ringing. What they’re really saying is that the sound quality was terrible.
+
+"It’s not about volume, it’s about the quality. We have tonnes of volume but we have clarity and no distortion. One of the objectives is that nobody leaves here with their ears ringing.
+
+"You can’t tell in there [how loud it is]. Given it’s running at 115 dBA, it doesn’t feel that loud because it’s clean. You could go into a room with a badly set up system running at 115 dBA and you’d be aware it’s very loud because it would be hurting your ears."
+
+And while many of the latest breed of DJs - who are more used to playing the plethora of festivals and warehouse-style parties that are currently in vogue, and where the sound systems by nature are more transient - may not value the sound system, there are still plenty of artists who do.
+
+"Richie Hawtin comes back every few years because he wants to play on the system, a lot of them do still care about the quality of the sound. Some artists… it’s not what it’s about for them. They don’t understand the dynamic of sound the way the older guys do," says Phil.
+
+"They over-compress in the studio, then they pump it out of the system, red-line the mixer [hitting the maximum volume]… I’m not one for preaching to the unconverted, but we have this amazing system and you stick in a compressed sound... it’s a bit of a battle."
+
+Ministry of Sound audio range
+
+Phil is keen to stress that the new Ministry of Sound Audio range of products aims to do justice to the club and the sound system.
+
+While previous Ministry products were ultimately little more than a branding exercise - albeit a fairly successful one, we're told - this new range aims to match the sonic heights of the club system, but in the world of wireless speakers and headphones.
+
+Phil has been heavily involved and is bullish about the audio quality. "The last time we did audio products, they weren’t custom-designed. They weren’t bad at the price but they weren’t unique. These are custom-designed from the ground up.
+
+"The brief was to create the best products we can at any given price. The Audio L Plus is probably better than the Sonos Play:5. It was benchmarked against the Play:3 but I think it’s better than the Play:5.
+
+"It’s about clarity. Acoustics is part science, part art. We deliver the best sound experience every weekend, we constantly adjust and tweak the system, so [with the speakers] it’s the design and engineering aspects coupled with our week in-week out experience in the real world. I understand how people react to sound."
+
+That's a bold claim. We look forward to hearing how the new products measure up when we get them in our test rooms for review.
+
+What next for Ministry of Sound?
+
+Aside from the Audio range, there's the business of a new club, which is scheduled to open in 2018.
+
+"We are in the process of designing and building a new venue. Again, a lot of thought is being put into the rooms, and there's a lot of debate about sound systems with our partners, Martin Audio. It needs to be better than it is now."
+
+And what will come of The Box? "My feeling is that system will come with us, it may not be in the main room, but maybe the second room."
+
+But one thing remains certain, sound quality will be the number one concern, as it was back in 1991: "The new venue is about retaining that authenticity, the core experience. That excellence in sound story has to prevail."
+
+MORE: Read about the new Ministry of Sound Audio range
+
+See all our Ministry of Sound news and products

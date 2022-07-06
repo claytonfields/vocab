@@ -1,0 +1,25 @@
+Mozilla and its Firefox browser have been hurting badly in the stakes for browser market against Google Chrome, Microsoft’s Internet Explorer and Apple’s Safari, and now the company is preparing a bigger restructuring with its president and a mobile VP both leaving the company, along with a renewed marketing and product effort that it plans to kick off likely in May, as it looks to tackle this. This will include Mozilla finally releasing a version of Firefox for iOS.
+
+TechCrunch has learned, and confirmed, that Li Gong, the president of Mozilla, and Rick Fant, its VP of mobile, are parting ways with the organization.
+
+“Li Gong and Rick Fant are stepping down and leaving Mozilla to pursue other opportunities,” said Chris Beard, Mozilla’s CEO. “We thank them for all of their contributions and wish them well in their next adventures. As part of this transition, we are hiring a VP of Firefox OS to focus on the next phase of Firefox OS development and we’ll have more to share soon.”
+
+Gong has been with Mozilla since 2007, when he joined from leading Bessemer Venture Partners’ China office. Before that he was an executive with Microsoft in China and before that a longtime employee of Sun Microsystems. Fant, meanwhile had been with Mozilla for two years, before that in roles with European carrier Vodafone, Volantis and Microsoft as well.
+
+For an organization that saw a very short-lived CEO depart last year after his controversial support of the California proposition that would repeal gay marriage, Gong and Fant had decidedly less colorful public profiles, although both were in very senior and critical roles.
+
+We first heard of the two departures by way of a tip that also hinted at a bigger restructuring by Beard. Mozilla has not commented on that.
+
+Separately, we’ve also been passed a leaked presentation that points to a major “fightback” marketing campaign that Mozilla has been planning starting in Q2, likely to start in May, to try to bring more users to Firefox. Mozilla has also confirmed the authenticity of that document to us.
+
+The campaign will include increased marketing spend — separately and with its new search partner, Yahoo — to try to educate users on how Firefox is the “independent” option and different from Chrome, IE and the rest, and it will also focus on new product launches to spur use of the platform.
+
+Specifically, Mozilla is planning finally to release a version of Firefox for iOS, and focus more users on its privacy controls as they sit in contrast to other browsers like Chrome.
+
+The company has had a tough time competing against Google’s browser and IE. In the presentation, Mozilla internally describes Firefox as having entered 2014 in an “alarming decline” — although more recently it seems to have stabilized that position. In the time since then it’s launched other, smaller marketing campaigns that have proven successful, and currently has an 18% share of the market, compared to Chrome’s 41% and IE’s 28% in U.S. desktop browser usage. But globally, it’s more level with IE, with both significantly behind Chrome, with the shares of the three at 53% for Chrome, 19% for IE, and 18% for Firefox.
+
+Source: StatCounter Global Stats – Browser Market Share
+
+Mozilla has also tried to pick up speed on its mobile strategy. Most recently, in March Mozilla announced low-end Firefox OS-based phones that would be coming to the U.S. for the first time, along with a partnership to continue rolling out the handsets in emerging markets, most recently in Africa.
+
+This idea is to use the foundation’s 10th anniversary to try to claw back more market share again to grow its user base, which currently stands at around 300 million.

@@ -1,0 +1,7 @@
+All the numbers for those who love numbers
+
+Regular readers know how we feel about benchmarks. A quick refresher — we don't think they tell a significant part of the story, and are just a bunch of numbers that are easy to manipulate and even easier to get caught up in. A better (to us) method is to do the things we do with a new phone, and see how well it does it all compared to other phones, and the way we want it to be done. A number can't tell me how smooth looking through a photo gallery will be, or how well the browser renders.
+
+For my real-life benchmarks, the Oppo N1 CME is doing great. Battery life is good, using a T-Mobile sim card gives me expected network speeds on their HSPA+ network (no LTE in this one), calls are fine and clear, peripherials like the Pebble and Google Glass work as expected, and the performance is good overall. If you were to pin me down, I'd say it's a little faster than the Galaxy Note 3, but not quite as fast as the Sony Z Ultra GPe — which based on the internals and operating system overhead, is just about where it should be. The short version — I've seen nothing worth getting excited over, and am pleased with the performance.
+
+But sometimes, I've gotta buck the system. While I have the Oppo N1 CyanogenMod Edition here, I'm gonna do a little testing. It's a phone that appeals to people who do want to know those benchmark numbers, and just might be able to do things to make them higher. I asked around a little and ran a few different benchmarks, and the results are in a gallery below.

@@ -1,0 +1,131 @@
+[/caption]
+
+Note: To celebrate the 40th anniversary of the Apollo 13 mission, for 13 days, Universe Today will feature “13 Things That Saved Apollo 13,” discussing different turning points of the mission with NASA engineer Jerry Woodfill.
+
+A Hollywood movie depicts three astronauts who survive an accident in space, but their lives hang in the balance as the people in Mission Control at NASA work night and day to figure out a way to bring the spacefarers home safely.
+
+You probably think I’m describing the 1995 movie, “Apollo 13” by producer Ron Howard, but actually this is a recap of a 1969 movie called “Marooned.”
+
+“The correlation between ‘Marooned’ and actual events threatening Apollo 13 is really uncanny,” said NASA engineer Jerry Woodfill. “People may not agree, but in my mind this movie was actually a catalyst to the rescue of Apollo 13.”
+
+
+
+“Marooned” starred Gregory Peck as a Gene Kranz-like flight director, David Janssen as head of the astronaut office (who looked strikingly like the real Chief Astronaut Deke Slayton), with Richard Crenna, James Franciscus, and Gene Hackman as the astronauts. Like the movie “Apollo 13,” “Marooned” dealt with three astronauts stranded in space, but was an adaptation of a 1964 novel of the same name by author Martin Caidin, and not a real-life portrayal. The novel told the story of a single astronaut in a Mercury-like capsule, but the movie was adapted to reflect the current-day Apollo program.
+
+
+
+“Marooned” won an Oscar award for Best Special Visual Effects, but when the movie “Apollo 13” received an Academy Award for Best Screen Adaptation, Caidin joked that he should have received the award for scripting the movie in his novel a quarter century before.
+
+Woodfill recounted how back in early 1970, he heard about the movie “Marooned” and that the flight directors at NASA were invited to a special screening of the film, and later, the Apollo 13 crew came to a special release and public viewing of the movie.
+
+But most of the people who worked in Mission Control and the Mission Evaluation Room couldn’t afford to go see the movie. The viewing was at a plush theater on Richmond Avenue in Houston in January of 1970.
+
+“Those days I worked as a young civil servant, and “Marooned” was playing at the theater on Richmond Avenue in Houston, which was $3.50 a ticket, which was out of reach for most of us,” said Woodfill. “But working for NASA we had to be clever about keeping costs down taking our wives out. We called this low-cost date, “NASA Night Out,” where we could go to a neighborhood theater for $1.25, plus get a two-for-one coupon if you took your wife to dinner at the Monterey House, and afterwards, you could get a free cup of coffee if you filled up at a local gas station. We had to be innovative in those days!”
+
+“Marooned” made it to the $1.25-a-seat theater by the week of Apollo 13’s rescue, and several NASA employees went to see it, including Woodfill’s colleague and electrical engineer Art Campos, who is now deceased.
+
+
+
+“Art was a wonderful electrical engineer, a graduate of the University of Texas in Austin,” Woodfill recalled, “As an engineer hailing from a Hispanic family, he often encouraged those in his culture to pursue technical fields. Art was also my mentor with regard to the electrical power system for the lunar lander. I often consulted him about caution and warning issues with regard to his lunar module electrical power system. He served as its system manager.”
+
+Campos went to see “Marooned” the evening of April 13, 1970, and later told Woodfill he was thinking about the movie as he returned home and went to sleep, and wondered about a problem faced by the astronaut actors regarding the emergency batteries, which had been depleted.
+
+“In the movie, charging the batteries was the instruction to fix the problem,” said Woodfill, “and Art said he wondered, ‘What if we faced such dire problems?’ and other ‘what-ifs.’”
+
+Just a couple of hours later, Campos was awakened by a phone call informing him that the Apollo 13 spacecraft had suffered an accident, and that he needed to come in immediately to work on a way to get power to the emergency batteries in the Command Module, required for reentry.
+
+“The crew had to use the emergency batteries in the Command Module to have time to transfer the guidance parameters to the Lunar Module computer,” said Woodfill, “and there may not have been enough power in them for when the crew returned to Earth. As Art was driving to Building 45 at the Manned Spacecraft Center, where the Mission Evaluation Room (MER) was housed, he recalled the movie, where they said ‘charge the batteries’ and then remembered a procedure he devised about a year earlier, a way to charge depleted emergency batteries by using a jumper charge between the two vehicles, because the lunar lander batteries are huge and would have ample power.”
+
+
+
+Woodfill said Campos starting writing out the procedure while he and others in the MER rolled out drawings and schematics for the electrical systems on the two vehicles showing all the connectors and harness wiring. They finally found a small wire running between the two vehicles. It had been designed into the vehicles years ago to heat some components in the lander during the coast phase to the Moon until the lander is powered up.”
+
+“They found the wire, but they didn’t know if the procedure would work,” said Woodfill, who sat next to the electrical engineers in the MER working this problem,” because there is a trickle charge and you have to set switches and the circuit breakers just the right way. They tried it out in the simulators, because there was a concern that current would flow the wrong way.”
+
+And in fact, Woodfill said, in the simulators, it didn’t work. The computer in the simulator refused to allow the procedure, but nevertheless, there was no other alternative. So, they tried it in space and it actually worked to re-charge the batteries in the Command Module.
+
+“I really think “Marooned” was the catalyst for Art remembering this wire,” said Woodfill, although we’ll never know for sure.
+
+Video clip from NASA footage. Art Campos is among the engineers shown in the MER.
+
+Woodfill also listed several other similarities between “Marooned” and the real-life drama of Apollo 13:
+
+• The use of simulators is almost identical to that which Apollo 13’s ground team used in the course of the rescue.
+
+• Gregory Peck’s character announces, “Every resource of NASA and our industrial contractors is being used to the fullest extent,” similar to what was done during the real Apollo 13 drama.
+
+• Press conferences in the movie were similar to those conducted by Chris Kraft for the Apollo 13 media coverage.
+
+• The “Marooned” crew wrongly thinks they may have suffered a meteor strike as did the crew of Apollo 13.
+
+• A hurricane threatens the rescue as was the case with Apollo 13. Even the weathermen wrongly predict its course as did the Apollo 13 meteorologists.
+
+• Commanders of both “Marooned” and Apollo 13 are named Jim.
+
+• The threat of consumables running out is dealt with in the same fashion as Apollo 13 with severe conservation measures being utilized.
+
+• The medics in “Marooned” express concern for the crew’s sleep deprivation as did Apollo 13’s doctors.
+
+• The “Marooned” crew is told to shut down fuel cells 2 and 3, using only fuel cell 1. This is what the Apollo 13 flight controllers experienced as a result of the oxygen tank explosion, two fuel cells shut down with only one sustaining power, until it, too, was lost.
+
+But perhaps, said Woodfill, the most notable of “Maroon’s” correlations with the Apollo 13 rescue had to do with those reentry batteries discussed above, and this earlier article in the “13 Things That Saved Apollo 13” series. The batteries were used during the time the ground team was confused about the source of Apollo 13’s explosion. This severely depleted them, and without enough power to the Command Module, reentry could be fatal. These batteries normally were to be used only during the mission’s final hours to power the reentry capsule.
+
+
+
+Woodfill said that Apollo EECOM John Aaron commented recently at an Apollo 13 anniversary event at Johnson Space Center that he has reflected on how he allocated power from the those batteries to various system managers. He had refused a request for 2 amps from a DOD official wanting power for to light a rescue beacon to locate the crew capsule in the ocean.
+
+Aaron commented, “Thankfully, the splashdown was in sight of the carrier and no beacon was needed to find Lovell and crew.“ But, he granted, “What if the landing had not been so accurate?” And Woodfill, likewise wonders, “What if Apollo 13 had landed in the storm-tossed seas of tropical storm Helen?”
+
+Indeed, Campos’ contribution was huge, and Woodfill believes the procedure to recharge the batteries saved Apollo 13.
+
+Next: Part 12: The Lunar Orbit Rendezvous Plan
+
+Earlier articles from the “13 Things That Saved Apollo 13” series:
+
+Introduction
+
+Part 1: Timing
+
+Part 2: The Hatch That Wouldn’t Close
+
+Part 3: Charlie Duke’s Measles
+
+Part 4: Using the LM for Propulsion
+
+
+
+Part 5: Unexplained Shutdown of the Saturn V Center Engine
+
+
+
+Part 6: Navigating by Earth’s Terminator
+
+Part 7: The Apollo 1 Fire
+
+Part 8: The Command Module Wasn’t Severed
+
+
+
+Part 9: Position of the Tanks
+
+Part 10: Duct Tape
+
+Part 11: A Hollywood Movie
+
+Part 12: Lunar Orbit Rendezvous
+
+Part 13: The Mission Operations Team
+
+Also:
+
+Your Questions about Apollo 13 Answered by Jerry Woodfill (Part 1)
+
+More Reader Questions about Apollo 13 Answered by Jerry Woodfill (part 2)
+
+
+
+Final Round of Apollo 13 Questions Answered by Jerry Woodfill (part 3)
+
+Never Before Published Images of Apollo 13’s Recovery
+
+Listen to an interview of Jerry Woodfill on the 365 Days of Astronomy podcast.

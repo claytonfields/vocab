@@ -1,0 +1,39 @@
+In just the last two years more data will be created than the previous 5,000 years of humanity put together. The type of data created is expanding rapidly as well, and goes across a wide range of industries, including many you use every day.
+
+Editors note: Predictions sent in from Sencha's CEO Art Landro
+
+In 2015, Art predicted that in 2016 the explosion of data would drastically transform the technology landscape, requiring organizations to visualize all incoming data from IoT devices for rapid decision making and insight into competitiveness and viability. He believes data will remain a key growth area in the coming year.
+
+Read on to learn why, and find out what else Art thinks we have in store for 2017:
+
+In 2017, we will create more data than ever before, creating new challenges around consuming that data to make strategic and tactical decisions.
+
+More data was created in the last two years than the previous 5,000 years of humanity. In 2017, we will create even more data in one year alone. The type of data created is expanding rapidly across a wide range of industries: biotech, energy, IoT, healthcare, automotive, space and deep sea explorations, cybersecurity, social media, telecom, consumer electronics, manufacturing, gaming and entertainment – the list goes on. Yet, recent research has found that less than 0.5 percent of that data is actually being analyzed for operational decision making.
+
+The focus in software will be getting your hands around all that data and being able to use it either strategically to make important long-term decisions, or in real-time to make operational decisions – as there is no value to the data being created if you can’t use it. In order to get ahead and stay ahead of the competition, it will be critical for organizations to leverage web application lifecycle management platforms that have the capability to consume huge amounts of data and present that data in a way that helps them make the right decisions.
+
+The desktop isn’t dead – and it’s here to stay.
+
+Many people predicted that paper would be obsolete by now. It’s not. The same is true for the desktop. In fact, the desktop will be around for another 30+ years. While mobile and tablets will remain important to our everyday lives and simple business processes, people simply do not want to view and analyze data on a small screen.
+
+According to findings of a global survey, “The State of the Modern Web,” recently conducted by Dimensional Research, 80 percent of development professionals believe desktop applications are “absolutely essential” to their business operations. Additionally, the survey found that 81 percent of desktop applications are maintained for more than three years, compared to just 55 percent of smartphone applications. These research results confirm that the desktop is far from dead. The desktop remains the most critical platform for business applications due in part to the massive explosion in the complexity and volume of data, which is driving increased demand for data visualization techniques as users seek to make more informed strategic and operational decisions.
+
+Competition between enterprises and small businesses/startups will heat up.
+
+The number of startups and small software companies building applications that are more flexible, more graphic and more intuitive to replace legacy ERP, CRM and Supply Chain Management (SCM) systems offered by large enterprises will increase. To stay competitive, large software providers such as Oracle, SAP, Microsoft, and Salesforce will need to be much more agile and flexible in building flexible, easy-to-use business critical applications and platforms. We’ll see enterprises adopt a much more open-minded view toward partnerships and what partnerships mean in this digital economy.
+
+CEOs will become more generalists, than specialists, and every company will need a CTO.
+
+As we move deeper and deeper into the Digital Age and technology becomes more prevalent in all industries, CEOs will become more generalists who are focused on building the right teams to succeed, rather than being an expert in every topic. Every company in every industry, from agriculture, mining and manufacturing to logistics, financial services and healthcare, will become a technology company. Additionally, every technology company will need a CTO who has a deep understanding of the company’s technological infrastructure, software development and support needs.
+
+Software developers will rule the digital world.
+
+While developing and building relationships with customers over the last year, I’ve learned that many executives’ number one challenge is finding quality software developers. Today, we live and work in a world where there continues to be massive growth in technological advances and an explosion of technical choices. In this world, developers – specifically, software developers wielding web technology skills and tools that turn ideas into amazing applications which drive operations and businesses around the planet – rule.
+
+According to the previously cited Dimensional Research survey, 76 percent of organizations plan to increase investment in web technologies in 2017. Hiring and retaining quality developer talent will become even more critical as organizations feel the increasing pressure to deliver sophisticated, complex and long-lasting applications quickly, while still providing high quality, long-lived products.
+
+Are you paying more taxes than you have to as a developer or freelancer? The IRS is certainly not going to tell you about a deduction you failed to take, and your accountant is not likely to take the time to ask you about every deduction you’re entitled to. As former IRS Commissioner Mark Everson admitted, “If you don’t claim it, you don’t get it.
+
+Get hands-on experience in performing simple to complex mobile forensics techniques Retrieve and analyze data stored not only on mobile devices but also through the cloud and other connected mediums A practical guide to leveraging the power of mobile forensics on popular mobile platforms with lots of tips, tricks, and caveats.
+
+Write and run code every step of the way, using Android Studio to create apps that integrate with other apps, download and display pictures from the web, play sounds, and more. Each chapter and app has been designed and tested to provide the knowledge and experience you need to get started in Android development.

@@ -1,0 +1,37 @@
+
+
+Metro said it’s increasing the grace periods between peak- and off-peak fares at stations where kiosk clocks and entrance gates are sometimes out of sync. A Metro spokesman said the patch will remain in effect while the system’s technology crew works on a permanent solution. (Photo by Amanda Voisard/For the Washington Post)
+
+It turns out that Metro not only has trouble making the trains run on time, it has trouble with the clocks, too — at least at some of its fare gates.
+
+Some alert — and punctual — Metro riders have discovered that the system has been charging peak fares after the off-peak period was supposed to begin.
+
+But a fix is supposedly on the way. In response to a query from the Post on Tuesday, Metro is lengthening the grace period at those stations where glitches have been discovered, Metro spokesman Dan Stessel said.
+
+[Metro tests new fare-paying system that would allow riders to use bank cards and smart phones]
+
+The patch should be in place for the Wednesday morning commute, he said, and will remain while Metro’s technology team works on a permanent fix, which is expected to take a couple more months. Requests for refunds, meanwhile, will be considered on a case-by-case basis.
+
+Metro’s version of you-can’t-beat-the-clock came to light after riders like Pierre Ghanem complained. He’s one of the many riders who sometimes wait at the fare gate for Metro’s clock to roll over to 9:30 a.m. before swiping their SmartTrip cards to take advantage of the off-peak rate. The peak fare is a minimum $2.15 to ride, versus $1.75 off-peak.
+
+But for at least the past two months, Ghanem discovered that the computerized clock controlling the gate at the Wheaton Metro station continued to charge the peak fare after the kiosk clock showed 9:30 a.m. He said he got dinged for the full peak fare despite waiting as long as two minutes beyond the time he was entitled to get the off-peak rate.
+
+Ghanem — who lives in Rockville and takes the Red Line to Farragut North and his job with an international media outlet — said he told the Wheaton station manager about the glitch at least two months ago. He said he also called Metro’s complaint line and filled out an online complaint form too. But nothing happened –until now.
+
+“What bothers me more is that managers at the station are aware of it,” he said in an interview. “They want us to use their train and take our money, but they don’t really care about us. This is unacceptable.”
+
+The problem arose because Metro’s fare gates use a proprietary technology from Cubic Corporation that’s not syncing correctly with the system’s timekeeper, Stessel said.
+
+“Over time, individual fare gates may drift out of sync from what is displayed on the kiosk screens,” Stessel said in an email.
+
+The problem is not systemwide, and it can vary gate by gate in the same station, or day to day, he said.
+
+“One fare gate at a particular station might have the issue and the five next to it might not. The next day, it it might not be an issue at all,” Stessel said. He said Metro has been hearing about complaints about the problem from riders about once a week.
+
+Metro’s fare technology crew, which has actively been working on the problem, created a grace period of “several seconds,” thinking that would cover the disparity while working on a permanent fix, Stessel said.
+
+So now they are coding a grace period that will offer more leeway at the affected stations, he said. Stessel said he couldn’t be specific about duration of the new grace periods, but that the added cushion of time would be “sufficient to address the issue.”
+
+Let’s hope so. Time is money — especially when you’re in control of both.
+
+–This posting has been updated to note that Metro will consider requests for refunds on a case-by-case basis.

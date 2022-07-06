@@ -1,0 +1,25 @@
+Law enforcement’s need for information access is critical and should be supported—but only in ways that ensure the individual’s personal privacy. That was the message from European Data Protection Supervisor Giovanni Buttarelli, speaking at the first public event that Europol has held on the specific subject of privacy.
+
+Against the backdrop of several important court cases, as well as calls for enabling surveillance for counter-terrorism purposes, Buttarelli pointed out [PDF] that in many cases, law enforcement’s counter-terrorism flaws come down to poor collaboration rather than a lack of information. For instance, he noted that it is likely that most of the Paris and Brussels attackers were known to the local police as criminals, jihadis or some foreign fighters, and that information on them was included in the relevant EU databases.
+
+“Of course law enforcement authorities need to do everything possible to fulfil their public function of ensuring law and order and justice for victims of crime and terrorism,” Buttarelli said, calling for more information and analysis. “The EU's Counter Terrorism Coordinator recently told the JHA Council that there are still 'significant gaps with regard to feeding Europol' with information necessary on foreign terrorist fighters. This is an urgent problem because of the need for Europol to help match criminality and terrorist activity.”
+
+He also discussed the idea of backdoors, comparing them to the state instructing all architects and construction companies to weaken, in a secret way, one of the points of entry in every private residence.
+
+“Backdoors are not the solution to cybersecurity; they would be a new and dangerous part of the problem. What we need instead is to reinforce the global infrastructure, not to weaken it, to ensure that not only citizens but governments also are secure against attacks.”
+
+He noted that a backdoor would be fundamentally different from the traditional wiretap. “Much more so than our homes, our mobile devices now contain revealing and sensitive data on almost every aspect of our lives, private and professional,” he said. “A trojan horse or built-in vulnerability in all smart phones, tablets and PCs would allow collection and retention of personal information on a much greater scale than ever before. It would set a precedent for the emerging Internet of Things where a whole range of everyday devices and objects will be connected.”
+
+He also said that now may be time to consider establishing a right to encrypt, in addition to any moves to reinforce law enforcement capabilities.
+
+He said that Europe has taken “a massive step in the right direction” with the final adoption of the General Data Protection Regulation and of the Directive for data protection in the police and judicial sector. And, the adoption of the Europol Regulation, which will make Buttarelli’s department responsible, in 2017, for the supervision of compliance of personal data processing.
+
+The balancing of privacy and law enforcement needs was played out in two separate cases in Germany and Italy—with different outcomes. The German Federal Constitutional Court recently ruled on the police use of tracking devices in international terrorism cases, and found that privacy safeguards, transparency to parliament, public and individual legal protection and judicial review must be taken into account.
+
+“According to the Court, it was disproportionate to use wiretap for more than just the most serious offences; and there were limits on the interference with the private spheres of individuals who are not suspected of terrorist activities,” he said. “And it was disproportionate also to transfer personal data to third countries where there were no guarantees of protection of the fundamental rights of the individuals in question.”
+
+Meanwhile, the Italian Court of Cassation said in April that evidence acquired through trojan horses installed on electronic equipment could indeed be admissible in the most serious cases: anti-Mafia and anti-organized crime efforts, and to combat terrorism.
+
+“The FBI-Apple argument in the wake of San Bernardino is just an early skirmish in a long battle,” he said. “A broad and informed public debate is now needed, just as President Obama himself has said. Is the question really one of privacy versus security, or is it rather one of overall security versus decryption?”
+
+Photo © Nagel Photography

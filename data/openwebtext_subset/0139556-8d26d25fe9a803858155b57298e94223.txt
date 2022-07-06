@@ -1,0 +1,197 @@
+An information resource for prospective pet owners
+
+Dalmatian
+
+Deafness
+
+Related terms: hearing loss
+
+Outline: Deafness, linked to a gene involved in their patchy piebald colouration, is common in Dalmatians. About 15-30% of dogs are affected and about 5% are deaf in both ears. Affected dogs are at greater risk of injury through, for example, road traffic accidents. Dogs should be tested for hearing loss and only those in which both ears are normal should be used for breeding.
+
+Summary of Information
+
+(for more information click on the links below)
+
+1. Brief description
+
+Dalmatians are usually born with normal hearing but some become deaf after a few weeks (Mair 1972; Johnsson et al 1973). The disease may affect one or both ears. Dogs with normal hearing in one ear are likely to be able to live a normal life. Those deaf in both ears are significantly handicapped.
+
+The disease process by which hearing is lost is associated with melanocytes, cells thatproduce and contain pigment and which can pass on pigment to other structures such as the hairs of the skin and the iris of the eyes. It seems that melanocytes are also vital for the normal functioning of the inner ear.
+
+2. Intensity of welfare impact
+
+Total deafness causes welfare problems that vary from the trivial to the extreme (Strain 1996). Deaf dogs are at higher risk of trauma particularly from vehicles and from aggressive attacks from other dogs; they are also more difficult to train and may have problems resulting from this (Strain 1996). Many breeders have deaf puppies euthanased (Strain 1996).
+
+3. Duration of welfare impact
+
+The deafness is life-long and there is no treatment (Strain 1996).
+
+4. Number of animals affected
+
+Between 18% and 30% of Dalmatians are deaf with 3% - 8% being deaf in both ears (Strain et al 1992; Holliday et al 1992; Wood & Lakhani 1997;Muhle et al 2002). The proportion of affected animals is lower in countries in which the breed standard excludes Dalmatians with blue eyes (Strain 1996).
+
+5. Diagnosis
+
+Deafness is not always noticed by the casual observer. Mild behavioural changes may be observed in affected puppies but some normal puppies show poor responses to auditory stimuli and normal responses will usually be seen in dogs deaf in one ear, so casual auditory tests may be of limited use in detecting affected puppies (Strain 1996).
+
+The standard test for some years has been the Brainstem Auditory Evoked Response (BAER (Gonçalves et al 2008)). Puppies are often tested at around 5 weeks old but individuals may be tested at any age after this (Strain 1996). Sedation is usually not necessary. A noise is delivered to each ear in turn and the brain response to this noise is detected via electrical sensors attached to the skin over the head.
+
+6. Genetics
+
+In the Dalmatian, deafness is associated with the extreme piebald gene (Strain 1996), which causes the whiteness of most of their coat and their blue eyes (in those that have blue eyes). Dalmatians are homozygous recessive for the extreme piebald gene and deafness seems to occur as a linked polygenetic disorder, in which inheritance of the gene makes it very likely that genes that cause the deafness are inherited also (Webb & Cullen 2010). In some Dalmatians the extreme piebald gene has incomplete penetration. Such dogs have a patch, an area of dark fur larger than the usual spots, and are less likely to be deaf (Strain et al 1992). Unfortunately, having such a patch is considered as a fault in the breed standard. Deafness is more likely when the animal has blue eyes as the extreme piebald gene has maximal penetration in these individuals. The piebald gene has been located (Karlsson et al 1997), and efforts have been made to determine the mechanisms through which it causes deafness but, so far, these have not proved successful (Brenig et al 2003; Rak et al 2003).
+
+7. How do you know if an animal is a carrier or likely to become affected?
+
+The only way to ensure a dog has normal hearing is by testing. This cannot be reliably done just by examining the puppies. The standard method of testing hearing is BAER. Unfortunately, availability of this test is limited and many dogs will have to be transported a significant distance for BAER testing.
+
+Normal parents can produce deaf puppies. There is no test to detect such carriers (dogs which carry the abnormal gene whilst having normal hearing themselves).
+
+8. Methods and prospects for elimination of the problem
+
+To reduce the problem, it has been recommended that only dogs that have been BAER tested and proved to be able to hear in both ears should be used for breeding (Wood & Lakhani 1997; Wood et al 2004). This approach is recommended by the British Dalmatian Club (http://www.britishdalmatianclub.org.uk/health/index.php?action=hearing).
+
+Wood & Lakhani (1997) showed however that this approach can only have a limited effect; at best achieving an expected reduction of the proportion of dogs with unilateral deafness to below 15% and total deafness to below 4%. Further reduction in prevalence may only be achieved when the genetic influences are understood in more detail and when a genetic test becomes available. Avoiding breeding from dogs that have produced deaf puppies and from blue-eyed dogs may also be recommended, as avoiding breeding from Dalmatians with blue eyes has been shown to reduce the prevalence of deafness in the population (Greibrokk 1994).
+
+For further details about this condition, please click on the following:
+
+(these link to items down this page)
+
+1. Clinical and pathological effects
+
+In dogs with normal hearing, the process by which they hear starts when sound waves, funnelled down the external ear canal by the pinnae (ear flaps), cause the outer eardrum to move. This movement is transmitted along the chain of small bones in the middle ear (the ossicles) to the connection with the inner ear (the oval window), which in turn vibrates. This movement then generates waves in the fluid that fills the inner ear. The organ of Corti, found in the inner ear, is where these waves are translated into nerve activity; which happens when the waves cause the rows of hairs, embedded in a membrane in the organ of Corti, to move. This movement generates nerve impulses in the cochlear nerve, which are transmitted via the cochlear sinus, through the internal acoustic meatus, and into the brain (Knowles 2000).
+
+The genetic deafness seen in Dalmatians is caused by loss of blood supply to the cochlea and degeneration of the hair cells of the organ of Corti. It is the commonest cause of deafness in dogs (Bianchi et al 2008). Dalmatians are usually born with normal hearing but, in affected dogs, the degenerative process develops in the first few weeks of life (Mair 1972; Johnsson et al 1973). The disease process seems to be linked to an abnormality of the function of melanocytes – the cells that produce and contain the black skin pigment - (Steel & Barkway 1989). It appears that melanocytes also have a role in the organ of Corti, and, if absent, the organ of Corti degenerates and hearing is lost; the reasons for this are poorly understood. Similarly, why some dogs experience hearing loss in only one ear and some in both is also not fully understood. Following the degeneration of the organ of Corti, the cochlear nerve also degenerates and lack of auditory stimulation results in failure of development of the auditory centres in the brain (Strain 1996).
+
+Dogs deaf in both ears are unable to hear noises at all. This complete loss of hearing may be difficult for an owner to detect as affected dogs respond normally to visual clues and dogs are adept at reading body language. They may sleep more soundly than would otherwise be expected and will not be concerned by loud or unusual noises (such as from vacuum cleaners or machinery) that may agitate other animals. Because of this, the dogs are more vulnerable to sudden and unexpected changes in their environment, and may suffer trauma, for example, from collisions with motor vehicles. Being unable to detect auditory communications, they may behave abnormally when interacting with other dogs and may experienced raised levels of aggression directed towards them as a result.
+
+Those dogs that only experience hearing loss in one ear are likely to be able to live a normal life.
+
+It has been found that females are more likely to be affected than males (Wood & Lakhani 1998, Famula et al 2001).
+
+Return to top
+
+2. Intensity of welfare impact
+
+Total deafness causes welfare problems that vary from the trivial to the extreme (Strain 1996). Deaf dogs are at a higher risk of trauma particularly from vehicles and from aggressive attacks from other dogs; they are also more difficult to train and there may be welfare consequences associated with this, for example, because of being confined or not being allowed to exercise off the leash. Many breeders have deaf puppies euthanased (Strain 1996).
+
+Unilaterally deaf dogs have few problems, but they may not respond to noise when they lie with their normal ear against the ground (Strain 1996).
+
+Return to top
+
+3. Duration of welfare impact
+
+The deafness is life-long and there is no treatment for this form of deafness (Strain 1996).
+
+Return to top
+
+4. Number of animals affected
+
+Strain et al (1992) and Holliday et al (1992) found around 30% of Dalmatians in the USA showed hearing loss. Of these, around 8% were bilaterally deaf and 22% deaf in one ear only. Famula et al (2001) showed that the prevalence of deafness in Dalmatians in the USA did not decline between 1984 and 1998. Wood & Lakhani (1997) reviewed data from several studies in the UK and concluded that 18% of Dalmatians were affected: 13% being deaf in one ear and 5% in both. Muhle et al (2002), in Germany, found that 16.5% were affected: 9.4% unilaterally and 7.1% bilaterally.The proportion of animals affected is lower in countries in which the breed standard excludes Dalmatians with blue eyes (Strain 1996).
+
+Return to top
+
+5. Diagnosis
+
+Deafness is not always noticed by the casual observer. Affected puppies may be rougher while playing as they do not hear the noises made by their playmates, that would otherwise would normally moderate their actions. The reflex of pricking up the ears in response to a noise (Preyer’s reflex) is absent in deaf dogs and they do not turn their heads in the direction of the noise (Strain 1996). These responses can be difficult to detect in normal puppies and such auditory tests of hearing loss are of limited use (Strain 1996).
+
+The standard test for hearing loss for some years has been the Brainstem Auditory Evoked Response (BAER (Gonçalves et al 2008)), although other methods are being investigated (McBrearty & Pendieris 2010). Puppies are often tested at around 5 weeks old but individuals may be tested at any age after this (Strain 1996). Sedation is usually not necessary. A noise is delivered to each ear in turn and the brain response to this noise is detected via electrical sensors attached to the skin over the head.
+
+Return to top
+
+6. Genetics
+
+Hereditary deafness in dogs is strongly associated with pigment patterns of the skin and fur (and sometimes of the iris) (Strain 1996). Deafness in certain dog breeds is associated with the merle gene that causes a dappled coat with areas of darker and lighter colour. In other breeds, including the Dalmatian, the association is with the piebald or extreme piebald gene (Strain 1996). Dalmatians are homozygous recessive for the extreme piebald gene and deafness seems to occur as a linked polygenetic disorder , in which inheritance of the gene makes it very likely that genes that cause the deafness are inherited also (Webb & Cullen 2010). Affected Dalmatians can produce offspring that can hear in both ears (although they often produce deaf puppies), so it is not a simple recessive condition (Strain 1996). Muhle et al (2002) suggested it may be a recessive condition with incomplete penetration.
+
+Dogs with one unilaterally deaf parent and one parent with normal hearing are twice as likely to be deaf as dogs with two parents with normal hearing (Strain 1992). Famula et al (2001) found that deafness in offspring was just as likely when the father was deaf as when the mother was deaf.
+
+The heritability of Dalmatian deafness (the proportion of variation due to gene effects) was estimated to be 0.21 by Famula et al (1996) and at 0.27 by Juraschko et al (2003) but much higher levels of around 0.75 have been reported by Famula et al (2001) and Cargill et al (2004).
+
+In some Dalmatians the extreme piebald gene has incomplete penetration. Such dogs have a ‘patch’, an area of dark fur larger than the usual spots and are less likely to be deaf (Strain et al 1992). Unfortunately, having a patch is considered to be a fault in the breed standard. Deafness is more likely when the animal has blue eyes as the extreme piebald gene has maximal penetration in these individuals. It seems that females are more likely to have blue eyes (Famula et al 2001).
+
+The piebald gene has been located (Karlsson et al 1997); and efforts have been made to determine the association of this gene with the genes responsible for deafness in Dalmatians but, so far, this remains unclear (Brenig et al 2003; Rak et al 2003). However, some potential markers have been found (Rak 2003).
+
+Return to top
+
+7. How do you know if an animal is a carrier or likely to become affected?
+
+Although the chances of having a puppy unaffected by hearing loss are increased if the offspring of unaffected dogs are chosen (Strain 1996), the only way to ensure you obtain a dog with normal hearing is by the puppy having been tested prior to purchase. An alternative is to test the puppy after purchase providing there is a written guarantee that it can be returned to the breeder if the test is failed. The standard method of testing is BAER. Hearing cannot be reliably tested just by examining the puppies as many affected dogs will be missed - particularly those deaf in one ear. Some normal puppies can also appear deaf when they are excited and distracted. Unfortunately availability of this test is limited and many dogs will have to be transported a significant distance for BAER testing.
+
+Normal parents can produce deaf puppies. There is no test to detect such carriers (dogs which carry the abnormal gene whilst having normal hearing themselves).
+
+Return to top
+
+8. Methods and prospects for elimination of the problem
+
+To reduce the problem, it has been recommended that only dogs that have been BAER tested and proved to be able to hear in both ears should be used for breeding (Wood & Lakhani 1997; Wood et al 2004). This approach is recommended by the British Dalmatian Club (http://www.britishdalmatianclub.org.uk/health/index.php?action=hearing).
+
+Wood & Lakhani (1997) showed however that this approach can only have a limited effect; at best achieving an expected reduction of the proportion of dogs with unilateral deafness to below 15% and total deafness to below 4%. Further reduction in prevalence may only be achieved when the genetic influences are understood in more detail and when a genetic test becomes available. Avoiding breeding from dogs that have produced deaf puppies and from blue-eyed dogs may also be recommended, as avoiding breeding from Dalmatians with blue eyes has been shown to reduce the prevalence of deafness in the population (Greibrokk 1994).
+
+Return to top
+
+9. Acknowledgements
+
+UFAW is grateful to Rosie Godfrey BVetMed MRCVS and David Godfrey BVetMed FRCVS for their work in compiling this section.
+
+Return to top
+
+10. References
+
+Bianchi E, Callegari D, Ravera M and Dondi M (2008) Deafness in small animals: a retrospective study of 122 cases. Proceedings of World Small Animal Small Animal Veterinary Conference 24th August 2008. WSAVA: Ontario Canada
+
+Brenig B, Pfeiffer I, Jaggy A, Kathmann I, Balzari M, Gaillard C and Dolf G (2003) Analysis of the 5′ region of the canine PAX3 gene and exclusion as a candidate for Dalmatian deafness. Animal Genetics 34: 47–50
+
+Cargill EJ, Famula TR, Strain GM and Murphy KE (2004) Heritability and segregation analysis of deafness in U.S. Dalmatians. Genetics 166: 1385–1393
+
+Famula TR, Oberbauer AM and Sousa CA (1996) A threshold model analysis of deafness in Dalmatians. Mammalian Genome7: 650-3
+
+Famula TR, Oberbauer AM and Williams DC (2001) Gender effects in hearing loss in Dalmatians. Preventive Veterinary Medicine 48: 15-24
+
+Greibrokk T (1994) Hereditary deafness in the Dalmatian: relationship to eye and coat color. Journal of the American Animal Hospital Association 30: 170
+
+Gonçalves R, Freeman J and Penderis J (2008) The Use of Contralateral Masking Noise in the Detection of Unilateral Deafness in Dalmatian Puppies. Journal of Veterinary Internal Medicine 22: 234–237
+
+Holliday TA, Nelson HJ, Williams DC and Willits N (1992) Unilateral and bilateral Brainstem Auditory-Evoked Response abnormalities in 900 Dalmatian dogs. Journal of Veterinary Internal Medicine 6: 166–174
+
+Johnsson LG, Hawkins JE Jr, Muraski AA and Preston RE (1973) Vascular anatomy and pathology of the cochlea in Dalmatian dogs. In: de Lorenzo (ed) Vascular Disorders and Hearing Defects pp 249. University Park Press: Baltimore USA
+
+Juraschko K, Meyer-Lindenberg A, Nolte I and Distl O (2003) Analysis of systematic effects on congenital sensorineural deafness in German Dalmatian dogs. The Veterinary Journal 166: 164-169
+
+Karlsson EK, Baranowska I, Wade CM, Salmon Hillbertz NHC, Zody MC, Anderson N, Biagi TM, Patterson N, Rosengren Pielberg G, Kulbokas EJ III, Comstock KE, Keller ET, Mesirov JP, von Euler H, K|aumlmpe K, Hedhammar A, Lander ES, Andersson G, Andersson L and Lindblad-Toh K (2007) Efficient mapping of mendelian traits in dogs through genome-wide association. Nature Genetics 39: 1321–1328
+
+Knowles K (2000) Current Veterinary Therapy update: deafness in dogs and cats. In: Bonagura JB (ed) Current Veterinary Therapy XIII pp971. WB Saunders: Philadelphia USA
+
+Mair IWS (1972) Hereditary deafness in the Dalmatian dog. European Archives of Oto-Rhino-Laryngology 203: 1-15
+
+Marshall AE (1990) [Invited commentary on Knowles K 1990 Reduction of spiral Ganglion neurons in the aging canine with hearing loss. Proceedings of the American College of Veterinary Internal Medicine 8: 105-8]. Advances in Small Animal Mair I. WS (1972) Hereditary deafness in the Dalmatian dog. European Archives of Oto-Rhino-Laryngology 203:1-15
+
+McBrearty A and Pendieris J (2010) Transient Evoked Otoacoustic Emissions Testing as an Alternative to Baer Testing for the Screening of Complete Sensorineural Deafness in At-Risk Puppies and Adult Dogs. Proceedings of British Small Animal Veterinary Congress. April 2010, Birmingham, UK. BSAVA: Gloucester, UK
+
+Muhle AC, Jaggy A, Stricker C, Steffen F, Dolf G, Busato A, Kornberg M, Mariscoli M, Srenk P and Gaillard C Further contributions to the genetic aspect of congenital sensorineural deafness in Dalmatians. The Veterinary Journal 163: 311-318
+
+Poncelet L,Coppens A and Deltenre P (1999) Puppy dogs deafness in Belgium: a two years retrospective study [mainly in Dalmatian dogs] Annales de Medecine Veterinaire 143(1): 41-45
+
+Rak SG (2003) Molecular genetic analysis of congenital deafness in Dalmatian dogs. Doctoral thesis, Hanover University. Available at, http://deposit.ddb.de/cgi-bin/dokserv?idn=981462391&dok_var=d1&dok_ext=pdf&filename=981462391.pdf
+
+Rak SG, Drögemüller C, Leeb T, Quignon P, André C, Scott A, Breen M and Distl O (2003) Chromosomal assignment of 20 candidate genes for canine congenital sensorineural deafness by FISH and RH mapping. Cytogenetic and Genome Research 101: 130-135
+
+Steel KP and Barkway C (1989) Another role for melanocytes: their importance for normal stria vascularis development in the mammalian inner ear. Development 107: 453-63
+
+Strain GM (1992) Deafness in dogs and cats. Proceedings of the l0th American College of Veterinary Internal Medicine Forum 10: 275--8
+
+Strain GM (1996) Aetiology, prevalence and diagnosis of deafness in dogs and cats. British Veterinary Journal 152: 17-36
+
+Strain GM, Kearney MT, Gignac IJ, Levesque DC, Nelson HJ, Tedford BL and Remsen LG (1992) Brainstem Auditory-Evoked Potential Assessment of Congenital Deafness in Dalmatians: Associations With Phenotypic Markers. Journal of Veterinary Internal Medicine 6: 175–182
+
+Webb AA and Cullen CL (2010) Coat color and coat color pattern-related neurologic and neuro-ophthalmic diseases. Canadian Veterinary Journal 51: 653–657
+
+Wood JLN and Lakhani KH (1997) Prevalence and prevention of deafness in the Dalmatian—Assessing the effect of parental hearing status and gender using ordinary logistic and generalized random litter effect models. The Veterinary Journal 154: 121-133
+
+Wood JLN and Lakhani KH (1998) Deafness in Dalmatians: Does sex matter? Preventive Veterinary Medicine 36: 39-50
+
+Wood JLN, Lakhani KH and Henley WE (2004) An epidemiological approach to prevention and control of three common heritable diseases in canine pedigree breeds in the United Kingdom. Veterinary Journal 168: 14-27
+
+© UFAW 2011
+
+Credit for main photo above:
+
+By Mark Berbezier (Daisy the Dalmatian) [CC-BY-2.0 (http://creativecommons.org/licenses/by/2.0) or CC-BY-SA-2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons

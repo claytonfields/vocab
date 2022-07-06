@@ -1,0 +1,9 @@
+We believe that gaming presents one of Bitcoin’s most exciting growth opportunities, as fast, inexpensive and secure bitcoin payments have the potential to open the global gaming community to players who lack access to a bank account or credit card.
+
+For this reason Xapo is today happy to announce our new partnership with CEVO, a leading global esports company, and Leet, a bitcoin-based gaming service, to provide a seamless, bitcoin-enabled competitive gaming experience to players on the CEVO platform.
+
+Over the last several months Xapo has invested substantial resources in trying to better understand how Bitcoin can be used to improve a game’s engagement, retention and monetization. As part of that effort, we have been developing new APIs that allow game developers to easily build in-game functionality for managing bitcoin deposits, withdrawals and transactions. You can read more about Bitquest, our original Minecraft experiment, by clicking here.
+
+Leveraging this technology CEVO users will now be able to earn and challenge their friends for bitcoins across some of the world’s most popular games, including Counter Strike, League of Legends and Team Fortress 2. Using Xapo, players can instantly compete for free without having to wait for blockchain confirmation.
+
+To learn more about Xapo’s partnership with CEVO and Leet please click here for more information. See you in de_dust2!

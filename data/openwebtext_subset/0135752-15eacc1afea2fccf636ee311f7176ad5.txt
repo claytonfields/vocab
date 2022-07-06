@@ -1,0 +1,729 @@
+Company Name Min Monthly Fee One-Time Fix Live Chat Phone Response Time Location
+
+AndiSites $79 $100 12h 39min North Carolina, USA Site: andisites.com/wordpress-support-maintenance
+
+Contact: andisites.com/contact
+
+Phone: (919) 704-4683
+
+Discounts:
+
+Note: 3rd round of emails sent as Marko.
+
+Interview: Declined Advertised Services:
+
+Updates, backups, security, performance, etc. Response Email:
+
+Hi Marko, Thanks so much for contacting us about your website project. We'd love to help! We can absolutely help you diagnose and speed up your website, either on a one-time hourly basis ($100/hour) or as part of an ongoing support and maintenance plan ($79/month). If you could share the URL of your website, then we should be able to give you some quick thoughts on what we see and how we can help.
+
+Thanks again for getting in touch, and I look forward to hearing back from you!
+
+Andi ??
+
+Barrel Roll $49 $100 3h 52min Virginia, USA Site: gobarrelroll.com
+
+Contact: gobarrelroll.com/contact-us
+
+Phone: 757-828-6137
+
+Discounts: Discount for multiple sites
+
+Note: 3rd round of emails sent as Marko.
+
+Interview: Declined Advertised Services:
+
+Backups, updates, security monitoring & cleanup, etc. Response Email:
+
+Thanks for reaching out, Mark! Yes, we can help speed up your site. How much depends on what's going on, but there is always something we can do. If you don't mind sharing your URL, I can run some quick tests to give you an idea of what we can do for you. In the mean time, here's an article talking about our optimization process and some recent successes we've had. Regards,
+
+Scott - Barrel Roll
+
+BitofWP $19 $49 Not tested Canada Site: bitofwp.com
+
+Contact: bitofwp.com/contact-us
+
+Phone:
+
+Discounts: Discount for multiple sites
+
+Note:Since we've done 3 rounds of testing, we are not testing new companies for response time.
+
+Interview: Haven't done yet Advertised Services:
+
+Maintenance and support, malware removal, migration, content updates, etc. Response Email:Not tested.
+
+ClickWP $35 1h 10min Malaysia Site: clickwp.com
+
+Contact: clickwp.com/contact
+
+Phone:
+
+Discounts:
+
+Note: 3rd round of emails sent as Marko.
+
+Interview: Declined Advertised Services:
+
+Website setup, customization, speed up, tweaks and improvements, etc. Response Email:
+
+Hello Marko Thank you for getting in touch. We help many of our customers with their load time and site speed, so I am sure we can improve your website. Are you referring to webtvornica.com? With our website care plan, we will help diagnose and fix issues that affect your site speed. However, there may be some issues caused by your website hosting. For an additional $5/mo we will also provide high quality hosting to ensure the best performance of your website. ClickWP is headquartered in Kuala Lumpur, Malaysia with team members in Scotland and USA. Please let me know if you have further questions. Thanks --
+
+David Wang
+
+Head Caretaker
+
+hello@clickwp.com
+
+Coversine $49 $30 Not tested USA Site: www.coversine.net
+
+Contact: info@coversine.net
+
+Phone: 941-845-6441
+
+Discounts:
+
+Note: Since we have done 3 rounds of testing, we are not testing new companies for reponse time.
+
+Interview: haven't done Advertised Services:
+
+Backups, security,web development, etc. Response Email:
+
+Not tested.
+
+FixMyWP $50 2h 14min Greece Site: fixmywp.com
+
+Contact: fixmywp.com/wordpress-support-request
+
+Phone:
+
+Discounts:
+
+Note: we have a relationship with them, so they might have "figured out" our test email
+
+Interview: Read the interview Advertised Services:
+
+Updates, spam cleaning, database optimization, fixing hacked sites, etc. Response Email:
+
+Hello Ivan. We run a PageSpeed test through webpagetest.org, you can see the results below: First Try: http://www.webpagetest.org/result/170825_BZ_a9a95e3b8cc47a1a4c5c73c99a197a1d/ Second Try: http://www.webpagetest.org/result/170825_3P_7315181de953ce100fe832fd17eaf13c/ Those PageSpeed tests show that your site is faster than most of the sites out there but you can still optimize its total loading time, specifically for the ranks marked as "F". Both of our Maintenance Plans offer PageSpeed Optimization, Support and Updates while the Ninja one has some extra services related to security like Malware Scanning and Cleaning. Feel free to take a look at our Maintenance Plan page, if you haven't done this already, and send me any additional questions or comments you may have: https://fixmywp.com/wordpress-maintenance-services ps: I come from Greece but we have people working from us from Serbia and the US as well so you can get a reply from our support department all day(and night) long. -- Makis.
+
+FixRunner $59 $49 Not tested Delaware, USA Site: fixrunner.com
+
+Contact: www.fixrunner.com/contact/
+
+Phone:+1 (888) 446 5559
+
+Discounts:
+
+Note: Since we've done 3 rounds of testing, we are not testing new companies for response time.
+
+Interview: Read the interview Advertised Services:
+
+Personal Support, Secure Updates, Speed Optimization, Cloud Backups, Uptime Monitoring, etc. Response Email: Not tested.
+
+Go WP $29 $49 4h 53min Georgia, USA Site: www.gowp.com
+
+Contact: support@gowp.com
+
+Phone: (770) 691-6272
+
+Discounts:
+
+Note:
+
+Interview: Declined Advertised Services:
+
+Support Dashboard, WP Core & Plugin Updates, Daily Off-Site Backups, Front-End Security Scans, etc. Response Email:
+
+Hi Ivan, Typically, our ability to help with speed optimization is limited to a few things: installing/configuring a caching plugin like WP Super Cache (if your host allows caching plugins; some hosts block these in favour of their own server-side caching systems), installing and configuring a minification/concatenation plugin like Autoptimize, and installing/configuring an image optimization/compression plugin like TinyPNG (free for up to 500 optimizations per month). For any deeper optimization efforts, you'll need to work with your host and/or a service specifically offering site optimization. We can certainly provide basic troubleshooting for other issues as needed, and can generally address those as part of a subscription - although there will sometimes be issues that need to be addressed by the specific plugin/theme vendor. Our team is distributed, but we're headquartered near Atlanta, GA. Our support hours are currently 7am to 5pm US Eastern, Monday to Friday. Our goal for turnaround time on support/task requests is 8 business hours; actual turnaround time will vary depending on a number of factors, but is typically closer to 3-4 business hours. Please let us know if you have any other questions! Thanks, -- Lucas Karpiuk Happiness Engineer, GoWP Support 770-691-6272
+
+IvyCat $35 4h 40min Washington, USA Site: ivycat.com/wordpress/wordpress-support-maintenance/
+
+Contact: ivycat.com/contact
+
+Phone:800-861-4004
+
+Discounts:
+
+Note: 3rd round of emails sent as Marko.
+
+Interview: Declined Advertised Services:
+
+Upgrades, security, backups & troubleshooting, etc. Response Email:
+
+Hi Marko, Thanks so much for contacting us. We're a small company based in Gig Harbor, WA. We do offer speed optimization services which are separate from our maintenance plan. However, if you are on our maintenance plan, you do receive 5% off any work, including optimization. Could you send us a link to your website so we can take a look and get back to you with some suggestions on how we can speed it up? Thanks,
+
+Jenny
+
+MaintainPress $35 53d 4h 44min California, USA Site: maintain.press
+
+Contact: maintain.press/contact
+
+Phone:
+
+Discounts: Free for 14 days
+
+Note: 2nd round of emails sent as Marko. Email sent on national holiday in the USA which may have affected the response time.
+
+Interview: Declined Advertised Services:
+
+Initial Analysis & Tune-Up, Daily Malware & Vulnerability Scans, 24/7 Uptime Monitoring, etc. Response Email:
+
+Hello Marko, Thanks for reaching out about your firm's site. By any chance, did you sign up recently? We had a law firm site signup recently but we have been unable to get in contact with anyone. I won't share any more details in case they are unrelated, but please let me know if that is your site. To answer your question about load-times and overall speed, we definitely can help. Of course we'd need to evaluate the site before knowing exactly what kind of improvements to make, but if you can let me know the domain I can do a quick scan and start to see what issues we can work on for you. Our team is split between California & Florida. Where are you located? Thanks for reaching out. Please don't hesitate to let me know if you have any questions or I can help in any way. Best, Jeffery Patch
+
+Maintainn $49 6h 49min USA Site: maintainn.com/
+
+Contact: info@maintainn.com
+
+Phone:
+
+Discounts: yearly - 16%
+
+Note:
+
+Interview: Read the interview Advertised Services:
+
+Nightly backups, weekly updates, 24/7 security monitoring, development services, etc. Response Email:
+
+Hello Ivan,My name is Jim Byrom and I am the Director of Client Services here at Maintainn. In addition to providing 24/7 security monitoring, nightly backups and weekly updates (core/theme/plugins) for your WordPress site through one of our service plans, we also offer development services through our Bulk Hours program. Bulk Hours are development hours that can be used for site enhancements and/or bug-fix requests. Bulk Hours never expire, so any remaining hours from a previous purchase will be stored in your account for future use. We currently have a promotion right now for when you purchase a block of 10 Bulk Hours ($1,500) you will receive 2 bonus hours at no additional cost (a savings of $300), but you can purchase Bulk Hours in smaller blocks as well. Once you have signed up with one of our service plans, we can take a look at your site/code and provide some recommendations on the development hours required to increase your site performance/speed.Also, we are a fully-distributed company with personnel located throughout the continental U.S. and our standard support hours are 9am - 8pm ET.Please let me know if you have any other questions.Thank you,------- Jim Byrom Director of Client Services Maintainn Support
+
+Newt Labs $66 $198 16min UK Site: newtlabs.co.uk
+
+Contact: hello@newtlabs.co.uk
+
+Phone: 01954 789349
+
+Discounts: yearly - 17%
+
+Note: we have a relationship with them, so they might have "figured out" our test email
+
+Interview: Read the interview Advertised Services:
+
+Updates, backup, monitoring, firewall, etc. Response Email:
+
+Hi Ivan, good to speak with you again. yes I would be happy to help speed up your site, take a look at your initial issues and then support and maintain the site going forward. In addition to a speed up I would recommend checking out our managed hosting available to our site care customers. This will have the most impact on your website speed - https://newtlabs.co.uk/wp-hosting/ We are from Cambridge in the UK and we mainly work with people in the UK however we are happy to make an exception for people in other European countries where the time difference is not that much. Where is it you're from/based? Kind Regards Steven Watts
+
+Novage $41 $100 Not tested Singapore Site: novage.com.sg/services/web-maintenance/
+
+Contact: novage.com.sg/contact/
+
+Phone: 67 444 064
+
+Discounts:
+
+Note: Since we have done 3 rounds of testing, we are not testing new companies for reponse time.
+
+Interview: haven't done Advertised Services:
+
+Updates, security monitoring, article creation, etc. Response Email:
+
+Not tested.
+
+OptimWise $79 1d 0h 49min South Carolina, USA Site: optimwise.com/
+
+Contact: https://optimwise.com/contact/
+
+Phone:
+
+Discounts: Yearly - 10%
+
+Note: 2nd round of emails sent as Marko. Email sent on national holiday in the USA which may have affected the response time.
+
+Interview: Read the interview Advertised Services:
+
+Updates, backups, security & uptime monitoring, etc. Response Email:
+
+Marko, thank you for contacting OptimWise! Our Gold Plan includes Speed Optimization, to make your site faster. After you sign up for your plan, we'll see what's slowing the site down. We can then plan the steps to improve its speed. We're based in the state of South Carolina in the United States (US). Our team is located in several states in the US. You can learn more about our team on our About page. We look forward to taking care of your website! Chad Warner | Founder | OptimWise | Take care of your business. We'll take care of your website.
+
+purpleplanet $49 36min Germany Site: purpleplanet.com/wordpress-maintenance/
+
+Contact: info@purpleplanet.com
+
+Phone: 0049 (0)625 446 333 99
+
+Discounts: yearly - 20%
+
+Note:
+
+Interview: Declined Advertised Services:
+
+24/7 Uptime Monitoring, Daily Cloud Backups, WordPress Updates, etc. Response Email:
+
+Hi Ivan, I'm sure we can help with your site issues. Which plan would be best suited to your requirements? I'm English, but based in Germany, so working on Central European Time, although I tend to be available long hours. Let me know how you wish to proceed. Many thanks, Matt Atherton | Principal Consultant
+
+SkyrocketWP $79 Not tested Tyler, USA Site: https://skyrocketwp.com
+
+Contact: info@skyrocketwp.com
+
+Phone:
+
+Discounts:
+
+Note: Since we've done 3 rounds of testing, we are not testing new companies for response time.
+
+Interview: haven't done yet Advertised Services:
+
+Daily Database & Core Backups, Page Speed Optimization, Performance Monitoring, 24/7 Uptime Monitoring, Ongoing Hack Prevention, etc. Response Email:Not tested.
+
+SteadyWP $55 $50 Not tested Sweden Site: steadywp.com
+
+Contact: info@steadywp.com
+
+Phone:
+
+Discounts: yearly - 17%
+
+Note: Since we have done 3 rounds of testing, we are not testing new companies for reponse time.
+
+Interview: Read the interview Advertised Services:
+
+Backups, updates, visual regression testing, automated functionality tests, etc. Response Email:
+
+Not tested.
+
+The WP Butler $41 didn't respond Oregon, USA Site: www.thewpbutler.com
+
+Contact: www.thewpbutler.com/contact/
+
+Phone:
+
+Discounts:
+
+Note: 2 emails sent, no response
+
+Interview: Declined Advertised Services:
+
+Backups, malware scans, updates, site review, uptime monitoring, small fixes, etc. Response Email:
+
+Didn't respond to our email.
+
+Theme Location $29 $19 10min Pakistan Site: www.themelocation.com
+
+Contact: waqas@themelocation.com
+
+Phone:
+
+Discounts:
+
+Note: Response email ended up in spam (we use Gmail)
+
+Interview: Declined Advertised Services:
+
+Security monitoring, backups, updates, etc. Response Email:
+
+Hi Ivan! Thank you for contacting me. Yes, I can surely speedup your website. We did speed optimization for many websites. No Problem doing that. I am from Pakistan and almost available from 13 to 15 hours a day. Hopefully You wont have issues working with me. Yes, If you subscribe our monthly package, We will make sure everything remains Well with your Website. Just don't Worry at all. thanks
+
+Total WP Support $49 5h 11min Canada Site: totalwpsupport.com
+
+Contact: info@totalwpsupport.com
+
+Phone: 1800 985 9860
+
+Discounts:
+
+Note: 3rd round of emails sent as Marko
+
+Interview: Read the interview Advertised Services:
+
+Backups, updates, 24/7 monitoring, security, maintenance, etc. Response Email:
+
+Hi Marko, nice to meet you and thanks for your interest in total wp support. Can you send me your site so i can have a look and do a quick assessment of your sites current speed issues? We can certainly help you out with your speed problems. The extent to which we can assist from within the costings of the maintenance plan does have its limitations, depending on the plan you choose. Generally, maintenance plans are all about maintaining the site you have. Extensive work to fix speed issues are generally outside the scope of a plan. That said, MOST websites speed issues are fairly easily fixed and come down to one or a combo of a few different factors. - poor quality hosting
+
+- no caching on server side or site side
+
+- no cdn used
+
+- too many plugins
+
+- poorly built website The first four items are most likely the root cause of your issues and assessing and fixing those will most likely provide the boost your site needs to meet your speed requirements. All of those are things we can do for you. We provide extremely high quality hosting that includes very aggressive caching on all levels. Most sites see a dramatic immediate boost after switching to our hosting. Our hosting also makes it very easy and affordable to set up and run a CDN for your images and other assets. We can help assess what plugins are causing the greatest slow downs and help to deactivate and delete plugins that aren't needed. The only part that isn't included in sites that are hosted with us and on a maintenance plan would be actually getting in and fixing the more advanced issues like the technical aspects of the sites development. In these cases we simply work to a set quote that is acceptable with the client. If you have further questions, let me know, happy to set up a phone call if needed to discuss further. All the best Bodhi
+
+TriSummitSolutions $97 $79 2h 51min Texas, USA Site: trisummitsolutions.com
+
+Contact: trisummitsolutions.com/contact/
+
+Phone:
+
+Discounts:
+
+Note:
+
+Interview: Declined Advertised Services:
+
+Backups, security, speed improvements, SEO optimization, training, tweaks, etc. Response Email:
+
+Hi Ivan, Thank you for contacting us! I was hoping I could get a little more information from you. What is your personal travel blog URL so that I can check it out? Besides sites speed, what other issues are you experiencing with your site? Who do you host your site with? Our monthly support plan does help keep your blog running smoothly, but for sites we did not build, we generally require a one time site cleanup and optimization fee, which would include fixing other issues, depending on the severity. We are located in central Texas, USA. Thank you, Morgan
+
+Valius WP $59 $65 37min California, USA Site: valiuswp.com
+
+Contact: info@valiuswp.com
+
+Phone:
+
+Discounts: start for free; yearly - 20%
+
+Note:
+
+Interview: Declined Advertised Services:
+
+Speed optimization, seo optimization, Unlimited Small Jobs, etc. Response Email:
+
+Hi there, Yes, a big part of what we do for new customers is site speed optimization. If you sign up for the Unlimited Plan this is an included service. We're a global team. I'm based in Italy, my business partner is in the States and we have developers all over. Let me know if you have any other questions we can answer. Thanks! -- Steven Steven from Valius WP
+
+WOptimize $29 Not tested Italy Site: woptimize.com
+
+Contact: www.woptimize.io/get-in-touch/
+
+Phone:
+
+Discounts: yearly - 20%
+
+Note: Since we have done 3 rounds of testing, we are not testing new companies for reponse time.
+
+Interview: Read the interview Advertised Services:
+
+Daily updates and backups, uptime monitoring, daily security and performance checks, etc. Response Email:
+
+Not tested.
+
+WP Always $49 $78 1h 54min Michigan, USA Site: wpalways.com
+
+Contact: support@wpalways.com
+
+Phone:(877) 869-4003
+
+Discounts:
+
+Note: Response email ended up in spam (we use Gmail)
+
+Interview: Declined Advertised Services:
+
+Backups, malware detection, uptime monitoring, blacklist removal, etc. Response Email:
+
+Hi Ivan, thanks for reaching out. Yes, we certainly can resolve your load speed issues. At the $59 and $89 levels, we include 1 and 2 hours of maintenance work per month respectively. I have a friend who has been very successful at monetizing the travel vertical, so I'm curious to learn more about your travel blog. Do you have a few minutes today to discuss further? Here's a link to our pricing table for more insight: https://wpalways.com/wordpress-managed-security-maintenance/
+
+WP Cope $65 didn't respond India Site: wpcope.com
+
+Contact: support@wpcope.com
+
+Phone:(00)919812561898
+
+Discounts:
+
+Note: email address listed on the site doesn't exist
+
+Interview: Declined Advertised Services:
+
+WordPress upgrades, migration, fixing themes/plugins, etc. Response Email:
+
+Email address doesn't exist; we never received an answer.
+
+WP Curve $49 didn't respond n/a Site: wpcurve.com
+
+Contact: https://uk.godaddy.com/wordpress/premium-support
+
+Phone:020 7084 1810
+
+Discounts:
+
+Note: they got acquired by GoDaddy in December 2016 and had plenty of time to redirect/reorganize their website - they didn't. Us sending them messages via site may seems douchey but a lot of people will google them, come to the site and try to contact them without knowing the "business details". They didn't respond to the message sent via site form, nor when we sent it to the email listed on the site.
+
+Edit, Aug 26th - contact form was removed from the site, all CTAs now go to GoDaddy. Very confusing is you ask us.
+
+Interview: Declined Advertised Services:
+
+Small jobs, bug fixes, boost conversion, speed optimization, etc. Response Email:
+
+Never received any response
+
+WP Dude $25 14min UK Site: wpdude.com
+
+Contact: https://wpdude.com/wordpress-technical-support
+
+Phone:
+
+Discounts:
+
+Note:
+
+Interview: Declined Advertised Services:
+
+Backups, updates, monitoring, security, reporting, etc. Response Email:
+
+Hi Ivan I'm based in the uk What are your issues over and above the performance problems Thanks Thanks -- Neil Matthews support@wpdude.com WP Dude
+
+WP Fix It $49 $39 didn't respond California, USA Site: wpfixit.com
+
+Contact: wpfixit.com/contact-us/
+
+Phone: 443-WPFIXIT
+
+Discounts:
+
+Note: 2nd round of emails sent as Marko. Email sent on national holiday in the USA which may have affected the response time.
+
+Interview: Declined Advertised Services:
+
+Infection cleanup, speed up, agency support, manage services, etc. Response Email:
+
+didn't respond
+
+WP Fixy $29 10min India Site: www.wpfixy.com
+
+Contact: support@wpfixy.com
+
+Skype: WordPressExpertHelp
+
+Discounts:
+
+Note:
+
+Interview: Declined Advertised Services:
+
+Error fixes, malware removal, migration, optimization, etc. Response Email:
+
+Hi Ivan, Thanks for reaching out to me. I can certainly looked into your blog and speedup the site to an optimum levels possible. Usually,Speed up project is a separate task than our "Peace of mind maintenance plan" where we make site secure, update, fix any update related issues, take offsite server backups, monitoring on a regular basis. Please note that, With all maintenance plans, World class WordPress optimized web-hosting for that WordPress installation comes free of cost. We can add the speed project for free, only if you're ready for a commitment of 6 month plan of maintenance plan. Standalone speed up project charge is $75. I am from India and have all clients from western countries only and hence have aligned my timings as per that timezone. If there are any questions left, please do not hesitate to contact me again. Thanks & Regards, Vikash Kumar
+
+WP Hero $179 1h 3min Ireland Site: wphero.io
+
+Contact: support@wphero.io
+
+Phone:
+
+Discount: yearly - 20%
+
+Note:
+
+Interview: Read the interview Advertised Services:
+
+Small fixes, updates, backups, social media integration, etc. Response Email:
+
+Hi Ivan, Thanks for contacting us at WP Hero with your question. We would be more than happy to take a look at your website and see if we can find the issues that may be affecting the speed. We do offer a Free First Fix for all our customers, however, it is limited to 30 minutes and generally, most site surveys and optimization requests take longer than this. Therefore I would suggest signing up to one of our plans http://wphero.io/plans/. We offer a no quibble refund guarantee, so if you're not happy then we'll happily issue you with a refund. Site speed optimization is one of the many services we offer, we also specialize in fixing and improving other areas of your website. We simply tell our customers to think of us as their remote tech support team! As for our location, although we are headquartered in Ireland, we also run a development office in India. So we aim to cover most time zones. We can offer the option of completing work on your site during your specified "down times" i.e. when your site is least busy. We find this is useful for our customers, especially e-commerce operations. I hope this information is useful. If you have any other questions please don't hesitate to ask. Many Thanks Nigel
+
+WP Maintainer $99 4h 38min n/a Site: wpmaintainer.com
+
+Contact: wpmaintainer.com/contact/
+
+Phone:
+
+Discounts:
+
+Note:
+
+Interview: Declined Advertised Services:
+
+Updates, monitoring, malware cleanup, migration, etc. Response Email:
+
+Ivan,Possibly, but sometimes this requires more than maintenance-level work, so it is a hard question to answer. What is the URL to your site and where are you hosted?--Andy StrattonWP Maintainer Support
+
+WP Maintenance with Love $37 28d 0h 6min UK Site: wpmaintenance.love
+
+Contact: wpmaintenance.love/#contact
+
+Phone:0044 (0)7973 575502
+
+Discounts: yearly - 8%
+
+Note:
+
+Interview: Read the interview Advertised Services:
+
+Updates, database optimization, backups, spam$revision cleanup, etc. Response Email:
+
+Hi Ivan, I'm very sorry for the delay in getting back to you. Please let me know if you still need my help. You would need to let me know the website address so I can take a look at what the performance is like currently. But yes, I can help you speed up your website if you sign up for a monthly plan. With regards to any other issues it would really depend on what they are. These may have to be paid for separately depending on what plan you chose. My business is registered in London, but I am based in Barcelona, Spain. Let me know if you still need my help. Kind regards,
+
+Rob
+
+WP Minder $30 3h 1min Colorado, USA Site: www.wpminder.com
+
+Contact: hello@wpminder.com
+
+Phone:
+
+Discounts:
+
+Note: 2nd round of emails sent as Marko. Email sent on national holiday in the USA which may have affected the response time.
+
+Interview: Declined Advertised Services:
+
+Backups, updates, hack cleanup, etc. Response Email:
+
+Hi Marko, The Business Plan does include a performance audit focused on speeding up site loading times (although your host plays a big role in that too). I also offer a standalone performance tuneup: https://www.redkitecreative.com/web-design-and-development-services/wordpress-performance-optimization-speed-up-wordpress-site/ I'm located in Fort Collins, CO. --
+
+Debbie Campbell
+
+http://www.wpminder.com
+
+Minding your site so you can mind your business!
+
+WP Relieve $199 8h 14min New York, USA Site: wprelieve.com
+
+Contact: support@wprelieve.com
+
+Phone: +1(646) 583-2402
+
+Discounts: Free trial available
+
+Note: 2nd round of emails sent as Marko. Email sent on national holiday in the USA which may have affected the response time.
+
+Interview: Declined Advertised Services:
+
+Theme and plugin fix and customization, speed up, SEO optimization, prevent site hacking, etc. Response Email:
+
+Hey Marko ,
+
+Thank you for your inquiry on WP Relieve about speeding up your Law Firm's website.
+
+If you Subscribe to our STARTER package , we will not only speed up your website but also do security scan from time to time to keep it safe from viruses and hacking. We will even add or remove content and install or remove themes and plugins on your request. If you Subscribe to our BASIC package , we will do every thing from STARTER package and will also do customization in current website such as customizing plugin or theme and adding new pages or functionality . Also , our team consist of developers from different countries all around the world but we are officially based in Brooklyn,New York,United States. Thank You Mark Bell
+
+Customer Relationship Manager
+
++1 (646) 583-2402
+
+WP Relieve - We relieve you from Wordpress headaches by fixing any small issue you request and improving your site in a number of ways 24/7 for just $69/Month
+
+WP Site Care $79 5h 5min Utah, USA Site: www.wpsitecare.com
+
+Contact: www.wpsitecare.com/contact/
+
+Phone: (866) 302-1221
+
+Discounts: yearly - 20%
+
+Note:
+
+Interview: Declined Advertised Services:
+
+24/7 Security Monitoring, automated backups, performance optimization, etc. Response Email:
+
+Hi Ivan, Thank you for reaching out to us. Our corporate office is in Springville Utah but we are a remote company and have employees located within North America. A great way to find out what exactly is slowing your site down would be to purchase one of our SiteChecks. We will evaluate your hosting, theme, plugins, media, site speed and security to determine what is slowing everything down and provide you with a report and steps on what we can do to speed it up for you. You can also purchase one of our plans so that we are proactively taking care of your site. We offer the following support and maintenance plans: Our Protect Plan is a preventative maintenance package that covers all of the most important parts of your website, like realtime backups, update management (to make sure you're always running the latest versions of everything), and realtime malware scanning and removal. It's $99 per month, or $79 per month if you choose annual billing. Our Professional Plan offers all of the services that the Protect Plan does, but also includes uptime monitoring (if your site ever goes offline we'll know immediately and will start working to bring it back online), a staging area where all updates are tested, version control with Github, and two hours of development time each month. That plan is $399 per month, or $299 if you choose annual billing. (minimum plan required for eCommerce) You are able to buy development time from us on both plans (for anything that falls outside of what's included in each plan), for an additional $125 per hour. Would you like to get started with a SiteCheck? Which of these plans seems like the best fit for your needs? Please let me know if you have any other questions. I look forward to hearing back from you. Amy Farrell Account Manager
+
+WP SitePlan $29 Not tested Ohio, USA Site: wpsiteplan.com
+
+Contact: support@wpsiteplan.com
+
+Phone: (855) 977-0391
+
+Discounts: yearly - 16%
+
+Note: Since we have done 3 rounds of testing, we are not testing new companies for reponse time.
+
+Interview: Read the interview Advertised Services:
+
+Security, backup, installing updates, database optimization,tracking analytics, uptime monitoring, etc. Response Email:
+
+Not tested
+
+WP Support Services $30 $51 29min UK Site: wpsupportservices.co.uk/
+
+Contact: wpsupportservices.co.uk/contact-us/
+
+Phone: 0330 22 33 428
+
+Discounts:
+
+Note: 2nd round of emails sent as Marko; mail ended up in spam.
+
+Interview: Declined Advertised Services:
+
+Security monitoring, backups, updates, etc. Response Email:
+
+Hello Marko The straight answer is yes we can speed up your site. However we like to do a review of your site for free first and then give you a full report on the condition of your website, our advice on fixing those issues and your options in regards to either a monthly plan or a single fix price. If you would like to proceed with the site review please create an admin user as wpsupport_si46 and the email clientacct@wpsupportservices.co.uk And then email us the site link and password to clientacct@wpsupportservices.co.uk and we will have a full report sent back to you by tomorrow. The company is based in the UK but we have both staff and clients on 4 continents. Regards David Finch WP Engineer
+
+WP Sync $99 $39 2h 30min Florida, USA Site: www.wpsync.com
+
+Contact: www.wpsync.com/contact-us/
+
+Phone:
+
+Discounts:
+
+Note:
+
+Interview: Declined Advertised Services:
+
+Updates, backups, performance and security scans, etc. Response Email:
+
+Ivan, I've reviewed your website/issue/project and in order to complete this, it would be an hourly job. I recommend our monthly WordPress Management packages as they include a preset amount of support hours and additional hourly rates are preferential. They also include a suite of crucial services for the overall health of your website such as daily backups, software/plugin updates, malware scans, performance reports, keyword tracking, uptime monitor and more. If you would prefer a one-time quote, I've added information about hourly retainer billing at the bottom of the message. We have four levels of monthly management available: ESSENTIALS ? 30 Mins Support Time From $79/month https://www.wpsync.com/account/cart.php?a=add&pid=273 PREMIUM ? 2 Hours Support Time From $179/month https://www.wpsync.com/account/cart.php?a=add&pid=260 ULTIMATE ? 4 Hours Support Time From $279/month https://www.wpsync.com/account/cart.php?a=add&pid=261 PARTNER - 10 Hours Support Time From $799/month https://www.wpsync.com/account/cart.php?a=add&pid=262 In all the plans additional time is billed at $75/hour, which is invoiced on Mondays for the previous weeks overage. For example, if you had the 2-hour "Premium" plan and used 2 hours 15 minutes, you would receive an invoice for the extra 15 minutes ($18.75). It's also worth noting that these monthly packages are not locked into a contract, you can downgrade or cancel at the end of the current billing cycle. If you are not interested in a monthly commitment, we also offer hourly retainer billing. These are single hours purchased at full-rate, so do not offer quite as much value as the monthly packages. To purchase a retainer hour for your project please click here: https://www.wpsync.com/account/cart.php?a=add&pid=331 Once your payment is approved, you will be redirected to our support system. There you can securely provide credentials so that we can begin our work. I'll be happy to answer any questions. - Thomas Customer Support
+
+WP Tonic $49 3h 12min Nevada, USA Site: www.wp-tonic.com
+
+Contact: support@wp-tonic.com
+
+Phone: (775) 234-8893
+
+Discounts: yearly - 17%
+
+Note:
+
+Interview: Declined Advertised Services:
+
+Backups, migration, monitoring, etc. Response Email:
+
+Hi Ivan. I love to help you out why don't you book a day and time that works for you using my online calendar scheduler? And to answer you question YES this is what we do every day of the working week, We are based in Carson City, NV, USA. Take care Jonathan Denwood
+
+WP Tweaks $39 $39 4h 26min UK Site: www.wptweaks.co.uk
+
+Contact: www.wptweaks.co.uk/contact-us/
+
+Phone:
+
+Discounts:
+
+Note: 3rd round of emails sent as Marko.
+
+Interview: Declined Advertised Services:
+
+Updates, health check, video tutorials, 24/7 Security Monitoring, etc. Response Email:
+
+Hi Marko, Thanks for getting in touch with us. Yes absolutely if you were to take out the Pro or Business package then you could utilise your "tweaks" that are part of those packages to get us to perform speed improvements. Who is your host currently? We are based in the UK but we have people that can work at all hours. Kind regards Neil
+
+WP VIP Services $49 3h 47min Florida, USA Site: wpvipservices.com
+
+Contact: support@wp-monitor.com
+
+Phone:(954) 933-8457
+
+Discounts:
+
+Note: Formerly WP Monitor hence the old email
+
+Interview: Declined Advertised Services:
+
+Updates, backup, security, etc. Response Email:
+
+Hello Ivan, At this time, we do NOT offer speed improvements as part of our services. On this page ( https://wpvipservices.com/plans-pricing/) you will find the services that we do provide. We are located in Miami, FL, USA. Thanks for contacting us. Hector Torres Founder of WP VIP Services(formerly WP-MONITOR)
+
+WPsitehelpers $39 $99 9h 38min Arizona, USA Site: wpsitehelpers.com/
+
+Contact: team@wpsitehelpers.com
+
+Phone:520-477-2160
+
+Discounts:
+
+Note: 2nd round of emails sent as Marko. Email sent on national holiday in the USA which may have affected the response time.
+
+Interview: Read the interview Advertised Services:
+
+Updates, maintenance, improvements, emergencies, etc. Response Email:
+
+Hi Marko,
+
+Yes our team can assist with speeding up your site. We do that and much more. Our main office is in Arizona. Our techs are all over the world.
+
+- Chris
+
+WordXpress $77 Not tested Salt Lake City, USA Site: wordx.press
+
+Contact: wordx.press/contact/
+
+Phone:
+
+Discounts: Up to 5% Yearly Loyalty Discount
+
+Note: Since we have done 3 rounds of testing, we are not testing new companies for reponse time.
+
+Interview: Read the interview Advertised Services:
+
+Content Edits & Updates, 24/7 Monitoring, Cloud Backups, etc. Response Email:
+
+Not tested.

@@ -1,0 +1,209 @@
+View data
+
+SUMMARY
+
+A total of 116 new confirmed cases of Ebola virus disease (EVD) were reported in the week to 8 March, compared with 132 the previous week. Liberia reported no new confirmed cases for the second consecutive week. New cases in Guinea and Sierra Leone occurred in a geographically contiguous arc around the coastal capital cities of Conakry and Freetown, with a total of 11 districts reporting cases. Although there has been no significant decline in overall case incidence since late January, the recent contraction in the geographical distribution of cases is a positive development, enabling response efforts to be focused on a smaller area.
+
+Guinea reported 58 new confirmed cases in the week to 8 March, compared with 51 cases the previous week. Cases were clustered in an area around and including the capital Conakry (13 cases), with the nearby prefectures of Boffa (2 cases), Coyah (8 cases), Dubreka (5 cases), Forecariah (28 cases), and Kindia (2 cases) the only other prefectures to report cases.
+
+Sierra Leone reported 58 new confirmed cases in the week to 8 March; the first time since June 2014 that weekly incidence has not exceeded that of Guinea. Cases were reported from 5 north and western districts clustered around the capital Freetown, which reported 27 new confirmed cases. The neighbouring districts of Bombali (6 cases), Kambia (7 cases), Port Loko (12 cases) and Western Rural (6 cases) also reported cases.
+
+In the 4 days to 5 March there were 90 reported suspected cases in Liberia, none of whom tested positive for EVD, indicating that vigilance is being maintained. A total of 102 contacts were being followed up.
+
+The number of confirmed EVD deaths occurring in the community has risen for the past 3 weeks in Guinea, suggesting that there are still significant challenges in terms of contact tracing and community engagement. Of a total of 40 EVD-positive deaths reported in the week to 8 March, 24 occurred in the community. By contrast, a far smaller proportion of EVD-positive deaths occurred in the community in Sierra Leone: 11 of 83. A total of 13 unsafe burials were reported from Guinea and 2 from Sierra Leone over the same period.
+
+In the week to 1 March, 7 of 51 (14%) confirmed cases of EVD reported from Guinea arose among known contacts of previous cases, indicating that there are a large number of untraced contacts associated with known chains of transmission, and that unknown chains of transmission persist. In Sierra Leone, by contrast, 52 of 81 (64%) of confirmed EVD cases arose among known contacts over the same period. The average daily number of contacts traced in the week to 8 March was 1433 in Guinea, compared with 7934 in Sierra Leone.
+
+The relatively low proportion of cases arising among known contacts, the relatively high proportion of EVD-positive deaths that occur in the community, and the continued occurrence of unsafe burials in Guinea are all indicative of continued difficulties engaging effectively with affected communities. A total of 7 Guinean prefectures reported at least one security incident in the week to 8 March.
+
+During the week to 1 March, five cross-border meetings took place, including a coordination meeting in Kambia and Forecariah to facilitate communication, share best practices, and align strategies.
+
+In the week to 8 March, 1 new health worker infection was reported in Guinea, bringing the total number of health worker infections reported across the three most-affected countries since the start of the outbreak to 840, with 491 deaths.
+
+COUNTRIES WITH WIDESPREAD AND INTENSE TRANSMISSION
+
+There have been over 24 000 reported confirmed, probable, and suspected cases of EVD in Guinea, Liberia and Sierra Leone (table 1), with almost 10 000 reported deaths (outcomes for many cases are unknown). A total of 58 new confirmed cases were reported in Guinea, 0 in Liberia, and 58 in Sierra Leone in the 7 days to 8 March (4 days to 5 March for Liberia).
+
+The total number of confirmed and probable cases is similar in males and females (table 2). Compared with children (people aged 14 years and under), people aged 15 to 44 are approximately three times more likely to be affected. People aged 45 and over are nearly four times more likely to be affected than children.
+
+A total of 840 confirmed health worker infections have been reported in the 3 intense-transmission countries; there have been 491 reported deaths (table 4).
+
+Table 1: Confirmed, probable, and suspected cases reported by Guinea, Liberia, and Sierra Leone
+
+Country Case definition Cumulative cases Cases in past 21 days Cumulative deaths Guinea Confirmed 2871 144 1778 Probable 392 * 392 Suspected 22 * ‡ Total 3285 144 2170 Liberia** Confirmed 3150 4 ‡ Probable 1879 * ‡ Suspected 4314 * ‡ Total 9343 4 4162 Sierra Leone Confirmed 8428 202 3263 Probable 287 * 208 Suspected 2904 * 158 Total 11 619 202 3629 Total Confirmed 14 449 350 ‡ Probable 2558 * ‡ Suspected 7240 * ‡ Total 24 247 350 9961
+
+View data »
+
+Table 2: Cumulative number of confirmed and probable cases by sex and age group in Guinea, Liberia, and Sierra Leone
+
+Country Cumulative cases By sex*
+
+(per 100 000 population) By age group‡
+
+(per 100 000 population) Male Female 0-14 years 15-44 years 45+ years Guinea 1535
+
+(28) 1647
+
+(30) 496
+
+(11) 1782
+
+(38) 885
+
+(57) Liberia 2897
+
+(146) 2845
+
+(145) 970
+
+(57) 3113
+
+(182) 1181
+
+(221) Sierra Leone 5325
+
+(187) 5664
+
+(195) 2272
+
+(94) 6112
+
+(236) 2397
+
+(324)
+
+View data »
+
+GUINEA
+
+Key performance indicators for the EVD response in Guinea are shown in table 3.
+
+A total of 58 confirmed cases were reported in the 7 days to 8 March (figure 1), compared with 51 cases the week before.
+
+Cases were clustered in an area around and including the capital Conakry (13 cases), with the nearby prefectures of Boffa (2 cases), Coyah (8 cases), Dubreka (5 cases), Forecariah (28 cases), and Kindia (2 cases) the only other prefectures to report cases (figure 1, figure 4). Lola and Macenta in the east of the country and the northern prefecture of Mali have reported confirmed cases in the past 21 days.
+
+Community engagement continues to be a significant challenge in Guinea. In the week to 8 March, 7 prefectures reported at least one security incident, including every one of the prefectures that reported a confirmed case over the same period. The relatively low proportion of confirmed EVD cases that arose among known contacts (7 of 51), the relatively high proportion of EVD-positive deaths that occurred in the community (24 of 40), and the continued occurrence of unsafe burials in Guinea (13) over the most recent reporting period are all attributable in part to continued difficulties with community engagement.
+
+Locations of 8 operational Ebola treatment centres (ETCs) are shown in figure 6. Two ETCs have been assessed and have met minimum standards for infection prevention and control (IPC). At present, 5 of 8 ETCs are occupied by patients with EVD. One new health worker infection was reported from Coyah in the week to 8 March.
+
+The case fatality rate (CFR) among people hospitalized with confirmed EVD for whom a definitive outcome was reported was 63% in January. On average, it took 3.3 days between the onset of EVD symptoms and hospitalization of a confirmed, probable or suspected case during February.
+
+Locations of the 7 operational laboratories in Guinea are shown in figure 7.
+
+Figure 1: Confirmed weekly Ebola virus disease cases reported nationally and by district from Guinea
+
+View data »
+
+LIBERIA
+
+Key performance indicators for the EVD response in Liberia are shown in table 3.
+
+No new confirmed cases were reported in the 4 days to 5 March: the second consecutive week with no new confirmed cases.
+
+Montserrado and Margibi are the only counties to have reported a confirmed case within the past 21 days (figure 5). A total of 102 contacts were being monitored. Surveillance and alert systems detected 90 suspected cases in the 4 days to 5 March, none of whom have tested positive for EVD.
+
+Locations of the 18 operational Ebola treatment centres (ETCs) in Liberia are shown in figure 6. All of the 12 that have been assessed met minimum infection prevention and control standards as of February.
+
+Case fatality rates for people hospitalized with confirmed EVD for whom a definitive outcome was reported were 53%, 52% and 50% for the months of October, November and December, respectively. On average, it took 2.2 days between the onset of EVD symptoms and hospitalization of a confirmed, probable or suspected case during February.
+
+In a recent assessment of infection prevention and control measures in 113 non-Ebola health facilities in Monstserrado county, 45 (40%) were judged to have a functional triage system in place capable of the rapid assessment of patients.
+
+Locations of the 5 operational laboratories in Liberia are shown in figure 7.
+
+Figure 2: Confirmed weekly Ebola virus disease cases reported nationally and by district from Liberia
+
+View data »
+
+SIERRA LEONE
+
+Key performance indicators for the EVD response in Sierra Leone are shown in table 3.
+
+A total of 58 confirmed cases were reported in the week to 8 March, compared with 81 the previous week. This is the first time since June 2014 that weekly incidence in Sierra Leone has not exceeded that of Guinea.
+
+Cases were reported from 5 northern and western districts clustered around the capital Freetown, which reported 27 new confirmed cases. The neighbouring districts of Bombali (6 cases), Kambia (7 cases), Port Loko (12 cases) and Western Rural (6 cases) also reported cases.
+
+With the exception of 4 districts in the south of the country, all districts in Sierra Leone have reported a confirmed case within the past 21 days.
+
+Almost two-thirds (52 of 81) of confirmed EVD cases arose among known contacts in the week to 8 March; the number of confirmed cases identified after post-mortem testing of dead bodies found in the community fell to 11 in the week to 8 March, compared with 14 the previous week. Four districts reported at least one incident of community resistance in the week to 8 March.
+
+Locations of the 20 operational Ebola treatment centres (ETCs) in Sierra Leone are shown in figure 6. The Magbenteh ETC in the district of Bombali closed during the week to 8 March.
+
+Locations of the 13 operational laboratories in Sierra Leone are shown in figure 7.
+
+Figure 3: Confirmed weekly Ebola virus disease cases reported nationally and by district from Sierra Leone
+
+View data »
+
+Figure 4: Geographical distribution of new and total confirmed cases
+
+View interactive map »
+
+Table 3: Key performance indicators for Phase 2 of the Ebola response
+
+For definitions of key performance indicators see Annex 2. Data are given for complete months unless otherwise specified. #Data from Guinea includes new confirmed and probable cases from registered contacts.
+
+For definitions of key performance indicators see Annex 2.
+
+For definitions of key performance indicators see Annex 2. ‡Hospitalization for confirmed, probable and suspected cases is not recorded for 0-2% of cases in Guinea, 4-23% in Liberia and 6-9% in Sierra Leone. ##No final outcome is recorded in 3-14% of confirmed and probable cases in Guinea, 2-41% in Liberia, and 68–76% in Sierra Leone. *Different reporting period. §IPC assessment results are available periodically. This data reflects IPC assessments of ETCs and not Community Care Centres (CCCs) or other Ebola facilities. **Does not include foreign medical teams.
+
+For definitions of key performance indicators see Annex 2. *Different reporting period.
+
+Table 4: Ebola virus disease infections in health workers in the three countries with intense transmission
+
+Country Cases Deaths Guinea 173 90 Liberia 372 180 Sierra Leone* 295 221 Total 840 491
+
+Figure 5: Days since last confirmed case by district in Guinea, Liberia, and Sierra Leone
+
+View interactive map »
+
+COUNTRIES WITH AN INITIAL CASE OR CASES, OR WITH LOCALIZED TRANSMISSION
+
+Six countries (Mali, Nigeria, Senegal, Spain, the United Kingdom and the United States of America) have reported a case or cases imported from a country with widespread and intense transmission.
+
+Figure 6: Location of Ebola treatment centres in Guinea, Liberia, and Sierra Leone
+
+View interactive map »
+
+PREPAREDNESS OF COUNTRIES TO RAPIDLY DETECT AND RESPOND TO AN EBOLA EXPOSURE
+
+The introduction of an EVD case into unaffected countries remains a risk for as long as cases are reported in any country. With adequate levels of preparation, however, such introductions of the disease can be contained with a rapid and adequate response.
+
+WHO’s preparedness activities aim to ensure all countries are ready to effectively and safely detect, investigate and report potential EVD cases, and to mount an effective response. WHO provides this support through country visits by preparedness-strengthening teams (PSTs), direct technical assistance to countries, and the provision of technical guidance and tools.
+
+Figure 7: Location of laboratories in Guinea, Liberia, and Sierra Leone
+
+View interactive map »
+
+Priority countries in Africa
+
+The initial focus of support by WHO and partners is on highest priority countries – Côte d’Ivoire, Guinea Bissau, Mali and Senegal – followed by high priority countries – Burkina Faso, Benin, Cameroon, Central African Republic, Democratic Republic of the Congo, Ethiopia, Gambia, Ghana, Mauritania, Nigeria, South Sudan, Niger and Togo. The criteria used to prioritize countries include geographical proximity to affected countries, trade and migration patterns, and strength of health systems.
+
+Since 20 October 2014, preparedness-strengthening teams (PSTs) have provided technical support in 14 countries: Benin, Burkina Faso, Cameroon, Central African Republic, Côte d'Ivoire, Ethiopia, Gambia, Ghana, Guinea Bissau, Mali, Mauritania, Niger, Senegal and Togo. Technical working group meetings, field visits, high-level exercises and field simulations have helped to identify key areas for improvement. Each country has a tailored 90-day plan to strengthen operational readiness. WHO and partners are deploying staff to the 14 countries to assist with the implementation of 90-day plans.
+
+Follow-up visits to support priority needs in EVD Preparedness have completed their initial activities in the four Member States (Côte d’Ivoire, Senegal, Mali, and Guinea Bissau) immediately surrounding countries experiencing widespread and intense EVD transmission. In addition to supporting priority areas in each of these countries, the visits were able to strengthen cross-border surveillance and the sharing of outbreak data under the framework of the International Health Regulations. A program to roll-out longer term support is currently under development, with staff levels being increased in WHO Country Offices to coordinate upcoming activities.
+
+A technical assistance mission to Mauritania was completed last week (25 February to 4 March 2015). Support was provided in the areas of community engagement and social mobilization, case management, logistics, and points of entry. Particular emphasis was given to awareness-raising sessions for frontline clinicians at national, regional, and private hospitals; training on the appropriate use of personal protective equipment (PPE); and briefings to the health and security staff present at border crossings. The team also supported the development of standard operating procedures. An additional emergency stock of PPE was also delivered to Mauritania during the mission.
+
+Preparedness indicators (based on surveillance data, case management capacity, laboratory testing and equipment stocks) are collected weekly from the four countries neighbouring EVD-affected countries.
+
+EVD Preparedness technical assistance missions are currently underway in Togo and Gambia (11–18 March), with a focus on logistics, coordination, and infection control.
+
+Follow-up PST support is planned for all priority countries with a focus on the following: Provision of tailored, targeted technical guidance tools and support to strengthen EVD preparedness capacities; operationalize plans; test and improve procedures through field exercises and drills; and support the implementation of preparedness plans , including logistics support; Foster inter-country collaboration and networking, including cross-border communication, cooperation, and exchanges; Provide leadership and coordinate partners to fully support one national plan and the steering role of national authorities; Coordinate global advocacy and support to EVD preparedness, document and disseminate experiences, lessons learnt and good practices, monitor progress, and evaluate outcomes; Strengthen the implementation of the International Health Regulations, and ensure that the core capacities to manage health emergencies are at the heart of resilient health systems.
+
+A Pilot Rapid Response 4-day training course with the Eastern Mediterranean Regional Office (EMRO) will take place in Sudan (16–19 March 2015) in order to trial a training package for use in EMRO and other WHO regional offices.
+
+Cross-border collaboration
+
+During the week to 1 March, five cross-border meetings took place, including a coordination meeting in Kambia and Forecariah. This meeting was held on both sides of the border to facilitate communication, to share best practices, and to align strategies.
+
+ANNEX 1: COORDINATION OF THE EBOLA RESPONSE ALONG 4 LINES OF ACTION
+
+WHO continues to work with many partners in response to the EVD outbreak, including the African Union, the Economic Community of West African States, the Mano River Union, national governments, non-governmental organizations and UN agencies. Agencies responsible for coordinating 4 key lines of action in the response are given below.
+
+Lines of action Lead agency Case management WHO Case finding, lab and contact tracing WHO Safe and dignified burials International Federation of Red Cross and Red Crescent Societies (IFRC) Community engagement and social mobilization UNICEF
+
+ANNEX 2: DEFINITIONS OF PHASE 2 KEY PERFORMANCE INDICATORS
+
+Indicator Numerator Numerator source Denominator Denominator source Cases and deaths Number of confirmed cases # of confirmed cases Guinea: Daily WHO situation reports Liberia / Sierra Leone: Ministry of Health Ebola Situation Reports N/A N/A Number of confirmed deaths # of confirmed deaths Guinea: Daily WHO situation reports Liberia / Sierra Leone: Ministry of Health Ebola Situation Reports N/A N/A Number of confirmed deaths that occurred in the community # of deaths in the community with positive EVD swab results Guinea: Weekly WHO situation reports Liberia / Sierra Leone: Ministry of Health N/A N/A Contact tracing Percent of new confirmed cases from registered contacts # of new confirmed cases registered as a contact Guinea: Weekly WHO situation reports Liberia: Ministry of Health Ebola Situation Reports Sierra Leone: Weekly Ministry of Health Surveillance Report Number of new confirmed cases Guinea: Daily WHO situation reports Liberia / Sierra Leone: Ministry of Health Ebola Situation Reports Hospitalization Time between symptom onset and case hospitalisation (days) Time between symptom onset and hospitalisation of confirmed, probable or suspected case (geometric mean # of days) Clinical investigation records N/A N/A Outcome of treatment Case fatality rate (among hospitalized cases) # of deaths among hospitalized cases (confirmed) Clinical investigation records # of hospitalized cases (confirmed) with a definitive survival outcome recorded Clinical investigation records Infection Prevention and Control (IPC) and Safety Percent of IPC-assessed Ebola treatment centres (ETCs) # of IPC-assessed Ebola treatment centres that met minimum IPC standards** IPC Reports # of IPC-assessed Ebola treatment centres IPC Reports Number of newly infected health workers # of newly infected health workers Guinea / Sierra Leone: Daily WHO situation reports Liberia: Ministry of Health Ebola Situation Reports N/A N/A Safe and dignified burials Number of unsafe burials reported # of reports/alerts of burials that were not known to be safe Guinea: Weekly WHO situation reports Liberia / Sierra Leone: Ministry of Health N/A N/A Social mobilization Number of districts with at least one security incident or other form of refusal to cooperate # of districts with at least one security incident or other form of refusal to cooperate in the past week Guinea: Daily WHO situation reports Liberia / Sierra Leone: UNICEF N/A N/A
+
+*For samples that do not have a date of testing recorded, the date of receipt at a laboratory is used as a proxy. **A facility meets minimum standards when the average score for a selected list of IPC criteria is ≥ 80%.

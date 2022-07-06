@@ -1,0 +1,15 @@
+Breaking News Emails Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings.
+
+May 31, 2015, 6:36 AM GMT By Alan Boyle
+
+After eight days of uneasy silence, the LightSail solar sail experiment rebooted itself to recover from a software glitch in orbit, the Planetary Society said Saturday.
+
+"Our LightSail called home!" Bill Nye the Science Guy, who's the nonprofit society's CEO, reported in a news release emailed to reporters. "It’s alive!"
+
+The LightSail nanosatellite is about the size of a loaf of bread, but there's a 344-square-foot sail of ultra-thin reflective plastic folded inside. It was launched on May 20 as one of the secondary payloads accompanying the U.S. Air Force's X-37B space plane into orbit. Just a couple of days after launch, the spacecraft stopped transmitting data. Mission managers figured out that a software glitch had filled its onboard memory with needless information, causing a computer crash.
+
+Engineers had to wait for the automatic reboot, which may have been triggered by a stray cosmic ray.
+
+"We were ready for three more weeks of anxiety," Nye said. "In this meantime, the team has coded a software patch ready to upload. After we are confident in the data packets regarding our orbit, we will make decisions about uploading the patch and deploying our sails — and we'll make that decision very soon."
+
+Nye said the mission "has been a roller coaster for us down here on Earth, all the while our capable little spacecraft has been on orbit going about its business."

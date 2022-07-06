@@ -1,0 +1,29 @@
+In the third and final presidential debate, from Lynn University in Boca Raton, Florida, the focus was supposed to be on foreign policy. When talking national security, about the military and foreign policy, it seemed like a great time to bring up cyberspace as the fifth domain for cyber-warfare and actual cyberwar, cybersecurity and cyber-weapons.
+
+Despite it being cybersecurity month, cybersecurity registered one little blip of mention, as did hacking. I don't get worked up over politics generally, but there were so many opportunities to mention cybersecurity or even cyber weapons that I ended up yelling things at the TV. If cybersecurity is so blasted important, then why was it basically brushed off during the debate?
+
+The Obama administration wants Congress to pass cybersecurity legislation, claiming it would help protect America's critical infrastructure from cyberattacks. Under Obama, the Pentagon is increasingly talking about cyberattacks and the national security threat the attacks pose to our critical infrastructure. Moderator Bob Schieffer asked how the military's strength will be maintained with budget cuts in defense spending. President Obama said, "When it comes to our military, what we have to think about is not, you know just budgets, we've got to think about capabilities. We need to be thinking about cybersecurity. We need to be talking about space. That's exactly what our budget does, but it's driven by strategy. It's not driven by politics."
+
+When Schieffer asked about "the rise of China and future challenges for America," Governor Mitt Romney mentioned, "They're stealing our intellectual property, our patents, our designs, our technology, hacking into our computers, counterfeiting our goods."
+
+There you have it, the single time President Obama mentioned cybersecurity and the single time Republican rival candidate Romney mentioned hacking.
+
+When talking about Israel and Iran during the debate, it could have been the perfect opportunity to mention cyber-something. But of course no one said, "Hey Israel is our cyber-espionage weapon-building buddy." When talking about Iran and the nuclear threat, no one said a peep about cyberattacks or how America and Israel set the Stuxnet worm loose inside the Natanz nuclear program centrifuges. There was no mention of stepping up cyberattacks or even how cyberweapons are surely less costly than sending our troops into harm's way.
+
+Supposedly America is losing the cyberwar to China and even North Korea is considered a threat after training hackers to launch "cyber infiltration and cyberattacks." This is both national security and foreign policy. Most Americans do use the Internet and we are all dependent upon it for our critical infrastructure. Not that the candidates would care, but clearly they could not hear me yelling that now is the time to mention cybersecurity, cyberattacks, cyber-weapons. It was very disappointing to me that this entire topic was basically ignored, despite the numerous times and countries mentioned that could have created an opening for cybersecurity in the debate. I rarely yell, so the cat hissed and even my poor dog was worked up and growling at whatever had me so agitated.
+
+While we more or less understand President Obama's take on cybersecurity, not too much is said about Romney's cybersecurity stance. Mitt Romney has promised to make cybersecurity a top priority and his whitepaper [PDF] lists cybersecurity eighth in a plan of action for the first 100 days. He's talked about updating "Bush-era national cybersecurity strategy that was first drafted in 2003." What exactly that means is unknown, but Bush gave the NSA the thumbs up to start warrantless wiretapping as if Americans are the threat to our own nation. Romney was a big-time supporter and advocate for fusion centers...those places that a Senate report found to be "useless" and no help at all in finding terrorists. Whatever Romney's cybersecurity plan is, it doubtfully will be privacy-friendly and will likely continue to erode our civil liberty rights.
+
+A Romney spokesperson told Killer Apps that Romney "will order the formulation of a national cybersecurity strategy, to deter and defend against the growing threats of militarized cyber-attacks, cyber-terrorism, and cyber-espionage. Once the strategy is formulated he will determine how best it can be implemented." Funny how that little quote has no less than four mentions of cyber-something, but it was not important enough to bring up during the debate.
+
+Lastly, Schieffer said we know Obama's stance on drones and asked Romney, "What is your position on the use of drones?"
+
+Romney replied, "Well I believe we should use any and all means necessary to take out people who pose a threat to us and our friends around the world. And it's widely reported that drones are being used in drone strikes, and I support that and entirely, and feel the president was right to up the usage of that technology, and believe that we should continue to use it, to continue to go after the people that represent a threat to this nation and to our friends."
+
+Probably because this was focusing on foreign policy, there was no mention of domestic drones. Yet no matter who wins, it seems those flying spies will fill up the skies overhead here at home.
+
+We frequently hear about cyber-terrorism, cyber-warfare and the rise in cybercrime; as Bruce Schneier said in the New York Times said, "Fear pays the bills." I agree that "the government is continually poked and probed in cyberspace," and that "industry has definitely not done enough to protect our nation's critical infrastructure," but if some type of cyber Pearl-Harbor were looming for real, then someone should have touched on it during the debate.
+
+Were any other security freaks disappointed in the debate from a cybersecurity perspective?
+
+(Transcript source for quotes.)

@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+
+And that idea is a smartphone that, when connected to a dock, results in a seamless desktop experience, thanks to an augmented version of Microsoft's Continuum. But this likely won't be the case with its successor, though, as today's rumor claims the company is actively experimenting with Android.
+
+
+
+
+
+This is both good and bad news — the good is that HP is finally abandoning what is clearly a dead platform, but the bad is that similar attempts from other companies (the most recent example being Samsung's DeX ) have always suffered from poor, hacky solutions to Android's smartphone-oriented design decisions.
+
+
+
+
+
+But this experimenting seems to still be in its early stages, so even if an Android-powered HP smartphone does eventually make its way out of the door, it likely won't be in the near future. Plus, the company will likely continue with its enterprise-oriented strategy — a wise decision, given how BlackBerry is now but a shadow of its former self.
+
+
+
+
+
+HP's Elite X3 might just have been the best Windows 10 Mobile device nobody bought. Reasons for this include its considerably high price tag, its focus on the enterprise, as well as possibly its biggest problem: the fact it runs Windows. But even a company as badly mismanaged as HP (hey, remember that time they bought Palm and ran it right into the ground in just a year?) knows when it's got a good idea, and a recent rumor suggests the company is working on a successor.

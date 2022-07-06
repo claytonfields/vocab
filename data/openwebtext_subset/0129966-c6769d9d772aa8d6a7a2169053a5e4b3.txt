@@ -1,0 +1,17 @@
+Why Did The Secret Service Take Over Aaron Swartz's Case Two Days Before He Was Arrested
+
+from the makes-no-sense dept
+
+MIT and JSTOR conferred regarding methods to prevent excessive downloading. Timeline at 3-4. On December 26, 2010, there was another episode of excessive downloading, which MIT personnel did not learn of until on or about January 3, 2011. On the morning of January 4, 2011, at approximately 8:00 am, MIT personnel located the netbook being used for the downloads and decided to leave it in place and institute a packet capture of the network traffic to and from the netbook. Timeline at 6. This was accomplished using the laptop of Dave Newman, MIT Senior Network Engineer, which was connected to the netbook and intercepted the communications coming to and from it. Id. Later that day, beginning at 11:00 am, the Secret Service assumed control of the investigation.
+
+According to the Secret Service, they get involved in investigations with: Significant economic or community impact
+
+Participation of organized criminal groups involving multiple districts or transnational organizations
+
+Use of schemes involving new technology Downloading scholarly articles is none of those things.
+
+The disclosure took place only after the MIT General Counsel’s Office approved the disclosure of the information to law enforcement authorities even in the absence of a warrant or court order or subpoena – and at a time when MIT personnel were acting as government agents – and in contravention of MIT policy that such information, which exceeded that found in bank records or telephone toll records, would be disclosed only upon the receipt of lawful court orders or subpoenas, i.e., process complying with the Stored Communications Act, 18 U.S.C. Â§2701 et seq. See Section IV, infra. In a separate email from Halsall to S/A Picket on January 8, 2011, Halsall told Pickett that he “hop[ed] to have the pcap/flows/videos/logs all in by to me Monday, possibly sooner – if you don’t already have a copy of the video or pcap [packet capture], I’ll make sure you get one.” Exhibit 2. No warrant or court order has been provided to counsel which would evidence the government’s having, even post-interception, acquired the contents of the warrantless interceptions by seeking judicial authorization as required.
+
+Many have noted that the US Attorneys had made a new filing on the day that Aaron Swartz committed suicide. While the filing may look like just a standard procedural filing, some are pointing out that it highlights some highly unusual activity in the case. It had to do with Swartz's motion to get some of the evidence blocked from being used in the case, over questions concerning how it was collected. But one of the key things that come out is that, for unexplained reasons, the Secret Service took over the case just two days before Aaron was arrested:As Emptywheel points out, it doesn't make any sense for the Secret Service to be involved in such an issue:The same filing shows that MIT allowed all of this to happen despite no warrant, court order, or subpoena -- just handing over all sorts of info.As more and more people are looking at the details of what went down in arresting and pressuring Aaron, the case just looks worse and worse.
+
+Filed Under: aaron swartz, mit, secret service

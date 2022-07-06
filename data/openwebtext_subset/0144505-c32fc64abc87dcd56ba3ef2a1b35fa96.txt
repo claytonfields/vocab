@@ -1,0 +1,69 @@
+Graphene reveals new, revolutionary properties on a monthly basis.
+
+Over the last decade, this wonder material went from a curious carbon allotrope to the single-most-expensive material in the world. As production costs for exfoliated graphene crashed to levels comparable with tilapia fillets, so did interest in its practical application. With new techniques, exotic possibilities, and technologies emerging on an almost monthly basis, graphene promises to change the world before we fully understand its potential.
+
+Breaking the Graphene Hype Cycle
+
+Attentive engineers can map the nanomaterials hype cycle to a neat curve: lab results predict revolutionary industrial and commercial applications, pop science and business journalists crank out reams of hyperbole, someone writes yet another article about space elevators, and then the whole cycle crashes against the realities of exorbitant production costs and scalability.
+
+Not too long ago, graphene was on the same course. In 2008, for example, exfoliated graphene was the most expensive material anywhere on the planet, at roughly $100 million per square centimeter. This was par for the course for nanomaterials manufacturing; input costs stood to kill any applications development, regardless of potential. Today, however, the same input stock is projected to hit $11 per kilogram, and patents are flying. Serious international investors and corporate players bet graphene will deliver major developments in information technology, consumer electronics, photovoltaic battery design, water treatment, and more.
+
+We’re going to focus on four major applications where graphene is a game-changer: solar energy, information technology, battery power, and water treatment. In each case, applications are moving out of the lab and into the workshop with uncanny speed.
+
+#1 – Solar Energy
+
+Existing solar cells are expensive to produce, costly to the consumer, and not terribly efficient. The current commercial standard only makes use of a narrow spectrum of available light for an efficiency somewhere in the neighborhood of 17.4%. While a number of workarounds exist to boost this figure, such as splitting incoming light into monochromatic streams, no photovoltaic panel on the market today can compete with fossil fuels in terms of cost per kWh.
+
+Graphene’s unique thermoelectric properties could change all that. When exposed to light, graphene’s electrons heat up and vibrate, but its carbon lattice structure is too strong to vibrate without much higher energies. As a result, it stays cool and the electrons retain their potential. If two regions of a graphene sheet are treated so as to have different levels of conductivity, the result is a “hot carrier” thermoelectric response. This is something only previously observed at very high energies or near absolute zero, but graphene can do it at room temperature under low levels of visible and infrared light.
+
+In terms of materials cost and efficiency, graphene solar panels could easily outperform their silicon predecessors, at last bringing solar energy into competition with fossil fuel. CVD-generated sheets would appear to be ideal for this application due to the ease of forming contiguous, defect-free sheets with tight domain control, but a panel design using exfoliated graphene would be even less expensive.
+
+As much as we hate hyperbole, the appearance of it is unavoidable: cheap, efficient solar power collection in low-light conditions would change the world.
+
+#2 – Battery Power
+
+Lithium-ion batteries are an unavoidable design constraint in many applications. Their capacity, charge time, and physical size set a lowest-size limit on many consumer electronics, such as your smartphone, and make energy storage a non-trivial problem in electric vehicles and solar power installations. For transportation technology especially, battery size and capacity poses a familiar Space Age design problem: the energy storage medium is heavy and large, requiring more energy to transport, and so on.
+
+What if you could store ten times the power in a comparable volume, charge it ten times faster, and do so with a battery that maintained its efficiency for five times as long?
+
+This isn’t a hypothetical question. A team of researchers at Northwestern University, under Harold Kung, have already done it.
+
+The prevailing design uses a graphite anode for energy storage (the positive end), a metal oxide cathode to accept electrons (the negative end), and lithium salts as an electrolyte. Kung’s team replaced the anode with alternating layers of graphene sheets and silicon clusters, with 10-20nm holes in the graphene sheets to speed transfer of lithium ions (which would otherwise need to path to the edge of the sheet). While normally every six carbon atoms in an anode would retain one lithium ion, the silicon clusters can hold four ions per atom. This unique structure allows ten times the capacity and ten times the transmission speed of conventional batteries.
+
+A graphite anode would degrade relatively quickly given the wear and tear on the silicon clusters. Graphene, however, can not only take the strain but hold the silicon clusters together through five times as many charge/discharge cycles.
+
+Nor is the Northwestern team finished. Having proved the effectiveness of perforated graphene and silicon anodes, they’ve moved on to examine cathode and electrolyte design. Their existing work on the anode already promises improvement to the range and power of electric vehicles and removes a nagging design constraint from whole classes of consumer electronics.
+
+Image credit: Pacific Northwest National Laboratory
+
+#3 – Information Technology
+
+Optical modulation switches are the backbone of the Internet’s routing structure and its most intractable constraint. When a packet enters a router, a physical connection must be made to the appropriate output in order to route data correctly. The speed with which these routes can switch between outputs, and the amount of data which can then cross the switch fabric, is a major limitation on modern network speeds.
+
+Currently, 40 Gbit optical network switches are centimeters across and modulate at 40GHz. They are also limited to three specific bands of light around 200nm across. Recently, however, UC Berkley scientists, under Professor Xiang Zhang, discovered that graphene films can modulate between opaque and transparent states with incredible speed. Their test case, a graphene optical modulator 25 square microns large, only modulates at 1GHz, but is theoretically capable of speeds in the 500GHz range.
+
+Even restricted to a narrow spectrum of light for data transmission, graphene optical modulators would give us network speeds roughly 12 times our current maximum. That’s just the beginning: graphene interacts with light across the spectrum, from infrared to ultraviolet, so it can use nearly the entire spectrum of light to transmit data. Rather than “only” creating an Internet infrastructure a dozen times faster, these graphene modulators can jump us directly to petabit and exabit speeds (between 10^15 and 10^18 bits per second).
+
+To put that in perspective: according to the 2009 Digital Britain Report, the sum of all data transferred anywhere in the globe on June 15, 2009 was “only” 494 exabytes. A single, 1 exabit/second router could pass all of that data through its switch fabric in 65 minutes.
+
+#4 – Desalination and Water Treatment
+
+As Warren Ellis observed, our species has yet to master the art of clean drinking water. Our existing solutions are either energy-intensive or imperfect, limiting access to portable water for an unacceptably large percentage of humanity. This constitutes not only a health crisis, but promises to spark intractable geopolitical conflicts over access to clean water for drinking and agriculture.
+
+One solution is already patented and nearly ready for the field. This March, Lockheed-Martin patented a graphene water filter under the name Perforene, intended for use in desalination and water filtration. Building on the work of a team of MIT researchers, Perforene uses an array of 1nm holes in a graphene sheet as a reverse osmosis filter. Simply put, water molecules fit through the holes and any other molecule is too large, making this the perfect water filter.
+
+The first large-scale application for Perforene is thought to be desalination. As the filtration membrane is so thin, it takes very little energy to force water through it. MIT graduate student David Cohen-Tanugi, lead author of the paper describing the technology, indicated to MIT News that desalination could be accomplished “hundreds of times faster than current techniques, with the same pressure”. In a press release, Lockheed-Martin points out the converse: the same volume of water can be desalinated for pennies on the dollar as compared to current technologies.
+
+Graphene oxide membranes present an alternative for chemical process engineers to passively remove water from solution through evaporation. Graphene oxide is cheaper to manufacture and has the property of arranging itself into layers, like a laminate. The layers are spaced so that a single layer of water molecules can fit between them, and capillary channels through the membrane either shrink closed in low humidity or rapidly clog with water molecules. The result is a vacuum-tight seal which frictionlessly passes water vapor and blocks all other materials from escaping, even helium.
+
+Between these two approaches, in theory, pure water can be recovered from almost any source. Desalination and recovery of waste water become relatively inexpensive and incredibly efficient, while passive filtration through graphite oxide membranes suggest a range of affordable and human-portable methods of purifying drinking water on the fly. With the access to potable water shaping up as a contentious matter for our geopolitical future, these technologies can’t be implemented soon enough.
+
+New Developments, Monthly
+
+Samsung is developing transparent, conductive screens 300 times stronger than steel. IBM and UCLA have taken the first steps towards a replacement for silicon processors, which is smaller, exponentially faster, and works in temperature ranges from deep space to 30C over current operating maximums. Chinese researchers recently produced a graphene aerogel, the lightest material on Earth. New applications for and properties of graphene come out of the lab nearly every month, limited only by the cost of production and the imagination of researchers.
+
+See also: Jobs in Graphene and Graphene research
+
+And, yes, graphene ribbons would make fine cable material for a space elevator.
+
+Do you work with graphene, either in research or practical application? We would love to interview you! Tweet us @EngineerJobs, or comment below, and share your discoveries with your fellow engineers.

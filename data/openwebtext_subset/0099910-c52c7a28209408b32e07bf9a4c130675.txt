@@ -1,0 +1,21 @@
+Most light emitters, from candles to light bulbs to computer screens, look the same from any angle. But in a paper published this week on the Nature Photonics website, MIT researchers report the development of a new light source — a fiber only a little thicker than a human hair — whose brightness can be controllably varied for different viewers.
+
+The fiber thus opens the possibility of 3-D displays woven from flexible fibers that project different information to viewers’ left and right eyes. The fiber could also enable medical devices that can be threaded into narrow openings to irradiate diseased tissue, selectively activating therapeutic compounds while leaving healthy tissue untouched.
+
+The paper is the work of seven researchers affiliated with MIT’s Research Laboratory of Electronics (RLE), including Yoel Fink, a professor of materials science and electrical engineering and the RLE’s director; John Joannopoulos, the Francis Wright Davis Professor of Physics; lead author Alexander Stolyarov, a graduate student at Harvard University who is doing is PhD research with Fink’s group; and Lei Wei, a postdoc at RLE. The work was funded by the U.S. Army and the National Science Foundation, through MIT’s Institute for Soldier Nanotechnologies and Center for Materials Science and Engineering.
+
+The newly developed fiber has a hollow core; surrounding this core are alternating layers of materials with different optical properties, which together act as a mirror. In the core is a droplet of fluid that can be moved up and down the fiber. When the droplet receives energy, or is “pumped” — in experiments, the researchers used another laser to pump the droplet — it emits light. The light bounces back and forth between the mirrors, emerging from the core as a 360-degree laser beam.
+
+Surrounding the core are four channels filled with liquid crystals, which vary the brightness of the emitted light; each liquid-crystal channel is controlled by two electrode channels running parallel to it. Yet despite the complexity of its structure, the fiber is only 400 micrometers across. (A human hair is usually somewhere around 100 micrometers in diameter.)
+
+In experiments, the researchers simultaneously activated liquid crystals on opposite sides of the fiber to investigate a hypothetical application in which a transparent, woven display would present the same image to viewers on both sides — not mirror images, as a display that emitted light uniformly would. But in principle, Stolyarov says, there’s no reason a fiber couldn’t have many liquid-crystal channels that vary the light intensity in several different directions. “You can build as many of these liquid-crystal channels as you want around the laser,” Stolyarov says. “The process is very scalable.”
+
+As a display technology, the fibers have the obvious drawback that each of them provides only one image pixel. To make the fibers more useful, the researchers are investigating the possibility that the single pixel — the droplet of water — could oscillate back and forth fast enough to fool the viewer into perceiving a line rather than a colored point.
+
+Even before the researchers answer that question, however, the fiber could prove useful in the burgeoning field of photodynamic therapy, in which light activates injected therapeutic compounds only at targeted locations.
+
+“The coolest thing about this work, really, is the way it’s made,” says Marko Loncar, an associate professor of electrical engineering at Harvard University. “The technology that they used to do it, basically, they can make kilometers of these things. It’s remarkable.”
+
+Loncar adds, “And they envision this being used for surgeries and things like that, where it would be really hard to use any other laser approach.”
+
+Loncar also thinks that the problem of pumping the fluid droplet back and forth to produce images is probably soluble. “There are entire lasers that depend on microfluidics,” he says. “The handling of fluids on a small scale nowadays is a pretty developed technology. So I don’t see this as a major obstacle.”

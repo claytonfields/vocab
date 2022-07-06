@@ -1,0 +1,11 @@
+Giving something back to hard-working open source developers is a good thing. Valve has decided to say thanks to the men and women behind Debian by gifting them every game they’ve ever made. They’ll also get free copies of any new games that Valve releases in the future.
+
+It’s a very cool way for Gabe Newell and Valve to show their appreciation for Debian — the operating system that Valve forked to build Steam OS.
+
+Hundreds of digital download gift baskets will be handed out to the Debian developers. All they’ve got to do is fire off a digitally-signed email and wait for a redemption code to arrive. After that, it’s game on… From Half-Life to Counter-Strike, from DOTA 2 to Left4Dead 2.
+
+Valve’s got more than two dozen games published on Steam. And best of all, nearly every one of those titles already runs on Linux — so the Debian devs will be able to enjoy them without having to boot up a Windows PC.
+
+This probably won’t be the last present the Debian team receives, either. Open source consulting firm Collabora — who’s helping Valve smooth out the rough edges on Steam OS — says that they’re discussing other ways that they can give back to the community.
+
+Steam OS wouldn’t be possible without the years of hard work Debian devs have put in to building a rock-solid Linux distro. It’s pretty clear that Gabe Newell and his Steam OS collaborators will make sure that those who contribute to the project are made to feel appreciated.

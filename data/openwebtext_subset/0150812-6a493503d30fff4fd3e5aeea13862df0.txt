@@ -1,0 +1,41 @@
+Verizon is warning users of its new cloud service to brace for a two-day outage late this week.
+
+The company confirmed this afternoon that its new cloud service, Verizon Cloud, will be shut down for maintenance for as long as two days starting at 1 a.m. ET on Saturday, Jan. 10. Users are being told to shut down their virtual machines an hour before the maintenance work begins.
+
+As a result, Verizon Cloud users won't be able to access cloud services, whether it's their cloud-based email or data and apps stored in the cloud, during the outage. According to a tweet from Verizon's Cloud Client Care, users' VMs, object stores, the Verizon Cloud Console and the API will be unavailable.
+
+The move is shocking, according to Dan Olds, an analyst with The Gabriel Consulting Group. "For their customers, this could be a very rocky two-day period," he said. "A two day outage, for any reason, is a very big deal to enterprise cloud customers. I can't recall any cloud outage that is this lengthy.
+
+"In a traditional data center, an outage like this is rare, and completely unacceptable unless it's due to a true catastrophe," Olds said. "However, even in the case of a catastrophe, most enterprises have disaster plans that will either keep the enterprise running throughout, or will allow them to recover quickly"
+
+Verizon, which would like to be playing in the cloud big leagues with the likes of Amazon, IBM, Microsoftand Google, noted that the shutdown will only affect Verizon Cloud, a service for enterprise customers that just emerged from beta in the third quarter of 2014.
+
+The company's legacy platforms -- Enterprise Cloud, Enterprise Cloud Managed Edition, and Enterprise Cloud Federal Edition -- will not be affected.
+
+Verizon, though, has been working to move companies from its legacy platforms to Verizon Cloud.
+
+A Verizon spokesman said the downtime should affect about 10% of the company's enterprise cloud customers.
+
+Frank Gens, an analyst with IDC, pointed out that it's not uncommon for a cloud vendor to schedule maintenance. But preparing companies to be without service for two days is surprising.
+
+"Forty-eight hours seems very excessive," he added. "My guess is that it will be quite a bit shorter. If it isn't, that's a real problem. Certainly, it's not a major business problem in the near term but, obviously, it's a PR challenge, putting them under greater scrutiny at just the wrong time -- as the market is getting more demanding, and the competition from Amazon, Google, Microsoft, IBM and others is getting stiffer."
+
+At this point, users would be smart to be prepping for a long outage.
+
+"I'm betting that many of them are feverishly downloading data in order to have access to it during the outage," said Olds. "Some of these customers are probably using the Verizon service as their own customer-facing portal. These folks are going to have to either quickly come up with an alternative mechanism to keep their business online, or they're going to have to figure out how to explain why they're taking a 48-hour vacation. Neither of these options are particularly appealing."
+
+A two-day service shut down is going to make it a tough sell for Verizon to convince business and IT executives that it is an enterprise cloud player, capable of competing with Amazon, IBM or Microsoft.
+
+When it comes to judging a cloud vendor, reliability and uptime are two critical factors. Being offline for two days does not bode well for either.
+
+"A planned outage of this length and magnitude is much more than just a black eye for Verizon," said Olds. "It shows that they don't understand the importance of their service to their customers, and, worse yet, are oblivious to the impact on them. This outage is something that Verizon's competitors -- including Amazon, Google and Microsoft -- will use as a competitive weapon against Verizon, and pretty successfully, I'd think."
+
+Rob Enderle, an analyst with the Enderle Group, said if Verizon's downtime this weekend does last the full 48 hours, it could be enough for customers to trade them in for a competitor.
+
+"Enterprise services typically measure downtime in seconds or less," he said. "Hours of downtime is often considered a high-severity problem. Days of downtime is a primary reason to discontinue using the service. This would be intolerable to most businesses of any size and absolutely unacceptable to enterprises.... A planned outage of several days in today's world is largely unheard of and should serve as a massive red flag for this service."
+
+Verizon simply should have made this outage invisible to their users, shifting customers to redundant resources during a slow time.
+
+Said Enderle: "Cutting them off is insanely stupid."
+
+This story, "Verizon Warns Enterprise Cloud Users of 48-Hour Shutdown" was originally published by Computerworld .

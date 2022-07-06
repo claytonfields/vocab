@@ -1,0 +1,141 @@
+Promises are a well-known design pattern used to delay evaluation of future values, and to pipeline operations in an asynchronous manner. Typically, there are three internal states used to control the behavior of promises, but there is a lack of core interfaces essential to iOS & OS X development. To fill the need for more powerful classes, Yasuhiro Inami of LINE & ReactKit has created the Swift library SwiftTask. By taking a closer look at SwiftTask’s resume & progress handling, Yasuhiro explores a new approach to the Reactive Programming paradigm.
+
+What has Swift brought us? (2:31)
+
+Today I would like to talk about some of the discoveries I made while developing in Swift, about state, promises, and reactive programming. According to a Stack Overflow survey, Swift has become the most loved language in only one year. So, what has the Swift fairy brought to us? We can now write code with more type safety using generics and tuples. We also have value-based types, like structs and enums, that allow us to use pattern matching. Easier syntax led us to writing more functional programming, and functions finally became treated as first-class citizens.
+
+Functions as first-class citizens (2:54)
+
+In Swift, you can treat functions just like you treat any other data type. Here is the function y = f(x) . f is a function, x is an input and y is the output. You can pass the primitive data type like integer and get a string out. With higher order functions, you can have inputs and outputs be functions. You may also use generics as the inputs and outputs of a function.
+
+// function in, function out func f ( x : Int -> String ) -> ( Bool -> Void ) // generic in, generic out func f < T , U > ( x : T ) -> U
+
+With functions, we can create a callback-style functions, or in other words, continuation-passing style functions. If you call doSomething and input an arg , you also pass the callback . The function doesn’t return anything, but you get the result inside of the callback.
+
+func doSomething < A , R > ( arg : A , callback : R -> Void ) // T = (A, R -> Void) // U = Void
+
+Here is one callback. You doSomething with an argument, and the result appears inside. If you want to do something else, you can doSomethingElse with result1 . The result2 comes inside another callback. If you keep doing this, you can quickly descend into callback hell. But, you want to avoid callback hell and convert your code to ideally, a method chaining style.
+
+// 1 callback doSomething ( arg ) { result in println ( "done with result = \( result ) " ) } // 2 callbacks doSomething ( arg ) { result1 in doSomethingElse ( result1 ) { result2 in println ( "done with result = \( result2 ) " ) } } // ideally, method chaining style doSomething ( arg ) . then { result1 in doSomethingElse ( result1 ) } . then { result2 in println ( result2 ) }
+
+How do we do this? Today’s topic includes promises, and promises can solve this, but I think it’s a good time for us to dive into something that starts with the letter M. The answer is Monad. Some people might be scared of this word, and some of you might know what it is already. I took the definition of monad from Wikipedia, but it’s too long. So, let me just briefly tell you what a monad is.
+
+You can think of a monad as a container that allows you to pipeline. In the following pseudocode, we have a struct Monad that needs two methods. These functions are toMonad and flatMap . toMonad is just a wrapping that we use. It’s Haskell equivalent is return or pure . You just wrap the value and put it in the container. flatMap does out the value from the monad, applies some function f , and returns some kind of new container structure. There are also some good illustrations to explain how monads work.
+
+Get more development news like this
+
+// pipelineable container struct Monad < T > { // unwrap -> transform -> rewrap (automatically) // func map<U>(f: T -> U) -> Monad<U> // not required // unwrap -> transform (rewrapping manually) func flatMap < U > ( f : T -> Monad < U > ) -> Monad < U > } // wrap (Haskell's `return` or `pure`) func toMonad < T > ( value : T ) -> Monad < T > { return Monad ( value ) }
+
+Monad Laws (6:38)
+
+By implementing this kind of behavior, our struct Monad is now going to obey the monad laws. These three laws are left identity, right identity, and associativity. I looked at the laws specifically using Haskell syntax, so for those of you who don’t know Haskell, you can interpret return as toMonad and the bind operator >>= as flatMap . I rewrote these monad laws for Swift.
+
+1 . toMonad ( a ) . flatMap ( f ) = f ( a ) 2 . monad . flatMap ( toMonad ) = monad 3 . monad . flatMap ( f ) . flatMap ( g ) = monad . flatMap { x in f ( x ) . flatMap ( g ) }
+
+Let’s take a look at each rule. If you have a value a and wrap it in a container using toMonad , applying a flatMap(f) to that is the same as f(a) . In number two, you have monad , but the underlying values are unknown. Say you take that value and perform flatMap(toMonad) on the monad . This is like taking out the value and putting it back again. It’s obviously the same as before, so you still end up with monad . The last rule does two flatMap s on monad . You take the unknown value x out from monad , apply f , and it will be a new container to which you just apply flatMap(g) . This eventually becomes the same as the right hand side.
+
+The third rule of associativity is actually very important, because what happens if you keep applying flatMap ? You will end up creating a nested structure. This means that you can convert that nested structure into the flatMap pipelining style, and so you can avoid the nested callback hell style. This is the core part of monads.
+
+monad . flatMap { x in return f ( x ) . flatMap { y in return g ( y ) . flatMap { z in return ... } } } // is the same as monad . flatMap ( f ) . flatMap ( g ) . flatMap ( h ) ...
+
+Here are some examples of monads. Swift already has some monads, like optionals and arrays. Optionals have flatMap in Swift 1.2, so they are finally monads. There are also third party libraries like Result and Either. These tell whether something has been successful or a failure. Lastly, promises & futures are also a part of monads.
+
+What are promises? These are containers for single future computation. There are already promises in many other languages: Scala has Future, Java has CompletableFuture, and C# has Task. But, I will talk about promises as they are in Javascript.
+
+How about Swift? Well, Swift doesn’t really have Promises, but you can create one on your own. This is an example called PromiseK by koher. He developed the Swift Promise like this.
+
+class Promise < T > { init ( _ executor : ( resolve : Promise < T > -> Void ) -> Void ) func map < U > ( f : T -> U ) -> Promise < U > func flatMap < U > ( f : T -> Promise < U > ) -> Promise < U > }
+
+In the class Promise , you have an initializer and flatMap , which are like toMonad and flatMap from before. This is going to obey the monad rules. How do we use it? I made a helper class called promisify that basically creates a new Promise . Insides its execution closure, we call a callback style function f . The result comes insides the callback. After that, you send the resolve handler to tell the promise object that the task is finished. By doing so, our callback hell style becomes our promise pipelining style.
+
+// helper: wrap call of `f(arg, callback)` with Promise func promisify < A , R > ( f : ( A , R -> Void ) -> Void )( _ arg : A ) -> Promise < R > { return Promise < R > { resolve in f ( arg ) { result in resolve ( Promise < R > ( result )) } } } // Promise pipelining promisify ( doSomething )( arg ) . flatMap { result1 in promisify ( doSomethingElse )( result1 ) } . map { result2 in println ( result2 ) }
+
+Comparison with then (11:21)
+
+I wanted to doSomething with an argument, and have two .then statements. This actually doesn’t work because doSomething is just a function. It doesn’t have a then method. PromiseK solves this problem. If you compare using then with the PromiseK method, you can see that you shouldn’t use doSomething directly. Instead, you wrap it in the promise world using promisify . Then you can apply the argument. This is actually Javascript, but then is a syntax sugar of map as well as flatMap . So, the JavaScript promise was actually just a small part of the huge world of monads.
+
+// ideally doSomething ( arg ) . then { doSomethingElse ( $0 ) } . then { println ( $0 ) } // PromiseK promisify ( doSomething )( arg ) . flatMap { promisify ( doSomethingElse )( $0 ) } . map { println ( $0 ) }
+
+Here are the rules to monad programming. The good part about then is that it is more readable and intuitive than map and flatMap . When you use then , you can understand that you perform certain code after another task is finished. then also has an internal state and allows short circuiting. You just register the handle onRejected , which is only called when the task is failed.
+
+Swift and JavaScript promises are good structures, but when I first saw them, I felt that they were too simple. They weren’t for me. Promises lack in core interfaces. They send only the finished value, whether that is fulfilled or rejected. But we want to know its intermediate states. We want to know the progressing states & values, and we also want to be able to pause, resume, and cancel like NSOperation does. So what I thought when I first saw promises was that I wanted to make them more robust and more powerful.
+
+Extending Promises: SwiftTask (14:23)
+
+I started developing the Swift library SwiftTask to extend the idea of promises. The state machine for a promise basically looks like this: it has a pending state following the initial, and is either fulfilled or rejected at the end. It never goes back. In contract, SwiftTask has a more complex state machine. It can pause, resume, and continue running. This means you can continue progressing, until you finally fulfill or reject. Sometimes, it can even be cancelled from the outside.
+
+So, SwiftTask essentially has all the functionality of promises as well as progress, pause/resume, cancellation, and even retry. It’s written in pure Swift, so there is no import Foundation or use of anything like NSError . My promise uses the asynchronous pattern, but that doesn’t matter for SwiftTask. You can also do it synchronously if you want; it just depends on how you implement it. Lastly, it’s thread safe.
+
+Here is an interface of SwiftTask version 3.3. You’ll notice that there are two methods each for the same name; these are versions for map and flatMap . Also notice that there are two cases for when you get a fail, so that you can know whether the error is sent internally or if you cancelled from outside. You can check whether it has been cancelled or not from the tuple ErrorInfo .
+
+class Task < Progress , Value , Error > typealias ErrorInfo = ( error : Error ?, isCancelled : Bool ) func then < V2 > ( f : ( V ?, ErrorInfo ?) -> V2 ) -> Task < P , V2 , E > func then < P2 , V2 , E2 > ( f : ( V ?, ErrorInfo ?) -> Task < P2 , V2 , E2 > ) -> Task < P2 , V2 , E2 > func success < V2 > ( f : V -> V2 ) -> Task < P , V2 , E > func success < P2 , V2 , E2 > ( f : V -> Task < P2 , V2 , E2 > ) -> Task < P2 , V2 , E2 > func failure ( f : ErrorInfo -> V ) -> Task func failure < P2 , E2 > ( f : ErrorInfo -> Task < P2 , V , E2 > ) -> Task < P2 , V , E2 >
+
+Here is the one that I have extended. You can observe the progress and update the progress UI. You can also pause, resume, and cancel. Lastly, you have the retry method.
+
+func progress ( f : ( oldProgress : P ?, newProgress : P ) -> Void ) -> Task func pause () -> Bool func resume () -> Bool func cancel ( error : E ?) -> Bool func try ( maxTryCount : Int ) -> Task
+
+Networking Example (16:39)
+
+Let’s take a look at how to use SwiftTask. This is an example that uses Alamofire networking. You just create a new SwiftTask, which has the typealias AlamofireTask . Inside the execution closure, you call Alamofire and pass the progress.
+
+let task = AlamofireTask { progress , fulfill , reject , configure in // define task Alamofire . download ( . GET , "http://httpbin.org/stream/100" , destination : somewhere ) . progress { newProgress in progress ( newProgress ) } . response { request , response , data , error in if let error = error { reject ( error ) return } fulfill ( response ) } return }
+
+You just keep method chaining with .progress , and you can update the UI inside that closure. After it succeeds, it does something, or if you fail, you can do something else. Finally, you do something like hide the progress bar. You can also interrupt that progressing task with pause, resume, or cancel.
+
+task . progress { oldProgress , newProgress in // update progress UI } . success { response -> Void in // handle fulfilled } . failure { error , isCancelled -> Void in // handle rejected or cancelled } . then { _ in // finally } // running task is interruptable if configured task . pause () task . resume () task . cancel ()
+
+Reactive Programming (18:30)
+
+We just saw that SwiftTask can send a fulfilled value or the rejecting error once at the end. It can also send the progressing values multiple times. If we keep looking at this kind of behaviour, we can see something that looks similar to sending multiple values onNext , sending an empty value onCompleted , or an error onError at the end. This is very similar to Reactive Extensions and Reactive Programming. We have something very similar in our world, called ReactiveCocoa for Objective-C and Swift.
+
+Stream & ReactKit (18:49)
+
+I also found there is a similarity to the Node.js Stream. Everything is a stream - I was kind of enlightened! So, we can say that a stream is a container for multiple deferred computations. Meaning, we can send the values multiple times. This is what I have developed for Swift in ReactKit. ReactKit is just a subclass of Task using the progress values as a generic type T . We have an empty value for the completion value, so that is just Void . For error, I just used the concrete NSError .
+
+You can image this stream pipeling, or the collaboration of multiple tasks. Streams are basically hot and cold. Lastly, you can also do the simple backpressure mechanism. “Backpressure” is a hot word in reactive programming nowadays. ReactKit uses it to pause the upstream when it sends too many events, and downstreams pauses that until it is ready to resume receiving.
+
+Our first example of ReactKit is this example of FizzBuzz. You have a sequence of one to one hundred, and you map into the String . Sometimes you replace a number with “Fizz”, sometimes with “Buzz”, and sometimes with “FizzBuzz”.
+
+Stream . sequence ( 1 ... 100 ) |> map { x -> String in switch x { case _ where x % 15 == 0 : return "FizzBuzz" case _ where x % 3 == 0 : return "Fizz" case _ where x % 5 == 0 : return "Buzz" default : return " \( x ) " } } ~>! println // prints each value: 1, 2, Fizz, 4, Buzz, ...
+
+The next example is the infinite sequence pattern, where you start with the initial tuple (0,1) . In the next value, you add those and shift to the left. This creates the Fibonacci sequence. If you just run this stream, it will create an infinite loop that you should avoid. Instead, you can limit to finite number of values and take(10) . Lastly, you collect each value into the array by using buffer .
+
+let fibonacciValues = Stream . infiniteSequence (( 0 , 1 )) { a in ( a . 1 , a . 0 + a . 1 ) } |> map { a in a . 0 } |> skip ( 3 ) |> take ( 10 ) |> buffer () ~>! () // terminal operation println ( fibonacciValues ) // [2, 3, 5, 8, 13, 21, 34, 55, 89, 144]
+
+Here is a more practical reactive example using KVO. This is an example of spreadsheet, and you have cell1 and cell2 . We can say that the second cell is equal to the first cell, so that the second cell automatically updates when you update the first cell. What you do here is create cell1Stream , bind it to cell2 , and update the cell1.value .
+
+// create stream via KVO self . cell1Stream = KVO . stream ( cell1 , "value" ) // bind stream via KVC (`<~` as binding operator) ( cell2 , "value" ) <~ self . cell1Stream // cell2.value == "initial" at this point cell1 . value = "REACT" // cell2.value == "REACT" // updates automatically
+
+The last example is the incremental search. This is a bit hard, but you have a search bar and you want to get the textChangedStream . You aren’t interested in every text change, so you should set a limit on something like the timing and remove duplication. What you use is a throttle and distinctUntilChanged . After that, you get the text , call some API , and get the Result . You are only interested in the very newest API call, so use switchLatestInner . Create the searchResultsStream and bind it to the UITableView so that you can very easily make a list of suggested searches.
+
+self . searchResultsStream = searchBar . textChangedStream () |> throttle ( 0.3 ) |> distinctUntilChanged |> map { text -> Stream < [ Result ] > in return API . getSearchResultsStream ( text ) } |> switchLatestInner
+
+In this talk, I’ll skip the demo. You can find my demos in this repo, so please feel free to take a look and let me know how they are. But, as we saw in this last example, there are many functions for transforming, filtering, combining, and timing. The important part of reactive programming is to learn functions, rather than classes. These are very basic functions, and you’ll be able to use them in other languages as well.
+
+How ReactKit Works (24:10)
+
+In ReactKit’s mechanism, you have a stream that you can tweak using functions like map and filter . The sourceStream can be something like a timer or user input, and is paused by default. When the Destination wants to subscribe to this stream, it will ask the closest downstream to resume the stream. That request propagates upstream, and the stream starts completely running. Then the source starts to send values downstream, the values get tweaked, and the destination finally receives the value.
+
+What happens if you have another destination? The source stream sends the value to both destinations. In this example, the map stream will send the same value to the filter stream and the flatMap stream. It shares the same value, which gets tweaked different as needed.
+
+Hot & Cold Observables (26:15)
+
+What is the different between hot and cold Observable s? Observable is a term used in RxJava and many other languages. A hot stream is normally always active and never stops. It is always broadcasting. On the other hand, a cold stream is paused by default. When you subscribe, it starts emitting the value. But what’s interesting for cold streams is that the second time you subscribe, you don’t get the same value. It’s not broadcasting. It actually clones the underlying source and sends that value.
+
+When you do reactive programming, you need to distinguish between the two. Rx.NET, RxJava, RxJS, and others use the term Observable for streaming, and it can be either hot or cold. ReactiveCocoa separates the two ideas, using Signal as the hot Observable and SignalProducer as the cold Observable . It also has an enhanced API compared to Reactive Extensions, but still they are two very different concepts. ReactKit has one Stream class that is paused by default and broadcasts to other streams when it starts running.
+
+This ReactKit Stream behaves more like N behavior is more like a Node.js stream . Node.js has Stateful for part of its mode. It is paused by default and gets flowing once you resume. A subclass has a closing method. That’s what ReactKit can do: pause, resume, cancel, and close. The main difference here is that Node.js stream actually takes a more unique pipe-like approach - there are upstreams and downstreams, you connect these two by using the method pipe . On the other hand, ReactKit is more functional. You have an upstream, and you don’t have to create a downstream. If you just apply a function like map , it will automatically create a new stream.
+
+With ReactKit, you have a source Stream with generic type T . By tweaking it, it automatically generates Stream<U> . This is the functional approach. If you compare creating a function map to creating a subclass, instantiating it, and putting it into the pipe, which is easier? I think using a function is much, much easier than creating subclassing. So, ReactKit has this kind of good point too.
+
+Lastly, I want to recap ReactKit. ReactKit is taking a Stateful model like Node.js Stream, and because of that, you can now unite the two ideas of hot and cold Observable s together into one. You don’t have to think two classes. Because it started from the idea of promises, it can also connect the idea of promises and ReactiveCocoa together. This is a new and interesting approach to reactive programming.
+
+Q: Does the Task API have a notion of time between retries or if it should back off?
+
+Yasuhiro: Time out? It doesn’t have that feature now. I’m not sure how I would do that. SwiftTask is a model, but it’s just the very start of reactive programming. If you go into reactive programming then you can have more functionality.
+
+Q: Why are you using NSError in Stream ? Yasuhiro: I was asked via pull request to use just generic errors. This library is depending on Foundation using KVO, so it’s quite cumbersome to convert generic type errors. NSError seemed good at the time, but now I’m trying to fix that.
+
+Q: The new version of ReactiveCocoa has Swift support, so why would you use this? What are core differences that would cause you to pick one over the other, per project?
+
+Yasuhiro: The very big difference is that you don’t have to remember two different structures. I just made ReactKit out of my own curiousity, to see if I could write more for reactive programming. I want to use ReactiveCocoa too, but I think this idea works well so I will continue developing it.

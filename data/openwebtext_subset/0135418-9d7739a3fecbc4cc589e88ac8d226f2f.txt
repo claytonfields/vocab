@@ -1,0 +1,31 @@
+Advertisement
+
+Image: Michael Feiginov/TU Darmstadt Tiny Transmitter: TU Darmstadt's resonant tunneling diode transmitter beams out radiation at 1.11 terahertz. The Diode is the squiggle at the base of the "V". Click on image to enlarge.
+
+25 January 2012—Researchers in Germany and Japan have developed tiny transmitter chips that produce the highest-frequency signals at room temperature—1.111 terahertz—of any source driven by a resonant-tunneling diode (RTD), a type of electronic quantum device. The relatively cheap transmitter chip might make it easier to use terahertz devices. Researchers have been working toward developing technologies that could potentially help to foil bomb plots. These terahertz devices would be able to see through a person’s clothing and chemically identify concealed objects from a distance.
+
+The terahertz frequency range, which corresponds to wavelengths between 0.1 and 1 millimeter, is a relatively new discovery. The submillimeter radiation sources in use today are bulky and costly, and some, such as quantum cascade lasers, work only at cryogenic temperatures.
+
+Because many materials, including fabric, are transparent to terahertz waves, the radiation is being used in new body scanners at some airports and at other security checkpoints. What’s more, these waves may work well in time-domain spectroscopy, a technique for identifying the chemical makeup of things from a distance, in which the light’s phase shifts when it is absorbed. Some research suggests that terahertz waves could be used in some cases instead of X-rays in medical diagnosis.
+
+Now a research team at the Technical University Darmstadt, in Germany, has reported the production of a chip that emits 1.111-THz radiation with an output power of 0.1 microwatt, a new frequency record.
+
+The previous record was held by researchers from the NTT Photonics Laboratories in Atsugi-shi, in Japan, and from the Tokyo Institute of Technology. In 2010, they reported a device producing 1.04 THz but with an output power of 7 µW. Researchers are interested in higher frequencies because the resulting imagers would have better resolution.
+
+An RTD consists of a quantum well—a region in which charge is confined to two dimensions—sandwiched between two insulating barriers. The barriers are connected to regions of doped indium gallium arsenide layers, the emitter and collector, which form reservoirs for electrons. When a voltage is applied across the quantum well, electrons pass from the emitter to the collector. Unlike in a resistor, the relationship between voltage and current in an RTD is a curve instead of a straight line. When the voltage is increased, at first the current increases as well, but at a certain voltage the device’s "differential conductance" goes negative and the current drops sharply.
+
+The idea that a tunneling diode can generate oscillations was first proposed by Raphael Tsu and Leo Esaki in 1973. If the RTD is connected to a resonator, the device starts oscillating, because instead of damping the oscillations, the device’s negative conductance amplifies them.
+
+RTDs have long been out of favor for generating terahertz radiation. The first RTD sources to approach 1 THz were developed by researchers at the MIT Lincoln Laboratory in Lexington, Mass., during the late 1980s and early 1990s. In 1991, the groups reported a frequency of 712 GHz. However, they weren’t able to get to higher frequencies and abandoned the line of research.
+
+Image: Michael Feiginov/TU Darmstadt Awesome Oscillator: TU Darmstadt's 44-micrometer-long resonant tunneling diode is the heart of a record setting transmitter. Click on image to enlarge.
+
+But both the Japanese and the German groups were convinced that improvements were possible. The flaw in the Lincoln research was that the group placed the RTD inside of a tube-shape waveguide that served as the resonator, but the coupling between the RTD and the waveguide was too weak.
+
+"We used a planar resonator with integrated structures and obtained better results," says Michael Feiginov, who led the group in Darmstadt. The resonator was directly connected to a planar horn antenna in order to transmit the signal. The Japanese group used a slot antenna that served as both resonator and antenna.
+
+Although output is still low, both groups are confident that the optimization of their structures will allow higher outputs and higher frequencies—up to 2 THz. However, even the submicrowatt power the Darmstadt team achieved should be sufficient for some applications. Feiginov, who expects to be able to increase the power 100-fold, says that he can detect the signal up to a distance of a meter—good enough for imaging. For example, because terahertz waves are absorbed by water, doctors might be able to use them to image skin tumors, which contain more water than the surrounding tissue, explains Feiginov.
+
+In addition to improving the existing applications of terahertz waves, Safumi Suzuki of the Japanese group expects that these devices could be useful in radio communication, because they would provide a wide bandwidth. But the technology would need a tweak because of humidity in the atmosphere. "We would use transmitters using frequency windows where water does not absorb the radiation," he says.
+
+Michael Pepper, a professor of engineering at University College London and cofounder of Cambridge-based THz imaging start-up TeraView, says that the RTD radiation sources lack some of the requirements for many terahertz applications. For example, it doesn’t operate in a pulsed mode nor can it sweep over wide frequency ranges. But it should be good for "single-frequency imaging and communications in space where there is little absorption," he says.

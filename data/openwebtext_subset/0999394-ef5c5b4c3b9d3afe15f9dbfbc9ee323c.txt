@@ -1,0 +1,41 @@
+The world’s first monkeys with genes modified through a DNA engineering method known as Crispr/Cas9 were born in a lab. The scientific breakthrough by Chinese researchers could become a cornerstone for research and prevention of human genetic disorders.
+
+Researchers at Nanjing Medical University and Yunnan Key Laboratory of Primate Biomedical Research in Kunming in China have created two genetically modified macaques with targeted mutations using the CRISPR/Cas9 system.
+
+“Our study shows that the CRISPR/Cas9 system enables simultaneous disruption of two target genes in one step without producing off-target mutations,” study author Jiahao Sha told the Science Daily. “Considering that many human diseases are caused by genetic abnormalities, targeted genetic modification in monkeys is invaluable for the generation of human disease models.”
+
+
+
+The researchers introduced single-cell macaque embryos with modified Ribonucleic acids (RNAs) to generate the genome-editing process. RNA is a ubiquitous family of large biological molecules that perform multiple vital roles in the coding, decoding, regulation, and expression of genes. Using the Crispr method, Chinese scientists were targeting three genes in the experiment – one that regulates metabolism, another that regulates immune cell development and a third that regulates stem cells and sex determination.
+
+
+
+The birth of the genetically modified monkeys was not an easy process. Scientists had to target the genes in 180 single-cell monkey embryos. Eighty three of those 180 embryos were injected into female macaques, yielded only 10 pregnancies.
+
+
+
+Only one pregnancy so far led to the birth of a pair with simultaneous mutations in two genes.
+
+
+
+According to coauthor of the study Wezhi Ji, researchers discovered multiple changes in their target genes at different stages of embryonic development. But the newborn macaques are still too young for researchers to determine if their experiment had an effect on physiology or behavior, though “data from this species should be very useful for curing human disease and improving human health,” says Ji.
+
+
+
+Monkeys are a natural choice to study human disorders because of their close similarities to Homo Sapiens, although past scientific endeavors of precision gene modification in primates have failed.
+
+
+
+Inserting, deleting, and modifying DNA in human cells and other animal cells has been performed in labs within the confines of petri dishes. The method of gene modifications was also applied to various rodents and zebrafish, however with the birth of two monkeys the study published in Cell magazine, shows that Crispr can produce practical primates with genomes customized at specific targeted genes.
+
+
+
+Some researchers have already welcomed the breakthrough, saying that this method can eventually help recreate in monkeys such diseases as Parkinson's and Alzheimer's, which can’t be studied in other animals like mice.
+
+
+
+"If we can identify genes for neurological disorders in a clinical setting and transpose those into a monkey it would be of massive benefit. I don't know that it'll lead to a rise in the use of monkeys, but it will lead to more focused studies," said Tipu Aziz, who used primates for his work on Parkinson's disease at Oxford University, the Guardian reports.
+
+
+
+"People have been looking for primate models for a whole list of diseases, but in the past it's been either completely unfeasible, or incredibly expensive," Nelson Freimer, director of the centre for neurobehavioral genetics at the University of California, told The Guardian. “It's going to be really critical to define the problems for which this is used, just as you always do with animal research. You want to use all the alternatives before you propose animal research. This will be reserved for terrible diseases for which it offers hope that cannot be gotten any other way.”

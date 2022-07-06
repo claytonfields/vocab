@@ -1,0 +1,181 @@
+These discussions will continue in coming weeks with other Times editors and reporters.
+
+Translating the Paper to the Web
+
+Q: I recently had the opportunity to have lunch with the publisher of the local daily paper here (there is only one local daily paper here). I told her of my preference to get my local and national news online, browsing several news sites as a part of my morning routine. However, I quickly discovered that I was missing important stories that had prominent placement in the print version but were impossible to find in the online version. In trying to explain my difficulty with her site, I could only think of The Times as an excellent example of online news reporting.
+
+So, my question is, what makes your site such a great online version of your print product? Where are they going wrong? Why can’t I explain it clearly to someone else (don’t answer this)?
+
+Also, you use a serif font that I think is difficult to read in general, although it does not bother me on your site. Why did you choose what I think is such an non-traditional font for your site?
+
+A: First, thanks for the kind words. Whatever success we've had with making NYTimes.com a useful and engaging source for online news, in my opinion, comes from realizing that we're not just trying to re-create what's available to readers in the printed newspaper.
+
+Rather, we're trying to create something that's true to this medium, that borrows the best of what works in print and that takes advantage of the unique aspects of digital media.
+
+This means we pay a lot of attention to how people use our content online. That is, not just how they read it, but how they make use of it: how they might scan the page haphazardly rather than diligently reading from top to bottom; what parts of the page they look to first and last; what they expect to change from visit to visit; which visual cues are meaningful for them and which design flourishes they find useless.
+
+Advertisement Continue reading the main story
+
+There are a multitude of factors like these that we’re continually evaluating, though I admit that as an online business we’re certainly not alone in being mindful of them. I think what we do differently from any number of other sites, whether established news organizations or young companies, is that we very expressly try to maintain continuity with a brand that’s over 150 years old. So, sometimes we may purposefully approach a design problem differently from how our colleagues in the print art department might, but just as often we’ll try to bend the technology so that it makes sense when seen through the lens of The Times’s visual legacy. That might be the intangible quality you’re talking about.
+
+Visual Consistency
+
+Q: Regardless of platform or browser, NYTimes.com looks the same. This is not an easy feat to accomplish because of inconsistencies between browsers and how they handle HTML and CSS. How do you do it and with which tools?
+
+A: It’s our preference to use a text editor, like HomeSite, TextPad or TextMate, to “hand code” everything, rather than to use a wysiwyg (what you see is what you get) HTML and CSS authoring program, like Dreamweaver. We just find it yields better and faster results.
+
+But really the browser-to-browser consistency that you see (and I have to admit, it’s far from perfect) is the result of a vigilant collaboration between many different groups — the visual designers and technologists in the design team that I lead, their counterparts in our technology staff, and the many, many detail-oriented people who come together to make the site a reality every hour of every day.
+
+One of the things that makes my job here so satisfying is that, among all of these many different kinds of collaborators, there’s a healthy respect for design. Everyone is committed to putting the best face forward for The Times — including paying close attention to visual integrity of the site. Regardless of the tools you use, it's really only that kind of commitment that makes it possible to maintain consistency on a site as sprawling as ours.
+
+The Sources of Inspiration
+
+Q. I was wondering how much influence the design of other media Web sites has on your design choices for The New York Times's Web site? For instance, I think The Guardian has one of the most visually appealing front pages of any online news outlet I've ever seen — though the underlying pages are not nearly as beautiful. Do you look for direction or inspiration from other sites?
+
+A. We definitely look at the competition from other news organizations, both for how design informs the way they present the news, and for how they've designed and integrated tools for making the news more useful to their audiences. (And yes, over at The Guardian, their creative director, Mark Porter, and his team are doing some really terrific work that we admire greatly.)
+
+However, that's only part of the homework we do. I think it would be a fallacy for us to think that we're only competing for the attention of a discrete "media" audience. Internet usage is very eclectic by nature, and it's the responsibility of my team to be conscious of that.
+
+Advertisement Continue reading the main story
+
+So, just as often, we draw inspiration from what's happening in digital media at large, regardless of whether or not a news organization is explicitly involved, and often regardless of whether a given digital product deals in the news at all. That means that sites of miscellaneous classification like YouTube, Wikipedia, Craigslist and Facebook — and countless others, many of which might have only recently emerged from their founders' garages — are of as much interest to us as top-shelf competitors like The Guardian and our other peers.
+
+What Does a Design Director Do?
+
+Q. Can you give a little more insight into exactly what you do as a design director ­ does it involve actual production work, is it purely supervisory, or does it fall somewhere in the middle?
+
+Also, what do titles and terms like information architect, design technologist and user experience mean? I've heard of them used elsewhere, but what does it mean for The Times?
+
+A. The question of "What do you and your design team do?" is pretty hard to answer without resorting to a tremendous amount of off-putting and, frankly, loopy jargon. I'm going to try, but forgive me in advance if I lapse back into it.
+
+When most people hear "design" and "NYTimes.com" together, they usually think of the wonderful interactive graphics or multimedia storytelling done by our colleagues on the graphics and multimedia teams. (In fact, Steve Duenes, the graphics director, offered lots of insight into much of this work in his own Talk to the Newsroom session some weeks ago.)
+
+Though we do work with these teams in a support capacity, it's not the core of what we do. If you think of their work as design for the content that appears on our site, then you can think of the work that my team does as design for the framework for that content. Which is to say, we create the underlying platform on top of which the content sits.
+
+Even setting aside the vast amounts of original reporting that we publish every day, our site is still under more or less continuous revision, so that framework is constantly being tended to. We're always looking at ways to improve various sections of the site, tweaking our templates, adding new features and tools and removing impediments to people's consumption and use of the news.
+
+As the design director, my responsibility is to oversee the creative aspects of these continual improvements. Each one is a project of its own with some range in scope, from very short and discrete to long and drawn out over many months. And each project requires one or more of the members on my team: information architects (who are charged with organizing the features and the flow of information so that people can make use of them most intuitively), design technologists (who do the actual coding of many of these sites, using HTML, CSS, JavaScript, Flash, etc.) and/or visual designers (who handle the overall look and feel, including layout, typography, color, proportion, etc.).
+
+Advertisement Continue reading the main story
+
+You could say that all put together, the final product of our efforts is the user experience, or the sum total of the content and the framework as it's used by visitors to the site. Of course, it's not true that my design group is the only team responsible for creating this experience; it's really the result of contributions across the board, from editors and reporters to project managers and software engineers and many more.
+
+Finally, my job doesn't involve as much hands-on design work as it would in an ideal world. The majority of my day is spent either in a supervisory capacity, reviewing and discussing work done by my staff, or sitting in meetings, planning for upcoming enhancements to the site and how design can make them happen. The way I usually put it is that my job as design director isn't actually to do great design, but rather to help create and sustain the conditions under which great design can happen.
+
+The Design of Blogs
+
+Q. I love all the blogs springing up on NYTimes.com. Can you talk about their design and specifically their logos?
+
+A. I'm especially proud of the design work that's gone into our blogs for many reasons, but especially for how our designers have dealt with sheer scale. Over the past two-plus years, as The Times newsroom has embraced blogging with tremendous alacrity, we've created over 150 blogs, and over a third of those remain active today.
+
+The challenge is even more complex when you consider that, though each blog has its own needs, the vast majority must be based on a single template (within WordPress, our Web log publishing system) that manages all of the blogs together. As you can imagine, that requires that the template be very versatile and that our designers be very nimble.
+
+So by virtue of the fact that we're constantly launching new blogs, we're also in a perpetual state of revision and refinement. We're fine-tuning the typography, adding new features to the right-hand column, incorporating new kinds of media content into the articles, etc. All of which is work that may then be reflected back on the other blogs. Jeremy Zilar, the design technologist in my group whose primary responsibility is to develop and support these blogs, said, "Every blog we launch seems to bring something new to our template that every other blog can benefit from."
+
+As for the the logos that we've developed for the blogs, that too has been an evolution. In the beginning, we were very liberal with our use of art, and gave illustrators lots of creative leeway to render a distinct visual identity at the top of each new blog.
+
+Over time though, we've refined our approach so that the the typography is more or less consistent, and that each logo has a compact, iconographic illustration to identify it. In one of my favorite examples of our Web staff working with our colleagues in the print art department, almost all of these logos are a tight collaboration between Rebecca Paterson, one of our very talented digital designers, and Nicholas Blechman, who art directs the Book Review section.
+
+Photo
+
+For each new blog, they work together to brainstorm a concept, select a freelance illustrator, and art direct its execution. Within that fairly restrictive formula we've set for the art, I think they've done an amazing job cultivating a great variety of artful logos.
+
+Advertisement Continue reading the main story
+
+The Publishing Software
+
+Q. I was wondering how permissive the New York Times's content management system is with custom layout. Is there only one template that an article must follow, or are there exceptions? If there are exceptions, how do you handle them?
+
+Q. How involved are you in the design of the content management system that feeds the NYTimes.com front end? The posting of news and videos to a popular media site in a timely manner requires a highly usable and dummy-proof solution. Is your back end as user-friendly as your front end? Cheers from a fellow Otis grad.
+
+A. Our content management system — the software that we use to publish our articles on our Web site — is based on a finite number of templates. So in large measure we're resigned to working within those pre-determined layouts. The range of expression that you see day to day on the home page and on our various section fronts is really a credit to the editors and producers who do the actual publishing of the articles. They use the C.M.S. the most and have learned to be very creative with it. (My design group is focused on the site as a platform, and we don't often get involved with the daily layout of the news.)
+
+If there are any shortcomings in the range of expression that those templates offer, it's the job of my design group, working with our technology team, to create new ones that better suit the needs of the editing staff. This can be a lengthy and involved process. Often it doesn't make sense to invest the effort in creating a brand new template if the needs it will address are singular or short-term.
+
+So we will often — not frequently, but often enough — try to work around the limitations of the existing templates using custom code, essentially "hacking into" our own templates to achieve a unusual presentation. A great example of this is the work that our design technologist Bart Szyszka did for our recent series on China and the environment, "Choking on Growth."
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You will receive emails containing news content , updates and promotions from The New York Times. You may opt-out at any time. You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+These work-arounds aren't ideal of course, so we try to be sparing in our use of them. We want to maintain as much design flexibility as we can, of course, but we also have to be practical about the technical implications. Pushing the C.M.S. too far in these ways would be untenable. Our director of content management systems, Brad Kagawa, said, "The need to structure data" — encode the content in such a way that it makes sense to our systems — "is sometimes at odds with the desire to have custom layouts. With the C.M.S. publishing to dozens of delivery channels (Web, RSS, mobile, Times Reader, the Times archive, various partner feeds, Amazon Kindle, etc.) we have to store everything in a structured and non-Web-centric way but at the same time retain that flexibility."
+
+As a result, the design team is actively involved in the design and planning of our next generation C.M.S. Alex Wright, the information architect who is heading up the design aspect of it, said: "As you might imagine, it's a large undertaking. We're constantly making adjustments to the interface as we develop new ideas about how to streamline the publishing process while supporting the complex requirements of a large news-gathering organization."
+
+Interaction With Reporters and Editors
+
+Q. You have stated that you and your staff are involved with what you describe as the framework for NYTimes.com. To what extent do you and your staff interact with reporters and editors? How does that work? Assuming you do work with the reporters and editors, is that the same as what happens with the graphics team? In any case, how does your team work with the graphics team?
+
+Advertisement Continue reading the main story
+
+A. We do work with editors and reporters quite a bit. More often than not, in fact.
+
+Going back for a moment to the subject of the last question: blogs are a great example of how we work together. Each blog we create begins as a conversation between editors and designers. Because they're so highly focused on specific subject areas, we really try hard to create the right design solution for those particular editorial needs.
+
+For some of our more standard journalism, our teams work together to create special layouts of our home page or section fronts. This tends to happen only when we have at least a few days' advanced notice, so ongoing stories like the presidential campaign, big events like the Pope's visit to the United States or special series like "Choking on Growth" are good examples of that. Those happen regularly if not frequently, but we're always eager to design for the news when we can.
+
+At the same time, we're continually collaborating with editors and reporters on what I described before as the NYTimes.com platform. Editorial input is really a key component on these design challenges. An obvious example would be the section fronts we've overhauled over the past year or two, e.g., Health and Movies. Similarly, for last year's major overhaul of how we present our slideshows, editors and photo editors were deeply involved in establishing the requirements that guided that redesign. Even platform projects that aren't explicitly examples of delivering Times journalism, like our My Times product, were designed from scratch with the input of the editing staff from the very start
+
+Personas in the Design Process
+
+Q. Do you use personas and/or a goal-directed design process to craft your interaction design? If so, how do you go about your user research, given that you have such a broad base of users?
+
+A. Every time we add a new feature to the site, redesign an existing section or create new digital products of any kind, we start with the premise that our primary "clients" are the people who will actually be using it, and not necessarily our staff of journalists, technologists, businesspeople or designers.
+
+It's kind of an obvious assumption, but it really is the hardest part of the process for any design team, regardless of the industry: setting aside your own familiarity with the content, your own expertise and envisioning a solution through the eyes of those whose relationship with your product is much more casual.
+
+When I say "design team" here, I mean it in the larger context, including product developers, software programmers, project managers, marketers as well as reporters, editors and many more. Everyone here is involved in the design process, so everyone has to be able to make that leap into "user-centered design" thinking.
+
+We employ a lot of research for this. We have a customer insight group that pays a lot of attention to site metrics: the traffic we get, how the site is being used, and the overall statistical patterns for that usage. We also work with them frequently to perform usability tests, where we bring in real people to our in-house testing facilities to watch how they interact with new design solutions we put in front of them.
+
+Advertisement Continue reading the main story
+
+Sometimes this research feeds into the "personas" method of designing, in which we write detailed descriptions of archetypal users and make design decisions around the goals and needs of those actual personas. Personally, I have mixed feelings about the effectiveness of that technique, though I don't question the basic premise that understanding our users is the single most important start to any solution.
+
+We like to be flexible, though. Alex Wright, information architect, said: "Different projects call for different design approaches; we try to avoid locking ourselves into a one-size-fits-all design process. For major projects (like section redesigns), we do use personas and scenario modeling methods. For other projects, we use a mix of different methods: field studies, eye tracking, online surveys, card sorting and, of course, traditional usability testing."
+
+Some Pet Peeves
+
+Q. It's hard to find the link to the Obituaries section on the front page of NYTimes.com. Why is it listed on the lower part of the lefthand column in small print along with Blogs, Crosswords, etc., when it deserves to be placed higher up in the column and in larger print along with other newsworthy sections such as Sports, Science, Arts and Style?
+
+Q. Other papers, notably The Seattle Times and The San Francisco Chronicle manage to include pictures and graphics from their stories in the printer version that shows up on the browser. It would add a lot in some cases. Why can't The Times manage to do this (going forward, if not for past stories)?
+
+Q. A lot of times I enjoy the New York Times videos and would like to share them with some of my colleagues. But I find that NYTimes.com doesn't have the embedded source like YouTube does. Blogs nowadays embed all sorts of YouTube videos and other videos from different host sites and it makes it easier for people view things without actually visiting the site. My question is, why doesn't the NYTimes.com include embedded sources and will we see that in the future?
+
+A. I'm going to try to answer these three questions with one general answer, and by extension, hopefully address several other questions that were sent in by readers who also requested changes to or expressed frustrations with various parts of NYTimes.com.
+
+I don't necessarily disagree with most of the suggestions and criticisms that people have about the functionality of our site. They're quite valid and they'd almost always go a long way toward improving the overall experience on the site for users. In fact, if you cornered me in conversation, it wouldn't take much effort to elicit from me a long list of my own NYTimes.com frustrations and peeves, things I'd very much like to see fixed.
+
+At any given time though, my design group is working on roughly a dozen or more projects of nontrivial size, while simultaneously watching for urgent problems cropping up across a site of significant volume and breadth. That keeps us very busy. So as a matter of resources — having enough designers to take care of everything — it's almost impossible for us to implement every change or improvement we'd like to see happen.
+
+Advertisement Continue reading the main story
+
+Even if the design team doubled or tripled in size (and I actually believe that beyond a relatively small staff count, most larger design teams are actually less effective than smaller ones), we can't implement these changes on our own. For many of them, we'd very much need the collaboration and support of our colleagues throughout the company, especially those in our technology group, and they have their hands full as well.
+
+Luckily, a lot of our projects are actually focused on overhauling and improving existing areas of the site that have been long neglected. So in a sense, we're continually trying to root out these imperfections. It just may take us a while to get to the ones mentioned in these questions.
+
+Recommended Course of Study?
+
+Q. What course of study would you recommend at the graduate or undergraduate level for someone looking to work in your field? Or, failing that, what practical experience do you think most prepared you for your current job?
+
+A. I don't presume to be an educator, so it's probably best for me to answer this question in terms of what I look for when hiring a new employee. It's actually quite a complex mix of varied skills: an ideal applicant would have very strong traditional graphic design skills; in-depth training in usability and interaction design; practical experience coding XHTML, CSS, JavaScript and Flash; a commercially viable comfort level with database and application programming; and last but not least sound news judgment based on a deep understanding of current affairs.
+
+Mind you, almost nobody possesses this exact combination of skills. If there's a school or curriculum somewhere that's turning out these kinds of candidates regularly, I'd be very interested to know. (Besides, I tend not to pay nearly as much attention to where a candidate was schooled as I do to that candidate's portfolio of work samples and practical experience.)
+
+So obviously I look for people who can combine as many of these skills as possible. I'm not sure it would be fair to say that any one skill is more important than the other because they're all vital, but I can say that having a particularly weak foundation in traditional graphic design — lacking an understanding of typography, color, composition and visual storytelling — more or less disqualifies one immediately.
+
+There are a few other intangible qualities that I look for, too. The ability to effectively articulate one's ideas about design is a big plus; translating design's subjective nuances into plainspoken explanations is a critical requirement for this job. Agile problem-solving skills are also an imperative; being able to think about a design problem in a larger context than one's own role as a designer only makes it easier to pull off ambitious solutions. And maybe most important of all is enthusiasm for the work; there's no substitute for a designer who feels truly invested in the work.
+
+All the News and Links That Fit?
+
+Q. Could you talk about balancing the multitude of links to options, services, newspaper sections, etc. on a page with the actual content of the paper? When is it better to make readers click through one or two levels to find something instead of cluttering the front page with links? Is there a science to this, or is it design instinct?
+
+Advertisement Continue reading the main story
+
+A. There's no question that there's a lot of stuff on our pages. In fact, to speak frankly, I'd say that often there's just too much stuff. Too many links, ads, extra features and even too much text. We often hear from users — and even from our own staff — that we should be seeking to reduce the number of visual elements on each page.
+
+However, throughout virtually the entire site, we have to achieve a delicate balance between the concerns of our newsroom, our business, our technological infrastructure, our brand and, most important, the people who use the site. Just about anything that appears on any given page is tied to some intricate combination of editorial judgment, revenue, technical restriction and user behavior.
+
+You can think of it as an elaborate logic puzzle, with the onus on my design staff to solve the puzzle using as few elements as possible, in as aesthetically pleasing a manner as possible. We strive to distill every template that we create down to its core parts, and actively debate the placement of nearly every element.
+
+There's no magic formula for this, unfortunately. In some cases we do find it better to design a feature so that people are required to click through it. In other instances, we find scrolling or simply presenting all of the available options up front is the better course. And at times there are design solutions that everyone feels are the simplest and best, but that can't be implemented due to some pragmatic constraint imposed by any of the many interdependent factors driving the site.
+
+As you can imagine, it's no easy feat — which isn't meant as an excuse. This difficulty of the situation, while not always enjoyable, is a big part of the reason many of us have signed on for this job. It's an interesting design challenge because it's a hard one. We're under no illusions that what you see on the site is the best possible design ever. We look at it as a work in progress, and something that can be continually improved.

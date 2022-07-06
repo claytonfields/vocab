@@ -1,0 +1,155 @@
+Hello everybody and welcome to Part three of my series about the Cost of Magic Cards. If you're just tuning in now you can find Part 1 here and Part 2 here. You can also find the forum discussion for Part 2 here - at the time of writing that thread was 170+ posts strong and full of great discussion!
+
+As alluded to at the end of last week's article not everybody is the fan of foil cards. In fact I would go so far as to say that the majority of Magic players would rather obtain a non-foil copy of a card than a foil copy. There are notable exceptions to the type of player that would actively seek a foil copy over a non-foil copy but first allow me a brief financial argument - one that I first mentioned in one of my older articles Fifteen Fun Facts About Foils.
+
+Using as an example: There are 121 cards on a print sheet of Magic 2010. For the Rare sheet that works out to two copies of each rare (53 Unique Rares) and one copy of each Mythic (15 Unique Mythics) for a total of those 121 cards (53 + 53 + 15). With a perfect distribution you'd expect to open one every 121 packs - or roughly 3.36 Booster Boxes.
+
+By the same token the Rare print sheet mirrors the non-foil version: 121 cards (53 Rares appearing twice - and 15 Mythics appearing once). Rares/Mythics appear approximately once per box (once every 36 packs). With a perfect distribution you'd expect to open one Baneslayer every 121 BOXES - or roughly 4356 Booster Packs!
+
+At the time of writing this article we are selling non-Foil for $60 and Foil Baneslayer Angel for $100. By using the above math you'd see a non-Foil Baneslayer Angel every 121 Booster Packs and a foil Baneslayer Angel once every 4356 Booster Packs meaning they appear at roughly a 36 to 1 ratio to one another! Yet their sell price is at a 1.6 to 1 ratio against one another.
+
+As someone involved in the buying and selling of Magic cards this math alone demonstrates to me that foils are unpopular with the majority of Magic players. The difference in magnitude of rarity versus cost is approaching 20 to 1 which is such a wide gulf that it actually startles me every time I do this math.
+
+There are other factors going on with these sorts of figures. There are several Uncommon and Common foils that sell for a high-multiple higher than their non-foil counterparts - . This says to me that there is pretty much a cap at which players who collect foils are willing to pay to get those foils and a lot of that cap is tied in the initial cost of a foil card ($6 for a versus $100 for a Baneslayer) and that there generally is an upper limit of what these players are willing to pay for a foil - compounded by a higher multiplier for some foreign versions of that same card (A Japanese Foil Baneslayer Angel sells for around $200).
+
+Long and short though that math doesn't add up to anything other than foils being disproportionately produced against demand. One only needs to look at foil promotional versions of cards that see heavy tournament play. - all of these (at the time) hot Standard cards had a widely-distributed foil promotional version and in each and every instance the foil version was worth less than the regular non-foil version of the card - despite the regular foil version of that card being worth more! Let's take a look at :
+
+Non-Foil: $7
+
+Path to Foil: $12.50
+
+MPR Path to Foil: $7
+
+Give or take concerns about alternate artwork it would stand to reason that if the majority of players wanted to have a foil version of Path to over a non-foil version than the MPR version would sell for more than the non-Foil version. Not only are they the same price but sales on the non-Foil Conflux version have been a magnitude higher for us over the period of time that both versions of these cards have been widely available! This repeats itself almost every time a promo card with a high distribution happens: the original non-foil version of the card in the long term sells better and for more than the foil promotional version of that card.
+
+Wizards has released a lot of great products over this past year not counting the four set releases – Planechase Garruk vs. Liliana and Divine vs. Demonic were among the more well-received products. Which two products fared the most poorly against expectations over the past year (from personal and anecdotal observation?)
+
+1) All-foil Shards block Booster Packs
+
+2) All-foil Sliver Deck
+
+Now each of the two above products had failings outside of being all foil; the Shards packs came over a year after Shards of Alara itself was released and while we were hip-deep in Worldwake hype so they weren’t necessarily timely. The Sliver deck suffered because of the reserve list – should have been the Mythic Rare used to push the box set and WOTC has acknowledged this publically in their statement about the Reserve List from last week. Be that as it may – it certainly didn’t help to have both products be 100% foil (especially for the Sliver Deck) when the majority of Magic players just aren’t thrilled about playing with foils.
+
+This isn’t to say that nobody likes foils – there is a sizable minority that like to foil out their decks (these are mainly I’ve found Vintage Legacy and EDH players with a smattering of Standard and Extended players as well). The people who like their foils really like their foils – and there is definitely a market for foil cards as a promotional/sales tool because they do have value (for the most part) beyond the worth of an otherwise-identical non-foil card. I’m just saying that the demand versus supply is so askew in this case that you have to question whether or not foils are reaching their intended goal – selling product overall.
+
+I tie this back to the reserve list because the two From the Vault releases have been low-print run all-foil box sets. Almost universally the high-demand cards from these box sets sell for equal-to or less-than the non-foil versions of the same cards. Let’s take a look at the NM versions of these cards:
+
+From the Vault: Dragons
+
+: $5 (FTV) against $2.50 (Scourge)
+
+: $7 (FTV) against $5 ( /M10)
+
+: $3 (FTV) against $2.50 (Planeshift)
+
+: $1 (FTV) against $0.50 (3rd/4th/etc)
+
+: $5 (FTV) against $2 (Scourge/ )
+
+: $4 (FTV) against $10 (Portal I)
+
+: $2 (FTV) against $1 (9th/Scourge)
+
+: $8 (FTV) against $5 (Shards)
+
+: $10 (FTV) against $10 (Champions of Kamigawa)
+
+: $10 (FTV) against $1 ( )
+
+: $8 (FTV) against $5 (Guildpact)
+
+: $6 (FTV) against $4 (Invasion)
+
+: $2 (FTV) against $0.60 (M10)
+
+: $6 (FTV) against $25 (Starter 1999)
+
+: $4 (FTV) against $3 (Masques/8th)
+
+FTV Total: $81
+
+Regular Total: $77.10
+
+Pretty comparable don’t you think? And to further the argument about limited-quantity box sets of foils not really hurting the price of truly rare cards: we’re sold out of (which is white-bordered) at $25 right now and nearly sold out of (Portal) at $10 because they are short-printed sets.
+
+From the Vault: Exiled
+
+: $5 (FTV) against $3 (3rd/4th)
+
+: $30 (FTV) against $50 (Unlimited)
+
+: $3 (FTV) against $.50 (3rd/4th)
+
+: $6 (FTV) against $5 (Champions)
+
+: $10 (FTV) against $10 (Urza’s Saga)
+
+: $3 (FTV) against $1 (3rd)
+
+: $10 (FTV) against $3 (Tempest)
+
+: $8 (FTV)against $5 (Mirage/6th)
+
+: $4 (FTV) against $4 (IA/5th)
+
+Sensei’s Divining Top: $10 (FTV) against $7 (Champions)
+
+: $4 (FTV) against $2.50 (3rd)
+
+: $3 (FTV) against $2.50 (Darksteel)
+
+: $7 (FTV) against $3 (4th)
+
+: $6 (FTV) against $4 (Urza’s Legacy)
+
+: $3 (FTV) against $4 (Darksteel)
+
+FTV Total: $112
+
+Regular Total: $104.50
+
+Again they are within 10% of each other in value – and this is for the least valuable non-foil version of each of the cards! When you start plugging in the types of cards that would compete with the From the Vault versions of cards in the decks that people who care about foils would run you start hitting things like $25 Arabian Nights Serendibs $30 Champions of Kamigawa foil Sensei’s Divining Top and $100 Beta s – all of which have maintained a very high value (and some have risen) post-printing of From the Vault: Exiled!
+
+So allow me to spin this discussion out into three directions and then I’ll pass the rest of the discussion to you in the forums:
+
+1) I tend to think that full-art frame cards would be a more popular-replacement to foils. Lands done in this fashion (Zendikar Unglued Unhinged) have performed admirably and are highly desired by players and collectors alike. There have been promotional full-art cards made in the past both in foil and non-foil. Some examples are and Urza’s Factory.
+
+However these are not the ultimate expression of full-frame cards. The most desired full-frame cards are ones being done by amateur enthusiasts who expand the card artwork well past the traditional Magic borders. Here are some examples of their work:
+
+By far these types of card alterations have garnered the most positive response from players from my personal (and empirical) observations. While I understand that the tournament legality of a Magic card is determined by card border and that production costs would increase by removing frames and custom-making a lot of artworks to extend to the border of the card – would that cost be much more than the cost to foil out cards? I’d think that the pre-production costs (i.e. paying people to layout extra space worth of artwork on a card) would be more for full-frame cards but the post-production costs (i.e. printing them without having to pay for the metals involved in foiling).
+
+2) One of the arguments against abolishing the Reserved List is that the value of older cards would drop if large supplies of a new printing of that card were made available. While I have argued against this in general (cards like rotating into Standard and rising 5-10X in value) there are certainly examples of cards that have dropped in value because of overprinting.
+
+One great example of this is . have been in Alpha Beta Unlimited Revised 4th 5th 6th 7th 8th 10th M10 and Ravnica for a total of twelve (!) print runs on regular sets! Up until M10 was still a solid $10 card because it was being played a lot in Standard. has largely supplanted Birds in decks that would otherwise run Birds which in conjunction with the reprint overstocking of Magic 2010 in general has caused Birds of Paradise to generally halve in value – we are now selling it for $5 each from Magic 2010.
+
+Other versions of Birds of Paradise have seen similar price drops from Revised through 10th Edition. Three specific versions of Birds have not seen any significant price decrease: 7th Edition Foil ($60) Alpha ($200) and Beta ($200). That is because all three versions of this card are truly hard to find (especially in NM condition). No matter how many times Wizards reprints Birds of Paradise there are no other copies of Alpha/Beta/7th Foil Birds that are going to enter circulation aside from a freakish "someone cracks a box of Beta for fun" type of occurrence (in which case the total number out there will increase by what one copy?)
+
+3) And in closing to this series one final thought about the Reserved List as a concept.
+
+From Mark Rosewater’s Column in June of 2009…
+
+"I've talked about this before but it's an important enough point to make again. The reserve list (the list that tells us what cards we can never reprint for those who don't know) was created long ago by people who no longer work at Wizards. It was done to help ease concerns of our player base at the time. The majority of current R&D feels that the reprint list isn't fulfilling the function it was created for (and at times seems to actually counteract it) but and this is the important sticking point we've learned through market research that the majority of our audience feels it's important for Wizards of the Coast as a company to keep its word. So we're stuck between a rock and a hard place. We want to do what is best for the game and our players and we want to keep the confidence of our consumers. If anyone has a solution to this Gordian knot please let me know."
+
+My own take on this: It isn’t just R&D that feels that the reprint list isn’t fulfilling the function it was created for – it’s the majority of the player base of Magic. Based on our sales (at SCG) and from talking to other dealers the vast majority of Magic purchasing at this point goes to players rather than collectors (I’m talking at a magnitude of at least 90% players versus 10% collectors and the skew is likely even further towards players at this point). The main sticking point of abolishing the Reserved List is the simple fact that Wizards of the Coast as a company promised that the cards on the Reserved List wouldn’t be reprinted.
+
+The problem isn’t reprinting cards in general – this happens all the time.
+
+The problem isn’t a fluctuation in card values – this happens even more often!
+
+The problem is that people on an emotional level don’t want to feel like Wizards of the Coast made a promise and then broke that promise.
+
+I can totally understand that – nobody likes to be lied to and abolishing the Reserved list wholesale would be Wizards going back on their word for a promise made back in 1996.
+
+And that’s my big problem here – The Reserved List was originally made when Magic was a fledgling game not only in-and-of itself but for an entire industry of Collectible Card Games. It was a reaction to 4th Edition and Chronicles due to the scarcity (and high value ) of sets like Legends Arabian Nights and Antiquities (not so much The Dark). In fact none of the regular sets (not counting stuff like Portal 3 here folks) released post-Reserved list have had any of the printing shortages against demand that were seen from the sets pre-reserved list! If Wizards of the Coast had simply said "the market will correct itself" and never made a Reserved List we’d likely be exactly where we are today – where a vast majority of cards in Magic’s existence are not on the Reserved list and yet they maintain value with full consumer confidence.
+
+My problem is that the Reserved List was a mistake made by a fledgling company in a fledgling industry nearly fifteen years ago. Magic has been around for fourteen years since the Reserved List was originally made in 1996 and who knew back then that Magic would not only be successful in 2010 but that it would be reaching heights previously untold in popularity and sales? Nobody knew that and so the Reserved List remains one of the few policies left in place from Magic’s infancy that has not been changed – design philosophies have been changed new products have come and gone the rules of the game have been altered drastically over the years packaging has changed Wizards of the Coast has a much better idea of how to handle Magic for the long-term than the people who were around back in 1996.
+
+From my vantage point removing the Reserved List would only help Magic become an even stronger game and would get more people involved in playing Magic at every level – competitively casually and all points in-between. It would make for more interesting ancillary products and it would allow some old favorites to come back into circulation for tournament play (would or be unfair in the current Standard? I think not – but players would love to get a chance to find out!).
+
+The only thing holding this back from happening is understanding – understanding from collectors that the Reserved List was a genuine mistake from a company that didn’t know any better at the time. Understanding that people (and companies) make mistakes and that sometimes you need to acknowledge and forgive a mistake and move on rather than holding a grudge or seeing the world in a strict Black-and-White that "a promise is a promise." If you know that the promise is hurting the majority of players and the company that made it isn’t it somewhat selfish to say "A promise is a promise and I don’t care how many people it’s hurting I want Wizards of the Coast to keep their word no matter what?"
+
+As always comments are welcomed and appreciated in the forums. Next week I’ll be going back to premium to talk about card values. See you there!
+
+Ben Bleiweiss
+
+General Manager of Acquisitions StarCityGames.com

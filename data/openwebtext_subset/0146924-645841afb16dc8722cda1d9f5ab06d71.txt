@@ -1,0 +1,25 @@
+Showing how futile Internet censorship can be, The Pirate Bay has registered a new domain name to allow Belgian users to access the site and bypass a recent court order. For just a few dollars, The Pirate Bay should now be fully accessible in the future, and the site has already started redirecting Belgian users to their new home.
+
+Yesterday the Antwerp Court of Appeal ordered the Belgian ISPs Belgacom and Telenet to initiate DNS blockades of 11 domains connected to The Pirate Bay within 14 days or face fines.
+
+The local anti-piracy movement applauded the verdict, which they see as a landmark case that will open the doors for further censorship attempts. However, it is questionable that it will have much of an effect.
+
+Earlier today we already reported how the usenet indexing site Newzbin2 updated its anti-censorship client to allow Belgians to keep their access to The Pirate Bay. And a few hours later The Pirate Bay team delivered an even easier solution.
+
+“The Judge obviously has no idea what he’s dealing with, because the verdict of this expensive court battle can be easily undone,” The Pirate Bay team told TorrentFreak.
+
+“Just a few minutes ago we registered a new domain that’s not listed in the order. We have already started pointing users from Belgium to the new address, so they know where to go when their ISPs implement the DNS blockade.”
+
+The new domain name is “depiraatbaai.be,” the literal translation of The Pirate Bay in Dutch. The new domain is already pointing to The Pirate Bay’s servers and people accessing the standard domain from a Belgian IP-address will be redirected to the new home.
+
+“We have to admit that Belgian domain names are not cheap, but we have to make a stand here,” The Pirate Bay team told us.
+
+The above is a clear example that the people judging on these issues don’t have the slightest idea what they’re dealing with. This is supported by the fact that the actual court order only lists the www domains of The Pirate Bay and not the bare addresses (www.thepiratebay.org vs. thepiratebay.org).
+
+The ‘error’ above was pointed out by Maarten Schenk and soon picked up by the mainstream media in Belgium. They point out that if the verdict is taken literally, the ISPs don’t have to block the domains without the www. A massive failure.
+
+“Let’s hope the ISPs are brave enough to put this theory to the test,” The Pirate Bay team notes.
+
+The take home message is, as always, that there are plenty of options for users and site admins to bypass these and other censorship attempts. Or as John Gilmore once said: “The Net interprets censorship as damage and routes around it.”
+
+For the time being the number of Belgian visitors to The Pirate Bay is only going up.

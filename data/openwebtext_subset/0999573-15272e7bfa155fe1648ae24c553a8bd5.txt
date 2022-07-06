@@ -1,0 +1,7 @@
+FIRST: Thank you for helping us hit the first stretch goal! We will add wireless communication capability between the STEM Base and the host.
+
+NOW, THE UPDATE: The STEM System represents an evolution from the earlier generation of Sixense technology used in the Razer Hydra. The STEM System features lower latency (even with wireless trackers), longer range and better tracking performance at all ranges. To help explain the technology behind these improvements, here is a video with Igor Khalfin, PhD, a member of our Advisory Board and one of the world's foremost authorities in high-precision tracking, guidance and navigation systems. (Dr. Khalfin’s bio is below the video.)
+
+Igor Khalfin, PhD
+
+Dr. Khalfin has over 30 years of experience in the aerospace/defense industries and academia, holds 5 patents in electromagnetic tracking and has published over 40 scientific papers on related topics. His expertise includes optoelectronics, electromagnetics, imaging systems and sensors, remote sensing, applied physics, signal processing, and nonlinear systems. Dr. Khalfin is currently employed with Lockheed Martin Space Systems Company, where he leads the projects on spacecraft control systems. His prior experience includes senior engineering positions at Rockwell Collins, Polhemus, State University of New York, and University of North Carolina, Charlotte. He holds a PhD in physics from Bar-Ilan University in Israel.

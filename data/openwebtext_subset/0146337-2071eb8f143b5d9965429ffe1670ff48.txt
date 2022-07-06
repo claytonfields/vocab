@@ -1,0 +1,125 @@
+Who moved my cheese, 1Password?
+
+Kenn White Blocked Unblock Follow Following Jul 13, 2017
+
+For the impatient, feel free to skip to the TL;DR summary.
+
+You may have read about some controversy recently over the widely-used password app 1Password. Through an odd turn of happenstance, in the span of a few days, several security researchers including me stumbled onto the realization that 1Password had made some major changes to their software. I made a comment on Twitter that seems to have blown up, and the misinformation that followed has been staggering. In the hundreds of comments & questions that followed and the dozens of sub-threads, it became obvious that Twitter was a really lousy medium for this kind of conversation. So, for the record, here’s my story.
+
+This past weekend, while setting up a new device for a project I’m working on, I thought I’d download the 1Password app. I’ve been a supporter of 1Password for several years, and have happily handed over many hundreds of dollars to parent company AgileBits. Within the applied crypto engineering world, the architecture has been scrutinized closely and the more recent implementations have generally been well-received. To me, the highest praise for a security product is when some of the best mobile security engineers in the field use the product themselves. That’s been the case for some time with 1Password. For those interested, AgileBits offers a number of technical white papers that detail the design & architecture of the product including the crucial choice of cryptographic primitives and how secrets are managed and protected. While the product is not open source, the storage format is, which is important to avoid vendor lock-in of your data.
+
+A password manager may seem like a trivial prospect. You just need to encrypt a few text strings, no? Unfortunately, there are myriad ways to screw it up. As Maciej Cegłowski of Pinboard fame once put it: “There is no difference, from the attacker’s point of view, between gross and tiny errors. Both of them are equally exploitable. This lesson is very hard to internalize. In the real world, if you build a bookshelf and forget to tighten one of the screws all the way, it does not burn down your house.”
+
+So, back to my new 1Password app installation. Because there was a possibility that down the road, I might need to keep a few fairly sensitive account credentials in the app, I chose “local vault” as a storage option. This means save my passwords on this device, not on a cloud server somewhere. There are countless ways that people (and companies) might use a password manager, but in my case, I need to be able to have full control over these particular bits of information. Sometimes there are regulatory, or contract obligations that mandate such decisions. But for my case, I don’t want to be dependent on any service, or require any internet connectivity to access and occasionally change or add new logins. I am more than happy to pay for solid software that is useful to me, and I want companies like AgileBits to thrive and to be able to hire the best engineers and security people available.
+
+Thus began my odyssey. While I was able to choose “Local Storage”, the app just kept presenting me with directory choices. I thought it was asking me where it should put my new vault. Um, I don’t know, wherever. But no matter what folder name I chose, I would just get an error to the effect “no vault found in [foo] folder”.
+
+Hmm. Well, this is a “free 30 day trial” for what had been a $50 app, so maybe I have to register or something. Kind of annoying, since I’d never done that before, at least as far as I could remember. Just to be sure, I searched my old mail. (I have archives going back to the ’90s. Sue me). No, I never had to register. I’d received plenty of Play Store & App Store receipts for lots of $49.99 1Password purchases in the past, but no email from either AgileBits or 1Password that I could find.
+
+Grumble, grouch, okay, fine, I’ll play along. I guess I should click “Start My Trial”.
+
+So I proceeded through a series of successive setup screens, which, as expected from the AgileBits design team, were very nicely done: Email / What should we call you / Create a master password (it complained about my test credential donkeykong¹. And rightly so. So I added a couple of 🐴 🐒 emojis too. Nope, need numbers as well. Fine) / Enter your master password again / Please check your email for a confirmation number and enter it here. Okay. Got it. Copy/paste. Good to go.
+
+Next, it was time to actually set up a few test login passwords. I enter a dummy web login for the site example.org, with username monkey1 and a dummy password.
+
+Save. Good. Close the app, reopen. At startup, I’m prompted to enter in my terrible master password: donkeykong🐴 🐒The80’sRockd (work with me here, people). Very good, everything seems to be in order. Oh, hey, look at that — they even took the trouble to save my real email, master password, a newly-generated super long master key thing, and the url for the 1Password.com site itself, should I ever need it. Nice touch.
+
+Just one problem.
+
+After playing with the app for a while, at some point I decided to click on that nifty 1Password Account entry. Up pops my browser at the 1Password login page. At this point, I hadn’t decided whether or not I would install a browser extension, so when prompted, I started to mechanically copy/paste my email, password, and that master key from the app into the 1Password login form in my browser.
+
+About half a second into that process, I started to have a queasy feeling in the pit of my stomach. I started thinking: Wait — why am I entering this stuff into a browser? I mean, I guess it makes sense; that must be what this long master key thing is. But wait. Did I screw something up with the setup? Why would my vault password be the same as the login to the 1Password.com website? Huh. No, really. What the hell?
+
+In this theater, it’s a package deal. Popcorn comes with the Coke.
+
+But this was just dummy data anyway. I’d come this far, why not go all the way. Then, up pops a new page. What the actual hell?
+
+As it turns out, what I had actually done in giving my email to the 1Password app to setup my vault was that I was now using the 1Password.com service. The 30 day free trial wasn’t a trial period for the $50 (now, $64.99) 1Password app, but rather was a trial subscription for the 1Password cloud service. Which by the way is branded, not terribly helpfully, simply as “1Password.com”.
+
+Nowhere in that process did I remember being specifically prompted to sync or backup my dummy accounts in the 1Password app to the 1Password cloud. It just happens. Automatically. When you respond to that initial “New to 1Password? Get started with your free trial of 1Password.com subscription” splash screen by clicking on the “Start My Trial” button, what you you are really saying is: auto-sync & backup everything by default into the 1Password cloud. In this theater, it’s a package deal. Popcorn comes with the Coke.
+
+Staring at my screen, at first I thought the 1Password cloud service was not only storing my encrypted data, but also decrypting my 1Password app data on their servers and then sending it back down to my browser as html (as I describe later, that turned out not to be the case).
+
+I had so many questions. But first, as a sanity check, I decided to do some googling. Turns out I wasn’t the only one confused. There were hundreds of posts in the 1Password customer forums over the past few months about the subscription service versus a one-time license purchase for the “stand-alone” app. But more interesting were the threads about local device vault storage vs cloud vaults.
+
+I learned that the AgileBits team is really, really going out of their way to push subscription accounts and cloud storage, across all platforms. Android, iOS (iPhones & iPads), Mac, and Windows. A constant theme throughout their forum responses is the refrain: “1Password memberships are the best way to experience using 1Password”.
+
+For example, one user reported:
+
+“I bought the iOS version last year. I didn’t ever use it and recently started using 1Password on my Mac. I’m being asked to subscribe now or it will turn off.”
+
+Part of the 1Password response was: “We’re no longer marketing the standalone license offering. While it is still possible to purchase it (I’ll email you a link), we are no longer recommending it for new customers. It requires more technical skill and attention to configure and maintain and as such we strongly feel the subscription offering is the better choice for most people.”
+
+Another variant: “Sorry about that, your requirement of local vaults is what makes it ‘advanced’/‘complicated’. We want all new customers to use 1Password.com as it is simpler to use by default.”
+
+I also discovered that Windows users who download the latest 1Password app (version 6), also have to use the subscription service, unless they too know about the link to the earlier version 4. I was not pleased that my in-laws might have to resort to some secret shibboleet-like sorcery just to install their favorite app on a new laptop, but turns out that’s not the case: 1password.com/downloads and “Get 1Password 4 (standalone version)”.
+
+On the latest 1Password Windows you simply cannot create new vaults on your local device and keep data off the cloud.
+
+On the latest 1Password Windows you simply cannot create new vaults on your local device and keep data off the cloud. You can read credentials from existing vaults or export the data out, but you cannot make new vaults or update or add to any existing vaults. It’s cloud or go pound sand.
+
+To be fair, the support people from AgileBits have said as recently as June 15th, that maybe, some day, they might bring back first class citizenship for local data storage on Windows, but the message has been mixed:
+
+“we’re going to remove the older local vault reader + sync support in the upcoming 1Password 6.6 update”
+
+Very mixed:
+
+But let’s step back a minute. When you cut through all the noise, there are really two core issues here: the cost model (subscription licensing versus one-time “stand-alone” purchase), and a second related, but from my perspective, much more fundamental issue: Where are my data stored and how much control do I have over them?
+
+A Twitter exchange between 1Password co-founder/security chief Jeffrey Goldberg and cryptography pioneer Matt Blaze on Twitter speaks to many users’ perspective:
+
+[…]
+
+I have less objection to the subscription model than others because I don’t have the same expectations of commercially produced & supported software as from open source alternatives. Particularly given the substantial resources needed to keep up with multiple platform updates, deal with the Play/App/Windows Stores, and the attendant customer support demand. I would greatly prefer to purchase every couple of years as my devices’ operating systems evolve, but in any case, if a periodic/annual fee is the cost for critical personal security software, I could live with that, but the implementation details are everything. Should my subscription happen to lapse and I “lose” cloud sync, fine. If my data go into read-only mode, that is an absolute deal breaker. And I need engineering guarantees that they won’t, not marketing promises.
+
+When I stumbled onto my unwitting use of the always-synced 1Password service for my test setup, at first I thought 1Password was both storing my encrypted data and also decrypting it on their servers once I logged in to the site with my credentials and keys. That turned out not to be the case:
+
+Mea culpa. I stand corrected.
+
+From a geek perspective, it’s kind of amazing that the HTML5 WebCrypto API has evolved enough to allow that. But there’s still a fundamental problem. Unlike, say, Signal Desktop which is a Chrome App with a known signature and a well-understood body of code, this is on-demand web-based javascript which gets pulled down anew every time I visit the 1Password site (which is presumably a lot, since it’s also where you manage your monthly billing and any other cloud syncing sorts of things that one does).
+
+The conversation continues:
+
+You might notice that “@jpgoldberg” is a reference to Jeffrey Goldberg mentioned earlier, the security chief at 1Password. We had a light-hearted discussion with a mutual colleague who went so far as to invite us to take part in a debate. Notice the end of this exchange.
+
+The security chief at 1Password seems to be saying that he’s not a big fan of the browser client either, or at least acknowledges the inherent additional risks that this particular type of host-based javascript crypto (i.e., live web page loads, versus a fixed browser extension or app) introduces. There is a very long history on the subject. One of the reasons why security professionals recommend two-factor authentication (2FA) when visiting high-value sites is that the bad guys have become very good at fooling humans into accidentally exposing their most sensitive data.
+
+One trivial example: if I’m in a rush, maybe on my mobile, and receive a Gmail doc from a friend, I might well click on g00gle.com not recognizing that it’s not actually google.com. But my YubiKey won’t be fooled. Jacob Hoffman-Andrews has a great overview & concrete advice on this in his post How Not to Get Phished (highly recommended).
+
+While a future rollout is planned, 1Password does not currently offer 2FA for individuals, though it seems to be either available or in beta for the Teams version.
+
+That is unfortunate.
+
+What to do? Well, in my case, if asked, I’m putting a pause on enthusiastically recommending 1Password for colleagues. For family & friends, I’m not really sure. For most people, even a sub-optimal password manager beats none at all. The reality is, most people will either just write down or reuse (probably lousy) passwords for most sites they visit, putting them at great harm when the inevitable next high-profile breach occurs. The situation has become so grave that new 2017 federal guidance for passwords actually anticipates and even encourages web service operators to check widely-circulated dumped password lists when users sign up for new account. And, yes, that very might well include hashed passwords from AshleyMadison or LinkedIn. Facebook has apparently been doing this for some time, and good for them.
+
+Personally, in the short-term this doesn’t really change anything for me. I love my 1Password vaults and will continue to use the stand-alone apps I’ve purchased and installed. What I can say with confidence is: Do a little research, because while many password managers exist, even some that look promising are still maturing, sometimes painfully. Too, please don’t just pick whatever happens to bubble to the top of a PC Magazine Editors’ Choice piece. If cloud sync works for you, great. But be very vigilant about unscrupulous rent-seeking services, exactly what protections are in place, and to what degree your data are locked in.
+
+Long term, I’m not sure. Some of the 1Password principals have reached out to many of us in the security community and asked for some guidance to work together. That’s encouraging, and I’ll do what I can, because I really do think the core product is solid. The strong pushback is because 1Password moved my cheese, and sometimes location is everything.
+
+As one person quipped on Twitter: “I prefer password managers that are not in the news”. Hear, hear.
+
+____
+
+TL;DR recap:
+
+1Password is aggressively pushing a software as a service model for their app.
+
+The stand-alone apps are no longer being marketed, and there are references in the forum to customers having to request special links. I’ve not looked at every single platform version, but at least for Windows, the link is still on the AgileBits download page if you know to look.
+
+Local device storage (i.e., local vaults) are being strongly discouraged, and in my view, barring a course change, headed for full deprecation.
+
+In the latest 1Password version 6.x for Windows, you can no longer create or update local vaults. That might change in the future, or it might not. But their forums make it clear that they are strongly pushing all new customers to non-local storage.
+
+The 1Password.com web site login uses unsigned on-demand host-based javascript, and users must enter their vault password & master key to sign in to the site, even for for routine billing updates. Absent 2FA/U2F, there’s a real risk of simple phishing.
+
+At the time of this writing, 1Password has made no public blog post or coherent announcement explaining the new roadmap, just lots of mixed messages from the PR team, the principals, the forums, and their Twitter feed staff. Update : blog.agilebits.com/2017/07/13/why-we-love-1password-memberships
+
+: blog.agilebits.com/2017/07/13/why-we-love-1password-memberships If you have and use 1P, great. I do too! But you might log in to 1Password.com to see exactly what you have backed up in their cloud.
+
+My issue is transparency & control. For many others, it’s also cost. As I have said repeatedly, I want companies like AgileBits to thrive. I want them to be able to grow and to continue to hire the best security and product design people around. But I want the choice of where my data reside.
+
+__________
+
+¹ I’m I’m joking of course about the dummy passwords. The best passwords are machine-generated, 16+ characters. But those are hard to remember, so make sure to use a password manager. Hey. Wait a minute…
+
+Special thanks to Eric, Rob, Zack, Joe, Thomas, Matt, Roustem, and others who graciously offered their time to review an earlier draft.

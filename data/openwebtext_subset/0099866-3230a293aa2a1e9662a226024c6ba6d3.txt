@@ -1,0 +1,123 @@
+(Editor’s note: The following is an email we received from a listener and his wife, who play Oxi and Kitkam on The Shadowlands server. Our sincere thanks to them both for providing such a comprehensive report!)
+
+I thought I’d give you an exclusive on the happenings at the Cantina Tour in Dallas on May 17th. My wife and I went to meet with the developers and other fans. Yes, she is an active SWTOR player, I am a very lucky man and acknowledge this.
+
+We had a great time. About eighty people showed up, nearly all of them players. It’s worth noting that about a quarter of them were women, and there were many player couples there as well.
+
+Four BioWare people were there to answer questions and meet the fans. Damion Schubert (Lead Designer), Jesse Sky (Senior Designer), Amber Green (Live Services Specialist – a.k.a. helps fix bugs and writes the patch notes) and Eric Musco (Community Manager a.k.a. a ball of energy).
+
+Overall it was a very casual atmosphere. All types of fans were present (both the good and the troll). The room was packed, especially at the beginning. Free appetizers and drinks were available all night, provided by BioWare.
+
+Prizes were also given out. Everyone got the much coveted Tauntaun Fawn code. A couple of people got Star Wars Gentle Giant bookends (pricey!), signed copies of SWTOR books were given out, and even clothes and hats.
+
+Most of the night was spent mingling, but for about an hour the developers took a casual Q&A from the room-at-large and were very honest and as candid as they could be.
+
+I tried to write down most of the questions. I’ll paraphrase their answers. I wasn’t able to cover all the questions asked at the event, nor their answers. Please note that any answers I heard from the BioWare team are being interpreted by me writing quickly on a small notepad, and thus should not be weighted with the same degree of importance as if they’d come from BioWare. Any errors reporting are my own, not theirs.
+
+Questions
+
+1) Will we get Legacy Datacrons?
+
+Jesse Sky: High on his own list of wants, but no ETA.
+
+2) Can we get Dye Packs for Speeders?
+
+Eric Musco: Probably not, because speeders are an ABILITY, not an item.
+
+3) Legacy Commendations Transfers?
+
+Jesse Sky: Likes idea but no ETA. They’ve talked about this before, but worried about unintended consequences.
+
+4) Will guild members be able to auto-fund their guilds by doing missions, where both the player and the guild get credit equally?
+
+Damion Schubert: It’s on our Wall of Crazy. No ETA.
+
+(The “Wall of Crazy” refers to the abundance of good ideas for content that they want to put out, but can only take on so many ideas with finite resources and various larger priorities. It’s crazy the amount of good ideas they have.)
+
+5) Legacy Chat System?
+
+Damion Schubert: It’s on the Wall of Crazy, but recently became more of a possibility due to the recent unintended bug, where players could chat with someone across all of that player’s toons.
+
+6) Why aren’t Dreadtooth Masks under hoods and why aren’t they Legacy in the new Collections?
+
+Damion/Eric/Jesse: They are an item they want you to earn on your individual character, not as part of a Legacy. It’s part of the high end-game content. There would be many technical issues to overcome in order to make that happen. Also it’s a HELMET in their view, not a mask, and you don’t usually put hoods over helmets.
+
+7) Why weren’t the Cathar discounted for subscribers?
+
+Eric Musco: They’ve very much heard the community on this, and are actively coming up with more ideas for future subscriber benefits or discounts.
+
+At this point, Eric actively stressed how much they care about subscribers getting much more out of the game than free-to-play. Damion also then stated that his team at BioWare now is the best they’ve ever been at implementing and fixing content as well as actively listening to feedback throughout the community. Damion also said that subscribers will be getting a lot better PvP experience over free-to-play in the future. Then they talked in-depth about the struggle it is to balance subscribers and free-to-play.
+
+(In my opinion, it sounded like he was saying they might not always get it right, but that they care about getting it right in the long run, especially with subscribers. And that very HUMAN, not corporate, distinction is important to note.)
+
+Damion went on to say that subscribers are buying the majority of the Cartel Coins and that information isn’t lost on them. Cartel success equals more resources that BioWare can have to develop more game content. He also stated very emphatically that in his personal philosophy he’s against “Pay to Win” gaming.
+
+8) When are we gonna get Guild Ships?
+
+Damion Schubert: Guild Ships are his baby, he really, really wants us to have them, but will be a long time before they come out. And ONLY when they look awesome.
+
+Eric then went on to say that they know guild players are the most active and loyal subscribers statistically in the game and that this info isn’t lost on them.
+
+9) More Open World PvP?
+
+Jesse Sky: Difficult to implement and no plans ATM. If we do see more it’ll be more like the Gree event.
+
+10) Guild banks on Ships and More Guild Bank Slots?
+
+Damion Schubert: I’ll add that to my Wall of Crazy.
+
+11) Why is Revan’s Mask not part of the Collections when it was used as an example as being something in the Collections?
+
+Eric Musco: (He got very honest and open with us on this one.) Revan’s Mask should not have been used as an example. It was an honest mistake. Revan’s Mask is about a specific toon achievement gain, not Legacy. Sincerely apologize for the confusion.
+
+Eric and Damion then went on to say that only so much gear can be a part of the Collections and the achievements because of technical limitations.
+
+12) Will PvP arenas for small teams come out?
+
+Damion Schubert: He couldn’t answer directly, but said that a big PvP patch was coming soon that should make us happy.
+
+(In my opinion, it seemed they were very aware of the lack of love for PvP in recent months and are very excited at what will be coming out for PvP in the near future.)
+
+13) Is Bolster now working?
+
+Jesse Sky: Bolser is working better now but if you see problems please let them know through the official forums or tickets. Screenshots help.
+
+14) Will more Collector’s Edition content be coming out?
+
+Eric Musco: More CE content is coming out. Dyes not binding on CE and Security vendors was not intended. Future exclusive content is coming.
+
+15) How successful was the Cathar?
+
+Damion Schubert: Cathar was a very big day for them. Also because of Dye Packs and the ability to change your look. So successful that they’re actively paying attention for more ideas in the future for all of this. They’re closely watching the boards for feedback on the Cathar and body customization and how it will relate to the future content they implement.
+
+16) Is Alacrity Working as intended in 2.0 for players?
+
+Jesse Sky: No. It’s working as we originally implemented, but players aren’t using it as intended and that’s something we may work on.
+
+17) Why aren’t same-gender relations in the story content?
+
+Damion Schubert: At this point Damion got very sincere and earnest in his feelings about this subject and talked for a few minutes about it. Summarising what he said, same-gender was not part of the original design team’s implementation, so it didn’t get included. In retrospect they say this was a mistake. It will be too difficult technically to change the game story as it sits now to include same-gender, but moving forward they will not make the same mistakes. Additionally more story content is coming, but no ETA.”
+
+18) Will we ever get flying mounts?
+
+Damion/Jesse: (Both laughed at this.) Don’t hold your breath. To get flying mounts they’d have to redesign the entire game.
+
+They went into some brief practical and technical reasons why not. It would be an enormous resource drain for a significant amount of time and that energy could be better spent elsewhere. If it were to ever happen in SWTOR (which it won’t), it would have to be in a new area of the game specially designed with flying mounts in mind.
+
+19) Was the Cantina tour held in Dallas this weekend because of the Comic-Con event at the same time?
+
+Eric Musco: Yes. As much as possible we’re combining like-minded events.
+
+At this point someone asked about the restriction on the frequency of (player) name change to the game, and Damion said he needed to get “philosophical” with us. In his opinion, the less player names change the better. Why? Because to create a more stable community that can police itself, it’s better that trolls and jerks can’t change their name. If people were able to do this whenever they wanted with no monetary penalty, trolls would change their names all the time and degrade the overall community. He went on at length on this subject. If the internet were a happy perfect place he’s all for it, but because it’s not we need to be realistic and think about consequences. (Before this I was for name changes, after I heard him I was against it; he was very convincing!)
+
+Finally, Damion, Jesse, Eric and Amber said they loved the Cantina tour because it keeps them motivated and in touch with the fans’ feelings that you only get in person.
+
+We then spent the rest of the night talking with the developers either one-on-one or in small groups. For me, the thing I’ll take away from the event was that these are people who are trying their best with finite resources and time, and that they sincerely love this game. They play the game themselves and want it to succeed as much as, or more, than the players. They’re full of energy (amazing to me) and very funny. Amber joked that you’d be shocked at how much of their own money the people at BioWare have spent on buying the Cartel packs. Specifically Amber and Eric said that when they’re not working, they’re playing all the time and that when players are frustrated, so are they. They don’t have to relate, they live it with fellow players. When something bugs, they get mad too, and they work on fixing it. They encouraged players to submit tickets and post issues on the forums with screenshots. BioWare can’t spot everything, and need accurate feedback from the community to help them overcome bugs/issues.
+
+All four of them handled the crowd pretty well. They each took a thousand rapid-fire fanboy and -girl questions for four hours. Major props for professionalism, especially when some of the fans lacked basic human interaction skills or hygiene.
+
+The four of them gave real, down-to-earth answers. We shook hands, we broke bread, we shared beer and we could look each other in the eye. We came out of it more hopeful for SWTOR than before. We were very glad to have gone.
+
+We would highly recommend for other fans to go to future Cantina Tour events. Make sure you get there early.
+
+May the Cartel Coins be with you!

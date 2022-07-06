@@ -1,0 +1,27 @@
+Ebony Frelix is senior vice-president of philanthropy and engagement at Salesforce.org.
+
+Parents have certain expectations when they send their children to school. They'll learn to read, write, do math, maybe learn a second language, generally prepare for postsecondary education and build a foundation for entering the workforce. But most Canadian kids aren't getting everything they'll need for the working world that will await them upon graduation.
+
+Late last year, the Information and Communications Technology Council released a comprehensive Labour Market Outlook for Canada, revealing that by 2019 there will be 182,000 jobs in information and communications technology that will go unfilled by homegrown Canadian talent because not enough people will have the right skills.
+
+Story continues below advertisement
+
+According to the report, the most in-demand positions will include information systems analysts and consultants; computer and network operators and web technicians; computer programmers and interactive media developers; software engineers; graphic designers and illustrators; computer and information systems managers; database analysts; and data administrators. These jobs will be available in virtually every industry and field – from health care and education to entertainment and technology – and will provide challenging, varied and highly satisfying work.
+
+Why the shortfall? Not enough Canadians are graduating with computer science degrees. The Conference Board of Canada found in 2010 that the proportion of overall graduates with degrees in math, science, computer science and engineering disciplines was 21.2 per cent, a number that is on the decline. Of those graduates, the fewest were enrolled in computer science and engineering programs.
+
+With the promise of gainful – and frequently lucrative – employment at the completion of a degree in computer science, it seems counterintuitive that students aren't clamouring for acceptance into these programs. The problem, it seems, starts much earlier than the time students begin filling out university applications: Canadian kids just aren't exposed to coding.
+
+Earlier this year, Prime Minister Justin Trudeau expressed his belief that "we need to do a lot better job of getting people to understand what coding is and how it's important." While this might seem promising, education falls under provincial, not federal, jurisdiction in Canada, which means that every province dictates curriculum – unlike say, Britain, where in 2014 coding was introduced into the national curriculum. Now British children as young as 5 are taught programming in order to prepare the next generation for the jobs of the future.
+
+Finland, where nearly a third of all university graduates hold a degree in a STEM subject, has also implemented coding as a mandatory subject for all students, and is seen as a model for other European countries.
+
+Provinces such as British Columbia and Nova Scotia have made commitments to prioritize coding in their schools' curriculums as part of a broader strategy to deliver more support to each province's tech sector. But Ontario, which will have more than 3.5 times as many projected open jobs in 2019 (76,300) as British Columbia (20,900), has not. While Ontario has made a recent move to increase the amount of math instruction in the classroom to 60 minutes per day, computer science remains an elective high-school course for the majority of the province's students.
+
+Some schools provide specialized computer-science streams, and the Toronto District School Board has implemented a STEM Strategy across all grades, but for the most part, kids who are interested in learning to code must look for opportunities outside of classroom hours. Thanks to not-for-profit programs, such as Code.org and CoderDojo, supported by companies such as Salesforce, and innovative initiatives, such as Free Your Mind: A Hip Hop Education STEMposium, students can be exposed to coding if they seek out the opportunity themselves.
+
+Story continues below advertisement
+
+Story continues below advertisement
+
+By prioritizing coding, Canadian children will be better prepared for the jobs of the future, which is essential for the country's future economic engine and innovation. It's time for the rest of the provinces to follow the leads of British Columbia and Nova Scotia and equip students for the future.

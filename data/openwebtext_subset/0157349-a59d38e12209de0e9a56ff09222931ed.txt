@@ -1,0 +1,15 @@
+Deploying a Ruby app with Passenger to production
+
+Passenger is an open source web application server for Ruby. It handles HTTP requests, manages processes and resources, and enables administration, monitoring and problem diagnosis. Passenger is very easy to use, makes deploying in production much easier and is scalable.
+
+What is this tutorial?
+
+This is an end-to-end tutorial that teaches you how to install Ruby and Passenger on a production server. This tutorial will ask you some questions, so the exact tutorial steps depend on the choices you make. In general, it covers these topics:
+
+Launching a server Installing the Ruby runtime Installing Passenger Setting up the production server in preparation for the application, such as creating a Unix user account and setting up permissions Deploying the application itself Updating the application to newer versions Optional integration with a web server, such as Nginx or Apache
+
+Not familar with Passenger? Please take a look at the quickstart and the basics tutorial. Developing? Looking to run Passenger in development? Then please read the basics tutorial or the development guide. Advanced user? Simply skip the steps that you are already familiar with, or refer to our installation guides which are not end-to-end, but are shorter and more focused.
+
+Ready to get started?
+
+Please start by picking the hosting provider or infrastructure that you want to deploy to.

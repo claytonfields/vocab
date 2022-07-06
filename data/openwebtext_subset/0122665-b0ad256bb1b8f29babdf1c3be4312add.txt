@@ -1,0 +1,11 @@
+Share
+
+Avoiding gluten may be about to get a whole lot easier — and it’s all thanks to CRISPR gene editing. That’s because a team of researchers at the Institute for Sustainable Agriculture in Cordoba, Spain have used the technology to eliminate the majority of the gliadins (the gluten proteins which cause most of the gluten intolerance issues for people with celiac disease) in wheat.
+
+“Gluten proteins, and specifically gliadins, are major [factors] responsible of triggering celiac disease in genetically predisposed individuals,” Dr. Francisco Barro Losada, the geneticist whose team carried out the research, told Digital Trends. “There are many gliadin genes in the grain of wheat, which makes it impossible to obtain gliadin-free wheat lines using classic breeding methods. Gene editing by CRISPR/Cas allow the introduction of mutations in specific genes, and shutting down [of] those genes. In this work, we were able to mutate 35 out of 45 gliadin genes in bread wheat, and reduce wheat toxicity up to 85 percent. This is an unprecedented application of CRISPR/Cas technology. The low-gluten, transgene-free wheat lines described in the work constitute an unprecedented advance, and the resultant lines provide excellent source material for plant breeding programs to introgress the low-gluten trait into elite wheat varieties.”
+
+Barro Losada points out that at present the resulting wheat isn’t (yet) suitable for celiac disease patients — since it still contains some gluten, even though this is at a lower quantity. However, the wheat could still be used to prepare low gluten foods for those who wants to reduce their intake of gluten. Because there is a sizable group of people able to tolerate only low amounts of gluten, this could be a major benefit to them.
+
+“We are working now with the gliadin genes still present in these lines,” Barro Losada continued. Specifically, the team hopes to be able to disable the remaining 10 genes to make sure that no gliadin proteins are produced. Should all go to plan, and provided that this is deemed to be safe through the proper channels, hopefully it won’t be long before a whole new range of gluten-free products appear on grocery store shelves everywhere.
+
+A paper describing the work was recently published in Plant Biotechnology Journal.

@@ -1,0 +1,31 @@
+In recent years, we have seen many wonders done with Raspberry Pi and Arduino in different DIY computing projects. Because of their size and their price, these single-board computers have been used in the creation of everything from home media centers to a space-ready X-Wing. And now Now, one creative user has just turned Motorola Lapdock into an actual laptop with Raspberry Pi Zero.
+
+Also Read : Software Bug Put Several MediaTek Powered Android Smartphones Vulnerable to Attack
+
+LogBook : Turn Motorola Lapdock Into A Laptop With Raspberry Pi Zero
+
+One creative Raspberry Pi owner, just changed Motorola Lapdock 100 into a a fully fledged laptop with Raspberry Pi Zero and a couple of cables.
+
+Motorola Lapdock 100 is a CPU-less laptop designed for plugging in your smartphone that enabled you to use your phone as a computer.
+
+Motorola launched the product in 2011, but it wasn’t a big seller and the company discontinued its Lapdock products about a year later.
+
+Now about the Raspberry Pi Zero, it is a surprisingly powerful machine, with 512MB of RAM and a CPU faster than the original Pi. Pi Zero is the heart of a Raspberry Pi on a tiny 65mm x 30mm board with mini-HDMI, micro-B OTG USB, and the same 40-pin GPIO it still has great connectivity and cost only $5.
+
+Hence turning Lapdock to actual laptop won’t cost you much money if you follow the plans laid out by blogger Ax0n over at H-I-R.net.
+
+Also Read : Now Nintendo 3DS XL can Run Windows 95
+
+All it takes is a Raspberry Pi Zero and a couple of cables. Heck, even if you have to go out and buy a Lapdock this still isn’t an expensive build.
+
+Because the Raspberry Pi Zero sells for just $5. You can pick up the two cables you need — micro USB to USB OTG and female micro HDMI to HDMI — from Amazon for around $8. You should be able to find a working Lapdock on eBay for $60 or $70. That brings the total bill to roughly $80.
+
+Previous iterations of the Raspberry Pi and similar computers from other manufacturers worked well with the Lapdock, but the wiring used to connect the two devices could make things messy.
+
+But the Raspberry Pi Zero is so tiny that everything fits in the case with some minor modifications.
+
+One of the modifications made by Axon is drilling out two holes — one to allow easy access to the Pi’s micro SD card slot and another just over the Lapdock’s reset button. Check out the full guide here.
+
+So Still, if you happen to have an old Lapdock gathering dust and $5 to spare, it might be worth trying out this build for yourself. It might not be a PC capable of running the latest video games, but it’s certainly an interesting project.
+
+Also Read : PlayStation 4 Hacked to Run Linux

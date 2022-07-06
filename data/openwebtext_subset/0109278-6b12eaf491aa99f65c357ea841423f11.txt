@@ -1,0 +1,77 @@
+This page in English
+
+Projektet Samnordisk runtextdatabas har som syfte att samla samtliga nordiska runinskrifter digitalt. Inskrifterna återges i translittererad och normaliserad form samt i engelsk översättning. Det ingår också uppgifter om t.ex. tidsperiod, fyndområde, excerperad källa och lägeskoordinater.
+
+Huvudansvarig: Henrik Williams. Start: 1993. Finansiär 1993-7: Axel och Margaret Ax:sons Johnsons stiftelse för allmännyttiga ändamål.
+
+Den senaste versionen av Samnordisk runtextdatabas kan laddas ner här nedan. Besök Uppsala runforum för äldre versioner och mer information om databasen.
+
+Upphovsrätt
+
+Vid citering av och länkning till runtextdatabasen används alltid följande URL: http://www.nordiska.uu.se/forskn/samnord.htm
+
+Genom att ladda ned runtextdatabasen godkänner du följande användarvillkor för Samnordisk runtextdatabas:
+
+Samnordisk runtextdatabas är upphovsrättsskyddad men tillgänglig under licensen Open Database License. Enskilt innehåll i databasen är tillgängligt under licensen Database Contents License
+
+I tillägg till villkoren i Open Database License gäller följande för dig som användare eller utvecklare:
+
+Du får gärna använda databasen eller en modifierad version av den i dina egna applikationer, men om du gör så måste du meddela Uppsala runforum (runforum@nordiska.uu.se) att denna lösning finns.
+
+Modifierade versioner av databasen får inte längre kallas "Samnordisk runtextdatabas" eller "Scandinavian runic-text Database". Emellertid måste tydligt framgå att den modifierade databasen bygger på Samnordisk runtextdatabas.
+
+Vid varje tillfälle du citerar eller på annat sätt använder information från databasen måste du hänvisa till den genom att nämna dess namn och länka till dess webbsida (www.nordiska.uu.se/forskn/samnord.htm). Det gäller exempelvis (men inte uteslutande) varje gång information ur databasen exponeras i din applikation, webbplats eller publikation.
+
+Ladda ned Samnordisk runtextdatabas
+
+Samnordisk runtextdatabas levereras i fyra olika paket. Själva databasen är identisk i de fyra. Den senaste uppdateringen skedde 2018-01-19. Läs mer om den aktuella versionen.
+
+1. Installationsfil for Microsoft Windows (.exe)
+
+Ladda ned installationsfilen
+
+Använd installationsfilen om du vill installera Rundata på din personliga dator.
+
+Installationsfilen gör följande:
+
+Installerar Rundata på din dator
+
+Skapar en genväg från skrivbordet till Rundata
+
+Skapar genvägar från startmenyn till Rundata
+
+Skapar ett program med vars hjälp du kan avinstallera Rundata
+
+Ladda ned filen till din dator och dubbelklicka på den. Följ sedan instruktionerna på skärmen.
+
+Som standard installeras Rundata i mappen C:Program, C:Program Files eller motsvarande. Välj en annan katalog om du inte har tillräckliga rättigheter för att installera program i C:Program.
+
+2. Självuppackande filkatalog (.exe)
+
+Ladda ned filkatalogen
+
+Den självuppackande exefilen kopierar Rundata och Samnordisk runtextdatabas till önskat ställe på din dator eller extern enhet. Inga genvägar skapas.
+
+Använd den självuppackande exefilen om du vill lägga Rundata på en minnepinne. Du kan på så sätt ta med dig Rundata i byxfickan och köra programmet på vilken Windowsdator som helst. Det är endast installationsrutinerna som skiljer denna version från installationsfilen; program och databas är identiska i de båda versionerna.
+
+Ladda ned filen till din dator och dubbelklicka på den. Följ sedan instruktionerna på skärmen.
+
+3. Zip-fil
+
+Ladda ned zipfilen
+
+Använd zipfilen om du inte får eller kan packa upp exe-filer på din Windowsdator.
+
+Ladda ned filen till din dator och öppna den med ett uppackningsprogram. Starta programmet genom att klicka på rundata.exe.
+
+4. Endast databas
+
+Ladda ned databasens textfiler
+
+Tyvärr fungerar programmet Rundata bara på Windowsdatorer. Använd databasfilen för att komma åt Samnordisk runtextdatabas i ett annat operativsystem än Windows.
+
+Loggbok (pdf)
+
+Ladda ned loggboken
+
+En pdf-fil med alla ändringar i Samnordisk runtextdatabas 2014.

@@ -1,0 +1,133 @@
+When President Obama was unable to pass climate legislation in 2009 and '10, he turned to the Clean Air Act to regulate carbon emissions.
+
+Critics cast this as an unprecedented expansion of Environmental Protection Agency authority, but in fact it was part of a long tradition in US environmental law, which has seen a few foundational pieces of legislation evolve and grow ever since they were passed decades ago.
+
+Earlier this year, a group of scholars proposed a way that Clean Air Act authority could be pushed even further, far enough to establish the very kind of economy-wide, cross-sectoral carbon trading program that was proposed in '09 — the kind of system climate wonks have always wanted but long considered out of reach.
+
+It's an audacious plan, certain to make heads explode on the political right. But if Hillary Clinton is elected in 2016, it may be the only path available for her to push climate policy as far as it needs to go to meet the commitments the US made in Paris last year.
+
+Before describing the plan, let's walk through a little background about the tradition in US law that it is meant to carry forward, to better understand its significance.
+
+Green drift: the growth and evolution of post-'60s US environmental law
+
+In the Constitution and the Bill of Rights, America's founders laid down a set of principles that ended up being much more radical than they could have envisioned. Because those principles were phrased so broadly and in some cases vaguely, they have remained open, alive to new interpretations and applications.
+
+The story of social progress in America has been the struggle to take those principles more seriously than their authors did, to extend and deepen the family of those "created equal before God," due basic rights and protections under law.
+
+Though very few Americans appreciate it, there has been an analogous process in US environmental law. The legislators in the 1960s and '70s who passed the seminal environmental laws in the US — the Clean Air and Clean Water Acts, the Endangered Species Act, the National Environmental Policy Act — structured them around broad principles that have proven astonishingly adaptable to changing circumstances.
+
+There are provisions in the Clean Air Act that amount to, "If it's in the air and it harms people, regulate it," without specifying what "it" might be. Rather, the law allows for periodic scientific reviews to hone our understanding of human vulnerability to atmospheric pollutants. As scientists better understand the threats, administrators are empowered to update regulatory protections, without going back to Congress for permission each time.
+
+Sure enough, successive generations have pushed the laws forward. In fact, the vast bulk of environmental progress in the past four decades has been what political scientists Christopher McGrory Klyza and David Sousa call "green drift," the unfolding of those foundational environmental laws. It is the reason environmental progress has continued even in the face of legislative gridlock.
+
+(The laws have seen major legislative updates; the Clean Air Act, signed in 1963, was amended in 1970, 1977, and 1990, each time by a Democratic Congress. But that's been the exception rather than the rule, and green drift has continued even in the absence of legislative updates.)
+
+Obama relied on green drift too
+
+Obama hoped to go further, to secure a new legislative agreement to address climate change. But he found gridlock more entrenched than ever, the foundational obstructionism of congressional Republicans overlaid with the fossil fuel loyalties of coal- and oil-state Democrats.
+
+And so Obama too has found himself with no choice but paddle along with green drift.
+
+He inherited the 2007 Supreme Court decision Mass. v. EPA, which ruled that the Clean Air Act must cover carbon dioxide as a pollutant if it is ruled dangerous (which it subsequently was). It was an opportunity, and, with legislation a smoldering memory, Obama has taken it.
+
+He boosted fuel efficiency standards under Clean Air Act Section 202, created carbon emission standards for new power plants under Section 111's New Source Review, and implemented carbon emission standards for existing power plants under Section 111(d) — that's the Clean Power Plan.
+
+The problem with these measures, as any economist will tell you, is that they are piecemeal and somewhat inefficient. They target sectors and technologies, not carbon emissions directly. They put widely varying (implicit) prices on different tons of carbon emissions, where an economically optimal system would (supposedly) price all tons the same.
+
+But most observers thought that's as far as Obama could go.
+
+The Paris climate agreement may have unlocked an obscure Clean Air Act provision
+
+A group of legal scholars have drawn attention to a somewhat obscure section of the Clean Air Act that they say could unlock greater executive authority — which even the economy-wide system wonks so fervently desire.
+
+(Side note: This proposal actually dates back a while. See analysis from 2009, 2010, 2010, and 2013. The difference this time is that the Paris climate agreement happened and more scholars signed on to the proposal.)
+
+The analysis, from the Institute for Policy Integrity, the Sabin Center for Climate Change, and the Emmett Institute on Climate Change and the Environment, focuses on Section 115 of the Clean Air Act, the provision on "international air pollution."
+
+There are two prerequisites for invoking Section 115:
+
+Section 115 is triggered when (1) EPA finds that emissions in the United States contribute to air pollution that endangers public health or welfare in another country (the "endangerment finding"), and (2) EPA determines that the other country provides "essentially the same rights with respect to the prevention or control of air pollution occurring in that country as is given that country" by Section 115 (the "reciprocity determination").
+
+The first one is easy — EPA has already made an endangerment finding for carbon dioxide on the domestic side. No reason it wouldn't extend to other countries, too, as carbon dioxide spreads globally.
+
+The second, reciprocity, is a little trickier. The authors say:
+
+Although there are numerous bilateral and multilateral agreements on which EPA might rely [to show reciprocity], the strongest evidence may be found in the procedural rights provided and the substantive commitments made through the United Nations Framework Convention on Climate Change (UNFCCC) and the international efforts to address climate change which recently coalesced in Paris in December 2015.
+
+In other words, the Paris climate agreement demonstrates reciprocity and triggers Section 115.
+
+Maybe. It could, and likely will, be argued that since the commitments made in Paris are not legally binding, they do not show enough reciprocity to justify legally binding regulations in the US.
+
+Or one can imagine many other routes of legal attack, all of which would be tried if this became a real possibility. It doesn't help that Section 115 has never been used and thus never tested before a court.
+
+Section 115 would basically allow EPA to take over everything
+
+If Section 115 is triggered, it leaves the means of regulation almost entirely open, making no specifications as to sectors or source types, just "any air pollutant or pollutants emitted in the United States [that] cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare in a foreign country."
+
+That's pretty broad.
+
+All it prescribes is that states be required to update "so much of the applicable implementation plan as is inadequate to prevent or eliminate the endangerment." That's a reference to state implementation plans (SIPs), which all states already have in order to enforce other EPA regulations.
+
+So if Section 115 is triggered, EPA is to require that states update their SIPs to a level that would prevent the threat (in this case climate change).
+
+This part is certain to be a target of legal fire: US states cannot, on their own, "prevent or eliminate the endangerment" from climate change. So whatever target is set by EPA will be somewhat arbitrary. The authors say EPA would be justified in adopting the target Obama pledged in Paris: 26 to 28 percent below 2005 levels by 2025.
+
+Maybe.
+
+SIPs leave enormous flexibility for states, allowing them to choose trading systems, carbon taxes, low-carbon fuel standards, or what have you. They just have to meet the overall emissions target set by EPA.
+
+But as a backstop, the authors say, EPA could create an economy-wide emissions trading system (none shall call it "cap and trade").
+
+They argue that the economy-wide program could absorb existing carbon dioxide regulations on power plants, allowing cross-sectoral trading between power plants and other sources. It is, they say, "capacious":
+
+Indeed, Section 115 is capacious enough for EPA and the states to build an emissions trading program that is interstate, national or even international in scale, and that is economy-wide in scope, incorporating power plants and other Section 111 sources, non-Section 111 industrial sources, transportation fuels, commercial and residential natural gas, energy efficiency initiatives, planning efforts, and so on.
+
+EPA, unbound!
+
+In Whitman v. American Trucking, Supreme Court Justice Antonin Scalia famously wrote that "Congress ... does not alter the fundamental details of a regulatory scheme in vague terms or ancillary provisions — it does not, one might say, hide elephants in mouseholes."
+
+Legal challengers have already argued that EPA's carbon standards on existing power plants are an elephant in a mousehole, a sweeping provision built out of the obscure and rarely used CAA 111(d). If that's true, then an economy-wide carbon trading system built out of Section 115 would be a veritable whale in the mousehole.
+
+Nonetheless, analysts have looked deep into the issue and run it by a whole host of other legal scholars, and they are convinced that this use of Section 115 would hold up in court. In reality, whether such a gambit holds up will likely depend on the composition of the Supreme Court. The current bench has expressed increasing skepticism toward ambitious executive actions; I can't see Kennedy going for this, much less Alito et al.
+
+But then, the next president will likely appoint at least two new justices, so who knows.
+
+The politics of Section 115 are dicey
+
+The process of actually putting together an economy-wide, cross-sectoral program would be ... time-consuming. And fraught. Extremely fraught, even.
+
+There would be preliminary inquiries and studies, comment periods, drafts, stakeholder discussions — accompanied, in all likelihood, by a total political shitstorm.
+
+It's probably more than Obama wants to take on in the final months of his presidency, especially since EPA already has its hands full.
+
+However, EPA could lay some groundwork. I asked lead author Michael Burger about it, and he had this to say:
+
+EPA can get things teed up for the next administration. For instance, EPA staff could begin to develop a proposal internally. EPA could put out an advanced notice of proposed rulemaking or a request for comments on a potential Section 115 program. EPA could perhaps even go further, and go through the notice and comment process and issue a rule that makes the prerequisite findings for a Section 115 program -- the endangerment finding and the reciprocity determination.
+
+For my part, I very much doubt that Obama will say or do anything public on this. He's got a full rhymes-with-bucket list anyway.
+
+It goes without saying that a President Trump would never sign off on a large-scale extension of EPA carbon rules, not even if God himself returned to earth and revealed himself to be a liberal technocrat.
+
+So if anything like this comes to fruition, it will be because Clinton is elected president in 2016 and appoints a competent, ambitious person to head EPA.
+
+An EPA carbon trading program would be ballsy but entirely within tradition
+
+It would truly take brass ovaries for a Democratic president to implement an economy-wide carbon trading system through a never-used provision of the Clean Air Act.
+
+But if that president is as cut off from legislative remedies as Obama has been (as is likely), it's a way to take bold action.
+
+It would mean an extension of EPA's reach that the authors of the Clean Air Act never envisioned. But that's what I meant by the analogy I began with.
+
+The Founding Fathers never envisioned a black man being president or massive social spending programs to help the poor and sick. Yet it is their principles that lead there.
+
+So it is with the US environmental laws of the 1960s and '70s. So it is, especially, with the Clean Air Act.
+
+The act says, effectively, we shall regulate things we emit that harm us, to prevent that harm. At the time, lawmakers were thinking about smog and other local pollutants. But it turns out "things we emit that harm us" is far more expansive category than they could have known at the time.
+
+Emitting things that harm us, it seems, is core to how industrialized society is fueled. That means EPA (also created under Nixon) has a much broader ambit than its founders could have anticipated.
+
+Congress in 1973 did not intend for EPA to shepherd an energy transition in the US — not directly, anyway. But they did intend to protect Americans from the effects of industrialization. And they left that commitment remarkably open-ended.
+
+It was a demonstration of faith in government and in future generations of scientists and regulators to shape policy to changing circumstances. It was prescient, and bold, and more consequential than they could have anticipated. Green drift has shaped the environmental records of every president since, very much including Obama.
+
+If Clinton follows Obama, she now has the tools to push green drift even further, maybe even far enough to make good on America's commitments in Paris.

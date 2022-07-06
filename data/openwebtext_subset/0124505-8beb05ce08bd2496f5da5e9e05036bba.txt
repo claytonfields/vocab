@@ -1,0 +1,19 @@
+So, what is this?
+
+rComments is a Chrome extension that lets Redditors traverse through comments and their replies directly from the front pages of any subreddit. All you have to do is hover over the 'comments' link and a popup appears allowing you to read through the top comments and their replies, as well as upvote or downvote them if you'd like.
+
+What does it look like?
+
+Alright not bad... how much is it?
+
+Completely free.
+
+What about privacy?
+
+The extension is stateless - it does not store any information at all. All it needs is permission to read and change data on reddit.com sites, which is necessary in order to fetch and render comments.
+
+Where is your so called "code"?
+
+Here. I used jQuery. Sue me. Update: HAHA! Removed jQuery! Down to 11.3 KB!
+
+Install rComments

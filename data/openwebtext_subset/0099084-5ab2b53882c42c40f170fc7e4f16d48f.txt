@@ -1,0 +1,15 @@
+Ethereum’s (ETH) troubled but uncontentious Byzantium is officially here as the cryptocurrency’s fifth hard fork.
+
+As creator Vitalik Buterin celebrated with other developers Sunday, Byzantium fought off last-minute bugs and calls for delays to have a stable issuance.
+
+The move was notable in its lack of contention, with no significant community arguments resulting from Byzantium’s creation.
+
+Similarly, ETH prices remained relatively stable both before and after the fork’s execution, rising around $40 October 13 and maintaining new levels since.
+
+This takes ETH towards the upper end of its price spectrum, which this year saw all-time highs of around $410 and a July low of $146.
+
+Despite the frenetic growth of investment in Ethereum this year, Byzantium is part of a package of improvements to the protocol that has been in development since 2015.
+
+Known as Metropolis, its roadmap currently extends to an unknown date in 2018, when a further hard fork, Constantinople, will activate.
+
+“Metropolis is a planned Ethereum development phase that includes two hard forks: Byzantium and Constantinople. Byzantium is occurring at block number 4.37mil. Constantinople does not currently have a release date, but is expected in 2018,” a blog post from late last week confirms.
