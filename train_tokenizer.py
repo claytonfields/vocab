@@ -74,13 +74,10 @@ if __name__ == "__main__":
       wordpieces_prefix="##"
     )
     
-    
-    
     # Create output directory    
     os.mkdir(output_path)
     
     # Save tokenizer
-    # tokenizer.save('owt-subset-10000-vobab.txt', pretty=False)
     tokenizer_file = ''.join([output_dir,'-',str(vocab_size),'-tokenizer.json'])
     tokenizer_path = os.path.join(output_path,tokenizer_file)
     tokenizer.save(tokenizer_path, pretty=False)
@@ -93,7 +90,6 @@ if __name__ == "__main__":
     vocab_list = sorted(vocab, key=vocab.get)
     
     with open(vocab_path, 'w') as f:
-    # with open('aochildes-10000-vobab.txt', 'w') as f:
         for token in vocab_list:
             line = ''.join([token,'\n'])
             f.write(line)

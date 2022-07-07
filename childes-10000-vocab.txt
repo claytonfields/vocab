@@ -1,5 +1,0 @@
-[MASK]
-[CLS]
-[SEP]
-[UNK]
-[PAD]
