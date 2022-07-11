@@ -1,0 +1,25 @@
+Scrape web without writing code for it; To create value from the sea of data being published over web. Data is Currency.
+
+Try Visual Web Scraper
+
+API
+
+Web scrape master provides a very simple API for retrieving scrape data. You can use the API by making a GET request to the following URL:
+
+http://motyar.info/webscrapemaster/api/?url={url}&xpath={xpath}
+
+Arguments Detail
+
+url The url you want to scrape. xpath The xpath to your info. i.e h1 (if its wrapped by h1), span.price (wrapped by 'span' and class is 'price') callback(optional) JSON callback function
+
+API Response
+
+The API response is always an JSON object. Can be parsed easily.
+
+Error Handling
+
+We provide a very simple error handling, if there is an error in your request it will be in response JSON, something like this:-
+
+{"error":["pass an valid API key"]}
+
+Terms

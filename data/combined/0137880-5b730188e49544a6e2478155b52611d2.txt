@@ -1,0 +1,49 @@
+PARIS — Satellite owners and insurance underwriters who have booked or insured launches aboard Russia’s Proton rocket in the coming months have little choice but to stick with the rocket despite the fact that the vehicle’s May 16 failure was its fourth since mid-2012.
+
+Russia’s Roscosmos space agency on May 29 issued its preliminary report on what caused the crash, which the agency said originated in the rocket’s third stage engine and was partly due to the collapse of a turbopump under the stress of high temperatures.
+
+Roscosmos gave no date for a Proton return to flight, and its brief statement did not say whether the turbopump’s components for the May 16 flight differed from those used in previous Proton missions. The vehicle has been flying since the 1960s.
+
+Roscosmos said “inconsistencies in the quality-control system” also played a role in the failure and would be reinforced.
+
+The failure destroyed the Mexican government’s Centenario mobile communications satellite. The Mexican government, in what now looks like a prescient move, took the unusual step of purchasing full insurance coverage for the launch — $300 million for the Boeing-built satellite and $90 million for the Proton launch. Most governments do not insure noncommercial launches.
+
+The $390 million insurance payout will not, by itself, cause satellite insurance premium rates to rise. Insurers dropped the all-for-one, one-for-all practice of spreading premium risk among the major commercial launchers.
+
+Europe’s Ariane 5 rocket and U.S.-based SpaceX’s Falcon 9 vehicle have benefited from substantially lower premium rates in the past couple of years.
+
+But while Ariane 5 and Falcon 9 both have won the confidence of commercial fleet operators and insurance underwriters, the biggest fleet operators have always said they need at least three credible vehicles in the commercial rotation in case one goes down for months.
+
+Whether Proton can retain its position as the third vehicle may depend on whether its manufacturer, Khrunichev State Research and Production Space Center of Moscow, agrees to cut prices dramatically, industry officials said.
+
+International Launch Services of Reston, Virginia, which markets Proton commercially, already had been lowering prices to compensate for customers’ higher insurance premiums.
+
+Two industry officials said ILS in recent months had been cutting prices still further to take advantage of the Russian ruble’s decline against the U.S. dollar in an attempt to put Proton back into the commercial rotation with Ariane 5 and Falcon 9.
+
+To date, that has not met with much success, and the May 16 failure will not help matters.
+
+But ILS has a list of customers whose launches already had been delayed because of Proton failures on Russian government missions in 2013 and 2014, and while some of them might wish to switch rockets, doing so would cost them additional months of delay. The Ariane 5 and Falcon 9 manifests are full through 2016 and into 2017.
+
+Insurance underwriters likewise have little maneuvering room. These companies committed to premium rates and coverage levels for the upcoming missions at least two years ago, in some cases longer. To cancel a policy at this point would mean demonstrating that Proton launches now have a materially greater risk of failure than was the case at the time the coverage was written.
+
+“There is no new risk in Proton — that’s part of the problem,” one insurance official said of the latest failure. “This is not a new rocket with a design defect. This is a rocket that fails from time to time because of quality control problems. There is nothing new. The only way an underwriter can cancel the policy is if the launch occurs after the coverage is scheduled to expire, typically three years after it was written. Given the accumulation of Proton delays, that might be true for some at this point, but not for many.”
+
+Mexican government officials said after the launch that the failure would not be so costly for their program as long as the identical Morelos-3 satellite, set for launch this fall aboard a Lockheed Martin Atlas 5 rocket, is successful.
+
+The government did not immediately indicate whether it would order a Centenario replacement from El Segundo, California-based Boeing Space and Intelligence Systems.
+
+Mobile satellite services provider Inmarsat of London is scheduled to be the first post-failure launch on Proton with its third Global Xpress Ka-band satellite, ILS said. Given the Russian government’s recent history, the return-to-flight launch could occur as early as July.
+
+In a decision that raised eyebrows at the time, Inmarsat chose Proton to launch all three of its Global Xpress satellites, benefiting from a bulk discount that the company said overrode the usual risk-diversification concerns.
+
+Since it committed to Proton, Inmarsat has been dodging failures and the accumulated delays like someone skiing down a particularly complicated slope. The company ultimately elected to order a fourth Global Xpress satellite from Boeing to be able to rebound from a launch failure quickly.
+
+Inmarsat needs three Global Xpress satellites in orbit to offer seamless global coverage, except for the polar regions, and has told investors that no substantial Global Xpress revenue will flow until three spacecraft are in service. Inmarsat has insured each Global Xpress launch for more than $300 million.
+
+Inmarsat Chief Executive Rupert Pearce on May 18 issued a statement that did little to hide the company’s frustration.
+
+“This incident involving a failed Proton launch … is extremely unfortunate and will inevitably delay our launch plans for our third Global Xpress satellite,” he said. “This is the third time our Global Xpress program has suffered launch delays because of Proton launch failures.”
+
+Other ILS customers will be making their own calculations about the ripple effects on their satellites of another Proton delay. Turkey’s Turksat 4B and Paris-based Eutelsat’s 9B and 36C satellites were all scheduled for launches this year, as was Russia’s biggest telecommunications satellite operator, Russian Satellite Communications Co. of Moscow, whose business has suffered more damage from Proton failures than any other operator. The company had planned to launch its Express-AM8 satellite this autumn.
+
+The European Space Agency, meanwhile, is counting on a late-January Proton launch of the Euro-Russian ExoMars telecommunications relay and lander, the first of two Proton-launched missions for ExoMars. The second is in 2018. Neither launch can be moved without surrendering a window that, for Mars missions, opens once every two years.

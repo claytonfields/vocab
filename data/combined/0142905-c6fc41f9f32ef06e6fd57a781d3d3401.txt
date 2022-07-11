@@ -1,0 +1,21 @@
+Tuesday, June 27, 2017 [Tweets] [Favorites]
+
+The iOS transition to APFS seems to have gone very smoothly except for some Unicode normalization issues. Apple never really explained to developers how they could make their code work properly, most were not aware that there were issues at all, and the necessary app modifications were difficult to develop and fully test. In my view, pushing this responsibility onto apps was a recipe for endless obscure bugs and poor performance.
+
+At WWDC 2017, Apple essentially admitted that they had made a mistake and told us how they are going to fix it. There is a short-term fix and also a long-term fix that will require another file system conversion. This is not yet documented in the APFS Guide, but here’s a summary of the different cases:
+
+The default for macOS 10.13 will be case-insensitive APFS. It is normalization-preserving (unlike HFS+) but not normalization-sensitive. I expect this to be highly compatible with existing Mac apps. The main difference is that when you read filenames they are no longer necessarily in Form D, but you shouldn’t have been relying on that, anyway.
+
+macOS 10.13 will also support case-sensitive APFS, which will use native normalization. This is new in the developer beta. The filenames are still stored in the same way as prior APFS (not normalized like with HFS+), but APFS now uses normalization-insensitive hashes so that it can quickly and transparently find files without knowing their normalizations. If your code worked with case-sensitive HFS+ and works with case-insensitive APFS, there’s likely nothing new that you have to do for this case.
+
+iOS 10.3 through 10.3.2 use the problematic version of APFS that is case-sensitive, normalization-preserving, and normalization-sensitive. You can write a lot of app code to make everything work, but anyone who hasn’t done this already probably won’t.
+
+iOS 10.3.3 and iOS 11 will also be case-sensitive, normalization-preserving, and normalization-sensitive, but they will add runtime normalization. If you try to read a file but don’t have the right normalization in your path, the file system APIs will transparently look for the file using other normalizations. This should give the correct behavior but at a performance cost.
+
+If you get a new device or erase and restore, iOS 11 will use case-sensitive APFS with native normalization. This is what Apple should have done from the start. It should have basically the same user experience as with HFS+ but with better performance.
+
+An unspecified future update will convert iOS devices using the “bad” APFS to case-sensitive with native normalization, thus completing the fix.
+
+Update (2017-12-14): Despite the native normalization, I’m seeing problems with Git and accented filenames on macOS 10.13.2. If I edit a file with such a name, Git sees it as a new file, and therefore sees two files whose names differ only in normalization. It’s somewhat tricky to then remove the original entry.
+
+Stay up-to-date by subscribing to the Comments RSS Feed for this post.

@@ -1,0 +1,99 @@
+Apache TomEE aims to provide application developers with a best-of-breed technology stack that can be deployed to a simple and lightweight Java EE container. In this return to the Open source Java projects series, author Steven Haines introduces TomEE, explains how it differs from Tomcat, and helps you set it up in your development environment. He then walks through the process of configuring TomEE to integrate resources such as database connection pools and JMS destinations -- bread and butter for today's enterprise apps.
+
+Tomcat is a popular choice among lightweight, open source application servers, but for developers seeking a more enterprise-ready app server, the options have been mostly commercial. With TomEE, Apache hopes to change all that -- and then some. In this installment in the Open source Java projects series, I'll go under the hood of TomEE to explain how it differs from plain old Tomcat. You'll also have the opportunity to meet TomEE (pronounced "Tommy") hands-on, with a deep-dive review of what is required to configure TomEE to host your application. Since the main benefit of using TomEE over Tomcat is its support for enterprise technologies, I'll show you how to configure various types of resources, as well as the process to wire those resources into your application.
+
+About TomEE
+
+You might recognize TomEE from its parent project, OpenEJB. TomEE started out as the integration of Tomcat with OpenEJB, but that definition proved too narrow. As explained on the TomEE homepage, EJB itself is an expansive specification, including support for most of the Java specs used in enterprise Java development today. But TomEE builds on top of OpenEJB's integration with JMS, Web services, connectors, Servlets, JPA, JDBC, and Java Transactions and Security, adding support for ActiveMQ, CXF, MyFaces, and OpenJPA.
+
+In evolving TomEE to be Tomcat plus Java Enterprise Edition, TomEE's open source development team worked with three key design principles:
+
+Don't mess with Tomcat
+
+Keep it simple
+
+Avoid architectural overhead
+
+The goal was to add enterprise features to Tomcat without incurring additional runtime requirements or startup time for larger applications. Based on recently published benchmarks for TomEE 1.0, it looks like they succeeded. The following statistics compare the start times of applications in TomEE versus other deployment environments:
+
+Rails 3.3 Custom (44mb WAR): 21.3% of beta2 startup time (369% faster)
+
+Lift/Scala sample app (23mb WAR): 43.8% of beta2 startup time (128% faster)
+
+Confluence 3.5.5 (149mb unpacked): 37.6% of beta2 startup time (166% faster)
+
+TomEE and TomEE Plus
+
+It's no secret that the Java EE technology stack is very large. This poses a variety of challenges, but can make it especially difficult for non-commercial vendors like Apache, that cannot necessarily afford the infrastructure overhead of implementing a full-stack Java EE application. So, with Java 6, the JCP introduced Java EE certification profiles.
+
+As of this writing there are two classifications of certification: Java EE 6 Full Profile and Java EE 6 Web Profile. Commercial Java EE app servers like Oracle Application Server, Oracle WebLogic, and IBM WebSphere, as well as the open source JBoss and Glassfish application servers, are fully certified. TomEE is currently Java EE 6 certified only against the web profile. This means that TomEE supports a subset of the Java EE specifications that particularly apply to Java web development, namely: CDI, EJB, JPA, JSF, JSP, JSTL, JTA, Servlet API, JavaMail, and Bean Validation.
+
+If your application only requires those technologies, then you can take advantage of TomEE's lightweight, low-overhead container. Projects that need a little more might consider using TomEE+, which is currently not Java EE 6 Certified. TomEE+ includes support for SOAP and RESTful web services, as well as JMS and the Java EE Connector Architecture. See the OpenEJB homepage for an up-to-date matrix comparing features available in Tomcat, TomEE, TomEE Plus, and OpenEJB.
+
+You can download TomEE or TomEE+ from the TomEE homepage. Note that I used TomEE+ for the sample application, though you should be able to follow along with either version.
+
+TomEE in your development environment
+
+After you've downloaded TomEE or TomEE+, decompress it to a directory on your computer. Just like Tomcat, TomEE requires that you install a JDK and configure a JAVA_HOME environment variable. The JAVA_HOME environment variable should point to the root of the directory in which you installed the JDK and you should add the JAVA_HOME/bin directory to your PATH environment variable.
+
+You can set the JAVA_HOME on Windows with the following command (assuming that you installed your JDK in C:\Program Files\Java ):
+
+set JAVA_HOME="C:\Program Files\Java" set PATH=%PATH$;%JAVA_HOME%\bin
+
+Note that if you are using Windows and do not want to run this command for each new command prompt, you can configure a system- and user-level environment variable through the System configuration in your control panel.
+
+Likewise, on Linux or Mac you can use the following command:
+
+export JAVA_HOME=/home/user/Java export PATH=$PATH:$JAVA_HOME/bin
+
+Once you have TomEE installed and decompressed locally and you have your JAVA_HOME set, then you can start up TomEE by executing the startup.bat or startup.sh file from TomEE's bin directory. Like Tomcat, TomEE writes its default logs to logs/catalina.out . If everything starts up correctly you should see something like the following in your log file:
+
+May 24, 2012 10:35:10 PM org.apache.catalina.core.AprLifecycleListener init May 24, 2012 10:35:13 PM org.apache.coyote.AbstractProtocol init INFO: Initializing ProtocolHandler ["http-bio-8080"] May 24, 2012 10:35:14 PM org.apache.coyote.AbstractProtocol init INFO: Initializing ProtocolHandler ["ajp-bio-8009"] May 24, 2012 10:35:18 PM org.apache.openejb.server.ServiceLogger <clinit> INFO: can't find log4j MDC class May 24, 2012 10:35:18 PM org.apache.openejb.OpenEJB$Instance <init> INFO: ******************************************************************************** ... May 24, 2012 10:35:43 PM org.apache.myfaces.webapp.AbstractFacesInitializer initFaces WARNING: No mappings of FacesServlet found. Abort initializing MyFaces. May 24, 2012 10:35:43 PM org.apache.coyote.AbstractProtocol start INFO: Starting ProtocolHandler ["http-bio-8080"] May 24, 2012 10:35:43 PM org.apache.coyote.AbstractProtocol start INFO: Starting ProtocolHandler ["ajp-bio-8009"] May 24, 2012 10:35:43 PM org.apache.catalina.startup.Catalina start INFO: Server startup in 15197 ms
+
+The TomEE log file is much larger than a traditional Tomcat log file because TomEE is starting far more services than Tomcat. An informational message that states " Server startup in xxx ms " indicates that the server started successfully. To validate that TomEE is running, open a web browser to the " tomee " web context on the machine on which TomEE is running, for example:
+
+http://localhost:8080/tomee/
+
+You should see something similar to the screenshot in Figure 1.
+
+Figure 1. Screenshot of the TomEE homepage (click to enlarge)
+
+From this page you can click on "Testing your setup" to ensure that everything is working. This test suite first checks that the openejb directory and environment are properly setup. It then tests that the OpenEJB classes can be loaded and initialized, and that the JNDI lookups work. If all the tests pass then you're ready to start deploying your applications to TomEE.
+
+Application deployment with TomEE
+
+Deploying application artifacts to TomEE is very similar to deploying to Tomcat: simply copy your WAR or EAR file to the tomee/webapps folder. When TomEE sees your WAR or EAR file, it will explode your archive into a directory with the same name, but without the .war or .ear extension.
+
+TomEE supports a new feature introduced with Java EE 6, which is the ability to deploy your EJBs and web artifacts in a single web archive (WAR file). The purpose of doing this is to enable your web application and your EJBs to share the same classloader and third-party libraries (such as Spring), and to allow servlets to see EJB classes and EJBs to see servlet classes. For packaging purposes, the web.xml and ejb-jar.xml files live in the same WAR file.
+
+This new packaging scheme is quite a difference from J2EE and even Java EE 5, which both required a strict separation between EJBs and Web code. If you still need these layers of separation, you can package your WAR file and EJB JAR files inside an EAR file. If you do not need the separation, however, it is more performant and much easier to configure all your classes in the same archive while sharing the same class loader.
+
+Defining external resources
+
+An enterprise application would be pretty useless if it never interacted with any external resources. There are two basic strategies for defining resources:
+
+Container managed
+
+Application managed
+
+Container managed resources are configured in the container, outside of the application itself. The application subsequently acquires those resources from the container when it needs them. Application managed resources are defined at the application-level, usually through configuration files. They are wired into the application on load or when needed.
+
+The benefit of container managed resources is that the same application can run in different environments with just a few simple environmental configuration changes. For example, in a QA environment an application might be configured to persist data to and from a QA database and publish messages to QA topics; but in a User Acceptance Testing (UAT) environment those external resources would be different. Having the environmental configuration performed on the container also removes the risk that the application will inadvertently point to the wrong environment (such as deploying an application to a production environment that is pointing to a QA database). Finally, most monitoring tools provide the ability to automatically discover container managed resources that publish resource metrics via Java Management Extensions (JMX). Most production support teams for medium- to large-scale applications configure resources at the container-level.
+
+The benefits to defining resources inside the application are primarily with respect to ease-of-deployment. It is far easier to deploy an application that knows about all of its dependencies than it is to deploy one whose collection of resources must be externally defined. Some projects get around this by combining the two approaches; for instance, the application might define the resource, such as configuring a database connection pool, but then extract the JDBC URL from the deployment environment.
+
+Defining a container-managed database connection pool
+
+Database connections are probably the most common resource to configure for an enterprise application, so we'll try configuring a database connection as a way of learning more about TomEE.
+
+The first step is to copy your JDBC driver (JAR or ZIP file) to the tomee/lib folder so that the classloader will be able to find it when TomEE starts up. Next, you must configure the database connection in a <Resource> XML node in the tomee/conf/tomee.xml file.
+
+To create a data source, define a <Resource> node with a type of " DataSource ," as shown here:
+
+<Resource id="MyDataSource" type="DataSource"> </Resource>
+
+The body of this node accepts a simple set of name-value pairs that configure the data source.
+
+Database configuration example
+
+Resource configuration is a huge topic, so I direct you to the TomEE homepage for complete documentation. We'll practice with a database configuration, which includes all of the options summarized below.

@@ -1,0 +1,39 @@
+On the web, there is a palpable buzz of failed or unsuccessful Lean initiatives (or organizations that fail Lean if you prefer that point of view). No wonder, to be honest, as many of these initiatives can at best be characterized as programs. And more often they are even no more than a collection of disjointed projects.
+
+Staff is trained, external consultants are brought in – often trained by another external consultant in another company going through a similar “program” – and off we are. We start identifying waste and we might even create a current state value stream map. Enough potential to fill an action list covering several pages, and so our Lean program is born.
+
+What a joke! In doing so, a Lean initiative will never transcend the character of being only a program: a collection of projects and actions to eliminate problems. And calling these projects and actions “kaizens” really doesn’t make it more Lean. And this is only further emphasized by pursuing the apparently required “quick wins” to win over the company’s management. What is the alternative? A system-based Lean transformation, sometimes referred to as Shikumi.
+
+Lack of Coherence
+
+As a result of the widespread approach described in the introduction, it is often difficult to see any coherence. Although clearly, here and there parts of the organization are engaged in initiatives with a Lean character, these initiatives do not seem to be very much related. They often are focused on addressing individual and currently perceived problems. Problems are symptoms, and symptoms can be different across plants, customers and product lines.
+
+Programs also tend to “run out of problems”. It sometimes may even seem as if we have difficulties filling the project pipeline. And associates are wondering what will come next, after this Lean wave has passed, as they have no idea where the road leads. Most of them probably will think: “this as well will blow over”.
+
+Shikumi: the Envisioned System
+
+Most of these types of Lean initiatives are in sharp contrast with some of the Lean transformations that I have had the chance of playing a part in. Those definitely were not a collection of incoherent projects or improvement actions based upon current issues. No, those were real transformations towards a holistic system based upon a clear and tangible vision on each element and aspect of that system. (I wrote about the systemic nature of Lean in my earlier post about top-down and bottom-up Lean). The Japanese concept used for this is “shikumi”.
+
+Shikumi signifies a system; more specifically a holistic system, composed of elements and aspects. Shikumi materializes certain underlying principles through the system’s tangible and detailed policies, methods, rules and standards. According to Frederick Stimson Harriman on LinkedIn’s “TPS Principles and Practice” group, Shikumi means setting up things so that they will react in a desired way in certain circumstances. This also makes it into a more organic system; a nervous or self-regulating system, which Toyota’s famed kanban system is also sometimes referred to. Shikumi-zukuri refers the creation of such a system.
+
+In the pursuit of using less Japanese words, Shingijutsu consultants in the US “translated” the Japanese word shikumi into the abbreviation SiQmi, meaning the Systematic Integration of Quality, Material and Information. Pronouncing SiQmi aloud sounds a lot like shikumi. SiQmi or shikumi is a system of standard work that supports your process, according to Bob Emiliani.
+
+Shikumi as the Target of Hoshin Kanri
+
+In my experience, based upon the envisioned shikumi, company-wide initiatives are set up and rolled out across the whole organization through which the intended shikumi is realized. The shikumi in fact precedes the policy deployment process. Only in that way, hoshin kanri cannot degenerate into the definition and management of a seemingly unrelated set of initiatives that it often is. It shouldn’t; it should be the way in which we realize our shikumi. The realization of our shikumi represents the concretization of our thinking about our business and about achieving results in critical areas of performance. Like that, our thinking has become “our way” of doing.
+
+Functional, not Lean Leadership
+
+An interesting aspect of developing the company’s shikumi, is that it is developed (in an integrated way and from an overall business perspective of course) by the various functional departments that must provide leadership in their respective area (e.g., quality, production control, logistics, maintenance and so on). So, these functional leaders bear the responsibility for the functional policies (rooted in Lean thinking) and the deployment thereof; not – as I witness quite often – (centrally positioned) Lean coaches, engineers or managers. We shouldn’t need Lean functions; we should have Lean “inside”.
+
+Then, in fact, how can we even expect a Lean coach to master all functional aspects of successfully running a business? Nevertheless, I regularly see Lean coaches thundering through the functional china shop like a bull. Not a good idea: this will stand in the way of the best possible policies. And it will also reduce the feeling of ownership for these policies. And before we realize it, we may have created yet another functional silo (viz., the Lean silo).
+
+Too Many Masters of the Ship
+
+Still, there does exist a problem with many functional departments: they often develop into a bloated bureaucracy. The proliferation of (often obscure) titles and hazy job descriptions often exemplify this. They spend their days in meetings with other functional managers with similarly interesting titles. And they are all highly educated and smart. As a result, they are quickly engaged in having chats about all kinds of new concepts and technologies in their knowledge area; and never conclude. In fact, truth probably is, they speak more with their peers than with associates on the shop floor. But when are we actually going to convert a crisp, productive and robust functional policy into actually applied methods on the shop floor? Perhaps you can also hire too many smart people…
+
+In this context, the following short anecdote springs to mind. One of my previous managers once told me: “Rob, I hired you because you are considered to master your functional area. I myself, our division and plant managers aren’t. It is therefore only logical that we accept your guidance in this field and deploy your policies across our plants. But when they turn out not to be productive, maybe we should hire someone else. But we won’t waste our time on discussion between experts. Let’s never forget we are here to profitably bring a product to market”. Simple, decisive, focused and clear for everyone.
+
+Shikumi: the Road to Success
+
+As far as I’m concerned, this could well be a good lesson for all involved in Lean initiatives. Don’t approach Lean as a program of incoherent projects. Nor approach it as a toolbox with a collection of seemingly unrelated improvement tools. In the long run, this won’t work. It will maybe only create the illusion of becoming a Lean organization. But, alas, there is only one road that can really lead to success in the end I think; viz. the road of shikumi. This is the road of systems thinking. On this road, true functional leaders pilot the whole organization safely into the future. And they do so through sound and solid policies and their disciplined deployment.

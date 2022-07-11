@@ -1,0 +1,15 @@
+Server admins and developers beware: The OpenSSL Project plans to release security updates Thursday for its widely used cryptographic library that will fix a high severity vulnerability.
+
+OpenSSL implements multiple cryptographic protocols and algorithms including TLS (Transport Layer Security), which underpins encryption on the Web as part of protocols like HTTPS (HTTP Secure), IMAPS (Internet Message Access Protocol Secure) and SMTPS (Simple Mail Transfer Protocol Secure).
+
+The project didn’t say which part of the library is affected, but high severity flaws in OpenSSL are usually a big deal, especially if they impact TLS.
+
+OpenSSL is used by a large number of applications and systems, from Web servers to embedded devices, some of which can take a long time to patch.
+
+Months after the critical Heartbleed vulnerability was announced in OpenSSL last year, hardware and software vendors were still identifying affected products and were releasing updates.
+
+According to the OpenSSL Project’s security policy, the flaws that are flagged as high severity affect common configurations and are likely to be exploitable. Their impact includes things like server denial-of-service, significant leak of server memory or remote code execution.
+
+The issue to be patched Thursday affects the 1.0.1 and 1.0.2 versions of OpenSSL. These are the library’s releases that support TLS v1.1 and TLS v1.2, the newest versions of the protocol. The patched versions will be called 1.0.1p and 1.0.2d.
+
+OpenSSL 0.9.8 and 1.0.0, which the project will still support until the end of this year, are not affected.

@@ -1,0 +1,19 @@
+Facebook has announced two changes to the way it enforces its real-name policy: the first is meant to ensure that fewer people are asked to prove they’re using the same name online that they use in real life; the second to make the verification process easier on the users who will still be required to confirm their identities.
+
+The changes follow months of criticism from people endangered by Facebook’s real-name policy, such as activists or victims of domestic violence, and people whose names are unusual or who identify with a name other than the one they were given at birth. (Specific examples of these problems here, here, and here.)
+
+Advertisement
+
+These complaints led to the creation of the “Nameless Coalition,” which advocated for Facebook to change its real-name policy to accommodate people who might need to use a “fake” name for their own protection or who identify with another name. Dozens of organizations and individuals supported the coalition’s goals.
+
+Facebook’s Chris Cox previously apologized for the real-name policy’s failings and explained that it’s enforced because it’s “part of what made Facebook special in the first place” and it’s the “primary mechanism we have to protect millions of people every day, all around the world, from real harm,” as he wrote at the time.
+
+Now, the company will require people to provide additional context when they report someone for using a fake name. “In the past, people were able to simply report a ‘fake name’ but now they will be required to go through several new steps that provide us more specifics about the report,” Facebook said today.
+
+“This additional context will help our review teams better understand why someone is reporting a name,” product manager Todd Gage and vice president of global operations Justin Osofsky wrote in the announcement, “giving them more information about a specific situation.” And that’s not the only fix being made.
+
+Facebook will also ask people to explain their situations when they’re reported for using a fake name. “People can let us know they have a special circumstance, and then give us more information about their unique situation,” Gage and Osofsky wrote. Facebook will consider this info when responding to the issue.
+
+These changes still put the ultimate decision on a person’s identity in Facebook’s hands. The company has no intention of getting rid of the real-name policy, as it’s core to many Facebook services, and the fact remains that the social network will have the power to kick someone out if it thinks their identity isn’t authentic.
+
+Still, better to make incremental changes that could help some people than to maintain the status quo because it refuses to nix the real-name policy. Facebook is still learning — there will doubtless be people who abuse the reporting tool to harass others, or who are erroneously flagged — and likely will be for some time.

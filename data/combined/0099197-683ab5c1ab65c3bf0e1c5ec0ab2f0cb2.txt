@@ -1,0 +1,39 @@
+"Cinder block" redirects here. For the American singer, see Cinder Block (musician)
+
+"Breezeblocks" redirects here. For the song by Alt+J, see Breezeblocks (song)
+
+An interior wall of painted CMUs
+
+A concrete masonry unit (CMU) is a standard size rectangular block used in building construction. CMUs are some of the most versatile building products available because of the wide variety of appearances that can be achieved using concrete masonry units.[1]
+
+Those that use cinders (fly ash or bottom ash) are called cinder blocks in the United States, breeze blocks (breeze is a synonym of ash)[2] in the United Kingdom, and hollow blocks in the Philippines. In New Zealand and Canada they are known as concrete blocks (a name common in the United States also). In New Zealand, they are also called construction blocks. In Australia they are also called Besser blocks and Besser bricks, because the Besser Company was a major supplier of machines that made concrete blocks. Clinker blocks use clinker as aggregate. In non-technical usage, the terms cinder block and breeze block are often generalized to cover all of these varieties.
+
+Composition [ edit ]
+
+Concrete blocks are made from cast concrete (e.g. Portland cement and aggregate, usually sand and fine gravel, for high-density blocks). Lower density blocks may use industrial wastes, such as fly ash or bottom ash,[3][4] as an aggregate.[5] Recycled materials, such as post-consumer glass, slag cement, or recycled aggregate, are often used in the composition of the blocks.[6] Use of recycled materials within blocks can create different appearances in the block, such as a terrazzo finish, and may help the finished structure earn LEED certification. Lightweight blocks can also be produced using autoclaved aerated concrete.
+
+Sizes and structure [ edit ]
+
+The use of blockwork allows structures to be built in the traditional masonry style with layers (or courses) of staggered blocks. Concrete blocks may be produced with hollow centers (cores) to reduce weight or improve insulation. Blocks come in modular sizes, with the most popular typically referred to (by their thickness) as "4-inch", "6-inch", "8-inch", and "12-inch". In the US, CMU blocks are nominally 16 in (410 mm) wide and 8 in (200 mm) long. Their actual dimensions are their nominal dimensions, minus ⅜ in any direction (to allow for mortar joints regardless of their orientation as laid).[7] In Ireland and the UK, blocks are usually 440 mm × 215 mm × 100 mm (17.3 in × 8.5 in × 3.9 in) excluding mortar joints. In Australia, New Zealand and Canada, blocks are usually 390 mm × 190 mm × 190 mm (15.4 in × 7.5 in × 7.5 in) excluding mortar joints.
+
+Block cores are typically tapered so that their top surface (as laid) has a greater surface on which to spread a mortar bed and for easier handling. Most CMU's have two cores, but three- and four-core units are also produced. A core also allows for the insertion of steel reinforcement to span courses in order to increase tensile strength. This is accomplished by grouting the voids of blocks containing rebar with concrete. Thus reinforced, CMU walls are better able to resist lateral forces such as wind load and seismic forces.
+
+A variety of specialized shapes exist to allow special construction features. U-shaped blocks or knockout blocks with notches to allow the construction of bond beams or lintel assemblies, using horizontal reinforcing grouted into place in the cavity. Blocks with a channel on the end, known as "jamb blocks", allow doors to be secured to wall assemblies. Blocks with grooved ends permit the construction of control joints, allowing a filler material to be anchored between the un-mortared block ends. Other features, such as radiused corners known as "bullnoses" may be incorporated. A wide variety of decorative profiles also exist.
+
+Concrete masonry units may be formulated with special aggregates to produce specific colors or textures for finish use. Special textures may be produced by splitting a ribbed or solid two-block unit; such factory-produced units are called "split-rib" or "split-face" blocks. Blocks may be scored by grooves the width of a mortar joint to simulate different block modules. For example, an 8-by-16-inch (200 mm × 410 mm) block may be scored in the middle to simulate 8-by-8-inch (200 mm × 200 mm) masonry, with the grooves filled with mortar and struck to match the true joints.[11]
+
+United States [ edit ]
+
+Uses [ edit ]
+
+Concrete block, when built with integral steel reinforcing or in tandem with concrete columns and tie beams and reinforced with rebar, is a very common building material for the load-bearing walls of buildings, in what is termed concrete block structure (CBS) construction. American suburban houses typically employ a concrete foundation and slab with a concrete block wall on the perimeter. Other common uses for concrete block wall is interior fire-rated partition walls, and exterior backup wall for attachment of building envelope systems and façades.
+
+Structural properties [ edit ]
+
+Concrete masonry walls may be ungrouted, partially grouted, or fully grouted, the latter two enhancing their structural strength. Additionally, steel reinforcement bars (rebar) can be used both vertically and horizontally inside a CMU wall to maximize its structural performance. The cells in which the rebar is placed must be grouted for the bars to bond to the wall. For this reason, high seismic zones typically only allow fully grouted walls in their building codes. The American design code that guides design engineers in using CMU as a structural system is the Masonry Standards Joint Committee's Building Code Requirements & Specification for Masonry Structures (TMS 402/ACI 530/ASCE 5). The compressive strength of concrete masonry units and masonry walls varies from approximately 1,000 psi (7 MPa) to 5,000 psi (34 MPa) based on the type of concrete used to manufacture the unit, stacking orientation, the type of mortar used to build the wall, and other factors.[12][13][14]
+
+See also [ edit ]
+
+References [ edit ]
+
+Sources [ edit ]

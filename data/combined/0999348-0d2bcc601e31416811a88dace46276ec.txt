@@ -1,0 +1,5 @@
+NLSS Unified Security Platform
+
+A completely unique IP security solution. It combines video management, access control, video analytics, intrusion alerts and more onto a single networked platform that can be accessed from anywhere and at any time through a Web browser. Data from these subsystems is automatically correlated, providing users with a comprehensive view of security operations.
+
+NLSS Gateway and NLSS Cloud Services – The award-winning NLSS Gateway is a unified solution that combines video management, access control, analytics, intrusion and more into a single, easy-to-use networked platform. NLSS Cloud Services is powered by NextConnect,the patented peer-to-peer technology from NLSS. This revolutionary technology efficiently streams live video to multiple users simultaneously from a single NLSS Gateway and is accessible and controllable from anywhere through a web-browser and includes advanced deployment tools such as auto-discovery and provisioning.

@@ -1,0 +1,45 @@
+DBAccess is a new ORM for iOS that promises to improve on Apple's Core Data by providing thread-safety and high performance.
+
+DBAccess claims to provide three key benefits over Core Data:
+
+Thread-safety.
+
+High performance and support for query performance fine tuning.
+
+Event model that enables binding data objects to UI controls and keep them updated with changes made in the database.
+
+DBAccess can be used and distributed freely. Its latest version includes a few improvements such as support for ASYNC queries, better performance with large result sets, and reduction in memory usage in queries with many columns.
+
+DBAccess proposes a very simple usage model. A persistent object declaration is very similar to a Core Data's:
+
+@interface Person : DBObject @property (strong) NSString* forename; @property (strong) NSString* surname; @property int age; @end
+
+Creating, removing objects, or querying the database follow known patterns:
+
+Person* p = [Person new]; p.forename = @"Adrian"; p.surname = @"Herridge"; p.age = 35; [p commit]; // save the object into the table [p remove]; // and now remove it DBResultSet* r = [[[[[Person query] where:@"age > 30"] limit:10] orderBy:@"surname,forename"] fetch];
+
+InfoQ has reached out to DBAccess' author, Adrian Herridge to ask him a few questions.
+
+What were the main reasons to write an alternative ORM to Core Data?
+
+At the time I started the project iPresent was still part of its much larger software house Compsoft plc. Where on average 5 teams of devs would be churning out several apps at a time, some of which used Core Data for its persistence requirements. Being an open and sharing environment, people were not shy about the problems with performance, threading and behaviours that they felt were missing and really should be there (such as joins and aggregation functions). The main benefit for using Core Data was the GUI style of editing table and relationships, but then there were often problems with the editor making changes in the wrong version of the model, which often played havoc with our version control systems and at one point introduced a huge issue to one of our released applications with the addition of a field. From my personal perspective I found it removed some of the core abilities of SQLite which I had been working with for 5 years prior, and had come to love its simple and exceptionally high performance interface. So I felt highly restricted by the inability to use sub queries inline, joining tables to remove the need to nest some queries within loops, which often resulted in some very expensive routines. So at the time, it just felt like there were so many pitfalls to using Core Data with very few real world positives. Given the mixture in abilities of the development teams, we often struggled with people not understating the syntax for the predicate queries and the introduction of extremely subtle bugs and crashes when slight mistakes were introduced with cross thread methods being called. So, in summary, the main reasons for writing DBAccess were to improve on what myself and other developers felt was very poor performance for anything that required nested queries, alleviate frustrations of having to worry about threading issues, implement joins and subqueries.
+
+How would you describe DBAccess strengths so that an iOS developer can make the choice of using it instead of Core Data?
+
+We tried to implement DBAccess so it was as natural to use for developers as possible, sticking with standard SQLite syntax wherever possible. So I guess point 1 would be that it is easy to use (at least people here and the few that have contacted me have thanked us for creating it, some even offering a donation which we had to politely refuse).
+
+The performance of DBAccess is also of great benefit, we have strived to ensure that we have profiled most of the codebase (currently approximately 15k lines), Core Data is fast enough if doing simple retrievals, but tends to suffer when committing data back into the database, and positively dies on it feet when it comes to nested queries., we try to optimise the writes and record caching wherever possible which we found made a huge difference to very “chatty” iOS applications.
+
+Simple, and quick to implement query objects. We hated the fact that in most applications it made it necessary to have a class that dealt with queries for the application. Sometimes this makes absolute sense, where you perform the same query over and over. But just from a readability and time perspective we wanted the FLUENT interface to be compact and easy to read, so being able to pull items out inline, within a for loop was very beneficial to the devs. e.g. for (Person* in [[[[Person query] where:@“age >= 18”] orderBy:@“age”] fetch]) { ... } .
+
+. Implementation of COUNT, SUM, IDs, GROUP functions, which are performed at the SQL level and not after a heavy and memory consuming query.
+
+functions, which are performed at the SQL level and not after a heavy and memory consuming query. Completely thread safe, you can query and commit at any moment from any thread.
+
+DBAccess has an event model that allows you to register blocks of code to run when certain objects are updated anywhere else in the system, and also if any of the underlying tables are modified in anyway. This makes linking the data layer to the GUI simple and we have down all of the heavy lifting with handling threading issues and the async nature of these events.
+
+We implemented the ability for developers to specify which database file an object is stored in, so you could split your data layer across multiple files.
+
+Column based AES256 encryption. 8.A property/column can be any possible NSObject derived class that supports encoding using an NSKeyedArchiver , DBAccess then stores it as a BLOB and wraps it within its own storage type which contains all the information required to re-inflate the original item.
+
+DBAccess is currently closed-source. Don't you think that this could hamper its adoption in the iOS community? Do you have any plans to open-source it?

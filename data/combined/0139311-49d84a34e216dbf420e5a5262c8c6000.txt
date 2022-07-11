@@ -1,0 +1,15 @@
+Qualcomm SafeSwitch offers a hardware-based kill switch
+
+Depending on your market outlook, Qualcomm could be seen as the top chip mobile chip maker, at least when it comes to smartphones and tablets. Soon, however, it’s lead on its competitors might widen even further if it manages to convince device manufacturers and carriers to utilize its own “kill switch” implementation, which, unsurprisingly, revolves around its processor.
+
+This security focus comes on the heels of the State of California signing its “kill switch” into law, requiring anyone selling a smartphone in that jurisdiction to provide a way for users, or authorities, to remotely wipe smartphones to serve as a deterrent to theft. While few now contest such a security measure, even the CTIA has announced a similar but voluntary commitment, Qualcomm is saying that it can do a bit better.
+
+Generally speaking, these kill switch solutions are mostly software-based. While some implementations could render a smartphone totally useless (a.k.a. “bricked”), there might be instances where reflashing the device, tantamount to reformating a computer and reinstalling an operating system, could make the smartphone available again. There is also an off-beat chance that more arduous hackers can even recover data erased from flash memory.
+
+Qualcomm’s SafeSwitch utilizes its hardware architecture to add another layer of security, one that it claims cannot be bypassed by software, hacks, or exploits. In particular, such security processes are said to be verified by hardware instead of a software implementation. This becomes quite useful when it comes to actually restoring the device to a usable state if the smartphone has been returned to the proper owner. SafeSwitch is also just one part of Qualcomm’s overall security strategy, which includes BYOD solutions that make deleted/wiped data really unrecoverable as well as biometrics-based identification.
+
+These are indeed nice things to have but, unlike software-based kill switches, it might be something that isn’t available today and on recent devices. Qualcomm isn’t sharing a lot just yet, like which of its chips, if any, already have these features built-in. It will also require the cooperation of at least phone makers who will need to put these chips inside their devices. Given Qualcomm’s ubiquity, that might not be an issue, but not everyone runs on a Snapdragon and will not be able to enjoy such security, which might be Qualcomm’s strategy after all.
+
+SOURCE: Qualcomm
+
+VIA: Re/code

@@ -1,0 +1,31 @@
+A product of collaboration between Stanford’s Dynamic Design Lab and the Volkswagen Electronics Research Lab, Shelly the self-driving Audi TTS hit track speeds of 120 mph.
+
+Other than some decals and a few extra antennas, there’s nothing outwardly remarkable about the white Audi TTS zipping around the track at Thunderhill Raceway, north of Sacramento, California. Its tires squeal as it zigs through chicanes. Its engine growls as it tops 120 mph on the straights. The car gets around the 3-mile course in less than 2-1/2 minutes, a time that rivals those posted by professional drivers.
+
+
+
+Shelley is the product of collaboration between Stanford’s Dynamic Design Lab and the Volkswagen Electronics Research Lab.
+
+What is remarkable about this car is its driver: There isn’t one.
+
+Shelley, as the self-driving car is known, is the product of collaboration between Stanford’s Dynamic Design Lab, led by mechanical engineering Associate Professor Chris Gerdes, and the Volkswagen Electronics Research Lab. Earlier this summer, Gerdes’ group brought Shelley to Thunderhill for high-speed tests of the latest tweaks to the software that tells her when to brake, how tight to take turns and when to punch the gas.
+
+The experience and data gathered by running Shelley around the track could one day lead to fully autonomous cars that safely drive you and your loved ones from Point A to Point B on public roads. In the nearer term, the technology could show up as a sort of onboard co-pilot that helps the driver steer out of a dangerous situation. And while Gerdes and crew clearly enjoy racing Shelley, the truth is that pushing the car to its limits on the racetrack – its brake pads melted on its last Thunderhill run – is the best way to learn what type of stress a car is under in a crisis, and what it takes to get the car straightened out.
+
+For example, the math involved in getting a spinning wheel to grip the pavement is very similar to recovering from a slide on a patch of ice. “If we can figure out how to get Shelley out of trouble on a race track, we can get out of trouble on ice,” Gerdes said.
+
+The human element
+
+There’s very little difference between the path a professional driver takes around the course and the route charted by Shelley’s algorithms. And yet, the very best human drivers are still faster around the track, if just by a few seconds.
+
+“Human drivers are very, very smooth,” Gerdes said. Shelley computes the fastest line around a course and executes the exact corrections required to stick to it. A person relies more on feel and intuition, and thus may, for example, allow the car to swing too wide in one turn if he knows it sets him up better for the next.
+
+“Human drivers are OK with the car operating in a comfortable range of states,” Gerdes said. “We’re trying to capture some of that spirit.”
+
+Gerdes and his students will have the opportunity to do just that Aug. 17-19 at the Rolex Monterey Motorsports Reunion races at the Laguna Seca Raceway. The group has enlisted two professional drivers to wear a suite of biological sensors as they race around the track; among other things, the sensors will record the drivers’ body temperature and heart rate. And in an effort to determine which driving maneuvers require the most concentration and brainpower, scalp electrodes will register drivers’ brain activity as they race against other humans.
+
+The biological data will be paired with mechanical performance data from the car – a 1966 Ford GT40, the only American-built automobile to finish first overall at the 24 Hours of Le Mans race – which Stanford has kitted out with feedback sensors similar to those on Shelley.
+
+“We need to know what the best drivers do that makes them so successful,” Gerdes says. “If we can pair that with the vehicle dynamics data, we can better use the car’s capabilities.”
+
+Image: Stanford University News

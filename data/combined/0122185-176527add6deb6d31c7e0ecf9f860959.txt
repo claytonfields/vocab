@@ -1,0 +1,29 @@
+An Israeli company named “Xsight” offers airports a way to avoid expensive delays and more importanty to save lives.
+
+
+
+July 25, 2000, marked the beginning of the end of commercial high-speed supersonic flight – a method of airline travel that transported passengers between New York and Paris within just a few hours. On that date, an Air France Concorde supersonic plane caught fire, exploded, and crashed into a hotel, within minutes of takeoff.
+
+All passengers and crew on the flight were killed, as were some employees of the hotel, for a death toll of 113.
+
+The reason for the crash? A 17-inch metal strip that fell off a plane that had taken off minutes before.
+
+Although the Concorde continued to fly for several years after the incident, the crash, along with other issues, took the wind out of the plane’s sails, and the Concorde — and commercial supersonic flight — was eventually scrapped.
+
+If the idea of a tiny piece of metal taking down a hulking aircraft sounds ridiculous, you’re clearly not familiar with FOD (Foreign Object Debris), a problem that air travel authorities, like the Federal Aviation Authority, are very concerned about. Besides claiming lives, FOD incidents cost the airline industry an estimated $13 billion a year in repairs, delays, worker costs, and so on.
+
+As a result, there has been a huge demand at airports around the world for FOD detection systems. Israel’s Xsight Systems’ FODetect is one of the leading providers of FOD detection systems, and is already installed in airports in the US, Europe, and Asia.
+
+“Had the runway been inspected before the Concorde’s takeoff, the tragedy would have been avoided,” Oded Hanson, Xsight CTO and co-founder told The Times of Israel. “But with takeoffs at commercial airports coming within two minutes of each other, there would have been no way to find the fatal metal strip. Patrols on runways take place only several times a day, and the only way to find such debris is when workers or pilots observe them, which is very difficult to do when you’re driving a vehicle down the runway.”
+
+FODetect uses hybrid radar and electro optical technology to detect junk on runways, with units installed with runway lights. That, said Hanson, is what separates Xsight’s system from the three others that are on the market for automated FOD detection. “The lights are already installed and there is an electrical infrastructure in place already. We add the FODetect sensors to the lights, with each sensor responsible for the area around it. When debris is detected, the control tower is alerted, and they can contact the pilots and hold up flights as necessary. And thanks to the installed GPS, they can tell ground crew exactly where the debris is located.”
+
+FODetect is the only system that lets control tower workers “see” what is actually happening on the runway. “They can’t see the runway from the tower, but with our system they are able to see and read exactly what is happening on the ground.”
+
+FODetect has been installed at Logan Airport in Boston, Ben Gurion Airport, and Bangkok Suvarnabhumi Airport. The system is approved by the FAA, which wrote in a report last month that “the FODetect system was able to detect the objects of various shapes, sizes, and materials on runway surfaces and perform satisfactorily in nighttime, daytime, sun, rain, mist, fog, and snow conditions.”
+
+For the full story: timesofisrael.com
+
+Click ‘LIKE’ to congratulate Israel’s Xsight’s for making airports safer.
+
+Please ‘SHARE’ this incredible story with your family and friends!

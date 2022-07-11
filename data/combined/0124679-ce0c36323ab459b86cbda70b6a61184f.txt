@@ -1,0 +1,115 @@
+Firebase and Parse Platform Choice Dilemma
+
+API developers are in a lively dispute over the respective advantages and limitations of the Firebase and Parse Backend as a Service (BaaS) platforms. Now Facebook’s decision to make Parse code open source adds more fuel to these fires of developer debate. Does this status change disarm the arguments of Parse proponents and push the balance in favor of Firebase, or perhaps it works in the opposite direction?
+
+Unfortunately, the online discussions on this topic can be more confusing than informative. Developers have their own ideas of which platform features will be most useful for their projects. For example, in some cases cloud coding capabilities are going to be very significant features but in other situations advanced ad management capabilities will be more relevant. A clear need emerges for a thorough Firebase and Parse feature comparison by someone with a solid understanding of both platforms. Armed with this information developers acquire the tools to make their most logical platform choice.
+
+The following detailed comparison of Firebase and Parse features and implementation differences thoroughly explores their respective strengths and weaknesses. Drawing on expert BaaS knowledge it gives every developer the information they need to make the right platform choice.
+
+Data browsing
+
+Firebase leverages the Vulcan Chrome add-on to inspect the data inside your Firebase.
+
+You can use Vulcan inside Chrome DevTools, or you can include a script tag that displays Vulcan as a modal in the lower right of your app.
+
+You can create, read, update and delete data for a specific Firebase. You can modify the structure of your Firebase by adding a child, adding a branch, or adding arbitrary JSON to any node.
+
+You can input an admin token, which enables editing privileges for secure data.
+
+Data browser is one of the most popular and essential tools of development on Parse. Back4app offers these features in its data browser.
+
+Filtering. Find a subset of your data quickly. Sorting. Order any column, ascending and descending. Full-screen mode. Use all of the space in your browser. Page size selector. See up to 100 rows per page. Rich editors for dates and GeoPoints. Edit your data with ease.
+
+SDK’s
+
+Parse offers powerful SDK for providing web and mobile app developers with a way to link their applications to backend cloud storage with features such as Push notifications using custom SDK’s and APIs.
+
+It also provides comprehensive guides for each platform and detailed API references with tutorials for a better idea of how it all comes together.
+
+Parse offers cloud-based software developer kits that enable users to create apps for desktop, mobile, and embedded devices. Its product portfolio is comprised of Parse Core to save data in the cloud, make the app social, run custom app code in the Parse Cloud, schedule recurring tasks such as sending engagement emails, updating data, and long running computation, share data between platforms, and get a local datastore and Parse dashboard.
+
+Firebase has different SDKs for Android and the JVM. Builds of Android and Java SDK are published to the Maven central repository. You will need to add the dependency of the downloaded SDK jar or add permissions if you are using the Android version.
+
+It also has a new SDK version for iOS. The iOS SDK allows easy data storage and Firebase Simple Login supports iOS which means user authentication can be handled without custom server code.
+
+Webhooks
+
+The Cloudcode Hooks API in Parse Server lets you access information and perform actions programmatically that previously you could only do through your Parse dashboard. You can create new webhooks and modify, delete or list the existing webhooks — all quickly and easily via the Hooks API.
+
+This API opens up several new functionalities to the Parse ecosystem. For instance, it enables you to test your Cloud Code in a local environment before deploying it. You can run your code locally and use a tunneling service like ngrok or ultrahook to map your local http endpoints to public URLs. Then, using the Hooks API, you can dynamically create or modify webhooks (for your app) to be served by your test environment.
+
+In Firebase, the webhooks feature can be realized by using child_added and child_removed. Say, you want to attach a webhook server-side onto the connect and disconnect events that fire in Firebase so that you can count the users in the elastic search records. You can use a node.js client that would subscribe to the same events on the member paths and set listners on child_added and child_removed. A regular Firebase client would:
+
+accept user input and send it to Firebase
+
+listen for changes in Firebase an update the user’s screen
+
+This node.js client would instead:
+
+listen for changes in Firebase and update the data in Firebase based on that
+
+Logging
+
+Using Parse Server, it is easy to view Cloud Code logs using the command line tool if a throw block was added in the code. The dashboard feature in Parse Server makes API consoles also visible. But console.log and console.error were useful to log messages. Back4app has tweaked these and they are made available for users.
+
+Firebase Crash Reporting creates detailed reports of the errors in your app. Errors are grouped into clusters of similar stack traces, and triaged by the severity of impact on your users. In addition to automatic reports, you can log custom events to help capture the steps leading up to a crash.
+
+Firebase Crash Reporting does not itself collect any personally identifiable information (such as names, email addresses, or phone numbers). Developers can collect additional data using Crash Reporting with log and exception messages. Such data collected through Crash Reporting should not contain information that personally identifies an individual to Google.
+
+Here is an example of a log message that does not contain personally identifiable information:
+
+FirebaseCrash.log(“SQL database failed to initialize”);
+
+FirebaseCrash is able to get the OutOfMemoryError and it sends the crash to the console. But if you would like to disable the crash in a BuildType, it is not possible.
+
+Push notifications
+
+Firebase Notifications has recently introduced user notifications for mobile app developers. Using the Notifications console GUI, you can reengage and retain your userbase, foster app growth, and support marketing campaigns. Notifications integrate closely with Firebase Analytics, allowing you to target notifications by custom audience.
+
+When your app is in the background on a user’s device, notifications are delivered to the system tray. When a user taps on the notification, the app launcher opens your app. If you want, you can also add client message handling to receive notifications in your app when it is already in the foreground on the user’s device.
+
+But Firebase’s libraries only operate when a specific client is active. That means, only active clients will receive push notification updates.
+
+Parse was one of the best options for configuring push notifications. After it got open sourced, Parse Server now includes basic push notification support using Google Cloud Messaging (GCM) for Android devices and Apple Push Notification Service (APNS) for iOS devices. With these you can:
+
+Target installations by platform
+
+Target installations by a ParseQuery
+
+Use most of the sending options
+
+PushAdapter is also enabled that lets Parse Server send push notifications using any push provider you want. PushAdapter abstracts the way pushes are sent so that you can easily connect it to any service that exposes an API for sending.
+
+Analytics
+
+Google Analytics is one of the best alternatives for Mobile Apps as it lets you measure the full value of your app across all key stages right from first discovery and download to in-app conversions. One could implement the routes in analytics.js and then send the event to another analytics provider like Google Analytics. AnalyticsRouter.js is the entity responsible for exposing the route on Parse Server. We need an adapter to integrate this entity with the external service such as Google Analytics. The Parse team has released the router and the adapters can be implemented.
+
+Firebase Analytics is a free app measurement solution that provides insight on app usage and user engagement. Analytics integrates across Firebase features and provides you with unlimited reporting for up to 500 distinct events that you can define using the Firebase SDK. The SDK automatically captures a number of events and user properties and also allows you to define your own custom events to measure the things that uniquely matter to your business. Once the data is captured, it’s available in a dashboard through the Firebase console.
+
+Firebase Analytics also integrates with a number of other Firebase features. For example, it automatically logs events that correspond to your Firebase Notifications and provides reporting on the impact of each campaign. If you need to perform custom analysis or join your data with other sources you can link your Analytics data to BigQuery, which allows for more complex analysis like querying large data sets and joining multiple data sources.
+
+Config
+
+Firebase Remote Config gives you instantly-updatable variables that you can use to tune and customize your app on the fly to deliver the best experience to your users. You can enable or disable features or change the look and feel without having to publish a new version. You can also target configurations to specific Firebase Analytics Audiences so that each of your users has an experience that’s tailored for them.
+
+Parse Server also has a similar feature that allows modifying the behavior of an app such as adding or removing a feature without having to rebuild it. The values changed could be quickly reflected on the Dashboard so that users could see the changes without updating the app.
+
+Background jobs
+
+Scheduling jobs through web console is possible in back4app. There are many options available to customize the frequency of these Jobs, including the start time. The statuses of any currently running jobs or previous jobs that have been completed are available.
+
+Similar to this feature, a fault-tolerant multi-worker job pipeline is built on Firebase. You can create your Firebase queue. When your Queue runs, the data will be stored in Firebase under a /queue/tasks path and removed when complete. You can push an object with some data to the /queue/tasks location in your Firebase using any Firebase client or the REST API.
+
+Admob
+
+AdMob is part of how Firebase helps publishers earn revenue. You can link your AdMob apps to Firebase projects right from the AdMob console. The firebase-ads dependency just brings in the existing play-services-ads library and the firebase-analytics library. The main integration is between Firebase Analytics and AdMob, but the AdMob SDK is still the same service.
+
+AdMob feature is not present in Parse Server.
+
+Cloud code
+
+Cloud Code is easy to use because it’s built on the same JavaScript SDK that powers thousands of apps. The only difference is that this code runs in the Parse Cloud rather than running on a mobile device. When you update your Cloud Code, it becomes available to all mobile environments instantly. You don’t have to wait for a new release of your application. This lets you change app behavior on the fly and add new features faster. Back4app offers cloud code feature that let developers build any mobile app without dealing with servers.
+
+Cloud functions accept a JSON parameters dictionary on the request object, so we can use that to pass up the movie name. The entire Parse JavaScript SDK is available in the cloud environment. Cloud functions can be called from any of the client SDKs, as well as through the REST API.
+
+Cloud code feature is not present in Firebase.

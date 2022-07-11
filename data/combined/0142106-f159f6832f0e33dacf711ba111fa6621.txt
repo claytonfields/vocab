@@ -1,0 +1,35 @@
+Ajax a short form of Asynchronous JavaScript and XML is a set of techniques used by many modern and popularÂ web sites. This technique allows portions of a Web page to be updated without refreshing the entire page, a significant advance in the development of websites and web-based applications. For example, a site might allow you to rate aÂ product or itemÂ by clicking on a star image. With Ajax, your vote could be registered without having to load the entire page again. In this post, we are listing down 15 Beautiful Web Designs Empowered With Ajax Techniques for your inspiration. If you like this post so please spread the word as much as possible via twitter.
+
+You are welcome if you want to share moreÂ web designs empowered with AjaxÂ techniques that we have missed here and you think our readers/viewers may like. Do you want to be the first one to know the latest happenings at SmashingApps.com just subscribe to our rss feed and you can follow us on twitter as well.
+
+I will appreciate if you can spread the word via Digg, Stumbleupon and other social media websites, Thank you.
+
+BBC
+
+MSNBC
+
+White House
+
+Ajax Whois
+
+iGoogle
+
+NetvibesÂ
+
+Pageflakes
+
+Protopage
+
+My Live
+
+My Yahoo
+
+eskobo
+
+Symbaloo
+
+Pingle
+
+Inbox
+
+Shelfari

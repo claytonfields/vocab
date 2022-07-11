@@ -1,0 +1,5 @@
+At the beginning? Quite a bit. Over time? Not as much.
+
+In this paper we compare the labor market performance of Israeli students who graduated from one of the leading universities, Hebrew University (HU), with those who graduated from a professional undergraduate college, College of Management Academic Studies (COMAS). Our results support a model in which employers have good information about the quality of HU graduates and pay them according to their ability, but in which the market has relatively little information about COMAS graduates.
+
+Hence, high-skill COMAS graduates are initially treated as if they were the average COMAS graduate, who is weaker [than an] HU graduate, consequently earning less than [HU] graduates. However, over time the market differentiates among them so that after several years of experience, COMAS and HU graduates with similar entry scores have similar earnings. Our results are therefore consistent with the view that employers use education information to screen workers but that the market acquires information fairly rapidly.

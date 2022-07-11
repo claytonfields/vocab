@@ -1,0 +1,11 @@
+28 Condivisioni Facebook Whatsapp Telegram Flipboard Twitter Pinterest Linkedin
+
+Come sappiamo, Google è un forte sostenitore delle energie rinnovabili. E, come tale, il suo obiettivo è quello di aiutare le persone a capire l’importanza di adottare pannelli solari sui tetti delle loro case. E in particolare attraverso il Project Sunroof. Un progetto che, non più di un mese fa, è arrivato in Germania attraverso un accordo con l’azienda elettrica E.ON e lo sviluppatore di software Tetraeder.
+
+Considerando gli studi che indicano come non vi sia più possibilità che le persone siano incoraggiate e spronate ad installare pannelli solari sui tetti seppur seguendo l’esempio dei vicini di casa che magari lo hanno già fatto, Google ora mostra su una mappa gli edifici sui quali sono già stati installati i pannelli solari, individuandoli attraverso un punto rosso.
+
+
+
+Per far questo, le informazioni saranno raccolte attraverso un algoritmo di apprendimento automatico che è in grado di riconoscere i pannelli solari attraverso le immagini satellitari. Per il momento, le informazioni raccolte corrispondono a circa 60 milioni di edifici negli Stati Uniti, anche se da parte di Google l’obiettivo è quello di aggiungere circa 40 milioni in più di edifici di ogni genere nel corso dei prossimi anni. Google ha fatto sapere di aver combinato il machine learning tra Google Maps e Google Earth e le immagini da loro rilevate per determinare quali case sono dotate da pannelli solari.
+
+È inteso che le persone possono consultare se i vicini hanno già adottato l’uso di energia solare con l’installazione di pannelli solari sui tetti, in modo tale da poter prendere la decisione di non essere da meno e seguire lo stesso percorso ed esempio.

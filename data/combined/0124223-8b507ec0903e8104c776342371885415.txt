@@ -1,0 +1,163 @@
+List of Nougat ROMs for Popular Devices — Find Your Android Update! [UPDATED DAILY]
+
+It’s been a while since Android 7.0 Nougat has been out. If you have a Nexus device which is currently supported, you already have your taste of the latest Android in most cases. But if you are a non-Nexus user, you would be lucky if your OEM even promised you an update, let alone deliver it so soon already.
+
+This is where the developer community comes in — groups of talented individuals working together to achieve the common cause of getting the latest Android onto devices before the OEM can, and in many cases, because the OEM can’t.
+
+With the large amount of unofficial builds of Android 7.0 Nougat and CyanogenMod 14 builds rolling in, it was a good idea to to create a big list of devices that have already tasted the dessert success.
+
+Sony
+
+Sony Xperia Z3 Compact: This is from outside of our forums, but from a reputable source. The Free Xperia Project team has uploaded a few test builds for quite a few Sony devices, and the Z3 Compact (aries) has one too. In fact, the devices that they have covered with a test build so far are:
+
+Z1 (honami)
+
+Z1 Compact (amami)
+
+Z Ultra (togari)
+
+Z2 (sirius)
+
+Z2 Tablet (castor)
+
+Z2 Tablet WiFi (castor_windy)
+
+Z3 (leo)
+
+Z3 Compact (aries)
+
+Z3 Tablet Compact (scorpion)
+
+Z3 Tablet Compact WiFi (scorpion_windy)
+
+Z4 Tablet (karin)
+
+Z4 Tablet WiFi (karin_windy)
+
+Z5 (sumire)
+
+Z5 Premium (satsuki)
+
+Z5 Compact (suzuran)
+
+X (suzu)
+
+Progress on devices differ and was largely undocumented, so users would have to try out the builds on their own.
+
+We’d like to give our thanks to the Free Xperia Project team, and equally to Sony. Sony actively facilitated developers in the task of bringing Android N to its devices, thanks to their contributions to Open Source. Heck, they even have guides to build Android 7.0 (AOSP!!!) for their device, along with providing binaries for the code that they cannot release. This makes Sony devices dominate this list of devices with Android 7.0 builds so early into release. Granted, these builds have a WIP nature to them, but they aren’t meant for the average user at all.
+
+Added: Xperia ZR: A WIP build without working camcorder. It’s definitely something, keep track of it!
+
+Added: Xperia Z2: If you can’t wait, you can find this AOSP Nougat ROM, albeit it has issues with charging and the camera among other bugs.
+
+Sony Xperia Z5: Android 7.0 Nougat Builds: Early alpha release for the E6653, camera is disabled and fingerprint does not work. Surprisingly, other important features like RIL and WiFi do work, so progress is good.
+
+Added: Xperia L: This 2013 champion has received an experimental Android Nougat ROM, with a decent list of working features, but issues with audio, media playback, sdcard storage and rotation.
+
+Added: Xperia SP: The Xperia SP, another 2013 champ, has received Android Nougat with various working features, except for a broken camcorder. Make sure to read the thread before flashing!
+
+Added: Xperia M: The Alpha 2 build for the Xperia M comes with many tested features, with the camcorder and LEDs during boot being the exceptions. It’s still an Alpha build, but this 2013 device is still kicking!
+
+Added: Xperia V: Initial builds for the Xperia V are also live. This is unofficial CM14, so expect bugs.
+
+OnePlus
+
+OnePlus 3: Unofficial CyanogenMod 14 WIP Builds: Early alpha build, has plenty of bugs like broken RIL and camera. Not recommended for daily driver.
+
+OnePlus X: A very early build of CyanogenMod 14 has landed on the device. All that works is that the device boots. Most features crash, so the ROM is good as a proof-of-concept.
+
+OnePlus 2: Builds are now available for unofficial CyanogenMod 14. The alert slider has issues, the rest are good to go.
+
+OnePlus One: A fairly decent build of AOSP 7.0 is available for the device. The bug list has been shortened since we last reported on it, now being restricted to HW disk encryption, SELinux being permissive, Missing gestures and poorer GPS performance.
+
+Android One Devices: Unofficial CM14 Alpha is available for Android One devices. Everything is reportedly working except video recording and cellular data.
+
+Moto
+
+Motorola Moto G: One of the most surprising entrants in this list is this budget device that was released with Android 4.3. Developers have a working alpha build of CM 14, with mentions of most basic features (RIL, Display, GPU) working.
+
+Motorola Moto G 2014: CyanogenMod 14 has arrived for the device. Impressively, the only major bug is the video recorder not working.
+
+Motorola Moto G 2015: The device now has a publicly available build of AOSP 7.0. The bug list includes issues with the camcorder, HDR and SELinus being permissive. Otherwise, it looks like a good early build.
+
+Moto X (2014): Alpha CM14 for the device, codename victara, is out now. The bug list is siginificant, and includes camera and sound, making it unfit for daily usage.
+
+Moto E 2015: Both the otus and surnia variants of the device have Android 7.0!
+
+Moto E: The first gen Moto E now also has its first builds! Bug list includes video recording and Dual SIM issues.
+
+Nexus
+
+LG Nexus 5: The Nexus 5 gets a mention in here despite being a Nexus is because of the end of its official support this year. But being a Nexus, there quite a few Android 7.0 ROMs for the device. The first builds that landed on the device have received a slew of updates that have shrunk down the “broken” list. It should not be long until these become stable builds, as is usually the case with Nexus devices.
+
+Added: Galaxy Nexus: The Galaxy Nexus also has a working Nougat ROM, more stable than many on this list.
+
+Nexus 4: The old, lovely glass little phone also has a WIP Nougat ROM, with various working features and a semi-broken camera. Nexus never dies!
+
+ASUS Nexus 7 2013: Another Nexus, another Nougat build. This is the project that is being actively worked on at the moment. Bug list mentions just poor video recording in 1080p…and that’s it.
+
+Added: Nexus 6: Android Nougat has been compiled from source for those that couldn’t wait for Google.
+
+ASUS Nexus 7: AOSP 7.0 Builds exist for grouper, along with a bunch of minor bugs to go along with it.
+
+Samsung
+
+Samsung Galaxy Tab S2 9.7: A fairly well built ROM for AOSP 7.0 Nougat is available for the tablet. Only bugs mentioned are with video recording being broken completely and that photo orientation is incorrect. But outside of these, the builds look fairly solid.
+
+Samsung Galaxy Tab S: A bunch of Galaxy Tab S variants have received builds for AOSP Nougat. The builds have issues with gaming, broken RIL and a few more graphical glitches.
+
+Added: Galaxy S4 (i9505): Android Nougat comes courtesy of JDCTeam. Issues: You Tell Them ¯\_(ツ)_/¯
+
+Added: Galaxy S Duos 2: It has booted! Keep an eye out on that thread, plus the development forums, to get your Nougat.
+
+Added: Samsung Galaxy Grand 2: The device has its own booting build of CM14. RIL is broken though, so keep that in mind.
+
+Added: Samsung Galaxy Note: This ancient Note that redefined the smartphone size standards also has a Nougat ROM. Damn.
+
+Xiaomi
+
+Xiaomi Mi 3 and Mi 4: AOSP 7.0 Nougat builds are available for the Mi 3 and the Mi 4. The bug list includes issues with video recording, Google Now on Tap and the Clock app.
+
+Xiaomi Redmi Note 3 Snapdragon 650 variant (kenzo): For a first release of CyanogenMod 14, the bug list is surprisingly short. Video recording does not work, and features broken from the CM end continue to remain broken here as well.
+
+LG
+
+Added: LG G3: While its Snapdragon 801 might prevent it from receiving official support, AOSP Nougat ROMs are starting to pop up for the LG G3. Who needs LG UX anyway? It’s a WIP and camcorder, RIL and sensors are broken — but it’s something to look forward to for LG G3 users!
+
+Added: LG G2: This Snapdragon 800 device also will not see official support, but here is an AOSP CAF build to savor while ROMs become stable.
+
+Others
+
+Jiayu S3: Builds for Android 7.0 are available on this lesser-known device, that too with a MediaTek MT6752 SoC. GPS and audio and video recording do not work as of yet, but this gives the device a good taste of Nougat.
+
+Jiayu S3 Plus: This device with a MediaTek MT6753 SoC also has a build of Android Nougat. Bugs for the ROM relate to the GPS breaking when the RIL fix is applied.
+
+Added: Asus Transformer TF300T: This not-quite-forgotten tablet has received Android Nougat, too!
+
+Added: HP Touchpad: It just keeps getting them!
+
+Added: Yu Yuphoria: A budget phone with good specs and a CyanogenMod 14 ROM, sweet deal.
+
+Added: Yu Yureka: Another budget device with CM14 builds that look stable. Video Recording does not work.
+
+Added: The Vernee Thor also has a build of AOSP N, which is surprisingly stable!
+
+Added: OPPO Find 7: This device also has a rom! Bugs are not known, but the working list is pretty good.
+
+Special mentions/In Development
+
+LG G5: Development work on Android 7.0 or CyanogenMod 14 was not found. However, LG was starting its own Beta program for the G5 in Korea and there were hopes that a build might get leaked. However, no luck so far.
+
+Motorola/Lenovo Moto G4 Plus: Development work is on and a build for the public is expected in the near future. Scope of progress is not known immediately.
+
+Samsung Galaxy S6: This finds a place here because it was surprising to see a recent Samsung device in here, leave alone the Exynos variant (G920F). Developers have compiled CM14 for the device, but the progress of the build is unknown. There are no releases to download, so we cannot judge eitherways. But this gives the device a sliver of hope it can hold on to.
+
+Samsung Galaxy S5: Another surprise entry for Samsung. Developers have a build of Android Nougat that boots, but there is no public release. Things are also mentioned to be a complete mess, so this might take a while before it becomes usable.
+
+Added: The Redmi 2/prime are seeing their first Nougat build booting up. Exciting times ahead!
+
+Nougat has only been around for a couple of weeks yet we already see plenty of amazing ROMs hitting our devices, in every case before the official OEM has rolled out an OTA. This is part of the beauty of the XDA community, and we must commend the hard-working developers leading the vanguard of Nougat ROMs to users all around the globe. So, if you come across a Nougat build for your device, consider yourself lucky and don’t forgive to say “thanks!”
+
+Keep in mind these are devices in XDA’s Top Device list, meaning they are some of the most popular ones on the forums. That being said, many less-popular devices are receiving Android Nougat as well. If there is a device you want to see on this list, politely let us know in the comments down below and we will add it to the list! Requirements are a publicly available download link, and a booting state at minimum.
+
+Please do mention a link. We merely link to existing threads, so if the thread can not be found, it is unlikely to appear here.

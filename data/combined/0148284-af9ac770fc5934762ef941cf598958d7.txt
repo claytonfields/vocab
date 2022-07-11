@@ -1,0 +1,49 @@
+(Image: NASA)
+
+What’s the best way to whisk astronauts to safety if their rocket were to explode on the launch pad? For about 50 years, most spacecraft designs have used a complex arrangement of solid rocket boosters mounted on top of the crew capsule to pull the capsule to a safe parachute height.
+
+But some engineers are developing what they say is a smarter, more efficient “pusher” system. Aerospace giant Boeing described its system last week at the Farnborough International Airshow in the UK.
+
+Why bother with a launch escape system? Can’t astronauts simply eject in an emergency?
+
+Advertisement
+
+Not easily. For every astronaut to safely bail out, or be thrown clear to parachute height on a rocket-assisted ejector seat, they all have to be sitting near an escape hatch. And fitting too many hatches weakens a spacecraft’s structure.
+
+The space shuttle used ejector seats during its first four test flights – but only for the two pilots up front. The seats were removed after the shuttle went into service, since they were only of use at speeds of up to Mach 3, and the shuttle reaches Mach 18.
+
+So what escape system does the shuttle use?
+
+After the 1986 Challenger disaster, in which all seven crew were lost when the craft exploded 73 seconds after launch, the shuttle got a limited bail-out capability: the whole crew can leap from a hatch with parachutes if the craft is gliding at an altitude of less than 6 kilometres. There remains no escape in the launch phase.
+
+What systems do other spacecraft use?
+
+Today, Russian Soyuz and Chinese Shenzhou spacecraft use rockets attached to the top of the crew capsules to drag the crew out of harm’s way (see video of a Soyuz using the escape rockets during a launch failure in 1983). This type of “launch abort system” (LAS) was first employed in rudimentary form in NASA’s Mercury programme in 1959 and became familiar sights in the Apollo lunar programme.
+
+Apollo used a 12-metre-long tower fixed to the top of the crew capsule. About a third of the way up the tower, four solid rocket booster nozzles pointed downwards and away from the capsule (see image). In an emergency, explosive bolts would release the capsule from the launch rocket, and the powerful solid-fuel escape rockets would shoot the capsule to a parachute-deploying altitude.
+
+Future spacecraft, including NASA’s Orion and SpaceX’s Dragon space capsules, are also set to use traditional launch abort systems.
+
+What are the downsides of traditional designs?
+
+If the escape system isn’t used during lift-off, it is jettisoned once the air thins out (at an altitude of 60 kilometres for Apollo). But until then, it adds fuel-eating weight, wrecks the capsule’s aerodynamics and dumps some perfectly good thrusters into the ocean.
+
+If the escape system is used, a partial vacuum develops between the capsule and the launch rocket below it as the capsule begins to pull away, creating extra drag that makes it harder for the capsule to fly to safety, says Henry Spencer, a spacecraft engineer based in Toronto, Canada.
+
+So what’s the alternative?
+
+Boeing, which is one of the firms competing to develop a commercial crew capsule for NASA, is working on a “pusher” design that would instead propel the capsule from below. A slim cylindrical service module beneath the capsule would carry thrusters, powered by oxygen and liquid fuel, that would be used to move the capsule once in orbit.
+
+Boeing’s plan is to give that set of thrusters enough fuel to push the capsule safely away from an exploding launch rocket.
+
+What are the advantages of a ‘pusher’ system?
+
+The aerodynamics are cleaner without a giant tower on top of the capsule during the first phase of lift-off. And putting escape thrusters on the bottom of the capsule would pressurise the gap between the capsule and its launch rocket when they separate, eliminating the suction-cup effect created between the two in traditional designs, says Spencer.
+
+Furthermore, if the capsule makes it to space without aborting on the pad, it still has all that extra LAS fuel onboard. The fuel could be used for in-space manoeuvres – Boeing wants to send its capsules not only to the International Space Station but also to the inflatable space stations that the US firm Bigelow Aerospace hopes to begin launching in 2015.
+
+Keith Reiley, Boeing’s commercial space flight programme manager, adds that the extra fuel could be used to boost the stations’ orbits, which tend to decrease over time due to atmospheric drag.
+
+What are the downsides of the approach?
+
+A conventional escape tower is jettisoned if it is not needed, but a pusher system would leave a lot of volatile fuel beneath the crew for their whole trip. That adds to the litany of risks in orbit. Apollo 13 showed what can happen to a service module’s oxygen tanks: a similar explosion near the LAS fuel could spell disaster. That’s the engineering challenge Boeing is going to have to meet.

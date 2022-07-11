@@ -1,0 +1,51 @@
+
+
+A biofluorescent chain catshark (Scyliorhinus rotifer). (© J. Sparks, D. Gruber, and V. Pieribone)
+
+Catsharks aren't harmful to humans, but they also aren't too much to look at — by the light of day, that is. In blue light, certain species give off a gorgeous glow. Now researchers have created a camera to simulate the way these sharks see one another deep under the sea. And through this lens, they say, the glow grows stronger and more distinct the deeper the sharks swim. Their results were published Monday in Scientific Reports.
+
+"We've already shown that catsharks are brightly fluorescent, and this work takes that research a step further, making the case that biofluorescence makes them easier to see by members of the same species," John Sparks, a curator in the American Museum of Natural History's Department of Ichthyology and a co-author on the paper, said in a statement. "This is one of the first papers on biofluorescence to show a connection between visual capability and fluorescence emission, and a big step toward a functional explanation for fluorescence in fishes."
+
+[This ‘glowing’ turtle may be the first biofluorescent reptile ever discovered]
+
+The chain catshark (Scyliorhinus retifer) and the swell shark (Cephaloscyllium ventriosum) that Sparks and his colleagues studied spend most of their lives around 2,000 feet below the surface of the ocean, so they've been largely neglected by researchers.
+
+At that depth, most wavelengths of visible light are absorbed by water, leaving animals bathed mostly in blue hues. But catsharks have molecules in their skin that allow them to absorb some of that blue and re-emit it as other colors, giving them what's called biofluourescence (as opposed to bioluminescence, where the light itself is produced by the organism, as it is via chemical reaction in fireflies).
+
+
+
+Fluorescent (A) and white light (B) image of a female swell shark (© Gruber et al.)
+
+But it's hard for humans to appreciate just what a biofluorescent deep-sea creature is supposed to look like. Their colorful displays aren't made for human eyes — which are able to pick up colors that aren't very useful in the ocean — but for the blue and green spectrums of the deep sea. So the researchers created a color filter to mimic fishy vision. With that in place, the fluorescence suddenly popped. And while the researchers could only dive to the most shallow regions of the sharks' habitat, mathematical modeling indicated that the contrast would increase as the water got deeper (and bluer).
+
+[These deep sea ‘mushrooms’ don’t fit into any known category of life]
+
+"Imagine being at a disco party with only blue lighting, so everything looks blue," lead study author David Gruber, a researcher at Baruch College, City University of New York and the American Museum of Natural History, told National Geographic. "Suddenly, someone jumps onto the dance floor with an outfit covered in patterned fluorescent paint that converts blue light into green. They would stand out like a sore thumb. That's what these sharks are doing."
+
+
+
+A swell shark under white light (top), natural light (middle), and high-intensity blue light. (© Gruber et al.)
+
+Gruber believes this shows that the sharks use their glowing patterns — which were distinct between species, and again between the two sexes — to communicate with one another.
+
+"It reminds me of when researchers first tuned in to the high frequency of bat sounds, and they discovered all this hidden chatter. They had to then figure out what it meant," he added.
+
+Indeed, there's more work to do before researchers can be sure that the sharks glow significantly under natural conditions. Georgia Southern University's Christine Bedore, who wasn't involved in the study, told the Atlantic she was “pretty doubtful that the fluorescence has any ecological relevance.”
+
+But Gruber, who found evidence of the first biofluorescent reptile (a sea turtle) last year, is eager to study the phenomenon more — and to create more animal-eye cameras to help scientists understand how other creatures experience our world.
+
+Correction: A previous version of this article mistakenly used the word "bioluminescent" in one instance. This has been corrected.
+
+Read More:
+
+There’s something fishy about that viral image of what dolphins ‘see’
+
+Newly discovered deep-sea octopus looks like an adorable ghost
+
+Here’s why mushrooms glow in the dark
+
+A bunch of sharks surprised researchers by hanging out in an underwater volcano
+
+This is a pocket shark
+
+Scientists discover an unexpectedly beautiful rainbow of fluorescent corals in the Red Sea

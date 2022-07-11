@@ -1,0 +1,31 @@
+Meet Gcam: The X graduate that gave us a whole new point of view
+
+The Graduate Series: A collection of stories where we look back at some of X’s graduated projects and see where they are today.
+
+The Team at X Blocked Unblock Follow Following Mar 24, 2017
+
+Sometimes teams at X set out to build one thing, only to discover that the technologies they create have applications far beyond the initial problem they were trying to solve. This was certainly the case for Gcam, the computational photography project that now powers the camera of the acclaimed Pixel phone, made by Google, as well as a range of other image processing products across Alphabet.
+
+Gcam began in 2011 when Sebastian Thrun, the head of X at that time, was searching for a camera that could live within Google Glass. Glass gave wearers the ability to shoot photos from first-person vantage points and share their experiences without having to pull out a camera. Anyone from parents with small kids to doctors performing surgery could benefit from this feature. However in order for people to want to use it, Glass’s picture-taking capabilities needed to be on par with cellphone cameras, at the very least.
+
+Picking cherry tomatoes through Glass
+
+Glass presented a number of camera design challenges; the tiny camera and lens starved the image of light, so pictures in low light or high contrast scenes were often poor quality; it had a small image sensor relative to cell phones, which further reduced low-light and dynamic range performance; and it had very limited compute and battery power.
+
+An early Glass prototype
+
+Because Glass needed to be light and wearable, creating a bigger camera to solve these challenges wasn’t an option. So the team started to ask — what if we looked at this problem in an entirely new way? What if, instead of trying to solve it with better hardware, we could do it with smart software choices instead? Enter Marc Levoy, a faculty member in the Stanford Computer Science department at the time, and an expert in computational photography — a term for software-powered image capture and processing techniques.
+
+In 2011, Marc formed the team at X known as Gcam. Their mission was to improve photography on mobile devices by applying computational photography techniques. On their hunt for a solution to some of the challenges presented by Glass, the Gcam team explored a method called image fusion, which takes a rapid sequence of shots and then fuses them to create a single, higher quality image. The technique allowed them to render dimly-lit scenes in greater detail, and mixed lighting scenes with greater clarity. This meant brighter, sharper pictures overall.
+
+Image fusion debuted in Glass in 2013, and it quickly became clear that this technology could be applied to products beyond Glass. As people increasingly turned to their phones to capture and share important moments in their lives, the software powering these cameras needed to be able to produce beautiful images, regardless of the lighting. Gcam’s next iteration of image fusion, called HDR+, moved beyond Glass and launched within the Android camera app for the Nexus 5 and then Nexus 6 the following year.
+
+HDR+ renders scenes with mixed light, like this sunset in Bear Valley, in greater detail. Taken on Pixel by Marc Levoy
+
+With Gcam’s technology now being used to improve photography across a range of applications and products, Gcam graduated to Google Research in 2015. The team now works across a portfolio of technologies, including Android, YouTube, Google Photos and the 360˚Virtual Reality rig, Jump. Some of the software smarts from the Gcam team are included in Lens Blur, a feature in the Google camera app, and the software that stitches together the panoramas for Jump’s 360˚Virtual Reality videos.
+
+HDR+ mixes short exposures with software that boosts the brightness of shadows so that the subject and the sky can be preserved. Image of Desolation Wilderness taken on Pixel by Marc Levoy.
+
+Most recently, Gcam’s HDR+ technology launched as the default mode for the critically acclaimed Google Pixel phone. DxOMark, the industry standard for camera ratings, declared that the Pixel camera was “the best smartphone camera ever made” in 2016. Reflecting on the evolution of the project, Marc says, “It took five years to get it really right…and we’re grateful that X gave our team the long-term horizons and independence to make that happen.”
+
+What’s next for Gcam? Marc, who began his career developing a cartoon animation system that was used by Hanna-Barbera, is excited about the future of the team. “One direction that we’re pushing is machine learning,” he explains. “There’s lots of possibilities for creative things that actually change the look and feel of what you’re looking at. That could mean simple things like creating a training set to come up with a better white balance. Or what’s the right thing we could do with the background — should we blur it out, should we darken it, lighten it, stylize it? We’re at the best place in the world in terms of machine learning, so it’s a real opportunity to merge the creative world with the world of computational photography.” Whatever’s next, it’s safe to say that the future is looking good for Gcam.

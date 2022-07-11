@@ -1,0 +1,27 @@
+The biggest secret of Driftmoon!
+
+24.01.2013
+
+The biggest secret of Driftmoon is that it's actually 3D! I bet you thought that it was purely a top-down game, right? Maybe you thought that it would be impossible to turn the camera, even a tiny fraction? Actually that was completely true a week ago, when we suddenly started wondering how the game would look from a more angled viewpoint, and in a mad coding frenzy got to work.
+
+
+
+The new camera tilt feature in action, coming soon to your Driftmoon (when we get it fully working and tested)
+
+The top-down camera angle is something that often comes up when people see Driftmoon for the first time. I've never seen a feature that divides people more, some people love it, and some people don't even want to try the game because they fear the perspective. I believe it's largely an issue of what you have become accustomed to. I started my gaming life playing games with a top-down perpective like Ultima VII, and grew up with isometric games like Planescape: Torment. The fully top-down camera of Driftmoon has never been an issue to me, but that may just be because I've been playing too many ancient games. And here's the important philosophical point, I'm not here to make games for me, I'm here to make games for other people to play. That's why we're adding controls to change the camera angle!
+
+The tricky part is that we've originally designed the graphics with a pure top-down viewpoint in mind, and changing the camera even slightly would have resulted in everything looking very strange. That's what we've been doing for the last week, making sure things look good from an angled point of view. Having said that, it won't be possible to change the camera all that much, but I think that even this small change does makes a difference in how the game looks - for the better, of course. But the best thing is that in the future, all of our players will have the possibility to choose the viewpoint they themselves prefer.
+
+
+
+Same screenshot without the tilt
+
+So, which screenshot do you prefer? The fully top-down, or the slightly tilted one?
+
+Modders: The tilt feature won't be enabled in mods by default, but from the next version onwards, it will be possible for modders to enable it through settings.ini.
+
+Oh, and I was just kidding you, this isn't the biggest secret of Driftmoon. You'll have to play the game to find it out.
+
+Please enable JavaScript to view the comments powered by Disqus.
+
+Disqus

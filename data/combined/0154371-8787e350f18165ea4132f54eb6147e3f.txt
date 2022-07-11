@@ -1,0 +1,309 @@
+I am an environmental social scientist by training, and over the last several years I have developed a rather unconventional set of views about the future of nature. The more I have examined and considered the environmental implications of technological change myself, the more I have come to realize how poorly these implications seem to be understood or even recognized by others across the environmental disciplines.
+
+In short, I have learned that we are likely to see the arrival of technologies within just a few decades that to uninformed observers might seem to still lie centuries or millennia away. Science fiction, in other words, will become science fact far sooner than most of my colleagues would dare imagine. And on the whole the implications for the environment are not just extraordinary, but extraordinarily positive: problems that seem utterly intractable today may become solvable in the relatively near future.
+
+Unfortunately, the blindness of the environmental disciplines to the tsunami of radically disruptive technological change barreling toward us is a pristine example of how otherwise highly-educated and intelligent people can arrive with gross overconfidence at spectacularly false conclusions when their reasoning is based on bad information or invalid assumptions.
+
+I am very deeply concerned about this state of affairs because imminent technological change raises a wide range of environmental policy, planning, and ethics questions that I think we must begin to examine very carefully.
+
+So to be clear, let me summarize my line of reasoning here at the outset:
+
+Technological change is accelerating, and is being compounded most especially by advances in computing.
+
+The implications of technological change over the course of this century are staggering.
+
+Technologies that seem thousands of years away to uninformed observers actually lie only a few decades ahead.
+
+Intelligent machine labor in particular is going to be a fundamental game-changer, but miniaturization and biotech will be a big deal too.
+
+The implications have the potential to be hugely positive for the environment because they may render previously intractable problems solvable.
+
+The environmental disciplines are either shamefully oblivious to, or are in near-total denial of, the technological prospects of the next several decades.
+
+As a result, the environmental scenarios on decadal scales or longer that are presented as plausible forecasts by the scientific community are, to the contrary, profoundly unrealistic – and unduly pessimistic besides.
+
+Some of this ignorance is genuinely innocent, although that is an increasingly unacceptable excuse.
+
+Some of this ignorance may be willful, and that is a serious concern with grave consequences for policy and planning.
+
+There are a number of good reasons to be wary of new technologies based on our historical experiences.
+
+There also seem to be a number of other more cynical reasons to dismiss the potential of technology to redress environmental problems.
+
+Regardless, there appears to be an increasingly cult-like antipathy toward technology across the environmental disciplines – as well as within the environmental movement that they inform – that is based not on reason but on a reflexive demonization and dismissal of “techno-fixes”.
+
+As the potential of technology to solve major environmental problems becomes steadily clearer to other disciplines such as computer science and engineering, and eventually to the public, the willful ignorance and reflexive opposition toward technology within the environmental disciplines risks becoming a form of outright denialism.
+
+Where to Start?
+
+This is an extremely difficult problem to tackle. Even just engaging in discussion on the topic with my colleagues in the environmental disciplines has proven to be enormously challenging. The mountain of ignorance and misconceptions about technological change that I must climb in order to even begin a meaningful conversation about the future of the environment is daunting. And it can be both difficult and painful to be the person who shatters someone else’s illusions, especially if those illusions closely shape his or her work and identity.
+
+Dispelling false but widely-held beliefs is a thankless task in any sphere, and that in itself would be bad enough. But to make matters worse, I am almost entirely alone in the wilderness on this issue, and so most of the time it really is no fun at all. So far I have had to remain very cautious, even closeted, about my views – especially at this early stage in my career, since I don’t quite yet have my PhD let alone the professional security of a tenured professorship.
+
+So why I am volunteering to share these controversial views now? The answer is that things are at last starting to look up – if only just slightly. I am pleased to report, after years of beating my head against the wall, that one of the flagship environmental journals – Nature Climate Change – has finally published a submission of mine (alas, only a letter and not a full paper) entitled “Technological Change and Climate Scenarios” that calls for the explicit recognition of technological change in environmental forecasting.
+
+In my letter I express concern that the authors of a recent study published in Nature Climate Change entitled “Consequences of twenty-first-century policy for multi-millennial climate and sea-level change” present 10,000-year scenarios as though they were actual forecasts, rather than what they actually are which is prospective counterfactuals similar to “business as usual“. These scenarios can certainly be instructive as baselines for comparison, but they are not remotely plausible as actual depictions of the future state of our world. The article in question contains statements such as, “the ultimate return to pre-industrial CO2 concentrations will not occur for hundreds of thousands of years,” and “the CO2 released during this century will commit Earth and its residents to an entirely new climate regime”. Sweeping and definitive claims such as these are standard practice across the environmental disciplines, and are seldom if ever challenged. They are also absurd.
+
+Statements like those above are founded on the assumption of ceteris paribus (all else being equal) with respect to technology. But that assumption cannot hold. The world of 2050 will almost certainly be radically different than today. And the world of 2100 is quite likely to be so totally alien as to be all but unrecognizable.
+
+To reiterate: we can expect truly radical technological change over the course of this century – genuinely the stuff of science fiction. I will explain why in a moment.
+
+But first let me say that the environmental disciplines are not alone in their technology blindness. The field of urban and regional planning, for example, has been more or less totally blindsided by the speed at which self-driving cars have gone from “futurist fantasy” to reality. In over 1200 articles published across three of the largest academic urban planning journals in the 5 calendar years from 2010 to 2014 there is not a single mention of self-driving cars or autonomous vehicles. This is simply inexcusable.
+
+Similarly, the official government Regional Transportation Plans of major US cities – including Los Angeles (Mobility Plan 2035), New York (Plan 2040), San Francisco (San Francisco Transportation Plan 2040), Chicago (Go To 2040 Comprehensive Regional Plan), San Diego (Our Region Our Future 2050), Seattle (Transportation 2040), and Philadelphia (Connections 2040 Plan for Greater Philadelphia) – do not include any discussion of autonomous vehicles whatsoever. As a result, these ostensibly future-oriented “plans” are hopelessly, laughably unrealistic. How much sense will mass transit make, for example, after self-driving cars make taxi fare cheaper than rail or bus fare? To everyone’s detriment, billions of dollars ride atop this shortsightedness.
+
+For the moment, however, I want to stay focused on the environmental disciplines because I am concerned there may be a more willful and cynical refusal to even consider the possibility that technological progress might render hitherto intractable problems solvable in the foreseeable future.
+
+Finally, let me give due credit to the editors at Nature Climate Change for publishing my letter. It took courage, given that the view I express is such a controversial one. But this only begs the question: what makes these views so controversial in environmental circles?
+
+Perceptions of Technological Change in the Environmental Disciplines
+
+It has become painfully clear to me that virtually no one of influence in any of the major environmental disciplines has presented a realistic prospectus of the technological change that we can expect to see over the course of this century in any of their publications, or made any rigorous attempt to account for these changes in their forward-looking work. Rather, the field as a whole is beset by profound misunderstandings and misconceptions about the relatively near future of our civilization.
+
+More specifically: the models, scenarios, and forecasts that are prevalent across the environmental disciplines almost universally assume that there will be no major technological disruptions of: 1) how we meet human needs, or 2) the nature of those needs themselves. Rather, environmental scholars and scientists and planners and advocates seem, almost to a man, to presume that technological change over the remainder of this century will comprise only modest progress at the margins – a few fancier gadgets here, some efficiency improvements there. Nowhere in any publication in any environmental field is the notion seriously entertained that either the general character of the global economy (i.e. the mechanism by which we meet our needs) or the general character of the human condition (i.e. the biological basis of our needs themselves) could change on a timescale relevant to policymaking or planning today.
+
+As a result, visions of the “far” future in the environmental disciplines – out not only to the end of this century but as far as 10,000 years in the case of the study mentioned above – assume that: 1) material goods will continue to remain scarce and therefore costly; 2) present and future environmental damage will continue to be irreversible on human timescales because repair would be economically or practically unfeasible; and 3) human nature and needs rooted in Homo sapiens biology will never change.
+
+These assumptions are false. The reason why the environmental disciplines subscribe to these false assumptions is that they fundamentally misunderstand both the pace and the extent of technological change that looms on the horizon.
+
+Before I address each of these in turn, we should establish a working definition of technology. I find it most useful to define technology as: the capacity to manipulate the physical world using practical knowledge.
+
+So when we speak of technological progress, we mean an increase in the combined speed, scale, and precision with which we can manipulate matter, energy, and information – the fundamental constituents of the physical world. We often use the term tools interchangeably with technology to describe the tangible means by which we do that manipulating.
+
+Understanding the Pace of Technological Change
+
+The first crucial aspect of technological change to understand is that it is accelerating.
+
+Acceleration is nonlinear and therefore deeply unintuitive. Linear change is easy to visualize. If you have a dollar and you add a dollar every day for a month, at the end of the month you have 30 dollars. But if you double a dollar every day, at the end of the month you have a billion dollars. (The text is white – highlight the bar to see if the result surprises you). The difference between linear and accelerating change quickly becomes astronomical.
+
+Technological change is accelerating because each new generation of tools synergizes with previous ones to help us build the next generation of still more capable tools. The clearest example of this today is in information technology, which has grown exponentially for over 100 years, doubling in capability per constant dollar every 18 months or so. Since 1965, this pattern of accelerating progress has been closely associated with Moore’s Law, which is based on the observations of Intel co-founder Gordon Moore that transistor counts on integrated circuits in silicon-based computers had tended to double roughly every 2 years. Because transistor density is very closely correlated with both processor speed and cost, Moore’s Law has become a proxy for the price-performance of computing in general. But this exponential trend in computing predates Moore’s Law and transistors in silicon by many decades, and has proceeded without significant interruption through war and recession across several major architectural transitions in computing substrates – including mechanical tabulators, electromechanical relays, and vacuum tubes.
+
+We are approaching the physical limits of transistors in integrated circuits in silicon, and therefore the inevitable end of Moore’s Law. But many in the computer science and engineering disciplines expect that we will shift away from the current 2D-transistor-in-silicon paradigm to a different substrate, and that the price-performance of computing will therefore continue to accelerate for several more decades to come. This growth must eventually cease as we approach the fundamental physical limits of computation, but along the way we can expect to see astonishing capabilities arise.
+
+It is important to recognize that information technology in general, and computation in particular, are key enablers of other technical capacities. This is because the manipulation of matter and energy at enormous speeds, at large scales, and with great precision requires the processing of enormous quantities of information.
+
+We know that it is possible to manipulate matter and energy at huge scales with molecular precision. That, after all, is precisely what biology does every day. Forests, for example, pull millions of tons of carbon out of the atmosphere each day, and every tree is itself comprised of tissues which are comprised of cells which are comprised of components whose structure and activity is orchestrated at the atomic level, molecule-by-molecule. The protein-based nanotechnology deployed by biology is marvelous and awe-inspiring, and serves as an existence proof for the speed, scale, and precision with which the material world can be manipulated. And we have good reason to believe that the ultimate limits allowed by physics may far outstrip what biology is capable of.
+
+The supercomputers at NASA that put Apollo astronauts on the moon 50 years ago cost millions of dollars and took up the entire floor of a small office building. A device today like Apple’s iPhone 6 is over 200,000 times faster, 70,000 times cheaper, while at the same time over 100,000 times smaller. If past exponential trends continue for several more decades, as seems not only possible but quite likely based on what the computer science and engineering disciplines tell us, then we can expect astonishing outcomes over the course of this century. On this trajectory, devices in 2065 with the computing power of an iPhone 6 might be nearly microscopic and cost a fraction of a penny.
+
+The upshot here is that the ability to direct extremely small, extremely cheap, and therefore extremely numerous devices using sophisticated software opens the door to manipulating the physical world at tremendous speeds, at huge scales, and with microscopic precision simultaneously. And not centuries or millennia from now, but within just a few decades.
+
+Understanding the Disruptiveness of Technological Change
+
+The second crucial aspect of technological change to understand is that it will be radically disruptive.
+
+This technological disruption will take two general forms: 1) the radical expansion in our capacity to meet human needs; and 2) the capacity to modify our needs themselves by directly manipulating our bodies and brains.
+
+There is a great deal to unpack here, far more than I can do any real justice to in a short essay, but let me at least sketch a rough picture of what the above change might entail for the environment.
+
+One major implication of technological progress that has already begun to receive public attention is the advent of intelligent machines and their potential to do work that today only a human being can do.
+
+There is considerable debate over just how intelligent a machine would need to be in order to perform complicated tasks, such as drive a car. Computer scientists distinguish narrow artificial intelligence from general artificial intelligence. It seems almost certain, for example, that cars will be able to safely drive themselves without being conscious or self-aware in any meaningful way. In other words, they may be intelligent with respect to the narrow domain of skills necessary to drive a vehicle, but unintelligent in other respects. It is less clear how much more broad a domain of skills is needed to, say, diagnose an illness, prepare food in a restaurant, or work on a construction site.
+
+What is clear, however, is that machines are becoming more and more capable of doing intelligent work that in the past could only be done by humans. The corresponding potential of machines to eliminate jobs from the global economy has begun to receive a great deal of attention in the last year, particularly as the prospect of self-driving cars approaches commercial reality.
+
+Concerns about technological unemployment are as old as the industrial revolution. The Luddites, for example, were textile workers in England who protested the development of factory machinery for fear that the technology would put artisanal craftsmen out of work. And their fears, it turned out, were very well-founded. Over time, however, industrialization created new and novel jobs more rapidly than it destroyed old ones, and so on balance the progress of technology has yielded a net increase in overall jobs and a corresponding benefit to industries, societies, and economies alike. So despite the validity of their concerns, the term Luddite is now used to denigrate anyone who opposes the march of technological progress.
+
+But the logic of the past 250 years will soon break down. What is different about intelligent machines is that they will not just stronger, faster, or speedier than people at routine tasks – they will be better at complicated tasks as well. At first this will be limited to narrow domains such as driving. But if general artificial intelligence arises, machines will quickly become better than humans at all tasks, including creative and expressive ones.
+
+The replacement of most or all human labor with machine labor would have profound consequences, and the technology and futures studies communities are now putting a great deal of time and effort into thinking through the implications. Particular attention is being paid to the questions of who will own and control the machines, and how the benefits of machine productivity will be distributed. One popular proposal at the moment for how societies might respond is the institution of a universal basic income guarantee, which would essentially support humans in their “retirement” from the workforce.
+
+My purpose here, however, is not to retread this well-covered territory. Instead I’d like to point out several other conspicuous implications of machine labor, particularly as they relate to the environment.
+
+Machine Labor and Scale
+
+The first major implication of machine labor is that it is massively scalable.
+
+We have already seen explosions in productivity where machines have replaced human labor. From weaving textiles to farming to construction to calculation, machines have expanded our capacity to do useful work by many orders of magnitude. A bulldozer can do more work in an hour than 100 men with shovels can do in a month.
+
+But the number of bulldozers that can be put to work is still limited by the number of people available (and that can be paid) to operate them. Moreover, there are a limited number of tasks that a bulldozer is suited to performing. So the key element to notice here is that human labor is currently the limiting factor of production. All other economic inputs – raw materials, machinery, energy – are only scarce (and expensive) or abundant (and cheap) relative to the amount of human labor it takes to acquire and utilize them. This can be seen with a simple thought experiment: if there were an infinite supply of free human labor, very few things would be in short enough supply to warrant having a price tag.
+
+Intelligent machine labor is not limited in the ways that human labor is. Bulldozers don’t take 20 years to reproduce and train, they don’t need rest, and they don’t need to be paid. And an intelligent machine labor force will be able to perform all tasks necessary for its own sustenance, maintenance, and (when necessary) reproduction. Machine labor, in other words, stands to make the thought experiment above a reality by being functionally unlimited and costless.
+
+There is debate among experts as to whether we would need general AI to realize the above scenario, or whether most or all of human toil could be replaced by machines like self-driving cars that are only narrowly intelligent. This raises a number of fundamental ethical questions around the ideas of property, AI rights, and justice, and I won’t enter into those debates here. Suffice it to say that we can quite reasonably envision a world in which machines “happily” (whatever that entails) do all of of the world’s labor, and that such a world is only a few decades away – not centuries or millennia.
+
+What does this mean for the environment?
+
+The most obvious implication is that problems whose extents are too large for human labor to deal with may become manageable via machine labor in the not-too-distant future.
+
+One clear example is the task of removing carbon directly from the atmosphere and pumping it back underground where it came from, in order to address the problem of climate change. Today the cost of geoengineering the atmosphere with mechanical direct-air carbon capture and storage, or DACCS, on a gigaton scale would be in the trillions of dollars. It might therefore seem reasonable to the uninformed observer that DACCS will not be feasible for thousands of years. But machine labor provides a clear pathway to a million-fold reduction in DACCS costs on a relatively short timescale of just a few decades.
+
+Other examples of too-big-to-manage environmental problems follow the same logic, whether it is cleansing our oceans and landscapes of contamination, constructing renewable energy infrastructure, or producing crops without pesticides by mechanically weeding and delousing fields instead. And again, objections on the basis of costs or materials shortages that one might be tempted to raise here collapse in the face of intelligent machine labor.
+
+Miniaturization and Precision
+
+A second major implication of accelerating technological change propelled by advances in computing arises around miniaturization.
+
+Atoms are extremely small. So small that they defy all of our ordinary intuitions. There are as many atoms in a penny, for example, as there are grains of sand in the entire world – somewhere around ten sextillion (1022) or 10,000,000,000,000,000,000,000. That means the structure of objects that are built with atomic precision can be extremely complicated. Biological cells, for example, are tiny but formidably complex because they are constructed atom-by-atom.
+
+Over the next several decades we are quite likely to see the emergence of atomically precise manufacturing, meaning the capability to build microscopic and macroscopic objects atom-by-atom. This technology, too, will be driven by advances in computing, as well as by obvious synergies with the development of artificial intelligence. The laws of physics and the tininess of atoms allow for extremely sophisticated devices the size of blood cells to be capable of information processing comparable to handheld devices like smartphones. If (and it is admittedly a big if) trends of acceleration in computer performance and miniaturization continue, then we may expect to see the advent of such devices in the second half of this century. So once more: not centuries or millennia from now, but just a few decades hence.
+
+What does this mean for the environment?
+
+One conspicuous implication is that problems which are too diffuse to deal with today, such as contamination from microscopic plastic debris and radioactive dust, might become tractable if we are able to deploy vast numbers of microscopic machines capable of performing tasks comparable in complexity to those done by insects.
+
+Biology once again provides an instructive existence-proof of this technological capability. Imagine, for example, spilling a bag of sugar on the sidewalk as you return home from the grocery store. The grains may number in the millions or even billions. But ants will happily come along and gather every last grain they can get their forelegs on. And the remaining sugar, right down to the atomic level, will be collected and processed by microorganisms like yeast and bacteria.
+
+The trouble, of course, is that humans introduce materials into the environment that existing ecosystems cannot adequately process as part of their normal functioning – what we generally refer to as pollution. Artificial machines varying from the size of insects (microbots) to the size of bacteria or smaller (nanobots) could decontaminate pollution at scales and with precision comparable to or exceeding that of biology. And at the risk of being repetitive: not centuries or millennia from now, but within just a few decades.
+
+Biotechnology
+
+Even the simplest organisms are incredibly complex machines, and it may be that we humans simply aren’t intelligent enough to ever understand biology so fully that we are able to exercise real control over it. And so it is possible that we will never succeed in, say, reprogramming human genetics away from disease and aging, or reprogramming microorganisms or insects to do our precise bidding.
+
+But having admitted that possibility, it nevertheless seems very likely that we will make enormous strides in biotechnology (and its specific applications, like medicine, cloning, etc.) over the remainder of this century – first with the aid of increasingly powerful computers, and later with the aid of artificial superintelligence.
+
+It seems unlikely that the problems of disease and aging, for example, are in any fundamental sense unsolvable. If we do indeed witness the advent of microscopic machines that are as sophisticated as today’s handheld computers later this century, deploying millions of them into our bodies to perform maintenance and repairs that safeguard overall health seems to be an obvious and inevitable application of the technology.
+
+As for decontaminating pollution and repairing ecological damage, it is unclear at this point whether it will prove more sensible to “reprogram” biological organisms to do the job, to use entirely synthetic machines, or some combination of the two. I personally suspect that going the entirely synthetic route will be both more effective and less fraught with ethical consequences like contaminating natural ecosystems with synthetic genes, but that is just a hunch.
+
+Meeting Human Needs
+
+It is reasonable to expect that sometime later this century a robotic labor force comprised of trillions of narrowly intelligent machines, ranging in size from microscopic to perhaps the size of large vehicles or even buildings, will be capable of manipulating the material world both at an enormous scale and with atomic precision. If this labor force is directed towards meeting human needs, it follows that we can expect a superabundance of prosperity in terms of both material wealth and bodily health – assuming, of course, a reasonably equitable distribution of those benefits (of which there is, as yet, no guarantee).
+
+Let’s take just the single example of cheeseburgers for illustration.
+
+Not only will technological progress bring orders of magnitude more capacity to the task of producing, processing, and distributing cheeseburgers, it will open the door to producing cheeseburgers in entirely new ways. So in 2075 not only might a superabundance of nearly-costless cheeseburgers be produced by intelligent machine labor running all of the world’s farms, but cheeseburgers might instead be synthesized using biotechnology or perhaps simply downloaded and “printed” with atomic precision by the 3D printers of the future.
+
+Clearly, from both and environmental and ethical standpoint, it would be wonderful if through technology we were able to meet the human need for cheeseburgers without the enormous inefficiency, ecological footprint, and horrific suffering of industrialized animal husbandry. Cue the broken record: we can expect this technology within decades, not centuries or millennia.
+
+And so it goes for meeting the full range of human needs.
+
+Modifying Human Needs
+
+But what if we go a step further? What if technology allows us to modify our needs themselves?
+
+Virtually all of our human needs – physical, social, psychological – are ultimately rooted in our inherited Homo sapiens biology. Cheeseburgers taste good to us because they contain things that our ancestors evolved to crave: fat, protein, carbohydrates, and salt. The range of human preferences, whether for food or housing or entertainment or anything else, is quite narrowly circumscribed by our genes. There is individual variation of course: some people prefer sushi to cheeseburgers, and vice versa. But no normal human being prefers the taste of asphalt or uranium ore to sushi or cheeseburgers. Our personal preferences are subject only to very modest adjustment via education, enculturation, and self-discipline. But technology could radically alter this situation. Might we eat more carrots and fewer cheeseburgers if we could modify our brains to make carrots taste like cheeseburgers?
+
+The practical implications of opening our preferences to redesign are extraordinary, but even these are dwarfed by the ethical implications. Would it be ethical, for example, to alter a person so that they derive joy from enslavement and servitude? Would it be ethical to alter a person so that even the thought of committing a crime would be agonizing?
+
+Setting these enormously difficult questions to one side, what are the potential implications specifically for the environment?
+
+It seems to me these are mixed.
+
+On the one hand, many of our inherited preferences result in activities that have an enormous ecological footprint on our planet – cheeseburger production being just one stark example. And modifying ourselves to have less destructive preferences might, at least in the first-order analysis, seem an obviously beneficial choice with respect to the environment. Moreover, if life expectancy were to become greatly extended then perhaps we might value the future and sustainability more than we do today.
+
+On the other hand, our inherited needs make us wholly dependent upon ecosystem services for our survival and wellbeing, and this forces us to automatically ascribe enormous value to maintaining ecological integrity. If technology allows us to obviate those needs and break free from our dependence upon the environment, then we may run a grave risk of losing a cornerstone of our reason to care about the rest of the living world.
+
+For example, once biotechnology advances to the point where cancers and other diseases associated with environmental contamination are fully treatable, are we likely to continue to care so much about air and water pollution?
+
+In the limit, the transhumanist scenario in which we uncouple from our biological heritage entirely by uploading our minds into machines suggests that we might one day cease to depend on the biosphere at all. If that day does come, it will be very important to have other good reasons for valuing the natural world if we wish to save it from destruction.
+
+How far away might that day be, if technological progress continues to accelerate? By now you can surely guess: decades, not centuries or millennia.
+
+Shaking the Pillars of Civilization
+
+The current trajectory of technology points to radical disruption of two of the pillars of human civilization:
+
+The organization of our lives around economic scarcity sufficient to support markets (i.e. pricing and trade) in the global economy as we know it. The organization of our lives around our inherited biologically-based preferences and needs that have in large part defined human nature and the human condition.
+
+It is almost impossible to overstate how profound these changes will be. And this does not even include the still more disruptive prospect of recursively self-improving superintelligence leading to an intelligence explosion and technological Singularity.
+
+Technological Denialism
+
+Setting aside the problem of genuine ignorance and the associated dismissals of radically disruptive change within just a few decades as “futurist fantasies” and “science fiction”, why is it anathema even to speak about any of the above in environmental circles, let alone attempt any rigorous consideration of accelerating technological advancement within environmental modeling and scenario forecasting?
+
+I cannot pretend to know the minds of my colleagues, and I have not (yet) conducted a formal survey of their views. So for the moment all I can do is describe the categories into which the pushback I have already received falls, and try to make reasonable guesses as to their reasoning.
+
+Argument 1: technology has been harmful to the environment so far.
+
+Technology is indeed to blame for much of the damage we have caused to the biosphere, and so I agree that it would be a mistake for us to fall for the “guns don’t kill people, people kill people” argument that ignores the enabling role that technology plays. But it does not logically follow that since technology has facilitated environmentally harmful activity in the past, it will only continue to do so in the future.
+
+The fundamental flaw in this line of reasoning, I think, is that technology is a form of practical knowledge. Like any knowledge, technology can be harmful if used carelessly or malevolently, but the solution to problems created by knowledge is never ignorance. The solution is better knowledge. Likewise, the solution to the problems created by older and cruder technologies is not to abandon technology altogether and return to the trees, but to invent better technologies.
+
+Consider the examples of fire and water.
+
+Who doesn’t love the smell of a wood fire? What could be more natural? But the same smoke that smells so wonderful is unequivocally bad for us. Indoor air pollution from wood-burning heating and cooking fires has historically been responsible for more ill health and mortality than all other forms of air pollution combined. So as “unnatural” as they might seem to our unchallenged intuitions, the technologies of gas and electric cooking and heating are overwhelmingly beneficial to human health.
+
+Drawing water from wells is also an ancient and important technology. But wells can become contaminated, and have been responsible for an enormous amount of human illness and death throughout history. Sanitation and water filtration technologies, which began to emerge in earnest in the late 19th Century, have arguably prevented more illness (if not also death) than any other technology in human history. No sane case can be made against this technological progress.
+
+Argument 2: humanity should not be allowed to invent its way out of environmental problems, but instead should be punished for its past recklessness and hubris.
+
+Although no one who I have talked to or read has made the above argument explicitly, I very often find it impossible not to infer this line of thinking.
+
+My suspicion is that this sentiment arises because environmentalists like myself recognize the strong associations between ecological destruction, capitalism, imperialism, and neoliberalism. We know very well that the profit motive drives firms to minimize costs by externalizing them, and that the majority of environmental damage is therefore caused by industries that are not held accountable for the full environmental toll of their activities. We also know that industrial growth worldwide has been intimately linked with colonialism and imperialism, where hegemonic western institutions of commerce and governance have been foisted upon poorer and less-developed nations by richer ones with grand promises of technological modernization and sustainable economic development. But all too often the benefits of development fail to materialize, while at the same time the richness of traditional knowledge, practices, and culture is lost.
+
+So, to at least some extent the animosity toward technological advancement within the environmental disciplines is conflated with the animosity toward corporate greed and imperialism. It also seems that guilt is at least one manifestation of that animosity. There is absolutely no question that western societies have a great deal to be remorseful of, and that justice perhaps calls for a reckoning of some sort. In the specific case of climate change, for example, it seems deeply unfair that the nations responsible for the most carbon emissions are not the nations that will be most vulnerable to the impacts of global warming.
+
+The moral intuition of environmentalists like myself therefore seems to be that the recklessness and hubris of western societies that has so greatly enriched them should not be rewarded any further. Past injustices, in other words, will only be deepened if the west is allowed to successfully innovate its way out of its problems rather than being held to account for all of the damage it has done to poorer nations and the natural world.
+
+By analogy, if a man robbed you and then became rich by investing the money, would justice not demand more than mere repayment of the stolen funds? Is it not somehow unjust that the robber be allowed to continue prospering?
+
+As alluring as this moral intuition may be, I think refusing to solve major environmental problems with technology going forward is ultimately self-defeating. Of course we must make fair recompense for past injustices. But we have an obligation to the future as well as to the past, and we’re all in this together now. Humanity’s collective interests are unlikely, I think, to be best served by self-flagellation.
+
+Argument 3: technology is unnatural.
+
+No scholar or scientist I have talked to has explicitly stated that technology is bad because it is unnatural (surely their formal training warned them against committing the naturalistic fallacy). But a clear majority of my students report feeling this way about specific technologies such as genetically modified organisms (GMOs) and lab-grown meat. And among environmentalists in general, there is widespread opposition to GMOs despite the lack of compelling evidence to suggest that consuming them is inherently harmful to human health and the fact that the vast majority of scientists and major health organizations attest to their safety. (Some GMOs may cause direct or indirect ecological harm, but that is not primarily what animates the technology’s opponents). Similarly, a 2014 Pew poll found that 78% of Americans claimed they would not eat lab grown meat because it is “creepy”.
+
+Stefaan Blanke and his colleagues have recently published some interesting research that explores several of the specific mechanisms, such as folk concepts of biology and unwitting psychological essentialism, that might explain the intuitive feelings of disgust that many people have toward the technological modification of food in particular. And the instinctively negative response that many people have to biomodification in general is a well-known phenomenon formally termed the yuck factor.
+
+The underlying line of intuition at work here, however, is precisely the naturalistic fallacy: that which is natural is good, and that which is unnatural is bad. I’m sure I don’t need to explain why there is nothing inherently good about suffering and dying in the jaws of a predator, nor anything inherently natural about our current methods of producing meat. Appealing to nature as innately good explains why so many products in the supermarket are labeled “all natural”, as wells as much of the market demand for organic foods.
+
+But while none of my colleagues has said outright that technology is categorically bad because it is unnatural, there is clearly an instinctive skepticism toward any technological intervention upon the environment simply because it is artificial. The intuition at work seems to be, “how can anything unnatural really benefit nature?”
+
+At bottom I am actually very sympathetic to this line of thinking. In the long run, the best thing for the natural world will almost certainly be for us to leave it alone entirely. But the only way we are going to succeed in rewilding a substantial portion of the biosphere is to become largely independent of the planet’s ecosystem services. And the only hope we have of ever achieving that is with radically advanced technology.
+
+Argument 4: life would be better with less technology.
+
+Many of my colleagues absolutely do subscribe to this argument, and I can certainly empathize with the longing for a simpler and healthier life that is more closely anchored to nature, community, local geography, and self-sufficiency. I would personally love nothing more than to be able to make a good living as a small-scale farmer – in fact, if it hadn’t been for the economic recession that began in 2007 I very likely would have become a coffee farmer on the Big Island of Hawaii instead of returning to graduate school to become a scientist.
+
+But almost invariably, those who are nostalgic for life without technology have never really tried to live without it, nor have they seen firsthand people in less-developed countries who do so involuntarily. It can certainly be done, as the Amish in the US choose to, but life without safe drinking water, warm showers, clean clothing, electricity, vaccines, dentistry, or access to information – to name just a few examples – is really no fun at all. Camping in the woods for a weekend is great. Camping for a year is not.
+
+When pressed, of course, it usually turns out that people don’t really want no technology. They simply want all of the benefits of technology without any of its detriments. They want the glorious personal freedom of having an automobile without the traffic or sprawl or pollution. They want the convenience of the Internet and smartphones without the oppression that comes with feeling obligated to answer work email 24/7. They want food that is not only delicious, healthy, and cheap, but that is also produced with a without a large ecological footprint or animal suffering.
+
+In other words, they want what we would all want in a perfect world, but their reasoning is upside down: they naively romanticize the past instead of the future, and think that returning to older traditional technologies and practices is the pathway to minimizing the detriments of modernity while retaining its benefits, rather than developing newer and progressively better technologies.
+
+A good example here is organic farming. A substantial portion of environmentalists, including a discouraging number of my colleagues and virtually all of my students, are convinced that organic farming based on traditional methods and indigenous knowledge can provide a sustainable alternative to modern industrial agriculture. And while it is true that organic farming can be as productive as industrial agriculture for a few crops like strawberries, it is sheer delusion to believe that the current level of global food production could be maintained without industrial methods – including (unfortunately) pesticides, fertilizers, and genetically modified crops. To take just one prominent example, prior to the Green Revolution American corn farmers produced about 25 bushels per acre on average. Today the average is 160 bushels per acre, with a labor force a fraction of the size.
+
+Again, I would never begrudge anyone their nostalgia for small-scale non-intensive farming. Nor would I ever deny that there are many things wrong with industrial agriculture and modern “food” (if it can even be called that). And if I could be confident of making a good living as a vintner and brewer producing my own organic grapes, barley, and hops, I would move to the country tomorrow. But the notion that this is the practical or sustainable way forward for our civilization is simply nonsense.
+
+To continue the previous example, the only way we are going to have food that is delicious, healthy, and cheap that is also produced with a without a large ecological footprint or animal suffering is with new and radically different technologies. No matter the merits of organic farming, the only way to have a cheeseburger with the ecological footprint of a bowl of organic strawberries and no animal suffering will be to produce it in a lab.
+
+A closely-related line of thinking that falls under this same general category of argument is simply a fear of change. I don’t think I need to dwell on this point. People have always feared change, sometimes with very good reason. Unfortunately there can be no progress without it.
+
+Argument 5: the risks of “techno-fixes” are too great.
+
+Consider the example of climate geoengineering. We know from the natural release of sulphur aerosols in volcanic eruptions that increasing the albedo, or reflectivity, of the atmosphere lowers global temperatures. It would therefore be technologically straightforward and inexpensive to cool the planet by injecting sulphur aerosols into the stratosphere. This is an example of solar radiation management or SRM geoengineering.
+
+How risky is SRM geoengineering? What possible side effects might there be? Might we not do more harm than good if we start using technology to tinker with the global climate?
+
+We do not yet know the answers to these crucial questions. But what we do know is that we are already running a massive uncontrolled experiment on the Earth’s climate with fossil fuel emissions. We also know that at some point in the future the consequences of climate change – most especially rising sea level – will become so overwhelming that a desperate nation may decide to undertake rogue geoengineering without international consensus or the benefit of being informed by scientific research.
+
+David Keith has argued for over a decade that the only way to minimize the risks of rogue geoengineering is to fully evaluate its impacts with adequate research beforehand.
+
+It seems to me that this same logic applies more or less across the board to managing the risks of environmental “techno-fixes” of all kinds.
+
+Argument 6: admitting the possibility of “techno-fixes” will cause policymakers and the public to become complacent about environmental problems.
+
+Research has already begun to suggest that the prospect of successful geoengineering might cause “mitigation obstruction” and make policymakers and the public complacent about the problem of carbon emissions and climate change. The concept applies in principle to other environmental problems as well.
+
+I think it goes without saying that this is a deeply cynical attitude to hold. Moreover, the notion that any unelected individual or group could rightfully grant themselves authority to decide whether policymakers and the public can or cannot be trusted with complete information about the potential solutions to environmental problems (or anything else) seems morally and ethically dubious to me, to say the very least. I have personally been very surprised at how cavalierly my colleagues and fellow environmentalists voice their support of this notion in conversations about geoengineering in particular.
+
+In more practical terms, the mere possibility that any environmental scholar or scientist would presume to withhold information from others for their own good plays directly into the hands of political groups who accuse the scientific community of elitism in general, and the climate science community in particular of dishonesty and fraud. This is a line of narrative we absolutely do not need to confirm.
+
+Argument 7: continued environmental alarmism is necessary in order to retain adequate support for research.
+
+I use the term alarmism advisedly here. It is a dirty word in the environmental disciplines, and with good reason. It is a pejorative that conservative idealogues and a handful of contrarian scientists use in an attempt to reframe and discredit concerns about the reality of anthropogenic climate change.
+
+My reason for invoking the term here is to caution the environmental disciplines that they are walking into a trap: ignorance of the implications of accelerating technological change, willful or not, risks proving the right-wing cranks and conspiracy theorists right.
+
+The opposition narrative from the likes of the Heartland Institute says that environmental scientists try to frighten the public with claims of impending doom in order to drum up support for research and thereby line their own pockets. It is patently absurd, of course. Any scientist who is just in it for the money would head to Wall Street or sell out to the oil industry. My real concern is, again, the danger of confirming the conspiracy narrative.
+
+At what point does ignorance about the prospects of technology to solve environmental problems amount to genuine alarmism? I will be the first to admit that the charge of alarmism is premature. But let me also be the first to warn my fellow environmentalists: we must dispel our collective blindness to accelerating technological change and explicitly recognize its implications for environmental remediation and restoration, or risk legitimately earning the charge of alarmism.
+
+Argument 8: the future is uncertain and therefore too difficult to think seriously about.
+
+Of all the pushback I receive, this is by far both the most common – and the most discouraging. The thinking seems to be that since the future is difficult to predict, the assumption of ceteris paribus (all else equal, i.e. no significant change at all) is somehow a respectable alternative.
+
+The editor of a top-tier journal, for example, wrote in an email to me, “the speed of technological change is irrelevant because we have been extremely bad at predicting the impacts of those technological changes or frankly major social and demographic changes,” and “the fact that the LA regional plan for 2035 doesn’t mention cars that drive themselves does not give me pause, I’m more concerned with how much that plan recognizes the changes in travel patterns and habits that we already see.”
+
+Needless to say, I think this sort of willful shortsightedness is both intellectually lazy and dangerously irresponsible, and is sooner or later virtually guaranteed to marginalize any ostensibly future-oriented discipline that embraces it.
+
+When Does Ignorance Become Denial?
+
+The first response that any of my colleagues in the environmental disciplines will have to this essay will almost certainly be to decry the technological advancement I’ve outlined as science fiction that lies centuries away.
+
+So to be crystal clear, let me emphasize the following point: nothing I’ve written here about the future of technology is even remotely controversial in the computer science or engineering disciplines.
+
+At what point does the technological ignorance of the environmental disciplines become inexcusable? At what point does it become the obligation of responsible scholars and scientists, regardless of their discipline, to have a realistic idea of what the foreseeable future of technology actually entails? At what point does obliviousness to or dismissal of the preponderance of evidence constitute outright denial?
+
+I don’t pretend to have the answers to these questions. But the fact that they can be asked in earnest of any ostensibly future-oriented academic or scientific discipline is cause for serious concern. And in the case of the environmental disciplines, being guilty of denialism would be a particularly damning case of hypocrisy considering the ire that right-wing ideologues draw from us when they deny the evidence for disruptive changes (to climate) that we can expect to witness over the course of this century.

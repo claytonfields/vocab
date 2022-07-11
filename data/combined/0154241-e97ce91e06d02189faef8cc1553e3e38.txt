@@ -1,0 +1,47 @@
+news US telco giant AT&T overnight revealed it would deploy Fibre to the Premises infrastructure in 100 major US cities in the United States, delivering gigabit broadband speeds in a model which directly contradicts statements by Communications Minister Malcolm Turnbull that the telco is focusing on the Coalition’s preferred Fibre to the Node model.
+
+Under Labor’s previous NBN policy, some 93 percent of Australian premises were to have received fibre directly to the premise and the remainder satellite or wireless. Fibre to the Premises, as a technical model, allows very high upload speeds. Current retail NBN plans, for instance, allow upload speeds of 40Mbps on 100Mbps plans, while the long-term migration to gigabit speeds will allow upload speeds of 400Mbps.
+
+However, NBN Co’s Strategic Review published in December last year changed the paradigm, with the company recommending (and the Coalition formally supporting several weeks ago) a vision in which up to a third of Australian premises will be served by the existing HFC cable networks of Telstra and Optus, with Fibre to the Node and Fibre to the Basement used in other areas not already covered by Labor’s FTTP approach. Satellite and wireless is to be used to cover some rural and regional areas as under Labor’s previous plan. This new model is known as the “Multi-Technology Mix” (MTM), or “the Coalition’s Broadband Network” (CBN).
+
+In an interview on the Triple J radio station last week, Turnbull explicitly named AT&T, one of the largest telcos in the US, as an example of a telco which was deploying FTTN technology.
+
+“If you look around the world, the type of technologies that are being used, are precisely what we are proposing,” the Minister said. “Fibre to the Node, that is what AT&T have done. That is what British Telecom has done. That is Deutsche Telekom is doing. That is what Swisscom is doing. That is what Belgiacom is doing. Everyone is using a mix of technologies. The idea that the proposition that Labor put out that everyone in the world is doing near universal FTTP is a complete and utter lie. It is the reverse of the truth.”
+
+It is true that AT&T has deployed FTTN widely throughout the US. However, overnight, in a statement published online, the telco revealed it planned to upgrade that FTTN platform imminently to FTTP, in a major investment which will see 100 US cities receive gigabit broadband speeds.
+
+“AT&T today announced a major initiative to expand its ultra-fast fiber network to up to 100 candidate cities and municipalities nationwide, including 21 new major metropolitan areas. The fiber network will deliver AT&T U-verse with GigaPowerSM service, which can deliver broadband speeds up to 1 Gigabit per second and AT&T’s most advanced TV services, to consumers and businesses,” the telco said.
+
+AT&T will work with local leaders in these markets to discuss ways to bring the service to their communities. Similar to previously announced metro area selections in Austin and Dallas and advanced discussions in Raleigh-Durham and Winston-Salem, communities that have suitable network facilities, and show the strongest investment cases based on anticipated demand and the most receptive policies will influence these future selections and coverage maps within selected areas. The telco said the initiative continues AT&T’s ongoing commitment to economic development in these communities, bringing jobs, advanced technologies and infrastructure.
+
+The list of 21 candidate metropolitan areas includes: Atlanta, Augusta, Charlotte, Chicago, Cleveland, Fort Worth, Fort Lauderdale, Greensboro, Houston, Jacksonville, Kansas City, Los Angeles, Miami, Nashville, Oakland, Orlando, San Antonio, San Diego, St. Louis, San Francisco, and San Jose. With previously announced markets, AT&T now has committed to or is exploring 25 metro areas for fibre deployment.
+
+“We’re delivering advanced services that offer consumers and small businesses the ability to do more, faster, help communities create a new wave of innovation, and encourage economic development,” said Lori Lee, senior executive vice president, AT&T Home Solutions. “We’re interested in working with communities that appreciate the value of the most advanced technologies and are willing to encourage investment by offering solid investment cases and policies.”
+
+The planned expanded availability of U-verse with GigaPower is part of AT&T’s Project Velocity IP (VIP) investment plan to expand and enhance its wireless and wireline IP broadband networks to support growing customer demand for high-speed Internet access, advanced TV services, and new mobile and cloud computing services.
+
+AT&T U-verse with GigaPower services are already available in Austin and some surrounding communities, and are expected to roll out in parts of Dallas this summer in the US. AT&T first made the services available to tens of thousands of households in Austin and surrounding communities in December 2013 and recently announced it would expand the fiber network to double the households in the Austin area this year as a result of “high demand that has exceeded expectations”.
+
+The news comes as search giant Google has revealed it is planning to upgrade its residential-grade Google Fiber broadband network in the United States to 10Gbps. Google Fiber is a broadband network which Google is rolling out in several cities in the US, such as Kansas City, Missouri, as well as Austin, Texas, and Provo, Utah. The service is based on the same Fibre to the Premises model which Labor preferred for its National Broadband Network project, but offers significantly better prices, including unlimited plans for $70 per month for 1Gbps plans with no download quotas. The network, however, does not allow competitive wholesale access by other ISPs.
+
+Communications Minister Malcolm Turnbull has stated that it is “difficult, if not impossible” to find uses for a broadband service with speeds up to 1Gbps — ten times less.
+
+Other countries which have also deployed FTTN services are also expanding plans to upgrade those networks with FTTP capabilities. For example, in June 2012 British telco BT revealed plans to modify its up to 76Mbps national fibre to the node rollout so that customers will be able to choose to have fibre fully extended to their premises, delivering a large speed upgrade to 330Mbps in the process and shifting its rollout model closer to Labor’s original, FTTP-based NBN policy.
+
+Turnbull additionally stated in the Triple J interview that NBN Co’s Strategic Review published last year “concluded that if we had continued with Labor’s all-fibre rollout, it would have taken us four more years to complete it, and $73 billion”. The Communications Minister added: “In order to get the project done within an affordable cost envelope, we needed to be able to give the company the flexibility to use different technology, and that is the MTM model — $41 billion — $32 billion cheaper.”
+
+However, NBN Co’s Strategic Review document, which Turnbull has read and is familiar with, directly contradicts some of Turnbull’s statements.
+
+NBN Co’s Strategic Review published in December last year makes clear that in almost every rollout scenario (FTTN, FTTP, HFC cable or a mix), NBN Co would actually make a modest return on the Government’s investment in the project, ranging from 1.7 percent to 5.3 percent. This means that the Coalition’s MTM policy would make slightly more money than Labor’s FTTP option — but neither will, in the long-run, cost the Government anything. The money will be recouped through monthly broadband subscriber fees.
+
+Timing is also an issue. Turnbull told Triple J listeners that Labor’s NBN policy would take four more years to deliver than the Coalition’s MTM policy, but the Strategic Review document shows that if the network was re-worked, it would take only three years.
+
+Overall, NBN Co’s Strategic Review makes it clear that the company could deliver an all-fibre FTTP network to Australians for a comparable financial return and only three years later than the Coalition’s Multi-Technology Mix project. This infrastructure would be vastly superior to the Coalition’s version on a technical basis and would not need to be upgraded as AT&T and BT are upgrading their FTTN networks.
+
+opinion/analysis
+
+Wow. Sounds like 1Gbps speeds are shortly going to become pretty standard across much of the United States. I wonder how long it will be before Australia will be able to say the same. Right now, NBN Co isn’t even committing to speeds above 25Mbps for the Coalition’s alternative FTTN vision. I’d say that’s a pretty substantial difference in vision.
+
+The irony here is also incredible. Just days after Turnbull lists AT&T as a poster child for Fibre to the Node, the telco turns around and becomes a global poster child for gigabit Fibre to the Premises. Sounds like some old-fashioned Turnbullian logic there. It appears the Minister did not consult closely enough with AT&T during his recent visit to the US.
+
+Image credit (map): AT&T

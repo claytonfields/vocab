@@ -1,0 +1,37 @@
+news A senior IT professional specialising in regional telecommunications in Victoria yesterday afternoon delivered an extraordinarily erudite and pointed education to a 3AW radio host who had gone on an extended and inaccurate rant live on air, rebutting claims that the National Broadband Network project would cost $233 billion but deliver speeds no different to ADSL broadband.
+
+Yesterday afternoon, the host of 3AW’s Drive program, Tom Elliott, broadcast a segment which contained a large number of factual errors regarding the National Broadband Network project initiated by Labor, which has been continued as the Coalition’s Broadband Network project.
+
+Elliott highlighted an article in The Australian newspaper which had reported that Labor’s NBN project had passed just three percent of Australian premises, but had cost $7 billion to date. “If I got out my trusty calculator, if it cost the same amount of money to cover 100 percent of homes, which the NBN is supposed to do, and businesses, it would cost $233 billion,” Elliott claimed.
+
+In fact, NBN Co’s recent Strategic Review (PDF) showed Labor’s version of the NBN would cost as little as $63 billion if funded by the Government completely, or $54 billion if the rollout was reworked. The Coalition’s version will cost even less. In addition, under all scenarios, the NBN project is slated to make a long-term modest return on its capital; effectively rendering its initial expenses meaningless. In addition, with major capital projects such as the NBN, it is common for a substantial amount of the overall capital cost to be lodged up-front; these costs do not reflect the remaining cost of such projects.
+
+The host went on to interview a series of listeners live on air, who sequentially claimed that the NBN was delivering only equivalent or even worse service than prior ADSL broadband connections possible on Telstra’s copper network. “Broadband via the old copper network and ADSL is getting pretty quick. Unless it’s a huge leap forward, I just don’t know whether we should be spending anywhere between $70 billion and $233 billion on it,” said Elliott, who appeared to grow increasingly hostile towards the NBN project as the segment went on and anti-NBN caller after anti-NBN caller lined up to agree with him.
+
+However, one of the later callers in the segment was able to substantially educate Elliott on the specific advantages of the NBN rollout.
+
+Elliott introduced the caller as George Fong, the executive director of Victorian regional telecommunications consultancy Lateral Plains. However, Fong is actually a much more senior figure than he appeared on the call (see his biography here).
+
+Fong (pictured, right) started his career practising law in Singapore, before moving to Australia in 1987 to lecture at the University of Ballarat. He then founded one of the nation’s first regional ISPs, NetConnect Communications, as early as 1994, and has subsequently spent over 20 years teaching, managing and consulting on IT matters. He is also vice president of the Internet society of Australia and sits on a number of other organisation’s management committees.
+
+Fong spoke with absolute authority on the NBN project, answering all of Elliott’s comments with aplomb and leaving the host appearing to be speechless at some points. You can listen to the entire interview online; the MP3 file is available here and Fong’s segment starts around 1 hour and 19 minutes and 20 seconds.
+
+For example, asked about the final cost of the project, Fong firstly pointed out that virtually every other major nation-building capital infrastructure project had gone at least slightly over their budget, before stating that the cost of the NBN project could only be examined in terms of the length of time the infrastructure would last.
+
+“Instead of saying, this is what the immediate cost is, we need to look at the next 20, 30, 40, 50 years and amortise it across that in terms of the returns that we get from the advantages that we’ve got,” Fong told Elliott. “Remember dial-up. You would never go back to dial-up, would you? In ten years’ time we’re probably never going to go back to ADSL, and that sort of future-proofing that we need, that’s what fibre will do for us in the regional areas.”
+
+Fong also commented with strong authority on issues such the disconnection of Telstra’s copper network, the inherent advantages of fibre over copper, the fact that the copper will need to be replaced eventually, the higher availability and ease of switching between competing ISPs on the NBN’s fibre, and even the expected boom in online media as a consequence of the project.
+
+Elliott had no comeback to Fong’s comments, abandoned his criticism during the encounter and merely thanked him for appearing on the show.
+
+It is very common for radio commentators to heavily criticise the NBN project. Shockjocks such as Alan Jones and Ray Hadley have become notorious for their ongoing, often vitriolic criticism of the project. However, it is very rare that an informed, erudite commentator such as Fong is allowed on the programs to refute the claims being made by the host.
+
+opinion/analysis
+
+This morning I was all set to write another in a very long line of articles about ignorant and ill-informed radio shockjocks criticising the NBN and Labor’s preferred Fibre to the Premises technology when I started listening to Elliott’s incredible segment on 3AW yesterday. And then George Fong came along.
+
+I have never, in all my time reporting on the NBN project, heard such an erudite, educated and convincing counter-argument made on air or anywhere else. In the face of Elliott’s raving technical and commercial illiteracy, Fong’s calm and self-assured words were balm to my soul, and I’m sure many listeners felt precisely the same way. I’ve interacted with Fong before on Twitter, but never realised quite how convincing he could be on air.
+
+George Fong, you are a bloody legend, mate, and have done a service to your country, educating thousands of listeners and one very ill-informed radio commentator about what the NBN project really is (or at least should be) all about. I hope you consider getting involved in further commentary on the issue, perhaps on other radio stations or on television. I now class you as a bona fide hero of the Australian IT industry. Fong is on Twitter: I recommend you message him and tell him what a good job he’s done. It’s not often you see this kind of thing happen in Australia’s mainstream media.
+
+Image credit: Lateral Plains

@@ -1,0 +1,43 @@
+
+
+After Kara "Starbuck" Thrace made her miraculous return to Battlestar Galactica at the beginning of season four, she told anyone who would listen that she had intuitive knowledge of the way to Earth.
+
+Most of the others in the fleet are understandably skeptical of her claims – they're frankly suspicious of her very existence (and let's not even mention the condition of her Viper), since in their experience she clearly died, and only Cylons can return from the dead. In typical Starbuck fashion, she responds to their skepticism by beating up two marines, injuring other marines with a concussion grenade and taking the president hostage.
+
+In response to this criminal activity, Adm. William Adama (who has got to be the most lenient hard-ass since John Wayne in The Shootist) rewards his little girl with the keys to a ship of her own, and an indulgent daddy's hope that she will follow her dream to wherever it leads. OK, seriously, he knows that Starbuck has a shot at finding Earth, and by now he's desperate enough to try anything.
+
+He gives her the Demetrius, a filthy sewage-processing ship, and a hand-picked crew of 15. Their mission is to follow Starbuck's intuition until they find Earth. When they've recorded Earth's position, they are to rendezvous with the fleet in two months' time with the information. If they do not make the rendezvous, Adama will have no choice but to consider Demetrius destroyed, and the fleet will be forced to move on without them.
+
+Obviously, such a mission offers many ways to frak up. The crew could fail to find Earth. They could miss their rendezvous and be stranded alone in space, condemned to die when their supplies run out (though as a sewage-reprocessing plant, they probably won't run out of food any time soon). They could find Earth yet miss their rendezvous, saving themselves but condemning nearly 40,000 souls to wander aimlessly through space. No wonder everyone on the Demetrius is coated with a sheen of sweat.
+
+Galactica producer Ron Moore has said that he was going for a Das Boot look on the Demetrius, which makes sense stylistically – in our current society, scantily clad people shimmering with sweat are sexy. But is that the only reason? Can't it just be too damn hot in the spacecraft?
+
+It's a common belief that the temperature of space is freezing cold, nearly absolute zero. Like many common beliefs, it's wrong. Space has no temperature. Let's say that again: Space has no temperature. To be more specific, let's fall back to The Second Rule of The Science of Battlestar Galactica: "Space is mostly empty. That's why it's called space." Except for those regions of space that are filled with a gaseous nebula, or a star, or a planet, or an asteroid, or a comet, or a moon, or a spaceship, there's nothing in space to have a temperature. And, as we'll see, it's very difficult to change the temperature of something in space.
+
+In 1891, Scottish scientist James Dewar was developing a way to chill oxygen to the point where it liquefied, and to do so in industrial quantities. He found that making liquid oxygen was comparatively much easier than storing it – the moment he turned off his refrigeration apparatus, the oxygen immediately boiled back into a gas. Dewar needed a container that would resist changes in temperature, keeping his cold fluid cold without need for refrigerating equipment.
+
+By the following year, he had his solution: two thin-walled glass flasks, one inside the other. The outer flask was coated with silver, like a mirror, and both flasks were joined together at the neck. Then (and this was the important part), the air between the two flasks was pumped out, leaving behind a vacuum. The resulting "vacuum flask" kept his liquid oxygen cold for days without any additional refrigeration, and its relative cheapness allowed Dewar to pretty much invent the science of cryogenics, the study of very cold stuff. (Vacuum flasks in the scientific/engineering world are still called Dewars in his honor.) The thermos bottle inside your Battlestar Galactica lunch box is simply a smaller, consumer-grade version of a Dewar vacuum flask.
+
+Dewars and thermos bottles work by minimizing all opportunity for heat transfer between the contents of the flask and the outside world. This is surprisingly easy to do. Heat can only move from one substance to another in three ways:
+
+1. Conduction
+
+2. Convection
+
+3. Radiation
+
+Conduction is when heat moves by direct physical contact between one substance and another. Turn on an electric stove, and watch the coils heat to a dull red. Place a pan on that coil, and the heat of the coils will transfer through conduction directly to the pan. By isolating the inner flask of a thermos bottle from almost all contact with the outside world, the chance for thermal conduction is kept to a minimum. Of course, no system is perfect: The most thermodynamically vulnerable spot of any thermos bottle is the neck, where the two flasks have to be joined together. This is the only spot where conductive heat transfer can take place, and because of this, you'll notice that the neck is very heavily insulated on most thermos bottles.
+
+Convection is when a moving fluid carries heat from one place to another. In old-fashioned steam heating systems, water carries heat from the boiler (usually deep in the basement) to rooms throughout the building. The radiator in each room provides another kind of convection – it heats the air (which is, after all, another kind of fluid), and the circulating air warms the room. By keeping a vacuum between the inner and outer flasks, thermos bottles prevent convective heat transfer by denying fluid transfer between hot places and cold places.
+
+Radiation is when heat moves from a hot place to a cold place through the use of electromagnetic radiation. With no fluid medium between the two bodies, this is the only way the sun's heat can get to the Earth, and the only way the Earth's heat can dissipate into space. Radiative heat transfer works well across a vacuum, so theoretically a thermos bottle can lose heat this way. But by coating both sides of the outer flask with a mirrorlike substance, most of the radiative heat can be reflected away.
+
+(This, incidentally, answers the perennial question: How does a thermos flask know to keep hot stuff hot and cold stuff cold? The answer is, of course, it doesn't. The only thing a thermos flask "knows" how to do is to slow down the equalization temperature between the contents and the outside world. By doing its best to prevent heat from moving into or out of the flask, it naturally keeps hot contents hot, and cold contents cold.)
+
+So how does this apply to the Demetrius?
+
+Well, it turns out that a ship in space is like the inner flask in a thermos bottle. Its heat can't be conducted or convected away. It can be radiated away, but Demetrius seems pretty squat and compact – its available surface area is probably pretty small compared to its volume, and that limits its radiative ability. When you factor in a shipload of electronic equipment, all producing heat, and 15 human bodies, all producing heat, you quickly reach a situation in which Demetrius can't get rid of all the heat it generates. And so all those half-clad sculpted bodies become coated with a sexy sheen of sweat.
+
+A version of this post originally ran on Patrick Di Justo's blog, The Science of Battlestar Galactica.
+
+See also:

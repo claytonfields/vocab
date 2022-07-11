@@ -1,0 +1,17 @@
+Patent Troll That Accused Company Of 'Hate Crime' For Fighting Back Now Asking Court To Silence Company
+
+from the you-fail-at-law dept
+
+For the foregoing reasons, Lumen View respectfully requests that the Court grant its Motion for a Protective Order ... to protect Lumen View’s confidential information and (1) prohibiting FTB and its attorney from further communicating with representatives of the media regarding confidential settlement information, or posting such information on social media, (2) require FTB and counsel to take necessary steps to remove from the internet its prior media disclosures, blog posts or press releases that disseminate this protected information, and (3) to grant any other such relief as this Court deems just and proper.
+
+Wasserbauer's request has a couple of problems. First, his idea of what constitutes "confidential information" is pretty broad—it includes not just the $50,000 demand but Wasserbauer's own simple admission about who is behind Lumen View. Second, FindTheBest never signed any kind of non-disclosure or confidentiality agreement....
+
+
+
+[....] The rule that Wasserbauer cites, Rule 408 of the Federal Rules of Evidence, is not actually the legal gag order he apparently imagines it to be. The rule doesn't say anything about talking to the media. It simply states that offers of compromise or settlement are often not admissible as evidence in court.
+
+We recently wrote about how patent troll Lumen View's lawyer Damian Wasserbauer had gone off the deep end, claiming that an entrepreneur who was fighting back against the trolling was guilty of a hate crime . Kevin O'Connor, the CEO of FindTheBest (FTB) didn't want to give in to a patent troll shakedown, turning down a $50,000 settlement offer and pledging to spend $1 million fighting Lumen View just on principle. That's resulted in a countersuit, arguing that Lumen View is engaged in extortion and racketeering. Wasserbauer (who, frankly, appears to be a bit out of his league here) doesn't seem to be handling the publicity very well. He's asking the court for an astoundingly broad gag order against O'Connor, including saying he needs to try toprior disclosures.Yeah, good luck with that...Of course, as Joe Mullin notes over at Ars Technica, the entire basis of Wasserbauer's argument appears to be a significant misreading of the law:And we won't even get into the laughable claims by Wasserbauer that there's no First Amendment worries in such a gag order, because that's clearly false. It seems clear that Wasserbauer isn't happy with the media attention -- most trolls aren't -- especially since it's been fairly effective in highlighting the way Lumen View's trolling works. Trolls often get away with what they do because it's too much effort to even figure out how to fight back. If someone else is doing it publicly, it lowers the barrier tremendously.
+
+Filed Under: damian wasserbauer, gag order, kevin o'connor, patent trolls, patents
+
+Companies: findthebest, lumen view

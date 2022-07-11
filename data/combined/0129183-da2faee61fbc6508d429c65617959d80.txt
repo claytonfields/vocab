@@ -1,0 +1,63 @@
+Since December 2015, Nemory Studios has been working hard on a new app called Face10 with the goal of the app being to replace the native BlackBerry 10 Facebook app , which let's be honest, has seen better days as it hasn't been updated since June 2015. Now, after a few months in the BlackBerry Beta Zone being tested, Face10 has arrived in BlackBerry World.
+
+Standard Features
+
+Update Status, Post/Upload Photos and Videos
+
+Checkin, Share a Link/Post, Respond to Events
+
+Filter NewsFeeds and Comments, View Page Insights
+
+View Groups, Pages, Events, Family, Mutual Friends
+
+View Friend Requests, Messages, Newsfeed, Mutual Friends
+
+View Followers, Following, Liked Pages
+
+View Games, FriendLists, Birthdays, Likers
+
+View Books, Visitors Posts, Friends
+
+View Users, Albums, Photos, Videos
+
+View Group Files and Docs, Members
+
+Find Friends, Search for Users, Pages, Events, Groups, Places
+
+Send and Accept Friend Requests, Invite Friends to an Event
+
+View Activity Log, Create an Album
+
+Pro Features
+
+Send Stickers
+
+View Replies of a Comment
+
+Reply to a Comment
+
+Download Videos and Photos
+
+Stable Headless Service
+
+Hub Integration
+
+Hub Notifications
+
+Multiple Accounts Support
+
+Customize Color Schemes
+
+Dark Theme
+
+App Security Lock Password
+
+Create Home Screen Shortcuts for easy and fast access
+
+Share a Video/Photo from Gallery
+
+As you can tell from looking at the list, Face10 is packed with features some of which the native BlackBerry 10 Facebook app will never support. You'll also note there are standard features and pro features listed. That's because while Face10 comes with a free 2-day trial with all features enabled, it reverts to the standard features once the trial is up.
+
+In order to access everything Face10 offers, it requires an in-app purchase of $2.99. When it comes to supported devices, no one was left out. Face10 has been optimized for all BlackBerry 10 smartphones running 10.3 and up. Take a look through our gallery at some of the screenshots or skip to download link to give Face10 a try. We'll have a closer look at the app up in a few days.
+
+Sidenote: There appears to be some issue with BlackBerry World right now, if you can't get Face10 or any other app downloaded, just try again until you can.

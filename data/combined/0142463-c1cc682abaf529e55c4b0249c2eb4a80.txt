@@ -1,0 +1,37 @@
+About
+
+Have you ever wondered whether the light in your fridge is on or not when the door is closed? We do. That’s why we developed Fridgeye to help you track the light situation in your refrigerator. With it you can check your fridge light status. Always. And from any place in the world.
+
+www.fridgeye.rocks
+
+fridgeye rendering
+
+Set your Fridgeye up in less than 10 minutes just following these simple steps:
+
+The Fridgeye's built-in light sensor is constantly gathering information about the surrounding light situation. When requested, the circuit board, equipped with a wifi transmitter, sends the current status to the app. The Fridgeye is powered by a rechargeable 9V battery.
+
+The Fridgeye will come with a beautiful iOS and Android application. The user interface is reduced to a minimum to keep focus on the essential information.
+
+Co-founders Vinzenz, Fabian & Laura met at the university and became friends. They were talking about their childhood memories and came up with the question what is happening in their refrigerator while the doors are closed.
+
+That was the start to work on the Fridgeye and this kickstarter campaign.
+
+In order to get our project going, we first need to finance the prototyping stage. We will
+
+realize various prototypes and build these with the best quality and material.
+
+finance prototyping of the apps from our designs.
+
+look for a potential partner to go into mass production.
+
+So to bring Fridgeye out to the world, we need your support! Thank you for your backing :)
+
+sticker
+
+magnet
+
+postcard
+
+t-shirt
+
+poster

@@ -1,0 +1,131 @@
+Edit: This post has been updated to beta2.
+
+Preamble: This series of posts is designed to bring you up to speed on the changes coming to ASP.NET and MVC6. We're starting with getting the absolute simplest thing up and running and then going to continue layering features on top. By the end of the series I hope to have built up to covering real world scenarios and how certain things need to be tackled differently with ASP.NET 5 and MVC6.
+
+The source code is available here.
+
+This assumes you're on Windows. Whilst ASP.NET will be supported on other platforms there will be some additional steps which won't be covered I've covered in my post on OSX.
+
+There's no dependency on Visual Studio, a text editor and a console (like powershell, or cmd if you must) will suffice.
+
+For those used to relying on Visual Studio, this may feel like a giant step backwards as there is seemingly a lot of boilerplate required. Rest assured that Visual Studio 2015 will take care of all of this for you just as it always has. And if you've ever had to delve into the arcane world of msbuild and csproj files this should feel like a breath of fresh air.
+
+Later on in these series we'll also look at tools to cut out this boilerplate and streamline your workflow.
+
+Disclaimer: This is beta software and things are constantly changing. I'm learning a lot of this as we go as well. Please drop me a line if I'm flat out wrong on something.
+
+Before we get started, we need to talk about 'K'
+
+'Project K' is the codename for a set of new components powering ASP.NET vNext. There has already been a lot written about it and it's a deep rabbit hole so I won't go into a lot of detail here. There are three main commands to be aware of:
+
+K - used to bootstrap up the KRE - gets your app up and running.
+
+- gets your app up and running. KVM - K Version Manager, for managing individual versions of the runtime.
+
+KPM - K Package Manager, for managing packages that your application depends upon.
+
+There are similarities with node package manager (npm) and ruby version manager (rvm).
+
+This name might change closer to release.
+
+Let's get up and running....
+
+To get started using K, we need to first get the version manager. As per the guidlines on the Github page, execute the following from an admin cmd prompt:
+
+@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/aspnet/Home/master/kvminstall.ps1'))"
+
+Once kvm is installed we can use this to install the K runtime itself.
+
+kvm install latest -p
+
+The -p switch will persist this version of the runtime to your path.
+
+Our environment is now ready to go.
+
+Startup.cs and project.json
+
+This is where one of the biggest changes of vNext has been introduced in day-to-day usage. These two files replace a whole host of cruft that was in the previous project systems that Visual Studio would have to manage for you.
+
+.sln solution files are gone
+
+.csproj files are gone
+
+global.asax is gone
+
+assembly.cs is gone
+
+web.config is gone (although still useful for configuring IIS)
+
+packages.config is gone
+
+Probably a bunch more that I've forgotten is gone
+
+(side note: there is a new kproj file, that is being introduced but that is a Visual Studioism, it's not something your project actually needs [if you were to delete it, VS will just recreate it for you])
+
+With all those important peices thrown out the window, let's get up and running on vNext.
+
+project.json
+
+Create "blank" valid project.json file with the following contents:
+
+{}
+
+First, we'll need a web server. vNext doesn't just assume you'll be running on IIS so we'll bring our own. On Windows we can use WebListener to self-host our site (if your not on Windows, checkout Kestrel). Run the following two commands:
+
+kpm install Microsoft.AspNet.Hosting 1.0.0-beta2 kpm install Microsoft.AspNet.Server.WebListener 1.0.0-beta2
+
+We're using the K Package Manager to install two dependencies (with their versions at 1.0.0-beta2). These dependences are NuGet packages.
+
+If you look at your project.json file now, you'll notice a new dependencies object.
+
+{ "dependencies": { "Microsoft.AspNet.Hosting": "1.0.0-beta2", "Microsoft.AspNet.Server.WebListener": "1.0.0-beta2" } }
+
+You can just as easily edit this file yourself with a text editor. There is no magic going on here.
+
+Aside from updating your project.json file, kpm install will also download the packages. They will come down from nuget.org and be stored in your %userprofile%\.kpm\packages . You'll no longer have 50 copies of the same NuGet packages used in all your projects strewn about your hard drive, they are all centralised in this one spot.
+
+Commands
+
+Commands are a way to get K to conveniently do our bidding. In this case, we need it to boot up the web server (which in turn, will bootstrap up our project). Add the following snippet into your project.json file
+
+"commands": { "web": "Microsoft.AspNet.Hosting --server Microsoft.AspNet.Server.WebListener --server.urls http://localhost:5000" }
+
+We're registering the command web ('web' is just a convention, it can be whatever you'd like) which when called will execute Microsoft.AspNet.Hosting. From the NuGet description:
+
+ASP.NET 5 core hosting infrastructure and startup logic for web applications.
+
+We're passing in two parameters, the --server to use: Microsoft.AspNet.Server.WebListener
+
+ASP.NET 5 self-host web server."
+
+And the URL to listen on http://localhost:5000 .
+
+These are the two packages that we installed in the previous step.
+
+Here's what our final project.json file looks like now:
+
+{ "dependencies": { "Microsoft.AspNet.Hosting": "1.0.0-beta2", "Microsoft.AspNet.Server.WebListener": "1.0.0-beta2" }, "commands": { "web": "Microsoft.AspNet.Hosting --server Microsoft.AspNet.Server.WebListener --server.urls http://localhost:5000" } }
+
+Commands are used heavily in vNext. Entity Framework Migrations, Unit Test harnesses, MVC Code Generation, etc. all of which previously used UI in Visual Studio are now handled via commands. Again, Visual Studio will still offer UI for these things, but you're no longer reliant on it.
+
+Now let's run it!
+
+k web
+
+This runs the web command we defined previously in project.json . And we get an exception: Startup class not found in assembly...
+
+Getting warmer...
+
+Startup.cs
+
+This is the entry point for your application and what WebListener is trying to find to get your app booted. Here is the most basic example to return a result:
+
+using Microsoft.AspNet.Builder; using Microsoft.AspNet.Http; public class Startup { public void Configure(IApplicationBuilder app) { app.Run(context => context.Response.WriteAsync("Hello World")); } }
+
+The Startup class is special. The framework is hardwired to look for such a class and furthermore, it's configured to call certain methods on that class. Configure is one such method.
+
+Now run k web again and with any luck, it should report Started . Open a web browser and head to http://localhost:5000/ to see Hello World .
+
+This has been a somewhat long winded take to get going. In reality, we've ~15 lines of code to get this far, it would take a lot longer to build the previous project system by hand without the aid of Visual Studio.
+
+Next in Part #2 will look at bringing in MVC6.

@@ -1,0 +1,29 @@
+Unreal Engine 4 launches today. What we’re releasing is both simple and radical: everything.
+
+Epic’s goal is to put the engine within reach of everyone interested in building games and 3D content, from indies to large triple-A development teams, and Minecraft creators as well. For $19/month you can have access to everything, including the Unreal Editor in ready-to-run form, and the engine’s complete C++ source code hosted on GitHub for collaborative development.
+
+This is the complete technology we at Epic use when building our own games, forged by years of experience shipping games like Gears of War for Xbox and Infinity Blade for iOS, and now reinvented for a new generation. Having the full C++ source provides the ultimate flexibility and puts developers in control of their schedules and destinies: Whatever you require to build and ship your game, you can find it in UE4, source it in the GitHub community, or build it yourself – and then share it with others.
+
+Develop in the Unreal Ecosystem
+
+Beyond the tools and source, Unreal Engine 4 provides an entire ecosystem. Chat in the forums, add to the wiki, participate in the AnswerHub Q&A, and join collaborative development projects via GitHub.
+
+To help you get started, we’re shipping lots of ready-made content, samples, and game templates. You’ll find it in the Marketplace in the Unreal Editor. Right now, it simply hosts free stuff from Epic, but its resemblance to the App Store is no coincidence: It will grow into a complete ecosystem for sharing community-created content, paid and free, and open for everyone’s participation!
+
+Ship Games with Unreal
+
+We’re working to build a company that succeeds when UE4 developers succeed. Anyone can ship a commercial product with UE4 by paying 5% of gross revenue resulting from sales to users. If your game makes $1,000,000, then we make $50,000. We realize that’s a lot to ask, and that it would be a crazy proposition unless UE4 enables you to build way better games way more productively than otherwise!
+
+So, will this effort succeed? That’s up to you and your judgment of the engine’s value. Unreal Engine 4 has been built by a team of over 100 engineers, artists and designers around the world, and this launch represents all of our hopes and dreams of how major software can be developed and distributed in the future.
+
+We find this future very exciting. It’s no longer dominated by giant publishers and marketing campaigns, but by a simple and honest proposition: Gamers pay for great games, and anybody who can valuably contribute to building those games can succeed, from indie developers, to large triple-A teams, and to individual programmers and content creators, too.
+
+A New Beginning
+
+This first release of Unreal Engine 4 is just the beginning. In the C++ code, you can see many new initiatives underway, for example to support Oculus VR, Linux, Valve’s Steamworks and Steam Box efforts, and deployment of games to web browsers via HTML5. It’s all right there, in plain view, on day one of many years of exciting and open development ahead!
+
+We have enjoyed building Unreal Engine 4 so far and hope you will join us on this journey as a contributor to the future of Unreal!
+
+Tim Sweeney
+
+Founder, Epic Games

@@ -1,0 +1,113 @@
+Q. I’m new to FreeBSD and am trying to configure the firewall using IPFW, but I’m having a hard time understanding it as compare to Linux. Can you provide a small example on how to go about setting up the rules for a typical FreeBSD based Apache Web server?
+
+
+
+A. Ipfirewall (ipfw) is a FreeBSD IP packet filter and traffic accounting facility.
+
+Adblock detected 😱 PayPal/Bitcoin, or become a supporter using Patreon. My website is made possible by displaying online advertisements to my visitors. I get it! Ads are annoying but they help keep this website running. It is hard to keep the site running and producing new content when so many people block ads. Please consider donating money to the nixCraft via, or become a
+
+IPFW is included in the basic FreeBSD install as a separate run time loadable module. The system will dynamically load the kernel module when the rc.conf statement firewall_enable=”YES” is used.
+
+FreeBSD compile kernel for IPFW
+
+This step is optional. You do not need to compile IPFW into the FreeBSD kernel unless you want NAT function enabled. However some old version may not have IPFW compiled. Here is a quick guide to compile kernel with IPFW.
+
+Make sure IPFW support not compiled into the kernel:
+
+#ipfw list
+
+If you get an error that read as follows, you must now compile the source code for the kernel.
+
+ipfw: getsockopt(IP_FW_GET): Protocol not available
+
+Another option is open default kernel config file /usr/src/sys/i386/conf and look for IPFIREWALL option:
+
+# grep IPFIREWALL /usr/src/sys/i386/conf
+
+Building and Installing a Custom Kernel with IPFW
+
+Copy default kernel file:
+
+# cd /usr/src/sys/i386/conf
+
+# cp GENERIC IPFWKERNEL
+
+Add IPFW support:
+
+# vi IPFWKERNEL
+
+Append following directives:
+
+options IPFIREWALL # required for IPFW
+
+options IPFIREWALL_VERBOSE # optional; logging
+
+options IPFIREWALL_VERBOSE_LIMIT=10 # optional; don't get too many log entries
+
+options IPDIVERT # needed for natd
+
+
+
+Save and close the file. Building a Kernel, type following commnds:
+
+# cd /usr/src
+
+# make buildkernel KERNCONF=IPFWKERNEL
+
+Install the new kernel:
+
+# make installkernel KERNCONF=IPFWKERNEL
+
+Now reboot the system:
+
+# reboot
+
+Step # 1: Enabling IPFW
+
+Open /etc/rc.conf file
+
+# vi /etc/rc.conf
+
+Append following settings:
+
+firewall_enable="YES"
+
+firewall_script="/usr/local/etc/ipfw.rules"
+
+Save and close the file..
+
+Step # 2 Write a Firewall Rule Script
+
+You need to place a firewall rules in a script called /usr/local/etc/ipfw.rule:
+
+# vi /usr/local/etc/ipfw.rules
+
+Append following code:
+
+IPF="ipfw -q add" ipfw -q -f flush #loopback $IPF 10 allow all from any to any via lo0 $IPF 20 deny all from any to 127.0.0.0/8 $IPF 30 deny all from 127.0.0.0/8 to any $IPF 40 deny tcp from any to any frag # statefull $IPF 50 check-state $IPF 60 allow tcp from any to any established $IPF 70 allow all from any to any out keep-state $IPF 80 allow icmp from any to any # open port ftp (20,21), ssh (22), mail (25) # http (80), dns (53) etc $IPF 110 allow tcp from any to any 21 in $IPF 120 allow tcp from any to any 21 out $IPF 130 allow tcp from any to any 22 in $IPF 140 allow tcp from any to any 22 out $IPF 150 allow tcp from any to any 25 in $IPF 160 allow tcp from any to any 25 out $IPF 170 allow udp from any to any 53 in $IPF 175 allow tcp from any to any 53 in $IPF 180 allow udp from any to any 53 out $IPF 185 allow tcp from any to any 53 out $IPF 200 allow tcp from any to any 80 in $IPF 210 allow tcp from any to any 80 out # deny and log everything $IPF 500 deny log all from any to any
+
+Save and close the file.
+
+Step # 3: Start a firewall
+
+You can reboot the box or you could reload these rules by entering on the command line.
+
+# sh /usr/local/etc/ipfw.rules
+
+Task: List all the rules in sequence
+
+Type the following command:
+
+# ipfw list
+
+Further readings:
+
+Refer ipfw man page
+
+Read IPFW chapter from FreeBSD handbook
+
+Read the FreeBSD kernel configuration file format chapter from FreeBSD handbook
+
+Updated for accuracy.
+
+Share on Facebook Twitter

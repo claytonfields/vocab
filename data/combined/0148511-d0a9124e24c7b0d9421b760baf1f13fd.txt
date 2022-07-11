@@ -1,0 +1,141 @@
+May 22, 2015 16:00 IST
+
+Once called India’s garden city, this upper middle-class residential area in Bangalore has India’s most toxic air, says Devanik Saha, IndiaSpend.com.
+
+On the day this story was written, April 10, 2015, the area with India’s most toxic air - among 10 cities where a new National Air Quality Index functions - was south Bangalore’s BTM Layout, a booming residential area dotted with restaurants and located conveniently near office towers and a web of highways.
+
+There wasn’t enough data to compute the index - calculated from six pollutants - but levels of a key pollutant, PM2.5, in BTM Layout touched 500 μg/m³, or 1200 per cent more than levels considered safe for humans (μg refers to micrograms, or a millionth of a gram, as air-pollution concentrations are measured).
+
+PM2.5 refers to minute particles, smaller than 2.5 microns - invisible and capable of reaching the farthest reaches of the lungs - made up of a toxic cocktail of up to 23 elements, including acids, metals, chemicals, soil and soot; they can cause cancer, heart and lung disease.
+
+How does an upper middle-class residential area in a metropolis once called India’s garden city have India’s most toxic air?
+
+BTM Layout is a hub of modern Indian aspiration. The restaurants and offices draw a stream of vehicles. The nearby highways carry both intra-city and long-distance truck and bus traffic—day and night—and the area is plagued by Bangalore’s seemingly ceaseless construction boom.
+
+That BTM Layout’s pollution parameters exceed national standards manifold is not surprising - and not new. Nearly seven years ago, as this 2007 data sheet from the Karnataka Pollution Control Board reveals, PM2.5 levels were pushing 300 μg/m³, seven-and-a-half times above safe levels.
+
+As a national debate grows over the toxic air of Delhi—termed the world’s most polluted city—the government’s own data, albeit imperfect, make two things clear:
+
+–That many other cities are almost as badly polluted as India’s capital and
+
+–Some national-level solutions that appear expensive are far cheaper than the costs of doing nothing.
+
+It’s not just Bangalore - a city of about 9 million people - that often has worse air than Beijing, the world’s second-most polluted capital city, after Delhi.
+
+In 2014, at least 13 Indian cities (Bangalore was then not on the list) had worse air than Beijing, according to The Indian Express, which summoned Delhi’s situation to national attention with an investigative series called “Death By Breath”.
+
+On the day BTM Layout touched a PM2.5 level of 500 μg/m³, Beijing reported a peak level of 309 μg/m³. Beijing’s air-quality classification: “Very unhealthy”. The prognosis for BTM Layout and Bangalore: “Insufficient data for computing AQI (Air Quality Index)”, a reflection on urban India’s data-collection limitations. Here is a good explanation of how the index works.
+
+By Beijing standards, BTM Layout’s air would probably fall in the highest-hazard category—worse than emergency conditions with serious health effects for everyone. BTM Layout’s ultra-hazardous situation on April 10 elicited no local action or even concern; an unremarkable day, it would appear, for Bangalore.
+
+Latest data: Delhi continues to choke
+
+IndiaSpend’s analysis of the latest government Delhi air-quality data - which the Central Pollution Control Board (CPCB) admits has flaws of omissions and calculations - reveals critical pollutants at more than 200 per cent above safe levels.
+
+Delhi’s levels of respirable su spended particulate matter (RSPM) - a broad spectrum of invisible, toxic bits and bobs from vehicular exhaust, construction dust and factory emissions - exceed these safety levels, called the National Ambient Air Quality Standard, by 216 per cent times for larger PM10 (smaller than 10 microns) and 242 per cent for smaller PM2.5, particles, according to this CPCB monitoring report.
+
+The data were collected between December 5, 2014, and February 10, 2015, over a daily 24-hour cycle for eight pollutants in 19 towns and cities that make up the National Capital Region (NCR).
+
+The monitoring was ordered by the National Green Tribunal following an application from a traders’ association in the south Delhi shopping hub of Lajpat Nagar. Here is what the tests for toxic particles revealed:
+
+Particle size less than or equal to 10 μm (PM10)
+
+Particles between 2.5 and 10 μm (microns) in diameter are called “coarse” particles and referred to as PM10.
+
+The average values of PM10 for all the cities in the (NCR), ranged from 101 μg/m³ to 368 μg/m³. All the NCR cities exceeded the national ambient air-quality standards ( NAAQS) of 100 μg/m³, based on 24-hour averages.
+
+During the 68-day monitoring period (December 5, 2014 to February 10, 2015), 538 of 545 observations in Delhi exceeded safe levels, while all tests in some other NCR cities, such as Ghaziabad, Noida and Alwar, crossed those levels.
+
+Particle size less than or equal to 2.5 μm (PM2.5)
+
+Particles less than or equal to 2.5 μm are called “fine” particles and referred to as PM2.5.
+
+PM2.5 was monitored only in four cities: Delhi, Faridabad, Gurgaon and Rohtak. No data was available for 15 other NCR towns and cities. The average values of PM2.5 for these cities ranged between 59 μg/m³ and 205 μg/m³.
+
+During the 68-day monitoring period, all cities exceeded the air-quality standards of 60 μg/m³, based on 24-hour averages.
+
+In Delhi, 447 of 458 test results exceeded safe levels; in Faridabad, all crossed those levels.
+
+Finally, an air-quality index, but much data are dubious
+
+The CPCB monitored seven pollutants: sulphur dioxide, nitrogen dioxide, RSPM (PM2.5 and PM10), ozone, carbon monoxide, ammonia and benzene, but the data-collection was marred by inconsistent data from various collectors, such as state pollution control boards, who did not provide data in the form needed.
+
+For instance, state boards sent across averaged values over 24-hours instead of all the data, making it hard to work out peak and non-peak hours and sources of pollution.
+
+The new National Air Quality Index (AQI), recently launched by Prime Minister Narendra Modi provides current and 24-hour average data on: particulate matter (PM2.5, PM10), sulphur dioxide, nitrogen dioxide, carbon monoxide and ozone.
+
+But ever so often, the index says: “Insufficient data for computing AQI.”
+
+A significant reason for Delhi’s toxic air is that policies are based on erratic data. For example: It is a misconception that the city of 25 million is primarily polluted by vehicles more than 15 years old.
+
+There are 5.6 million two-wheelers and 2.7 million cars registered in Delhi, an average of about 2.5 vehicles per family, an impossible number given current income levels.
+
+Only 59 per cent of registered cars and 42 per cent of registered two-wheelers are on Delhi roads. More than 65 per cent of the vehicles are less than five years old and less than 1 per cent more than 15 years old, writes Dinesh Mohan, emeritus professor at IIT Delhi’s Centre for Biomedical Engineering, in Business Standard.
+
+In other words, official figures are greatly exaggerated.
+
+“Why is it that a city like Delhi, which has fewer cars per thousand persons than Singapore, London or Paris, and has fewer industrial units than most European or Japanese cities, has much dirtier air?” asks Mohan. “The answers are not easy to get, and may not be very palatable.”
+
+Outstation trucks poison Indian cities, solution lies with New Delhi
+
+Possibly reacting to the Express series, the National Green Tribunal (NGT) last week banned diesel vehicles more than 10 years old from entering Delhi - 100 cars were quickly impounded - but, as a similar previous NGT orders show, implementation is a problem.
+
+Less than five months ago, the NGT banned vehicles more than 15 years old from Delhi roads, an order that was never implemented.
+
+Pollution in the NCR is worsened by 80,000 trucks that rumble through Delhi - and other cities that lack a ring of peripheral highways, such as Bangalore - every night.
+
+These trucks do not conform to pollution standards and contribute more than 60 per cent of the capital region’s key pollutants. This means construction dust, factory emissions, old vehicles and other causes play their part, but stopping the rush of trucks - between 10 and 20 years old, most of them running on a mixture of kerosene and diesel to save money - is important.
+
+Although a Supreme Court order switched public transport vehicles to compressed natural gas (CNG), these vehicles come out from other states and are not bound by Delhi’s laws.
+
+Delhi switched to Bharat stage (BS) IV “ultra low-sulphur diesel” in 2010, which is 81% cleaner than BS III standards used in many other states.
+
+The key appears to be the implementation of BS-IV norms across India—expected to extend to 50 cities by the end of 2015—a move being resisted by the petroleum and automobile industries because of the switchover costs, estimated to be Rs 32,000 crore ($5.3 billion) in the first phase of transition.
+
+“If we are serious about the pollution and health issue, we should aim to impose Bharat V fuel and emission norms by 2018 and Bharat VI by 2021, and depend on piecemeal, localised interventions,” writes the IIT’s Mohan.
+
+Who is going to clear up India’s fuel?
+
+Only a big-picture view and diktat from the central government can make this happen because of the multiplicity of ministries, and state-run and private companies involved.
+
+The benefits of scrubbing particulates from the air of Indian cities are likely to be more than 10 times as much as the costs: Rs 3.54 lakh crore ($59 billion), or 3% of gross domestic product, according to a World Bank study.
+
+Curbing air pollution also appears to require limiting the use of diesel, which produces poisonous particulate matter and is classified a carcinogen.
+
+The sale of diesel in Delhi has risen 40% over four years to 2013-14, reflecting the growing use of diesel vehicles.
+
+Currently, there are at least 0.4 million vehicles that run on diesel in the NCR, although authentic data isn’t available; there could be more.
+
+How your mobile phone contributes to Delhi’s toxic air
+
+After vehicles, the telecommunication sector is the second-highest user of diesel in Delhi.
+
+Across India, the telecom industry consumed 3.2 billion litres of diesel in 2011, expected to rise to six billion litres by 2020, according to this report by Greenpeace India.
+
+Every year, 2,123 tonnes of PM10 are generated by 14,326 cellular towers in Delhi, according to a 2011 telecom sector emissions inventory by researchers from the National Institute for Environmental Studies and the Indian Institute for Tropical Meteorology.
+
+In addition, diesel generators contributed 6 per cent of PM2.5 and 10 per cent of PM10 levels in NCR towns, according to this 2013 study by US and French researchers. Emission standards are routinely violated.
+
+And so, “Leave Delhi”
+
+Delhi’s surging pollution is ravaging the health of Delhi’s citizens, as the Express series - headlined “Leave Delhi“ - reported on its first day.
+
+After the Supreme Court order that switched public transport vehicles to CNG, the All India Institute of Medical Science (AIIMS) reported a dip in cases till 2007. Over the past six years, the hospital reported a 283% rise in respiratory ailments, from 9,831 cases in 2008-09 to 37,669 cases in 2014-15.
+
+In 2013, AIIMS started a department for respiratory diseases.
+
+Rising numbers of school children now suffer serious respiratory ailments, The Indian Express reported, with doctors even advising parents of the most effective long-term solution: leave Delhi.
+
+Key indicators of respiratory health - lung function, palpitation, vision and blood pressure– in children between four and 17 years of age in Delhi, were worse off than their counterparts in other cities, according to this report by Kolkata’s Chittaranjan National Cancer Institute.
+
+The prevalence of respiratory and associated symptoms was investigated in 11,628 children from 36 schools in Delhi; the control group comprised 4,536 children from two schools in Uttaranchal and 15 from rural West Bengal.
+
+The data revealed that 4.6 per cent of children in Delhi were asthmatic, against 2.5 per cent of the control group; 15 per cent had frequent eye irritation, compared with only 4 per cent of the control group. The symptoms were most evident during winter, when, thanks to fog and related climactic conditions, PM10 levels are highest, and lowest during the monsoons, when particulate levels plunge, washed away by the rain - temporarily.
+
+Delhi serves as a portent to a rapidly urbanising India, but as BTM Layout’s poisoned air indicates, that future has already unfolded.
+
+Devanik Saha is data editor at The Political Indian
+
+
+
+Powered by Indiaspend.org is a data-driven, public-interest journalism non-profit

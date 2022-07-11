@@ -1,0 +1,39 @@
+Symantec
+
+The newly-discovered Hammertoss malware strain uses network traffic noise from sources including Twitter and GitHub to spy upon corporate victim machines for longer.
+
+Hardly a week goes by when malware, zero-day vulnerabilities and data breaches are not mentioned in the media. High-profile attacks are on the rise against the enterprise, forcing industry players to acknowledge the risk of digital attacks against their networks.
+
+As the cybersecurity landscape evolves, investment increases -- albeit probably not at a rapid enough rate -- and security solutions flood the market, forcing threat actors to resort to complex ways to circumvent detection.
+
+For one hacking group, network traffic provides the perfect conduit for victim machine infection.
+
+FireEye has released a detailed report concerning a malware backdoor, dubbed Hammertoss, which is able to hide in multiple network traffic streams. This is no easy task to perform, and so the cybersecurity forensics firm believes a sophisticated Russian group specializing in advanced persistent threat (APT) campaigns is behind the malware's development.
+
+The group, known as APT29, has developed Hammertoss to make detection and eradication that much harder. The group uses online services including Twitter, GitHub and platforms leveraging the cloud for additional concealment layers, attempting to blend into the normal, albeit chaotic activity you find on such networks.
+
+With heavy rates of legitimate traffic often flowing to and from these sources, Hammertoss attempts to disguise itself and its "infrequent" malicious communications by joining the stream.
+
+Hammertoss was first detected earlier this year. APT29 used two backdoors to infiltrate a victim's network and Hammertoss is thought to have acted as a backup to keep the door open and commands executed -- however, its use has now evolved beyond this purpose.
+
+According to FireEye, Hammertoss uses Twitter, GitHub, and cloud storage services to "relay commands and extract data from compromised networks."
+
+APT29 also leverages a number of common malware tactics to disguise the malicious code's activity, including the retrieval of legitimate commands from social media networks, the use of compromised web servers for command and control (C&C) purposes, automatically visiting different Twitter handles daily on an automatic basis and communicating on schedule -- such as only in a victim's work week schedule or on specific dates.
+
+In addition, Hammertoss can receive orders through images placed online which contain hidden, encrypted data waiting to be unpacked and executed.
+
+Once infection has taken place and these elements are executed to spread the malware, but stay undetected for as long as possible, stolen victim files are uploaded to cloud storage service accounts in service to APT29.
+
+Hammertoss makes life difficult for network defenders to identify malicious code, and if one element is barred on a corporate network -- such as access to GitHub -- the malware is able to still receive instructions from other sources including social networks or C&C servers.
+
+In addition, even if security staff has a Hammertoss algorithm sample to hand which creates malicious Twitter accounts online, FireEye says monitoring malicious tweets from these accounts is "difficult" as each sample is capable of generating "hundreds" of Twitter accounts -- whereas APT29 may only need a handful to execute its campaign.
+
+The APT29 group, in operation since late 2014 at least, is believed to be Russian due to their targets and working hours, which match the Moscow time zone and the Russian holiday schedule.
+
+"While other APT groups try cover their tracks, very few groups show the same discipline to thwart investigators and the ability to adapt to network defenders' countermeasures," FireEye says.
+
+"For example, APT29 solely uses compromised servers for CnC, counters remediation attempts, and maintains a rapid development cycle for its malware by quickly modifying tools to undermine detection. These aspects make APT29 one of the most capable APT groups that we track."
+
+In June, Visa and FireEye announced plans to join forces through sharing threat data. The Visa and FireEye Community Threat Intelligence (CTI) platform will be sold through Visa as part of its fraud risk management service.
+
+Read on: Top picks

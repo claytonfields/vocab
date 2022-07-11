@@ -1,0 +1,45 @@
+Image caption Wavii automatically creates status updates about its user's interests
+
+A new personalised news stream service has been launched by some of technology's most respected developers.
+
+Wavii searches the net - including tweets, news stories and blogs - to offer a customised feed.
+
+It is offered via the web or as a smartphone app, and was created by engineers who had previously worked for Amazon and Microsoft.
+
+It is likely to compete with Facebook's news feed, prompting speculation that it could become a takeover target.
+
+Mark Zuckerberg's social network made headlines on Monday when it announced it was buying 18-month-old rival Instagram for $1bn (£629m).
+
+While Facebook's feed is mainly based on status updates and content shared by friends, Wavii highlights what's happening in the world at large by creating personalised news streams based on data taken from across the web.
+
+Crawling the web
+
+According to Adrian Aoun, Wavii's founder and chief executive, his service offers a more complete experience.
+
+"Facebook is aggregating all this structured data about your friends, and we are aggregating all this structured data about the world - the other half that Facebook doesn't have," he told the BBC.
+
+"We are looking at everything and mapping it into story types. We try to look for patterns."
+
+Wavii detects users' likes and interests based on their previous Facebook activity and by asking them to select at least 12 topics or people of interest. These range from celebrities and politicians to business acquisitions and gadgets.
+
+Then the startup's "learning" algorithms kick in to crawl the real-time web, and turn plain facts and unstructured content into something endowed with context and order.
+
+'Game-changer'
+
+The technology, which processes up to 1,000 articles a minute, can detect rumours and story duplicates, ultimately streaming the most important and relevant nuggets of information into new feeds.
+
+Wavii gets rid of the "fluff", said Jim Pitkow, a technical advisor to the Seattle-based venture.
+
+"We live in a sea of information, it's really hard to decide what to pay attention to.
+
+"With Wavii you can access more information with less effort."
+
+Image caption Users choose 12 topics or people to follow when they set up their personalised news feed, they can later add more
+
+Although other apps such as Flipboard and Pulse have attempted to blend together RSS-feeds and other news sources, one industry watcher believes Wavii is a game-changer.
+
+"I haven't seen anyone do anything close," Oren Etzioni, a semantic search expert and professor of computer science at the University of Washington, told the BBC.
+
+"Wavii is tackling an incredibly hard problem. Google and Microsoft's Bing have worked on this for years."
+
+He said that could make it a takeover target with social media companies which already have news feeds - such as Twitter, Facebook, Google and Linkedin - all a potentially good fit.

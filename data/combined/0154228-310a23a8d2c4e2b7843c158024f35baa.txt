@@ -1,0 +1,13 @@
+Gesture-control tech company Leap Motion released a video Monday showing off how its technology will work with Windows. The video is a fun romp through the technology pairing’s possibilities:
+
+But one feature of computer technology—and a popular one, to boot— is missing: the keyboard. The video shows how a stylus or fingers can be used to draw and write free-form on the screen, but there’s no word-processing or virtual keyboard. I asked Leap Motion if that would be part of the out-of-the-box suite of features, and a spokesman said Tuesday that it’s not, but that developers would be free to create one for the hardware:
+
+“We are not, out of the box, providing a keyboard emulation app. We’ve seen a couple demos where developers are working on keyboard apps. If they become available, users will have the option to download them (for a price set by the developer) and use them.”
+
+It’s not the end of the world, and, if the tenor of reviews are any indication, it doesn’t detract from the technology’s “cool” factor. Some users may actually find a keyboard-free computing experience to be a welcome change, given advances in voice-control technology.
+
+
+
+A screenshot of a video released by Leap Motion demonstrating the technology with Windows. (YouTube)
+
+In a blog post, the company announced that a video showing how the technology would interact with a Mac is forthcoming. Leap Motion is expected to start shipping July 22, following a delay for further testing. Leap Motion announced a partnership with Hewlett-Packard in April and a partnership with Asus in January.

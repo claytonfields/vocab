@@ -1,0 +1,19 @@
+Workday CEO Aneel Bhusri. Greylock Partners Retaining talent is a top priority for any organization.
+
+Silicon Valley's war for tech talent is already well documented, but even the general labor market is seeing record-high job openings, which means businesses need a better way to identify who is about to leave and how to keep them within the company.
+
+HR software maker Workday has an innovative approach to solving this problem. With an application called Workday Talent Insights, which launched on Thursday, companies can get a better look into which employee is likely to quit, and what options need to be considered to retain that person.
+
+For example, it sifts through years worth of HR data, ranging from time between promotions, time at current job, and number of job functions. It then combines that with job posting data from sites like Indeed.com to gauge the market demand rate for certain employees. Based on that, Workday can come up with the employees at risk of leaving and how much it would take to replace them.
+
+On top of that, the new app can also give recommendations on what you need to do to keep those employees around. It can map out next suggested moves and positions that would best suit each one.
+
+"It's not just a predictive model of what could happen next, but adding context, so you can then give something more prescriptive, like a recommendation," Dan Beck, Workday's senior VP of Technology Products, tells us.
+
+The technology behind all this originally comes from Netflix's movie recommendation engine, Beck says. The app is a brainchild of Mohammad Sabah, a former Netflix data scientist who joined Workday when his previous company, Identified, was acquired last February.
+
+"It's interesting to see some of these consumer web data science applications come to the enterprise. This is essentially how Netflix makes movie recommendations," Beck says.
+
+In fact, this is a larger move towards what many call "Big Data," the broader term used for processing large amounts of data to analyze and predict future outcomes. Lots of tech companies are using data in all kinds of ways to keep an edge over others. Insidesales.com, for example, has built a business worth over $1 billion by offering software to increase sales efficiency, while Airbnb is working on a new feature that suggests the best photos for attracting more clicks, all based on previous data.
+
+Here's what Workday's new app looks like:

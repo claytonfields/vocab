@@ -1,0 +1,149 @@
+Cornucopia 0.3.3 - Legendaries, MI's, Relics and more! Grim Dawn: Cornucopia v0.3.3I1
+
+hotfixed/bugfixed 3/18/17
+
+
+
+Cornucopia003 Dropbox Link
+
+
+
+
+
+Do not use the version below. It's for whoever has been ignoring that it will be discontinued. The version below will not exist in the next release. We are abandoning the below 002 version because it used a naming method for files we had to use when the mod tools were first released and there were errors in files sharing vanilla file's name. But the below version is harder to merge for other modders, and takes up more space on your computer. We were going to let it run for one more release but it's just been a major PITA and just complicated the process of development for Ceno and I. I personally can no longer stomach it, and coupled with solid reasons we're just going to abandon it now. It won't receive hotfix updates either, so please only use 003 above.
+
+Cornucopia002 Dropbox Link
+
+Mirror Link
+
+
+
+
+
+
+
+Introduction
+
+Are you guys excited? We’ve been working on this since 1.0.0.6 vanilla! (yikes) Long story short, real life came for both Ceno and I and we made due. But here it is, Cornucopia v0.3.3! Item phase: Legendaries/MI’s/Relics! Be assured that we need your help more than ever to get feedback on our changes. Some of what we’ve done has definitely gone too far, some not far enough. The simple fact of the matter is that the scope of this version was far too large for us to personalyl test. So please be patient and let us know your opinions on things (after you’ve actually played with them) and we’ll do our best to release hotfixes tuning this into a reasonable place. Be aware that we are now finally entering the next phase after this: Making the game harder again, but in hopefully more interesting ways. Version 0.4 will be monster balance, and we’ll most likely divide it up by each act (0.41, 0.42 etc.)
+
+
+
+I personally plan to do a lot of hotfix support for things that fell to a lesser priority rung in our development but still nags at my soul. I’ll probably tweak faction rares a bit more, update some more epics that still suck, etc. So do provide us feedback, elaborate or not. We also ask for your patience in this specific release because we have finally tackled rebalancing the attributes! (Changes below) Attribute changes affect all enemies of course, and while we tried to balance the changes out a bit via the enemy difficulty modifiers, some enemies heavily slanted toward singular attributes may need to be fine tuned individual. A lot of this won’t make it until 0.4 but I will try to handle worst case outliers in hotfixes.
+
+
+
+Basically: Balancing attributes is rather complex and may take a lot of work to get it right, so that means multiple iterations. We hope you’ll be patient because in getting this right we will create a much more rich and interesting meta where your attribute choices matter, and monster attributes also define them a little better as well. Another thing worth noting is that a TON of the skill icons for the abilities/buffs we added are the same as already existing icons. Well… art takes a lot of time and we didn’t feel like delaying this release another month or more because of some small square icons. So be patient because they’re placeholders and eventually they’ll be phased out for some fresh ones (probably just recolors of existing icons lolol).
+
+
+
+And as always, consider that some of our changes may be made with long-term goals in mind, so what seems OP now may not seem OP after monsters, specifically heroes and bosses, get a good deal tougher. Finally, many thanks to Kathanious who helped us implement all these changes, his assistance was a great boon to this mod. Final Note: The hover-text on attributes in your inventory screen is inaccurate. PMed Zantai to see if I can edit the text there and fix it... but if not you will have to reference the change below... which I will put in bold
+
+
+
+Please see https://docs.google.com/document/d/1...it?usp=sharing for our google doc listing all changes. It’s fucking huge and worth skimming over. The changes in this forum thread only represent a fraction of what is in this link
+
+
+
+[Game] Marginally reduced enemy OA in Ultimate difficulty on account of other changes made here. Substantially reduced enemy DA in all difficulties on account of other changes here, but all in all, enemies will have a very slight DA buff in Ultimate.
+
+Revamped Attributes! Not balanced yet, especially in regard to monsters but this paves the way for future changes that will be balanced around this system. Need feedback for tweaks until we get it right regardless. Physique: Removed Defensive Ability. HP per physique 2.5 -> 3. HP regen per physique 0.04 -> approx. 0.07. Added physique hp regen multiplier of (1 + (physique/3500)) so if you have 3500 physique you’d be multiplying your hp regen by 2. Cunning: Added 0.6 DA per cunning. 0.5 OA per cunning -> 0.8. Removed physical and pierce damage bonuses. Spirit: Gained Cunning’s %damage type bonuses. Added 0.25 DA per spirit. 2 energy per spirit -> 2.5, +0.25% energy regen per point -> ~+0.3%, +0.01 flat energy regen -> +0.04. Now gives 0.45% all damage per point.
+
+Changed Offensive Ability Crit Threshold multipliers from x1.1/1.2/1.3/1.4/1.5 to x1.05/1.1/1.2/1.3/1.4. Also changed the final crit threshold from 135% chance to hit to 140% (you need a higher OA - enemyDA difference to reach the 1.4 multiplier now)
+
+Fixed issue where Legendaries introduced in 1.0.0.6 weren’t dropping in Cornucopia.
+
+Cleaned up component tooltip text to correctly reflect which slots components could be placed in.
+
+Merged the latest version of the GDReforge mod.
+
+Reduced enemy health in Ultimate to Vanilla, 1.0.0.7 levels, but increased enemy health on Normal/Elite to 1.0.0.7 levels as well. Increased enemy movement speed on Ultimate by a flat 5%.
+
+Swept through the files of Cornucopia in comparison with the base game and patched up any inconsistencies we neglected between version releases for Grim Dawn.
+
+Merged a variant of the autoloot mod (People Are Lazy). This variant only autoloots rare (purple) crafting materials, no components.
+
+Fixed around 70 bugs, including certain completion bonuses for mythical relics not rolling correctly. Let us know of any persistent issues. [Itemization] Enabled Spears and Staves on item skills as appropriate. The schematic used for doing so is thus: any skills which required a caster offhand or a 2H ranged weapon will also work with Staves. Any skills requiring a 1H melee weapon will work with Spears.
+
+Following the schema described above, Augments/Components are now usable on Spears/Staves. Spears count as Swords for edge cases. Staves use Potent Augments, Spears regular Augments.
+
+All legendary items below lvl 65 have now been raised to 65 or higher, and had their stats improved. We want to create a higher variety of end-gear choices and we felt there were so many legendary items with cool concepts and/or abilities that it’d be nice to be able to have them end up on your finished character. Base stats have been increased for most legendaries that had their level increased, among other changes we’ll list.
+
+Mandates are now tradeable (previously could be put in stash, but not dropped or traded).
+
+Reduced Pierce Chance of Rifles with 100% Chance ((Empowered) Will of Fate, Vortex of Souls) to 70% chance so as to bring them in line with other rifles while maintaining their uniqueness.
+
+Combat Medic Mark heal nerfed.
+
+Obsidian Seal now gives +1 flame touched
+
+Empowered Obsidian Seal now gives +2 flame touched
+
+Increased the duration of consumable elixirs without cooldowns (or 1 second cooldowns) and improved the effects of those with cooldowns. The intent here is partially a QoL change so you don’t need to spam Oils so much, but also a buff to the existing Tinctures to get them to be used more often: Elixir of the Hunt: Duration increased from 30 seconds to 10 minutes. Bloodfang Oil: Duration increased from 30 seconds to 90 seconds. Arcanum Oil: Duration increased from 30 seconds to 90 seconds. Venomfang Oil: Duration increased from 30 seconds to 90 seconds. Dermapteran Oil: Duration increased from 30 seconds to 90 seconds. Heartseeker Oil: Duration increased from 30 seconds to 90 seconds. Ice-Blood Oil: Duration increased from 30 seconds to 90 seconds. Kymon’s Sacred Oil: Duration increased from 30 seconds to 90 seconds. Rhowari Oil: Duration increased from 30 seconds to 90 seconds. Stoneheart Oil: Duration increased from 30 seconds to 5 minutes. Blade-Ward Tincture: Increased Duration from 10 seconds to 25 seconds; Cooldown from 30 seconds to 40 seconds. Swapped +400% Piercing Retaliation with +500% All Retaliation. Courageous Tincture: Cooldown reduced from 60 seconds to 1 second (identical to ‘Oils’). Duration increased from 30 seconds to 10 minutes. Now also grants 5% Physical Resist to affected allies. Frostguard Tincture: Duration increased from 5 seconds to 8 seconds; Cooldown reduced from 30 seconds to 15 seconds. Now also reduces enemies’ DA. Kymon’s Wrath Tincture: Doubled the duration of the Burn DoT. Wrath of the Beast Tincture: Duration increased from 10 seconds to 60 seconds. Cooldown increased from 30 seconds to 90 seconds. Now grants your pets +12% OA but -4% DA.
+
+[Class & Skills]
+
+Devotion Amatok - Blizzard: Reduced projectiles 20->12. Shrank target radius a bit. But boosted cold damage by 68% and frostburn by 75% (multiplicatively). So this is ever so slightly a buff, and was done to reduce fps drops from blizzard going off.
+
+Targo the Builder - Fixed a bug where the shield recovery node made you worse at using a shield.
+
+Anvil - Targo’s Hammers: Halved stun chance. It was found that, because we removed the ability for the hammers to be broken when they collided with a projectile, it was far too easy to amass a collection of hammers that could permanently stun a crowd of enemies. It should be harder to do so now than before, but may still be possible...in which case we may well wind up removing the stun chance altogether and maybe replacing it with something else...Armor Reduction, maybe? -Ceno
+
+Viper - reverted our nerf, now has 20% elemental resist reduction. “I was wrong” -Doom Soldier Blade Arc - Now works with Spears.
+
+Blitz - Now works with Spears.
+
+Shred - Now works with Staves.
+
+Veterancy - Increased Health Regenerated per second by a whopping 108% (multiplicatively). At 20/10, you’ll have a permanent Giant’s Blood’s (Devotion proc) worth of health regen (240/second). Following this adjustment, non-Ultimate ranks had the health regen reduced by 33% (multiplicatively), for a slight increase in effectiveness at earlier ranks before the gargantuan increase you can get with substantial investment. Demolitionist Fixed the layout of this fucking mastery already.
+
+Removed flat damage and AoE nature of Ulzuin’s Chosen. Now behaves like any other Exclusive Buff. -I thought I already did this >.> -Ceno
+
+Searing Strike - Now works with Spears. No longer works with 2H weapons (this was a Cornucopia bug, not a Vanilla bug).
+
+Searing Might - Now works with Staves.
+
+Mortar Trap - 5s cooldown -> 4.5s. Now can summon 2 at a time right from rank 1, up to 3 at your first ultimate rank. Occultist Bloody Pox -%hp regen now scales to 250% at +10 ultimate rank. Removed -fire resist. No idea why this was here. Added scaling for -OA and -DA. Nerfed ranks 1-16 by 8%.
+
+Fevered Rage - Nerfed Damage Modified 25% -> 15%. Given how much I buffed the BP line’s base values, this was too much. Oversight that i forgot to do this in the first place. May need more nerfing.
+
+Wasting - Nerfed ranks 1-16 by 8%. Nightblade Shadow Strike - Now works with Spears. Arcanist A popular point of contention with Arcanist’s iteration of PRM is that it simply didn’t do enough damage and had too high an energy cost (similar to AAR, hm?). We had previously increased its damage in some places and reduced the energy cost of Proliferation, but now we’re taking it one more (slight) step further.
+
+Panetti’s Replicating Missile - Reduced energy cost in Ultimate ranks by 1/rank, down from 56 to 46 at 26/16. Damage at all ranks increased by 8%, multiplicatively.
+
+Distortion - Energy cost at 21 and 22/12 reduced to 31 and 32, from 32 and 34, respectively.
+
+Supercharged - Now has identical energy cost requirements as Distortion at all ranks. %Chance of Stun Target increased by 2.5% (flat) at all ranks.
+
+Devastation - Now works with Staves.
+
+Albrecht’s Aether Ray - Now enabled to work with Staves.
+
+Trozan’s Sky Shard - Removed the scaling radius we added and moved it to frozen core.
+
+Frozen Core - Increased frostburn damage by 20%, improved %cold damage scaling, especially in ultimate ranks. Added projectile explosion radius scaling. Hopefully this makes this stop being a 1 point wonder. Now only scales to a max of 2.3 radius. Was too consistent on top of our other buffs. This skill is still top tier, trust me.
+
+Mirror of Ereoctes - Now starts at only 65% damage absorb. Scaling to 88% at 12/12, 90 at ultimate rank 13 and onward, but gains a bit of duration in ultimate ranks. Feel free to ask me (doom) why I don’t let this scale to 100% yet let some items give 100% invuln. I have good reasons. Shaman Savagery - Removed the 9th Charge Level. Energy cost of Ultimate ranks increased by 0.33/rank, unnoticeable at early Ultimate ranks but raised from 10->13 at 26/16. This is intended to be a minor nerf to Savagery’s double-scaling with % Weapon Damage and the charge multiplier to bring things like the Ultos set back in line with other sets.
+
+Mogdrogen’s Pact and Heart of the Wild. Took a flat 10% of the bonus health from heart of the wild and moved it onto Mogdrogen’s Pact, dispersed all the way through it’s ultimate ranks. Mog’s Pact gets the 10% health at 20/12 so you’ll need +8.
+
+Might of the Bear - Now works with Staves.
+
+Wind Devil - Merged 1.0.0.7 changes. Also increased its base movement speed from 0.8 to 2.7 (slightly exceeding that of a player with 150% movespeed, the Cornucopia cap). It seemed as though part of the problem with Wind Devil’s AI was that it took forever for them to reach their targets and, once their target died, it took too long for them to get back to helping the player. We may make them faster still, depending on how this plays out.
+
+Maelstrom - Merged 1.0.0.7 changes. Also made the lightning interval 1.5 seconds rather than 2.0 seconds. This results in 2 extra instances of damage over the 12 second duration.
+
+Storm/Corrupted Totem: Increased Damage scaling (to approximately that of 1.0.0.7). Fixed bug where Corrupted Totem was not dealing Vitality Damage. Resources
+
+Old Version:
+
+Development Thread: Mirror Link Thank you 420WeedWizard for hosting the mirror! Full Patch Notes - This post only represents a fraction of this release, and covers mostly over-arching changes.Are you guys excited? We’ve been working on this since 1.0.0.6 vanilla! (yikes) Long story short, real life came for both Ceno and I and we made due. But here it is, Cornucopia v0.3.3! Item phase: Legendaries/MI’s/Relics! Be assured that we need your help more than ever to get feedback on our changes. Some of what we’ve done has definitely gone too far, some not far enough. The simple fact of the matter is that the scope of this version was far too large for us to personalyl test. So please be patient and let us know your opinions on things (after you’ve actually played with them) and we’ll do our best to release hotfixes tuning this into a reasonable place. Be aware that we are now finally entering the next phase after this: Making the game harder again, but in hopefully more interesting ways. Version 0.4 will be monster balance, and we’ll most likely divide it up by each act (0.41, 0.42 etc.)I personally plan to do a lot of hotfix support for things that fell to a lesser priority rung in our development but still nags at my soul. I’ll probably tweak faction rares a bit more, update some more epics that still suck, etc. So do provide us feedback, elaborate or not. We also ask for your patience in this specific release because we have finally tackled rebalancing the attributes! (Changes below) Attribute changes affect all enemies of course, and while we tried to balance the changes out a bit via the enemy difficulty modifiers, some enemies heavily slanted toward singular attributes may need to be fine tuned individual. A lot of this won’t make it until 0.4 but I will try to handle worst case outliers in hotfixes.Basically: Balancing attributes is rather complex and may take a lot of work to get it right, so that means multiple iterations. We hope you’ll be patient because in getting this right we will create a much more rich and interesting meta where your attribute choices matter, and monster attributes also define them a little better as well. Another thing worth noting is that a TON of the skill icons for the abilities/buffs we added are the same as already existing icons. Well… art takes a lot of time and we didn’t feel like delaying this release another month or more because of some small square icons. So be patient because they’re placeholders and eventually they’ll be phased out for some fresh ones (probably just recolors of existing icons lolol).And as always, consider that some of our changes may be made with long-term goals in mind, so what seems OP now may not seem OP after monsters, specifically heroes and bosses, get a good deal tougher. Finally, many thanks to Kathanious who helped us implement all these changes, his assistance was a great boon to this mod.Old Version: v0.3.2 Development Thread: Development Thread __________________
+
+Come check out mods I've worked on!
+
+Cornucopia - - - "http://www.grimdawn.com/forums/showthread.php?t=37644"
+
+Grim Hell (and 2 smaller mods merged within) - - - "http://www.grimdawn.com/forums/showthread.php?t=79573"
+
+
+
+# of level 100 characters I have atm: 102 Last edited by adoomgod; 03-18-2017 at 06:20 AM .

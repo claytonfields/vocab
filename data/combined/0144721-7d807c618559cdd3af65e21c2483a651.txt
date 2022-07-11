@@ -1,0 +1,19 @@
+Computer scientists have discovered that password re-use is far more prevalent than previously thought after comparing a sample of matched passwords that spilled out at a result of the revenge attack by Anonymous against security researchers HBGary with the earlier Gawker password breach sample set.
+
+Hackers affiliated with Anonymous used one of the stolen credentials, and some social engineering trickery, to gain root access a site established by HBGary, rootkit.com. The subsequent release of 81,000 hashed passwords from rootkit.com’s SQL databases has allowed researchers to compare the databaset with the much larger sample of hashed passwords from the earlier Gawker tech blog breach. Both HBGary and rootkit.com were hit by hackers affiliated with Anonymous.
+
+By comparing passwords associated with email addresses registered at both Gawker and rootkit.com, computer scientists at Cambridge have been able to find out whether these users picked the same passwords for both sites.
+
+A total of 522 email addresses were registered at both HBGary and rootkit.com. Eliminating throwaway and dubious addresses whittled the sample down to 456 pairs.
+
+Gawker and rootkit.com use different hashing functions, so a brute force attack had to be used to extract the passwords used in both cases before any comparison could be attempted. This process involved generating a rainbow table of hashes created from a dictionary of 10 million widely used passwords. One rainbow table was created for Gawker, using its hashing algorithm, and another for rootkit.com, using its hashing algorithm. It was them possible to look for hits from the hashed passwords spilled by the breaches and the rainbow tables.
+
+Joseph Bonneau, the Cambridge University researcher who carried out the exercise, found that in many cases the tech-savvy combined users of both Gawker and rootkit.com were using the same weak passwords on both sites.
+
+"Of the 456 common users, 161 had their password cracked in both datasets, 46 only had their rootkit.com password cracked and 77 only had their Gawker password cracked, leaving 172 with neither password cracked," Bonneau writes on the Light Blue Touchpaper blog. "Of the accounts for which passwords were cracked at both sites, 76 per cent used the exact same password. A further 6 per cent used passwords differing by only capitalisation or a small suffix (eg ‘password’ and ‘password1′)."
+
+Taken overall this leads to a password re-use rate of at least 31 per cent. This figure rises to 49 per cent if users of cracked passwords from one site are assumed to have used a minor variant (not in the dictionary) on the other site and if some of the users of untracked passwords also re-used their more secure login credentials between the two sites.
+
+But even with the most conservative estimate of password re-use - 31 per cent - from real world data of the users of the two tech sites is much lower than previously published studies, which suggest somewhere between 12 and 20 per cent. Sampling error of 5 per cent either way doesn't explain the discrepancy, so Bonneau concludes that either password re-use has become more prevalent in the five years since these earlier academic studies were completed or else users were less careful to pick secure passwords for access to rootkit.com and Gawker. Users at both sites, after all, register to post comments in their respective forums rather than to transfer money or access private email correspondence.
+
+"It would also be very interesting to study the password overlap between higher-value accounts, such as those with a large email provider or an online bank, with low-security accounts like Gawker and rootkit.com which are more likely to be compromised," Bonneau concludes. A blog post by Bonneau explaining his password re-use research in greater depth can be found here. ®

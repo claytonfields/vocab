@@ -1,0 +1,57 @@
+One of the details that most surprised me in Scott McClellan’s account of the CIA Leak investigation and aftermath was his description of the White House response to the confirmation–on April 5, 2006–that Libby had testified he had leaked the NIE with the authorization of the President.
+
+Now the fact that he himself had authorized the selective leaking of national security information to reporters made him look hypocritical. [snip] In time, we would learn that the president’s penchant for compartmentalization had played an important role in the declassification story. The only person the president had shared the declassification with personally was Vice President Cheney. Two days after the Fitzgerald disclosure, Cheney’s lawyer told reporters that the president had "declassified the information and authorized and directed the vice president to get it out" but "didn’t get into how it would be done." Then the vice president had directed his top aide, Scooter Libby, to supply the information anonymously to reporters. [my emphasis]
+
+Granted, I was on a business trip in India when this all went down. But this was a detail I missed. "Cheney’s lawyer told reporters"? I was used to Libby’s lawyer prior to the indictment, Joseph Tate, telling reporters all manner of things under the cover of anonymity. Robert Luskin’s anonymous, wild spinning of reporters? Kind of goes without saying. But Cheney’s lawyer, Terry O’Donnell?
+
+But it all made sense when someone pointed me to the one piece of journalism he could find repeating that citation–would you believe it, a Michael Isikoff piece?
+
+A lawyer familiar with the investigation, who asked not to be identified because of the sensitivity of the matter, told NEWSWEEK that the "president declassified the information and authorized and directed the vice president to get it out." But Bush "didn’t get into how it would be done. He was not involved in selecting Scooter Libby or Judy Miller." Bush made the decision to put out the NIE material in late June, when the press was beginning to raise questions about the WMD but before Wilson published his op-ed piece. [my emphasis]
+
+I double checked with McClellen to make sure that’s the public statement he meant, and he said,
+
+Dan Bartlett volunteered to me that the vice president’s lawyer was telling at least some reporters anonymously what I reference on page 295, which is specifically referring to the Newsweek article …
+
+In other words, yes, Cheney’s lawyer was the one spreading that story to–of all people–Michael Isikoff. Now everything began to make sense.
+
+You see, one of the biggest reasons why few TradMed journalists ever got that the whole NIE story was a cover story, designed to explain away Cheney’s order to leak something else–probably Plame’s identity, is because Michael Isikoff spouted a story that, though still totally illogical, explained away some of the inconsistencies in the NIE story. Here’s what Isikoff wrote in Hubris:
+
+In late June, Cheney discussed with Bush the steady stream of negative news about the administration’s prewar use of the Iraq intelligence, according to a lawyer close to the principals. Cheney and Bush agreed that to refute the criticism they ought to divulge portions of the classified National Intelligence Estimate on weapons of mass destruction that had hastily been prepared prior to the congressional vote on the Iraq War resolution. "The president declassified the information and authorized and directed the vice president to get it out," the lawyer said. How that would be done–who should leak the information and to which reporters–was left entirely up to Cheney, the lawyer noted.
+
+I guess, when Isikoff writes "a lawyer close to the principals," what he really means is "a lawyer retained by one of the principals to keep him out of the pokey."
+
+And when you put the two similar citations together with McClellan’s revelation of the secret source behind those citations, it verifies that Terry O’Donnell, Cheney’s lawyer, is also the one who claimed Bush had declassified the NIE in late June, all handily timed to make Libby’s story more (but not yet) consistent. Now, in case you’re wondering, McClellan told me there were no discussions within the White House (that he was part of) regarding when the NIE was declassified.
+
+I know of no such discussions within the White House about when the declassification happened, including any about what could be said about the timing.
+
+And Patrick Fitzgerald, after having interviewed both Dick Cheney and George Bush, stated clearly that,
+
+Your Honor, I will stipulate that the declassification happened. I don’t know when. [snip] As to the timing, no, I don’t have anything that sets the date other than before, my belief is it is before July 8th. Besides saying July 8 it happened by, I can’t move the date into June or July, a specific date.
+
+And even Ted Wells, who somehow magically discovered what Bush and Cheney had said to Fitzgerald in their interviews without Fitzgerald having turned over the interview reports, admitted that Bush and Cheney said the declassification had happened, but not when.
+
+I believe that maybe that the testimony does not tie it down to a particular day, only that it did take place, [snip] [Fitzgerald] is in possession of material from either the president or the vice president to the effect that it was declassified and that they know they did it but they’re not sure of the particular date
+
+So Libby, Cheney, and Bush–the only three guys who are supposed to have known about this declassification–couldn’t place when it happened in their discussions with Patrick Fitzgerald (aside from Libby’s concession that it could have happened on July 7 or "some time at … the end of the previous week," which would make it July 3 or 4 or maybe July 2 but definitely not late June). But at a time when it was becoming increasingly clear that the whole story was collapsing partly because Libby had leaked the NIE to at least two journalists before–all the evidence suggests–whatever got declassified got declassified, all of a sudden Terry O’Donnell developed a great clarity that the declassification had happened in June, and not July.
+
+And Michael Isikoff believed him.
+
+Isikoff not only believed Terry O’Donnell, the guy Cheney was paying to keep him out of jail but who wouldn’t speak on the record, but he also replicated O’Donnell’s feint about Bush not telling Cheney what details to leak, thereby drawing attention away from whether or not Bush knew what Cheney planned to leak. (FWIW, McClellan told me that Dan Bartlett thought making the distinction was important, I’m guessing because Bartlett realized someone like Michael Isikoff could turn it into a head fake that would distract from the logical contradictions and implications of the larger story.) And so, when Isikoff tells about Libby’s leak to Judy Miller, he writes,
+
+Once again, Cheney had given his chief of staff the green light to disclose information from the classified National Intelligence Estimate. [snip] And now he was going to go further with Miller than he had with Woodward in revealing the contents of the NIE.
+
+Isikoff thereby introduces several more pieces of disinformation into the story. There’s a problem with the suggestion that Cheney "again" gave Libby a green light to leak stuff–particularly since the same filing that confirmed Libby had named Bush in the NIE declassification also states that,
+
+Defendant testified that this July 8th meeting was the only time he recalled in his government experience when he disclosed a document to a reporter that was effectively declassified by virtue of the President’s authorization that it be disclosed. Defendant testified that one of the reasons why he met with Miller at a hotel was the fact that he was sharing this information with Miller exclusively. [my emphasis]
+
+There’s no evidence that Libby leaked more from the NIE to Judy than he did to Woodward (indeed, Judy’s own description of what happened suggests the contrary), and Isikoff’s flaccid "go further" certainly doesn’t provide that evidence. But since Isikoff is still working on the feint of the NIE story, that’s what becomes the central thrust of the story, thereby divorcing the leak of Plame’s identity, the leak of the CIA trip report, and the use of the attribution "former Hill staffer" from Cheney’s order to Libby to leak something to Judy (which, when you think about it, is just what Libby perjury and obstruction did).
+
+Now, to be fair to Isikoff, the contradictions in Libby’s NIE story weren’t as obvious in April 2006, when he first served as a mouthpiece for Cheney’s lawyer, or mid 2006 when he was finishing Hubris, as they became after Fitzgerald pointed to the clouds hanging over the Vice President during the trial. Maybe he’s just not good with logic.
+
+But that doesn’t entirely excuse Isikoff’s actions. He had three choices: credit the word of O’Donnell, serving as an anonymous source and providing information that appears to have gone beyond Cheney’s own testimony in the affair; focus on the contradictions in the story that remained after O’Donnell intervened; or at least balance the two and point out how they cannot both be true. Isikoff chose door number one: the word of an anonymous source over logic.
+
+I have long pointed to this difference in Isikoff’s presentation of the CIA leak and mine as a signal difference between TradMed reporters and bloggers. The former often won’t believe something until they can get a human source to confirm it for them, and may, therefore, dismiss fairly credible documentary evidence. And we bloggers admittedly don’t do enough calling of people to get their version of stories–but we do tend to find stuff in documents that TradMed reporters may not. Both approaches have their weaknesses; the two together hopefully provide a fuller picture.
+
+But I always imagined that the source Isikoff relied on here was someone like Harriet Miers–a "lawyer close to the principals," but not someone whose job it was to keep Cheney’s role in this under wraps. Learning that it was, instead, Cheney’s lawyer, changes things. Much of the reluctance of the press–and the pundit class more generally–to examine the evidence against Cheney in this case was due to Isikoff’s willingness to accept the word of Cheney’s lawyer, speaking anonymously, over logic and sworn testimony. Given Isikoff’s emphasis on Armitage in Hubris over the confirmation of Plame’s role in non-proliferation, given Isikoff’s clinging to his sketchy refutation of the 1X2X6 story, and given Isikoff’s helpfulness in passing evidence to Robert Luskin, this shouldn’t surprise me.
+
+But it does, once again, expose how helpful the press was in covering up the leak of Plame’s identity.

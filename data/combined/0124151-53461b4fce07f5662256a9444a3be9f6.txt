@@ -1,0 +1,41 @@
+This ABC News chart seemed to have taken over the top of my Twitter feed so I better comment on it.
+
+Someone at ABC News tried really hard to dress up the numbers. The viz is obviously rigged - Obama at 79% should be double the length of Trump's 40% but not even close!
+
+In the Numbersense book (Chapter 1), I played the role of the Devious Admissions Officer who wants to game the college rankings. Let me play the role of the young-gun dataviz analyst, who has submitted the following chart to the highers-up:
+
+I just found out the boss blew the fuse after seeing my chart. The co-workers wore dirty looks, saying without saying "you broke it, you fix it!"
+
+How do I clean up this mess?
+
+Let me try the eye-shift trick.
+
+The solid colors draw attention to themselves, and longer bars usually indicate higher or better so the quick reader may think that Obama is the worst and Trump is the best at ... well, "Favorability on taking office," as the added title suggests.
+
+Next, let's apply the foot-chop technique. This fits nicely on a stacked bar chart.
+
+I wantonly drop 20% of dissenters from every President's data. Such grade inflation actually makes everyone look better, a win-win-win-win-win-win-win proposition. While the unfavorables for Trump no longer look so menacing, I am still far from happy as, with so much red concentrated at the bottom of the chart, eyes are focused on the unsightly "yuge" red bar, and it is showing Trump with 50% disapproval.
+
+I desperately need the white section of the last bar to trump its red section. It requires the foot-ankle-knee-thigh treatment - the whole leg.
+
+Now, a design issue rears its head. With such an aggressive cut, there would be no red left in any of the other bars.
+
+I could apply two cuts, a less aggressive cut at the top and a more aggressive cut at the bottom.
+
+The Presidents neatly break up into two groups, the top three Democrats, and the bottom four Republicans. It's always convenient to have an excuse for treating some data differently from others.
+
+Then, I notice that the difference between Clinton and GW Bush is immaterial (68% versus 65%), making it awkward to apply different cuts to the two neighbors. No problem, I make three cuts.
+
+The chart is getting better and better! Two, three, why not make it five cuts? I am intent on making the last red section as tiny as possible but I can't chop more off the right side of GHW Bush or Reagan without giving away my secret sauce.
+
+The final step is to stretch each bar to the right length. Mission accomplished.
+
+This chart will surely win me some admiration. Just one lingering issue: Trump's red section is still the longest of the group. It's time for the logo trick. You see, the right ends of the last two bars can be naturally shortened.
+
+The logo did it.
+
+***
+
+Faking charts can take as much effort as making accurate ones.
+
+The ABC News chart encompasses five different scales. For every President, some percentage of dissenters were removed from the chart. The amount of distortion ranges from 15% to 47% of respondents.

@@ -1,0 +1,101 @@
+Imagine if you could see and understand the invisible activity of your brain.
+
+Could you transform how you work? Improve the way you meditate? Find a new way to be creative?
+
+Melon is a headband and mobile app duo that tracks and helps you improve your focus in relation to your activity, your environment, your emotions, and any other behavior you want to track.
+
+A Lifestyle-Inspired Headband.
+
+From the beginning, the Melon headband was built to be worn while engaging in a variety of activities; from working, to studying, playing sports, dancing, practicing an instrument, programming, painting, or doing yoga.
+
+How Does the Melon Sensor Work?
+
+The Melon sensor turns focus into something measurable, understandable, and improvable.
+
+The Melon headband is a wireless brain-sensing device that uses EEG (electroencephalography) to measure your brain activity. From this activity, our algorithms detect your focus, and we use that data to give you personalized feedback on how to improve.
+
+We have partnered with a top producer of EEG signal processing chips to access the best available algorithms for mental state detection. EEG has been used widely in the medical and research fields for over a century, and we're excited to make the technology available to you through Melon.
+
+(Headbands are available in white or black.)
+
+Improve What You Do By Understanding The Things That Affect Your Focus.
+
+Input tags indicating activity, environment, behavior, and more. Wear the headband to monitor focus and learn what affects it.
+
+Melon learns about and displays your focus for you. Get personalized tips (optional) when your focus dips too low.
+
+Each time you use Melon, it learns about what helps and hurts your focus. Insights appear at the ends of sessions and are stored as trends.
+
+Understood Self.
+
+Melon Provides Personalized Insights.
+
+At Melon we are really interested in the idea of Understood Self, which we are trying to add to the movement of Quantified Self. We want people to have a great feedback system for the data we're capturing, so it can help with the activities users already do day-to-day, go beyond numbers and scores, and move towards insights and understanding.
+
+Find Your Focus With Origami.
+
+Play games to challenge yourself and achieve longer periods of focus. Better focus lets you fold origami faster and complete more complex creatures.
+
+The Science Behind Melon.
+
+The brain consists of billions of interconnected neurons. When a single neuron fires, it creates an almost imperceptible amount of electrical charge. During normal waking states, millions of neurons are firing collectively in your brain. The cumulative electrical activity that results can be measured on the forehead as brainwaves. Melon measures this global electrical activity by placing three electrodes on the forehead region, with the primary electrode on FP1. This allows Melon to monitor brainwave activity in the pre-frontal cortex.
+
+Melon is partnered with NeuroSky, the leader in consumer EEG technology. The Melon system benefits from NeuroSky's 9 years of experience with the following: Signal amplification, which makes raw brainwave signals stronger.
+
+which makes raw brainwave signals stronger. Filtering protocols that eliminate known noise frequencies such as muscle movements and pulse.
+
+that eliminate known noise frequencies such as muscle movements and pulse. Notch filters that eliminate electrical noise from the grid, which varies from 50Hz to 60Hz, depending on geographic location.
+
+
+
+
+
+Filter technology remains at the forefront of NeuroSky R&D. The NeuroSky chip, used by Melon, filters out the ambient waves present in most uncontrolled conditions and effectively measures neural activity in virtually any condition with 96% accuracy relative to similarly configured research grade EEGs.
+
+Become A Melon Developer.
+
+Do you have ideas about how to use Melon’s technology in a new and creative way? We are excited to see how the Kickstarter and hacker community at large promotes innovation using the Melon system. The possibilities are endless.
+
+Create your own hardware and software applications using the following:
+
+Software Development Kit
+
+SDK for iOS and Android apps
+
+Access to focus data
+
+Access to raw EEG data
+
+List of algorithms for different mental states (meditation, sleeping states, and more).
+
+Connect to and control other Bluetooth devices
+
+
+
+
+
+Hardware Hacking Documentation
+
+Instructions for hacking into Melon
+
+Create external hardware devices that connect to and work with Melon
+
+Limited Edition Poster Designed By Nicholas Dupey:
+
+
+
+
+
+About Us.
+
+Founders:
+
+The core Melon team includes Arye, Laura, and Janus. We aim to help people understand themselves better through products that are based on human-centered design. Melon is the result of all of our passions and beliefs. We have combined our backgrounds in cognitive science, computer science, measurement devices, electrical engineering, and product design to create Melon. Daily life can be complicated, cluttered, and confusing. We at Melon believe that when people improve their focus, they feel more mindful, confident, and productive in their everyday lives. That's why we are turning to you. We need your help in order to manufacture and deliver our first large-scale run of the Melon headband. And, we are eager to listen to your feedback once you receive your Melon. If you believe in our mission, our dream, or if you just really like us, then please purchase a Melon or donate to this project! We Need Your Help!
+
+We currently have working prototypes of the headband and have begun manufacturing small-scale batches. We're also finalizing the design to make sure it meets the manufacturing and testing standards for a commercial product. The funding from this Kickstarter campaign will allow us to set up the tooling and order the components to complete our first large scale run of the Melon headband and launch the Melon app. Your funds will help us: Order the electronic components for our first production run.
+
+for our first production run. Move from rapid prototyping to designing and producing the tooling for molded parts.
+
+Finish development of the mobile application (iOS and Android) and SDK
+
+Package and ship the Melon to your doorstep! Thank you for supporting Melon. FAQ Will the Melon fit my head? Before we ship your headband we will prompt you to pick a size--Small, Medium or Large--based on your head size. Don’t worry, we will make sure you get a Melon that fits! How many electrodes are in the headband and where are they located? The Melon headband has three electrodes. Our primary electrode is on the forehead region known as FP1, where Melon can monitor brainwave activity from the prefrontal cortex. You've probably seen similar setups in the Zeo sleep headband, and the NeuroSky Mindwave (which has an ear clip).

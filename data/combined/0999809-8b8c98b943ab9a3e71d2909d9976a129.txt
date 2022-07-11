@@ -1,0 +1,25 @@
+Stuart, a 66-year-old man with diabetes, felt lousy—constantly fatigued, nauseated, and short of breath after just the slightest exertion. His daughter, worried by his increasing frailty, took him to the emergency room at the local hospital. Her concern was amply justified: Stuart was suffering from heart failure. Like 5.1 million other Americans each year who suffer from heart failure, he was admitted to the hospital to treat this serious, often life-threatening condition. The caring medical team stabilized his condition, and Stuart left the hospital after 10 days, glad to be home with words of advice and a few medications. Within a month he was back, once again fatigued, and facing a second episode.
+
+Stuart’s story is far from rare. Hospital readmissions for chronic conditions such as diabetes, chronic obstructive pulmonary disease (COPD), and congestive heart failure (CHF) are both common and very costly. Studies conducted in the United States indicate that nearly 20% of Medicare patients who are hospitalized for chronic conditions are often readmitted within 30 days. Experts at Edifecs indicate that it costs Medicare—and US taxpayers—about $26 billion a year, and often a large majority of these readmissions are actually considered avoidable with accurate prioritization and personalized care protocols. Readmission-related costs have become so onerous that the Affordable Care Act includes financial rewards and penalties to deal with the readmission problem. Hospitals that reduce their readmission rates receive financial incentives; those that do not, lose reimbursement and get penalized.
+
+Holistic tools that can reliably predict heart-failure readmissions—taking into account all aspects of each patient’s condition and risk factors—would significantly help patients and hospitals. The growth in the use of electronic patient records has recently offered the potential for such analysis, but little had been done to harness the collective intelligence contained in hospital patient records augmented with other data sources.
+
+By introducing cloud computing technology and applying some of the latest advances in machine learning techniques, researchers are rapidly changing this situation.
+
+One leading example of this is RaaS (Readmission Score as a Service), a platform that was developed by the University of Washington (UW) Tacoma’s Center for Data Science. RaaS compares a patient’s medical information to a database of heart-failure outcomes, using advanced machine learning techniques to arrive at a risk-of-readmission factor as well as corresponding actionable guidelines for the patient-provider team. Those patients identified with a high risk receive additional treatment: the goal is to reduce their likelihood of readmission and produce overall healthier outcomes across all stages of the patient care continuum.
+
+The hundreds of machine learning models of RaaS are developed by using both the R machine learning language, and Microsoft Azure Machine Learning. This chronic care management predictive platform relies on historical patient data from multiple sources. These sources include anonymized electronic medical records, claims, labs, medications, and psycho-social factors, all labeled with observed outcomes that the machine learning models access and share in sync to provide continuous monitoring for personalized patient alerts.
+
+RaaS is available as an on-premises service as well as via the cloud by using Azure Machine Learning web services and the Azure-based Zementis Adapa scoring engine to make predictions for patients. When deployed using Azure Cloud Services, RaaS performs data preparation at scale.
+
+The UW Center for Data Science team began developing initial models in collaboration with MultiCare Health System in March 2012, using just two on-premises servers. The maintenance, frequent updates, and down times of these on-premises servers posed an ongoing problem, and scalability issues limited the scope of the project by affecting the speed of data exploration and machine learning.
+
+About a year and a half ago, the team applied for and was awarded an Azure for Research grant, taking advantage of the Microsoft Research program that offers training and awards of computing resources to qualified institutions that use the cloud to advance scientific discovery. The award enabled the Center for Data Science team to scale up the project and create a robust prediction engine that generates a readmission risk factor score for patients at every stage of their hospital care: post-admission, pre-discharge, and post-discharge.
+
+The RaaS platform at MultiCare Health enables the care management team to view an electronic dashboard that shows heart-failure patients’ risks of readmission. UW Medicine Cardiology is now collaborating with the Center for Data Science team to study the efficacy of predictive models for augmenting care management guidelines by using machine learning.
+
+—Daron Green, Deputy Managing Director, Microsoft Research
+
+—Gregory Wood, MD, UW Medicine Cardiology
+
+Learn more

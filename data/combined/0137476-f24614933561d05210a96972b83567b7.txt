@@ -1,0 +1,21 @@
+MakerBot 3D Scanner
+
+NEW YORK CITY — 3D-printing company MakerBot introduced on Friday its first desktop 3D scanner to go along with its printers, allowing you to scan objects that can then be replicated and printed in 3D.
+
+Called the Digitizer, the $1,400 scanner creates 3D digital design files that are ready to print in 12 minutes. This means, for example, if you have a small figurine of a gnome or a shell you want replicated, the scanner will create the file the 3D printer will use to crank out a model.
+
+SEE ALSO: This Gadget Turns Your iPad Into a Powerful 3D Scanner
+
+"I've seen 3D scanners priced from thousands of dollars to hundreds of thousands and each one was focused on something specific; for example, boat scanners are used to scan hulls of boats," Bre Pettis, CEO of MakerBot, said at the Digitizer's launch event at the company's headquarters in Brooklyn, New York. "We wanted something you could scan and make on a MakerBot replicator. When I realized there wasn't anything out there for our users, we started the internal project to see if it was even possible."
+
+Here's how it works: The Digitizer takes consecutive pictures of the object as it slowly spins on what looks like a turntable. The accompanying software — compatible for Macs, PCs and Linux — processes the scanned image to interpret it as an object. You'll need to follow a few steps every time you want to scan something, such as selecting if the shading of an object is light or dark.
+
+Once the scanning begins, a rendering will slowly appear on the computer screen. The scanner filters out the extra color, so it only sees the lines.
+
+It can fit objects that measure up to 8 x 8 inches. It can scan items accurately down to a size of 2 x 2 inches, but it loses some precision when it's smaller than that.
+
+The Digitizer, which will ship in early October, is intended not only for the companies already using MakerBot's printers (such as NASA and General Electric) — it's aimed at the average consumer, too.
+
+Would you buy a Digitizer? Let us know in the comments.
+
+Images: Mashable

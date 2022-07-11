@@ -1,0 +1,13 @@
+QEMU is Conservancy's Newest Member Project
+
+Today, Software Freedom Conservancy proudly welcomes QEMU, the generic machine emulator and virtualizer, as a member project. QEMU is now one of many free and open source software projects who call Conservancy their non-profit corporate home.
+
+Conservancy is a non-profit public charity that provides a range of financial and administrative services to member projects that develop Free, Libre, and Open Source Software (FLOSS). Conservancy's assistance allows software developers and documenters to enjoy the benefits of nonprofit incorporation and expertise without having to independently undertake all of the effort to do it on their own. Joining Conservancy allows projects to collect donations, hold assets, and provide some liability protection for their lead developers' project-related activities. Software Freedom Conservancy, Inc. is a tax-exempt 501(c)(3) organization, incorporated in New York State.
+
+"QEMU is proud to join Conservancy alongside so many other respected open source projects," said Stefan Hajnoczi, QEMU subsystem maintainer and contributor to QEMU since 2010. "A non-profit home gives the project access to services that established open source projects need. This step adds a sustainable structure which will allow QEMU to continue growing into the future."
+
+Bradley M. Kuhn, Conservancy's President and Distinguished Technologist, commented "QEMU is an essential piece of operating system infrastructure, as well as the testing ground for virtualization code. Many of the most famous Free Software projects, including Linux and OpenStack, would not be where they are today without the tireless and detailed virtualization work done by the QEMU developers. I am delighted for QEMU to join Conservancy, so that Conservancy can assist the QEMU developers to continue their excellent work in the public good."
+
+About QEMU
+
+QEMU is a generic and open source machine emulator and virtualizer. When used as a machine emulator, QEMU can run OSes and programs made for one machine (e.g. an ARM board) on a different machine (e.g. your own PC). By using dynamic translation, it achieves very good performance. When used as a virtualizer, QEMU achieves near native performances by executing the guest code directly on the host CPU. QEMU supports virtualization when executing under the Xen hypervisor or using the KVM kernel module in Linux. When using KVM, QEMU can virtualize x86, server and embedded PowerPC, and S390 guests.

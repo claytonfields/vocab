@@ -1,0 +1,29 @@
+The military has high-tech equipment to track sniper fire, using microphones carried by soldiers or stationary mics mounted at strategic points. Now that technology is getting shrunk so it can be used in the hands of civilian bodyguards with Android phones.
+
+A team of computer engineers from Vanderbilt University, led by Akos Ledeczi, has developed an inexpensive piece of hardware and related software to turn an Android smartphone into a sniper finder. The Vanderbilt team described the new system at the 12th Association for Computing Machinery/IEEE Conference on Information Processing in Sensor Networks in Philadelphia earlier this month.
+
+NEWS: ‘Smart’ Armor Learns More With Every Bullet
+
+They built a sensor module that is about the size of a deck of cards. When a shot is fired, the sensor picks up the sounds and logs the exact time. The sensor then sends the data to a smartphone via a Bluetooth connection. If any other smartphones in the local wireless network have similar modules, the location of the gunshot can be pinpointed by the timing of the sounds’ arrival. It’s a similar idea to the ShotSpotter, a system used in Seattle to track locations of shooting incidents.
+
+There are two versions of the system. One uses a single microphone per module, but requires at least six separate phones to accurately calculate the location of the shooter. The second setup has four microphones in each (slightly larger) sensor module, but needs only two separate phones to locate the sniper.
+
+The sensors make use of a distinctive feature of gunshots: they produce two bangs. One is from the muzzle of the gun, as the gases propelling the bullet expand and create a shock wave. That sound wave goes out in all directions, and it is shaped like a sphere.
+
+Bullets make a second sound. As they are usually moving at supersonic speeds, it is a small sonic boom. The sound wave is conical, with the bullet at the point of the cone.
+
+Timing when the two sounds arrive at the microphone can give a good idea of where the shot came from, and when that data is taken from separate locations, it allows for triangulating the sniper’s position.
+
+Using the sonic boom form the bullet allows the microphones to “hear” the shots over longer ranges. Janos Sallai, a research scientist on Ledeczi’s team, told Discovery News that at larger distances, the spherical wave from the muzzle is distorted by obstacles on the ground. That’s one reason people have a difficult time figuring out where sounds like gunshots are coming from.
+
+ANALYSIS: How the Falling Meteor Packed a Sonic Punch
+
+The microphones in a phone, he added, wouldn’t work. “Originally we were thinking of the phone mic, but the sampling rate wasn’t enough,” he said.
+
+In addition, the noise cancellation that most phone makers build into them so that you can have a conversation in a crowded restaurant or outside, gets in the way.
+
+Civilian bodyguards could use these sensors to protect dignitaries, with each member of a team equipped with a sensor module. If a shot were fired, the guards could track where it came from and help local police track down the shooter. Sallai added that the Secret Service has shown a lot of interest in this system and has even called for proposals.
+
+Photo via iStockphoto, DeanMillar
+
+This article originally published at Discovery News here

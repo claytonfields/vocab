@@ -1,0 +1,52 @@
+Mar 6, 2017 | By Benedict
+
+Researchers at the U.S. Army Armament Research, Development and Engineering Center have test fired a 3D printed grenade launcher called RAMBO (Rapid Additively Manufactured Ballistics Ordnance).
+
+Donald Trump’s first budget as President of the U.S.A. will propose a huge hike in defense spending. If the President gets his way, an extra $54 billion will be pumped into the military, with foreign aid likely to be the biggest casualty. Arts funding will also be cut significantly, though there was a brief period when it appeared that might not be the case…
+
+Around Christmas time, Trump reportedly asked Sylvester Stallone, the actor who played the headband-wearing war hero Rambo, if he would consider taking a senior arts role in his administration. Stallone declined, perhaps causing a few extra million being to be siphoned from the arts budget to the military.
+
+But the president’s commitment to defense spending may yet procure his government, along with its inflated department of defense, a new kind of Rambo—not an Italian-American war veteran, but a 3D printed grenade launcher.
+
+Long before the budget was announced, researchers at the U.S. Army Armament Research, Development and Engineering Center were busy developing a new 3D printed weapon called RAMBO, which stands for Rapid Additively Manufactured Ballistics Ordnance. Now, the 3D printed grenade launcher has been successfully tested, paving the way for a new era of 3D printed weaponry.
+
+The 3D printed grenade launcher was developed in collaboration with the U.S. Army Manufacturing Technology Program and America Makes, the national accelerator for additive manufacturing, and was made using direct metal laser sintering (DMLS) 3D printing technology.
+
+Unusually for a 3D printed weapon, the RAMBO grenade launcher was almost entirely 3D printed. Every part of the M203A1 grenade launcher besides its springs and fasteners was produced using a 3D printer.
+
+The purpose of the 3D printing research was to determine whether weapons and munitions could be made using additive manufacturing processes—not to see if 3D printing could be used to save money or resources (it looks like that won’t be much of a concern…), but to see if 3D printed weapons will effectively fire.
+
+Although the aluminum receiver and barrel of the 3D printed RAMBO grenade launcher required some machining and tumbling after being printed, the entire manufacturing process was still much faster than traditional methods. This speed could allow the military to supply soldiers with modifications and fixes for their weapons in just hours or days.
+
+The barrel and receiver of the RAMBO grenade launchers took about 70 hours to 3D print, with a further five hours needed for machining. The post-processing stage involved the barrel being tumbled in an abrasive rock bath, and both parts undergoing Type III hard-coat anodizing—a process that traditionally made parts are also subjected to.
+
+The researchers say that the powdered metal used to 3D print the RAMBO grenade launcher costs around $100 per pound. But with no scrap material wasted and no staff required to man the 3D printer, the money and labor saved with the process is significant, even if cost-cutting remains a lower priority than ensuring high functionality.
+
+In addition to 3D printing the grenade launcher, the researchers also attempted to 3D print a munition, a M781 40 mm training round. 3D printing was used to create the windshield, projectile body, and cartridge case, with selective laser sintering (SLS) and other processes used to print the glass-filled nylon cartridge cases and windshields.
+
+Both the 3D printed grenade launchers and munitions were remotely fired, for safety reasons. 15 test shots were fired with no sign of degradation: the grenade launcher did not show any signs of wear on the barrel, and the rounds achieved velocities of within 5% of those achieved with production-grade M781 rounds shot from a production-grade grenade launcher.
+
+Although not part of their plan, the researchers ended up demonstrating just how useful 3D printing can be for rapidly amending a design. During testing, some cartridge cases of the 3D printed munitions were cracking, so the design was quickly modified and re-printed.
+
+The RAMBO grenade launcher and 3D printed munitions were first seen at the 2016 Defense Manufacturing Conference. Although 3D printed weaponry is unlikely to find its way into soldiers’ hands in the immediate future, the successful testing of the creations shows great promise for defense-focused additive manufacturing.
+
+Rumors of a fifth Rambo movie, tentatively titled Last Blood, have been rife since 2008.
+
+Images & Source: U.S. Army For Life
+
+Posted in 3D Printing Application
+
+Maybe you also like:
+
+
+
+
+
+
+
+
+
+Sunny Burns wrote at 3/7/2017 4:14:54 PM:The 2-minute video for this project can be viewed here: https://www.youtube.com/watch?v=1ajfVX_7CrU&t=54s
+
+
+

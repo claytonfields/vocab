@@ -1,0 +1,11 @@
+That is not the way Microsoft views things. Microsoft always assumes they can force everybody to use their latest OS release regardless of what users actually want and regardless of what the statistics say. Microsoft would love to hack themselves off from 98% of the market on the off chance a few users might switch to their products. I honestly could see Microsoft paying top dollar for Unity and then gutting the massive multi-platform advantage that Unity has.
+
+
+
+Microsoft would not do it directly. They will do it in slow, subtle ways through a bunch of different seemingly trivial incompatibilities and dependencies. But eventually, Unity development will require the absolute latest version of Windows plus the absolute latest Microsoft development tools and we will no longer be able to fully target other platforms when building games. We'll all have to install Visual Studio Pro plus SQL Server. Even though nobody would need SQL Server, Microsoft will make some other piece of the software puzzle require SQL Server because that is Microsoft's constant pattern in the IT industry. Microsoft makes sure everything requires more Microsoft software in order to work. Eventually, Unity would require thousands of dollars worth of Microsoft software and require several hours of additional software installs on the latest Microsoft OS in order to work.
+
+
+
+Ask anybody in the IT industry about how Microsoft operates and you will get a clear picture of what Microsoft would likely do with Unity if given the chance.
+
+Click to expand...

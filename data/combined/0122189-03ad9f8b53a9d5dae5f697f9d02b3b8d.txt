@@ -1,0 +1,41 @@
+Snowden confirms Australian agencies involved in NSA global spying
+
+By Peter Symonds
+
+10 July 2013
+
+A classified National Security Agency (NSA) map leaked by whistleblower Edward Snowden confirms that four Australian intelligence facilities are directly involved in the NSA’s electronic spying operations in the United States and around the world.
+
+The map published by American journalist Glenn Greenwald in collaboration with the Brazilian newspaper O Globo has revealed the locations of dozens of facilities in the US and its close allies that are involved in systematically intercepting and storing huge amounts of telecommunications and Internet data.
+
+The four Australian sites are the US Australian Joint Defence Facility at Pine Gap near Alice Springs, and three Australian Defence Signals Directorate (DSD) facilities—the Shoal Bay Receiving Station near Darwin, the Australian Defence Satellite Communications Station at Geraldton in Western Australia, and the naval communications station HMAS Harman outside Canberra.
+
+These sites, along with others on every continent, contribute data to an NSA program code-named X-Keyscore, which collects electronic data, separates it into streams of phone numbers, email addresses, log-ins and user activity for storage in massive data banks. The Government Security Communications Bureau facility at Waihopai in New Zealand is also part of the NSA collection system.
+
+An article in the Age on Monday by Philip Dorling, a journalist with knowledge of Australian intelligence, explained that the X-Keyscore data is “shunted off to various ‘production lines’ that deal with specific issues and the exploitation of different data types for analysis—variously code-named Nucleon (voice), Pinwale (video), Mainway (call records) and Marina (internet records).”
+
+The fact that Australian facilities have closely collaborated with the US in electronic spying is not new. New Zealand and Australia are part of the US-led “Five Eyes” intelligence alliance, formed in the late 1940s to monitor electronic communications internationally. Sometime later, the five countries ran a joint program known as Echelon, to intercept, store and analyse satellite, microwave and trunk-line communications.
+
+The vast expansion of the Internet in the 1990s, however, raised the need for sophisticated new methods to plug into the fibre-optic cables carrying the data. The NSA map demonstrates for the first time that Australian facilities are intimately involved in this process. Moreover, as part of the “Five Eyes” network, Australian intelligence agencies have high-level access to the NSA data, including on Australian citizens.
+
+An interview with Snowden published by the German magazine Der Spiegel on Monday raises further questions about the data-gathering activities of Australian intelligence agencies.
+
+Snowden explained: “In some cases, the so-called Five-Eye partners go beyond what the NSA itself does. For instance, the UK’s General Communications Headquarters (GCHQ) has a system called TEMPORA. TEMPORA is the signals intelligence community’s first ‘full-take’ Internet buffer that doesn’t care about content type and pays only marginal attention to the Human Rights Act... ‘Full take’ means it doesn’t miss anything, and ingests the entirety of each circuit’s capacity.”
+
+At this stage, the GCHQ system only has the ability to store the entire Internet content in and passing through Britain for three days. However, as Snowden explained, an intelligence analyst can “task” a particular individual or computer, ensuring that their data streams are “stored forever and ever, regardless of policy, because you can always get a waiver.”
+
+Snowden bluntly summed up what happens after the NSA targets an individual. “They’re just owned,” he said. “It’s up to the analyst to do whatever they want at that point—the target’s machine doesn’t belong to them anymore, it belongs to the US government.”
+
+Snowden did not refer directly to the operations of Australian intelligence agencies, but the obvious question is whether similar systems exist or are under construction in Australia. The Age recently reported that a large new state-of-the-art data storage facility is currently under construction for the Defence Signals Directorate at HMAS Harman, for undisclosed purposes.
+
+Government ministers have flatly refused to answer questions about the involvement of Australian intelligence agencies in the NSA programs. The Australian reported that a spokesman for Prime Minister Kevin Rudd refused to comment on the leaked NSA map, repeating the standard line that the government did not comment on intelligence matters.
+
+Late last month, Foreign Minister Bob Carr made the same response to a question in parliament by independent Senator Nick Xenophon, who asked whether the emails, log-ons and Internet data of parliamentarians were exempt from the NSA spying programs. Carr declared that the DSD and other agencies required specific ministerial authorisation under the Intelligence Services Act to spy on Australian citizens. But he failed to answer the question.
+
+The NSA’s programs are designed to gather up and store vast amounts of Internet data, in this case from Australia, or passing through Australia, whether the individuals are citizens of Australia or other countries. As far as the NSA is concerned, there are no restrictions at all on spying on foreign citizens.
+
+The Labor government and Australian intelligence agencies are deeply involved in this vast surveillance operation. The DSD, Australian Security Intelligence Organisation (the domestic spy agency) and other agencies undoubtedly use their access to NSA data bases to obtain, with or without ministerial authorisation, intelligence on a range of individuals, including Australian citizens.
+
+The Australian political establishment as a whole and the media, with few exceptions, have been silent on Snowden’s revelations and their implications. But there are real fears in intelligence and political circles that they could compromise operations both at home and throughout the region.
+
+Attorney General Mark Dreyfus last month confirmed an interagency task force had been formed to monitor the situation and co-ordinate the government’s response. Reuters reported that the Australian Security Intelligence Organisation and the DSD had briefed the parliamentary intelligence committee “about the security breach and its potential to embarrass Australia’s relations with neighbouring Asian countries.”

@@ -1,0 +1,67 @@
+The balance of creating a collaborative environment without constantly interrupting each other is not an easy one. Whether you are working with a distributed team or are in the same environment, context-switching is a major productivity hog. Here are a few ideas for how to take the friction out of that process.
+
+Shared discussions to create an institutional memory
+
+Whether you see a new interaction, upcoming conference or just want to share the latest resource you've come across with the rest of your team, here are some fantastic options to get you going.
+
+Slack
+
+Transparency and promoting a unified culture
+
+Creates a shared forum to communicate with teams, instead of relying on email, IM or Skype that are 1:1 mediums
+
+Organize communication channels to stay on topic
+
+Search conversations and add files to reference later on
+
+Integrates with existing tools like Google Apps and Dropbox so you can create a shared repository across other services
+
+iOS/Android apps to optimize the experience across the devices
+
+Basecamp
+
+Think outside the project management box
+
+Formerly 37signals, their flagship product Basecamp is one of the most versatile project management tools there is. One thing to keep in mind is that it's not just collaboration between teams and clients, you can use it internally to communicate as well. Since it allows you to create discussions, post files and organize to-dos, it can be used beyond its original intention of project management and instead, utilized to share and comment on whatever problems you want to tackle as a team.
+
+Saving and sharing information
+
+Pocket/IFTTT
+
+What channels do you use to find and save articles to read later? This IFTTT recipe is one of the most helpful integrations on the site. If you're constantly browsing Twitter, you can make sure that you have takeaways from your daily binge sessions. Every time you favorite a tweet, the link in that tweet can be saved to Pocket to read later. Rather than painstakingly clicking through and saving and organizing all of that information, let another service take care of that for you.
+
+Tlk.io
+
+Create a simple web chat to share thoughts or use as a virtual water cooler
+
+Integrate logins with Twitter
+
+Saves history to scroll up and look back on to clarify thoughts
+
+Link: Tlk.io
+
+Illustrate interactions with CSS (instead of pencil and paper)
+
+Here's a lightweight alternative to test and share simple or complex interactions with a design team:
+
+Codepen (collab mode)
+
+Codepen.io has a collab mode option in their pro version. This is basically real-time pair programming so you can simultaneously sync up your work with others to flesh out ideas faster. It also has a comment/chat feature so you can seamlessly work in the editor and bounce interactions off of each other.
+
+Use what you know
+
+Wordpress works remotely and utilizes Skype chats, IRC chatrooms, and most notably discussions on their Wordpress P2 blogs. Teams at Automattic are using their own software to communicate and this a) allows them to use what they know and gain a better understanding of it from the user-side and b) creates ongoing public discussions that anyone in the company can read and chime in on. This allows for feedback without being disruptive and forces a shared dialogue rather than only getting one or two perspectives before making decisions on something like how to prioritize a product feature.
+
+It also creates a challenge, because even though all of this information is available for the team, there's not a concrete way to make sure that everyone involved is keeping up to date on the decision-making. A lack of feedback could mean disagreement, apathy or it could just mean that others aren't reading and responding. The fact that all of these discussions happen in the open really allow everyone on the team to get involved in high level discussions, as long as they are taking advantage of it.
+
+Team Meetings
+
+via Try this: Design Beachball on Medium
+
+The key to success here is to create an open and comfortable environment for people to fearlessly share their opinions. If done right, the format should level the playing field and give everybody an opportunity to speak freely. It also, in turn, challenges your team to explore ideas analytically, turn loose thoughts into well-articulated statements, and get better acquainted with each other’s unique perspectives. Fundamentally, this makes better designers out of everyone on the team, and makes your team that much stronger as a unit. — Verne Ho
+
+Meetings as a team outside of individual projects is one of the most underestimated practices. Not only does it allow for a continued model of sharing but it provides a spark and outlet to talk about design practices as a whole, rather than just in the context of an assignment. Team meetings are a place to test out ideas, improve process, identify pain points and share what you know with like-minded people.
+
+Embrace the unknown and capitalize on skillsets
+
+The need for this ongoing sharing and collaboration is immense. Never once have I been able to follow a checklist and mark off boxes when tasks are complete and felt "done" at the end of that kind of exercise. I have a feeling that that is a common sentiment among design teams, Trent Walton sums-up:

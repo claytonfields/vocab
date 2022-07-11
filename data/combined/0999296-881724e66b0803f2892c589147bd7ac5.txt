@@ -1,0 +1,43 @@
+After a Palestinian researcher was denied a bug bounty by Facebook, Marc Maiffret, CTO of BeyondTrust, kicked off a crowd-sourced fund yesterday to come up with a reward.
+
+The researcher, Khalil Shreateh, expressed his gratitude today to Maiffret and others who have contributed to the fund. “Thank you so much. I never imagined what they will do for me,” Shreateh said in a telephone interview.
+
+Seventy-nine people have contributed nearly $9,000 in the last 24 hours to an account that will be handed over to Shreateh once it reaches the goal of $10,000.
+
+Maiffret seeded the fund with $3,000 of his own money after appearing on CNN to talk about the Facebook vulnerability that Shreateh found.
+
+Earlier this month Shreateh reported a vulnerability to Facebook’s bug bounty program, saying that he had found a way to post content to any user’s timeline, even when not on a victim’s friends list. Facebook rebuffed him in return emails and ultimately claimed his discovery wasn’t a bug.
+
+Frustrated, Shreateh took matters into his own hands and planted a message on CEO Mark Zuckerberg’s Facebook timeline.
+
+That got the attention of Facebook’s security engineers, who quickly locked Shreateh out of his account. After restoring his access, Facebook said it would not pay him a bounty.
+
+“The more important issue here is with how the bug was demonstrated using the accounts of real people without their permission,” said Facebook software engineer Matt Jones in a Sunday entry on Hacker News. “Exploiting bugs to impact real users is not acceptable behavior for a white hat.”
+
+Jones did acknowledge that Facebook should have asked Shreateh for more information before dismissing his report, but he also ticked off a list of reasons, including the fact that Facebook receives “hundreds of reports each day” and the lack of detailed proof in Shreateh’s original report. He also intimated that Shreateh’s poor English skills had been a problem.
+
+In an interview on CNN Monday, Maiffret took exception to Facebook’s decision not to reward Shreateh.
+
+“Ultimately, he helped kill a bug that could have been used by pretty bad guys out there to do things against Facebook users,” said Maiffret. “Ultimately, he did a great thing and I don’t think that should be lost in all this.”
+
+The vulnerability was certainly worth money to criminals, Maiffret asserted. “It would have been something that was very useful to folks in the underground to be able to post different content on celebrity sites or whatever it might have been, to be able to lure people to websites that would then attack them,” he said. “With the nature of the severity, it would be good for Facebook to pay the guy.”
+
+During the interview, Maiffret also said he would pay Shreateh himself if Facebook would not. “If Mark Zuckerberg doesn’t have the $2,000 to set this guy on the right path, if he contacts me I’d be happy to do it personally,” Maiffret said.
+
+Zuckerberg has the $2,000: In July, the CEO’s net worth was estimated by Forbes at $16.1 billion, or nearly $3 billion more than in March.
+
+Within minutes of Maiffret’s move to fund a bounty, others began to pitch money into the pot. Firas Bushnaq, who co-founded eEye Digital Security with Maiffret in 1998, also contributed $3,000.
+
+“This was a one-off in the sense that I just wanted to do something cool for the guy,” said Maiffret in an interview today. “I want to inspire the technology companies to pay attention [to researchers] a little bit more, and for researchers to do their part, too. It was much more for an awareness thing for me.”
+
+Maiffret, a high-school drop-out and self-proclaimed hacker when he was younger, is one of the country’s best-known security researchers, having founded eEye when he was a teenager. Among his notable finds was the notorious “Code Red” worm that plagued Microsoft’s IIS Server in mid-2001.
+
+“Before the [CNN] interview, I was watching television, and it had all the news about Egypt,” said Maiffret today. “It felt weird, that we were going to talk about something so small in a way, and I wondered what I could do to make it better. The point is, even with an old broken laptop and the Internet you can teach yourself and take the right path.”
+
+Today Shreateh expressed his gratitude. “I appreciate it, and my best wishes to everyone out there,” said Shreateh.
+
+Shreateh, who lists himself as unemployed on his Facebook page, said he has received job offers in the security business, but has not yet accepted one.
+
+When asked what he might do with the $10,000, Shreateh said, “It’s not in my pocket yet.”
+
+Maiffret intends it will soon be.

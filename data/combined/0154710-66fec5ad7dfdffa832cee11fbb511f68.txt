@@ -1,0 +1,67 @@
+Several times a year I will get a call or email from a hiring manager telling me that an interview never really ‘went anywhere’ because the candidate seemed either unwilling or unable to dive very deep into technical topics. It can be impossible for an interviewer to accurately gauge whether the cause was a lack of tech skills or just an inability to communicate those skills, but it really makes no difference as the end result is a rejection. This observation is probably a bit more prevalent during phone screens, where the parties do not have the advantage of proximity and body language to assist.
+
+Whenever I hear feedback like this from clients, I imagine what the interview may have sounded like:
+
+INTERVIEWER: Have you worked with Ruby on Rails before?
+
+CANDIDATE: Yes, I have.
+
+INTERVIEWER: Could you elaborate on that a little bit?
+
+CANDIDATE: Yes, I could.
+
+INTERVIEWER: (VISIBLY ANNOYED)
+
+
+
+It brings to mind the old joke (which of course reinforces gender and programmer stereotypes):
+
+A wife asks her computer programmer husband, “Go to the store and get a gallon of milk, and if they have eggs get a dozen.” A short time later the programmer returns with twelve gallons of milk. She asks, “Why did you get twelve gallons of milk?” and he responds, “They had eggs.”
+
+In the short two question interview scenario above, the candidate is answering the questions being asked, and the candidate is providing all the information that was being requested. If you look at the questions in a literal manner (as many engineers tend to do), this candidate may not feel he/she is being dodgy at all. Just as the programmer in the joke did what his wife asked (by his literal interpretation).
+
+Let’s now look at a brief example of a police interrogation:
+
+INTERROGATOR: Where were you on the night of the 8th?
+
+SUSPECT: At home.
+
+INTERROGATOR: Were you by yourself?
+
+SUSPECT: No
+
+INTERROGATOR: Who was with you?
+
+SUSPECT: My husband.
+
+INTERROGATOR: WHO WAS WITH YOU??!!
+
+SUSPECT: My lover! (CUE SCARY MUSIC)
+
+These answers provide the minimum amount of information the interrogator requested, and a lawyer will probably advise you to keep your answers short and precise during questioning. The interrogator’s job is to get a suspect to say something that he/she does not want to reveal.
+
+A job interview is not an interrogation, and it is important for candidates to be sure they are not treating it as such.
+
+Keep in mind that interviews, particularly in technology settings, can be awkward situations for participants on both sides of the table. Most interviewers are at least slightly uncomfortable being placed in a room with a complete stranger for the sole purpose of judging him/her in order to reach some conclusion about whether he/she should be hired, a decision which could greatly impact the life of at least one party (the candidate) or even both parties (if the hire is made). If an interviewer gives even a small consideration that this stranger may have a family that depends on the income that the job would provide, the potential for an awkward exchange is even more likely.
+
+Most interviewers want to get a dialogue flowing, where the discussion will allow them to evaluate your technical and interpersonal skills. They want to control and moderate the conversation, but they would like to listen more than they speak. The candidate’s ability to communicate his/her thoughts will be apparent after a few questions. At some point most interviewers have to ask themselves, “Would I want to work next to this person every day for several years?” If the candidate answered their questions in a fashion resembling the Candidate or the Suspect in the samples above, the answer is always “No”.
+
+Some candidates may argue that they have answered the questions as asked, and that if the interviewer wanted more details he/she should have inquired for them specifically (“Tell me about Ruby on Rails experience.”). This is a valid observation, but it doesn’t solve the problem. It’s purely a function of conversational English, and it is one reason that chatbots with artificial intelligence may give answers like our Candidate did in the example.
+
+So, I’ll just keep talking and talking to solve the problem? NOPE. There is also the possibility that if a candidate answers every question with a long-winded response, he/she may be rejected for not being able to provide succinct answers. Managers are often unwilling to hire someone who they feel is unable to express themselves efficiently, and in the case of software engineers you may hear, “Being that chatty, I can’t imagine what his/her code (comments) looks like!‘
+
+How do I appear to be open, honest, and transparent without sounding chatty? How do you avoid being labeled as unable or unwilling to answer interview questions?
+
+Don’t take every question literally – Remember that a good interviewer is trying to engage you in a dialogue and an exchange of ideas.
+
+– Remember that a good interviewer is trying to engage you in a dialogue and an exchange of ideas. Pause before answering – Some candidates seem programmed to immediately start talking after a question is asked, and then find that they haven’t really answered the question. Taking a moment to reflect on the question and to organize your thoughts gives the appearance that you are making an effort to supply a strong answer and that you are not impulsive. A little white space does not have to be an uncomfortable silence.
+
+– Some candidates seem programmed to immediately start talking after a question is asked, and then find that they haven’t really answered the question. Taking a moment to reflect on the question and to organize your thoughts gives the appearance that you are making an effort to supply a strong answer and that you are not impulsive. A little white space does not have to be an uncomfortable silence. Pause after answering – If the interviewer does not respond with a follow-up after a few seconds, he/she may be waiting for you to go deeper. Ask if he/she is satisfied with your answer and offer to continue with more information if necessary. “Would you like some more details on that?“
+
+– If the interviewer does not respond with a follow-up after a few seconds, he/she may be waiting for you to go deeper. Ask if he/she is satisfied with your answer and offer to continue with more information if necessary. “Would you like some more details on that?“ Ask questions to clarify what type of answer is expected – If you are asked a question where there could be both an acceptable short answer (yes/no) or a longer answer (details), give the short response and offer the interviewer more. “Yes, I have used Ruby on Rails. Would you like me to discuss my experience further?“
+
+– If you are asked a question where there could be both an acceptable short answer (yes/no) or a longer answer (details), give the short response and offer the interviewer more. “Yes, I have used Ruby on Rails. Would you like me to discuss my experience further?“ At the end of the interview, ask the interviewer if they have any other questions that will help them make their decision. Invite them to contact you in the coming days if any additional information is required or if they would like any clarification on the answers you provided.
+
+Go into the interview with the goal of having a conversation which should put the interviewer at ease. Be willing to follow the interviewer into any direction the discussion may take, and ask questions so you know that you are on the same page.
+
+If you found this post useful, you may find my ebook Job Tips For GEEKS: The Job Search even more helpful. You can follow Job Tips For Geeks on Facebook, Twitter, or Google+.

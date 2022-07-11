@@ -1,0 +1,51 @@
+Elliot: I worked with some of the best programmers I’ve ever known at the tiny, obscure ASEE
+
+Adam Solove: Why do you think that happened? They hired for passion, rather than experience?
+
+If I had to pick one thing, passion would likely be it but really it is a complex assortment of things. Passion for the right things, based on what we aimed to be, mattered a great deal. That took the form of being passionate about the user experience, being passionate about good software development practices, being passionate about good software itself, being passionate about treating each other with respect, being passionate about learning and improving.
+
+I think there were several other important factors, such as: the skill to turn a passion for good software into actual good software. This required intelligence, interest and knowledge about software development but didn’t require specific experience (computer science degree, 2 years of Ruby on Rails development, certification or any such thing). Hiring based on experience is a big mistake. In my opinion hiring based on capability and potential (which is based partially on experience) is wise.
+
+Another factor is that we had people (those first few hires were critical) that were really knowledgable about programing good software and that became a self reinforcing process. The gaps one person’s ability and knowledge could be filled by someone else helping them understand and get better.
+
+The expectation was that we found great solutions. If we didn’t we kept looking and asked each other for help (another factor in creating a great team). We didn’t just accept that we were confident the solution wasn’t very good but couldn’t find any better options so I guess this is the best we can do.
+
+We were interested enough in good results that we would push for better options instead of just accepting something that was kind of ok. This shouldn’t be such a big deal; but in practice it is huge. So many places just end up avoiding conflict to the extent that it is a huge detriment to results.
+
+Without confidence, honest debate about ideas is suppressed as people are constantly taking things personally instead of trying to find the best ideas (and if doing so means my idea is criticized that is ok). Our group was great at this. It is something I find it a bit silly to say a workplace was “great” at but in most places I find the fear of someone being concerned stifles discussion to an unbelievable extent.
+
+This is also one of many areas where the culture within the team was self reinforcing. As new people came on they understood this practice. They saw it in practice. They could see it was about finding good ideas and if their idea was attacked they didn’t take it nearly as personally as most people do in most places. I sought to understand if people we looked at hiring would be comfortable in such an environment.
+
+
+
+The focus on great user experience and good software was also self reinforcing. As new people saw that this was expected they increased there focus on these areas. I think most decent software developers have this instinct, but the culture of many organization often drives it out, or at least pushing it down below other priorities like pushing out features, meeting artificial deadlines, complying with requests from people that don’t have enough knowledge to make the right decisions, etc..
+
+Lots of other factors played a role. We didn’t have people scared of hiring other good people (even people that might be significantly better than those doing the hiring in many ways). Again it is silly this is a factor but seems to be in many places to a much higher degree than it seems like it should be.
+
+We also didn’t have people trying to get ahead at the expense of others. This is another thing that is fairly sad it is a big deal, but it is. In so many places the culture pits people against each other instead of allowing them to support each other (either out of fear for being blamed and maybe fired or competing to get an incentive – which most often means you need to emphasis the difference between what you accomplish and what others do). This factor is partially about the ethics of individuals and partially about the pressures the system puts on people to behave in certain ways.
+
+So we had passion, we had ability, we had opportunity (the software development system we developed allowed doing so), we delivered good software (so those that relied on us were willing to let us have more freedom to care about things crazy technology people care about but they may not have seen any need for) and we kept striving to improve (linked back to the passion we felt). That is a good place to be.
+
+I think all of that was heavily influenced by the people we had in place in two ways. First, in hiring and second in bringing out the best in the people working with us.
+
+I don’t know if I would have taken the job without Sean. He impressed me with a better understanding of management improvement ideas than the vast majority of people where that is their primary job. And I could see the passion for software development and knowledge in programming was far beyond my abilities. Working with him was a big part of what attracted me to the job. I went back to talk to ASEE again after I was offered a job to see if I wanted to work there (it was a close call, I am reluctant to change jobs).
+
+I believe when we interviewed for new developers having people like Sean and Elliot made a very good impression. It seems like the kind of place a passionate software develop would want to work. Which then let us hire more great people and build a great culture and team.
+
+Also having people like Sean and Elliot, and others who followed, allowed us to delve into the software development capabilities of people we interviewed in a way I couldn’t do myself. The distinction reached a level that was beyond my technical ability. I could tell someone was not great or mediocre in their technical ability and understanding. But others could tell the difference between truly brilliant developers and those that were good but didn’t quite have the technical understanding and insight that would make them great.
+
+I do think I helped when I sensed people were leaning toward accepting someone that was decent (from my impressions of how our team reacted) instead of someone they would love to have; as Elliot referenced in his tweet.
+
+I do think one of the refrains I voiced was wise. Is this person we just interviewed someone we are scared will be hired away from us before we hire them. Those are the people we want to hire. The ones where we are thinking they seem good – and unstated 🙂 {I am tired of interviewing people, lets end this, they probably will be fine}. But that is a dangerous path.
+
+With a strong team I truly believe you bring the best out of people, so you can take good prospects and have them be great employees. We reached that place. But it is dangerous to accept good fits instead of great ones. It is easy to find your team slip the other way with a couple mistakes. Soon mediocrity is accepted, and new employees don’t have the best brought out of them. And from there you can slip into the place where the culture actually brings out the bad traits in people.
+
+I agree with Elliot that it was a remarkable team in an environment where I would not have expected creating such a team would be possible. The work within the IT team was great. Creating the selection tool for NSF with Sean is one of my personal highlights from my career. And the years of working with the IT team is too.
+
+We were proud of our work. That makes a huge difference and is another self-reinforcing aspect of the system we created. When you have to struggle to create something great that is often fun (even if occasionally frustrating). When you struggle to create junk that is disrespected by those around you, and you yourself find lame, it is not fun.
+
+This is a great quote from Dee Hock, the founder of Visa on hiring:
+
+Hire and promote first on the basis of integrity; second, motivation; third, capacity; fourth, understanding; fifth, knowledge; and last and least, experience. Without integrity, motivation is dangerous; without motivation, capacity is impotent; without capacity, understanding is limited; without understanding, knowledge is meaningless; without knowledge, experience is blind. Experience is easy to provide and quickly put to good use by people with all the other qualities.
+
+Related: Deming and Software Development – Hiring the Right People for Your Team – Creating a Culture that Values Continual Improvement

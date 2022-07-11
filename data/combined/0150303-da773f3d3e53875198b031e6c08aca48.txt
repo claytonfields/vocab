@@ -1,0 +1,21 @@
+Learning To Read May Take Longer Than We Thought
+
+Most of what we know — or think we know — about how kids learn comes from classroom practice and behavioral psychology. Now, neuroscientists are adding to and qualifying that store of knowledge by studying the brain itself. The latest example: new research in the journal Developmental Science suggests a famous phenomenon known as the "fourth-grade shift" isn't so clear-cut.
+
+"The theory of the fourth-grade shift had been based on behavioral data," says the lead author of the study, Donna Coch. She heads the Reading Brains Lab at Dartmouth College.
+
+The assumption teachers make: "In a nutshell," Coch says, "by fourth grade you stop learning to read and start reading to learn. We're done teaching the basic skills in third grade, and you go use them starting in the fourth."
+
+But, Coch's team found, that assumption may not be true. The study involved 96 participants, divided among third-, fourth-, and fifth-graders as well as college students. All average readers, the subjects wore noninvasive electrode caps that could swiftly pick up electrical activity in the brain.
+
+They were shown strings of letters/symbols that fell into four different categories: words ("bed"); pseudo-words ("bem"); strings of letters ("mbe") and finally, strings of meaningless symbols (@#*). The researchers then observed the subjects' brains as they reacted, within milliseconds, to each kind of stimulus.
+
+The children in the study handled the first three categories roughly as well as the college students, meaning their brains responded at a speed that suggested their word processing was automatic. The difference came with the fourth category, meaningless symbols. As late as fifth grade, children needed to use their conscious minds to decide whether the symbols were a word.
+
+The study suggests there is nothing so neat as a fourth-grade shift. It found that third-graders exhibit some signs of automatic word processing while fifth-graders are still processing words differently from adults.
+
+Why is this important? "From my perspective, this concept of automaticity is key to learning to read," says Coch. "If you're not automatic, you're using a lot of effort to decode and understand individual words, meaning you have fewer resources for comprehension."
+
+Coch's team also administered a written test, covering the same set of real words, fake words, and symbol strings. This task was designed to test the participants' conscious word processing, a much slower procedure.
+
+Interestingly, most of the 96 participants got a nearly perfect score on the written test, showing that their conscious brains knew the difference between words and non-words. Future research will no doubt try to pinpoint when that process becomes automatic ... research that could change the way we teach reading in the higher grades.

@@ -1,0 +1,47 @@
+The Android team has been hard at work replacing old code that hasn't scaled well with newer and more powerful hardware. We've long known that the camera API was destined to see a massive update, but we were missing details like a release date or exactly what was coming. Thanks to the L release, we can finally see what has been in the works for all these many months.
+
+One of the most important aspects of the new Camera 2 API is a dramatic increase in performance over the previous interface. The Camera 2 system is now capable of delivering full resolution images at the same speed the hardware can capture them thanks to a fully synchronized pipeline model. This allows the Nexus 5 to achieve 30 frames per second while capturing at it's maximum of 8 megapixels.
+
+In addition to the profound performance improvements, the new camera API also includes burst mode, Digital Negative format (similar to RAW), HDR+, and full manual control of capture and post-processing. Many of the finer control configurations can also be modified, including:
+
+Exposure time
+
+ISO Sensitivity
+
+Frame duration
+
+Lens focus distance
+
+Flash trigger
+
+Color correction matrix
+
+JPEG metadata
+
+Tonemap curve
+
+Crop region
+
+AE / AF / AWB mode
+
+AE / AWB lock
+
+AF trigger
+
+Precapture AE trigger
+
+Metering regions
+
+Exposure compensation
+
+Target FPS range
+
+Capture intent
+
+Video stabilization
+
+Building great multi-media experiences on Android
+
+This is a huge step up for the camera on our Android devices, as we're bound to see higher quality results with less lag. Access to deeper customization controls and more image data will also make it possible for developers to accomplish much more with camera. If you're a developer and eagerly looking forward to messing around with all of the new goodies, there are samples for capturing photos and videos in the new preview SDK for L. They are titled Camera2Basic and Camera2Video.
+
+Source: Android Developer Docs

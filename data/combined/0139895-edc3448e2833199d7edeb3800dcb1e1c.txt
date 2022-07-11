@@ -1,0 +1,11 @@
+The global viral worm dubbed “conficker” was revealed to be a clever bit of viral marketing today when the virus’ dreaded April 1st payload was discovered to be nothing more than a demo for an soon to be released game by an unknown startup Russian game developer Viral Craft Studios.
+
+Yuri Demitri, a vice chancellor for the company who spoke on condition of anonymity, confirmed earlier today that the widespread conficker viral worm was in fact a “rather aggressive” game demo that was “distributed using non-traditional means”. When asked about the global panic caused by the company’s viral marketing campaign, Yuri replied “Our demo was distributed to over 5 million households worldwide. We believe this is a world record for a small startup like ours and we are going to pursue recognition of this feat with the Guiness Book.”
+
+While some have suggested that the negative backlash that the unconventional marketing campaign might generate against the product or the company would outweigh any benefit, Mr. Demitri shrugged it off saying “Our company is small and we have no marketing budget. A lack of interest or awareness by potential customers should not be an impediment to successfully bringing a product to market. We believe we are pioneers in this area.”
+
+Byron Dingum, the chief forensics officer for savemynetwork.com an Internet Security company based in Muncie, Indiana sees it differently. “This is absolutely inexcusible! Cornficker is only going to be available on the Windows platform, yet the “demo” was distributed to many Macintosh and Linux workstations. These users are hardly going to be interested in a PC game”.
+
+The company acknowedged the global disruption that their demo caused and plans to make amends by donating up to 10% of all game revenue to the International Virus Research Lab, a not-for-profit malware production organization.
+
+Pricing is reportedly set on a sliding scale based on the customer’s credit worthiness and available credit limits.

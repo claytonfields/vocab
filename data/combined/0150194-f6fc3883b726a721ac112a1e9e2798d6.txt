@@ -1,0 +1,5 @@
+Now that the token buying phase is over I’ve got an update to the first part (who with whom). Here is a render of the transaction network around The DAO. All individual accounts are visible. The clusters mean that the contributors are interconnected. Some represent exchanges. For example, a contributor that transferred money from kraken to an account and from there to The DAO will be in the kraken cluster. Clusters may also represent individuals trying to disguise their influence on The DAO by spreading transactions over many accounts.
+
+It is clearly visible how the investment slowed down after the price increase. 85.1% where invested in the first phase, 10.2% during the increase and 4.7% afterwards. The flat part at the end is due to the end of the investment phase. A similar graph is available at the DAO stats site. To me that leaves the question why there was an increase at all. It kind of served as an incentive to buy early — but was that worth the confusion?
+
+How is this reflected in the transaction network? Here some pictures of the creation phase.

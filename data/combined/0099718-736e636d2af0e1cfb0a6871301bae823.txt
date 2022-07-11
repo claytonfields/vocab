@@ -1,0 +1,45 @@
+What does "open source" mean? With open source software being so prevalent in our lives (Android, WordPress, Mozilla Firefox are almost fixtures), you would think that it would be simple enough to find somebody who can explain the term around here. A quick survey around the office turned out dismal results, however. A fellow intern told me "open source software" simply meant that the source code is open for view; another insisted that it means the software is free to use. I personally had the impression that it meant the code was crowd sourced and created by volunteer developers--the idea was immediately shot down by the other two. So what, really, does "open source" mean?
+
+In an attempt to understand and clarify some of the misconceptions surrounding the term, I contacted the Open Source Initiative (OSI), a foundation that oversees the use of the term and approves open source licenses. I talked to Karl Fogel, the author of the book "Producing Open Source Software: How to Run a Successful Free Software Project" and a board member of OSI.
+
+I put to the test a few common beliefs about open source software:
+
+Open source only means that the source is open to view.
+
+False
+
+Under the OSI's Open Source Definition, software that is open source must also allow unrestricted redistribution and modifications. Certain licenses are also copyleft, which means that any derived work must also be distributed under the same license--So check your licenses carefully before proceeding.
+
+This misconception is due to a direct interpretation of the word "open source", says Fogel. Its actual meaning is supposed to invoke the idea of 'freedom'--the liberty to change and recreate--but finding the correct lexicon was difficult. "It is a problem inherent in the English Language. In Spanish and French you have the word 'Libre', but there is no such equivalent in English, " Fogel says.
+
+Open source software is free.
+
+True
+
+This point is tricky, because it depends on what your definition of "free" is, and who you talk to. As mentioned above, the OSI's definition of open source software is “free” in the sense of giving freedom to those who use it. So in the most common way of thinking, where "free" means no upfront cost to use, modify, or distribute, the answer is yes: the software is free.
+
+That said, if you lean towards economics and like to think about the long-term costs of open source software, you may have brought to mind the old adage "There's no such thing as a free lunch". (Or, as it is commonly used to compare with open source, a Free Beer.) Open source software rarely comes with the technical support and warranty services that proprietary software provides. So while you may not pay upfront now, the expenses for the software maintenance and upkeep may accumulate and charge you in the future.
+
+On a smaller note, if you follow the Free Software Foundation (FSF)'s official four-point definition for free software, you may also have a problem with equating open source with free. FSF's definition, though similar, is not technically the same as OSI's definition for open source software. Indeed, on FSF's front page there is a link to an article by Richard Stallman, FSF's founder, with the title "Why Open Source Software misses the point of Free Software". The rift in the definitions causes a few select cases where the licenses are open source but not technically free software licenses. One such example is the NASA Open Source Agreement.
+
+In response to questions about this technicality, Fogel stresses that they are, in actuality, small differences. "Although the wording of two definitions is different, their meaning is basically the same," he says. He points out that the two organizations often informally synchronize the types of licenses accepted so that the vast majority of open source licenses are also free licenses. It is "extremely rare" to find main stream software that falls under a license approved by one organization and not the other.
+
+In the end, it all depends on what you think is "free" and there are many arguments for each. But for all general purposes and definitions, open source software is free.
+
+Open source software cannot be commercial.
+
+False
+
+"All open source software is commercial software by definition," Fogel explains, " There's also the point that 'commercial' does not mean 'proprietary'. " Companies may not be able to sell open source software, but they can sell services and products related to it. For instance, they can offer a premium version of the software that has additional features.
+
+An example of this is RedHat Linux Enterprise, a premium version of the widely available CentOS and Fedora. It offers binaries and support services on top of the original software, and is purchased through a subscription plan.
+
+Open source software is crowd sourced and vice versa.
+
+False
+
+Crowd sourcing refers to the process of using a large group of public contributors to complete a task. While there are hundreds of crowd sourced projects that are open source as well (such as Wikipedia), the two terms are not interchangeable.
+
+In crowd sourcing, the original group that initiated the project is allowed to keep intellectual property and distribution rights--restrictions which should not be present in an open source project. Yelp.com is one such example: Members of the public contribute by posting reviews on the site, but they are not allowed to, say, redistribute Yelp's content.
+
+Nonetheless, Fogel believes that crowd sourcing is most sustainable when it operates on open source materials. "Then everyone in the crowd has equal claim to the results of the collective labor -- no one has a monopoly," he says.

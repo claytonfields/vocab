@@ -1,0 +1,129 @@
+In June, journalist Chuck C. Johnson of California — after a litany of threats to sue almost anyone who had ever said an unkind word about him1 — ponied up and filed a defamation action against Gawker and several of its contributors, each haling from New York. Johnson complained that Gawker had published several defamatory articles about him, which — among other things — sarcastically raised the question of whether Johnson had defecated on the floor of his college dormitory.2
+
+Johnson filed his lawsuit in a Missouri state court. Gawker removed the lawsuit to a federal court and asked the court to dismiss it, asserting that Missouri doesn't have personal jurisdiction over Gawker and that Johnson's case won't survive California's anti-SLAPP statute.
+
+In response, Johnson filed a, uh, colorful brief consisting of collages of evidence, incomplete citations, and meandering arguments, spanning one hundred and eleven pages, mostly consisting of irrelevant arguments about how Gawker is a bad media outlet, which is completely f–
+
+Wait, hold up. Why did Chuck sue in Missouri if he's from California and everyone else is in New York? And I thought you said this was in a state court, so why does a federal court even care? And why would a Missouri court care about a California law?
+
+How did you get in here? You're not real.
+
+Yes the good-golly I am. Besides, Ken didn't say you couldn't rip off this clever framework. Now tell me what the bejewels everyone's doin' in Missouri.
+
+Well, Johnson had a lawyer there, because he had previously filed a lawsuit in Missouri seeking the juvenile records of Michael Brown, the young man who was killed by a Ferguson police officer. Johnson lost the lawsuit and his appeals all the way up to the Missouri Supreme Court were summarily denied.
+
+Having a lawyer in a particular state is not a good reason to sue in that state — unless you or one of the defendants lives there.3
+
+Why not?
+
+Because there's no jurisdiction. Whenever you want to bring someone from State A to a court in State B, you have to show that the court can exercise personal jurisdiction over them. To over-generalize: that means that the plaintiff has to be able to show either (1) specific jurisdiction: the defendant did something in State B and that that something is what you're suing over; or (2) general jurisdiction: the defendant does a lot of things in State B and they could probably expect to be sued there.
+
+In defamation cases, the test for specific jurisdiction is the effects test: did the defendant direct their conduct toward State B such that the effects of the defamation are felt there?4
+
+Johnson argues that he sued in Missouri because his attempt to learn about Michael Brown's background made him popular there. This plainly contradicts his argument that he's not a public figure, but we'll get to that in a minute.
+
+Beyond that, Johnson argues that because (1) Gawker has written about Ferguson; (2) Gawker has insulted the fan base of the St. Louis Cardinals5; and (3) Johnson's lawyer in St. Louis has seen advertisements about St. Louis on Gawker's site, Gawker is subject to jurisdiction in Missouri. Were this a lawsuit about Gawker's Ferguson or Cardinals articles, or about Gawker's advertising, Gawker might be subject to jurisdiction in Missouri. But even taken together, I don't think this is sufficient to show that Gawker's acts amount to a continuous and systematic presence in Missouri. As Johnson notes, "[p]ersonal [j]urisdiction is about notice." But Johnson has reported from Missouri, California, Mississippi, and elsewhere — that doesn't mean Gawker is subject to personal jurisdiction wherever Johnson goes.
+
+Plus, selling advertising on a site which uses geolocated targeting to customize ads to the visitor isn't targeting the state. If that were true, almost any website with ads on it would be subject to the jurisdiction of any state. Likewise, having a number of readers in a state — or, as Johnson argues, a number of Twitter followers from Missouri — would subject almost every online publication to jurisdiction within that state. No.
+
+This takes us to about page 79 of the brief.
+
+You keep carping on about the length of the brief. Isn't there a court rule requiring legal documents to be long and boring?
+
+No. But there are rules requiring opposition briefs to be limited in length — how many pages you get depends on the court. In this court, it's fifteen pages. As Ken points out, this means that Johnson only missed by about 640%. The discussion on general jurisdiction alone goes on for about seventeen pages.
+
+Of course, Johnson's lawyer asked the court for permission to file a longer brief, which one usually does before it's due. But after asking for three (maybe four?) extensions and blowing the initial deadline to file the response, the clerks and judge will be…. displeased.
+
+Enough with the boring procedural stuff. Get to the point. Who's getting slapped around?
+
+Well, that depends. Someone's positioning himself for a bench-slap6, but when I said 'SLAPP' earlier, that's referring to, well, slightly less boring procedural stuff.
+
+Okay.
+
+Glad you asked. An anti-SLAPP motion is a procedural tool inten–
+
+I thought we were done with the procedural stuff.
+
+No. Procedure is everything. Anyway, an anti-SLAPP motion is a tool intended to protect freedom of speech. A lot of people file lawsuits that, intended or not, cause their enemies to shut up. Defamation lawsuits, in particular, can be profoundly ruinous if you're not blessed with a huge bank account. So, an anti-SLAPP motion applies when someone's free speech7 is the subject of a lawsuit. Once it's filed, discovery is frozen and the plaintiff — the person suing — must show their cards at the beginning of the case: do they have enough admissible evidence to demonstrate at least some chance of winning? If they do, the case moves forward; if not, the case is over and the plaintiff has to pay the defendant's attorneys' fees.
+
+So what's the federal anti-SLAPP law look like?
+
+There isn't one — yet. Instead, when a federal court is weighing state claims — defamation, for example, is a state claim, as opposed to, say, copyright infringement, which is almost exclusively a federal claim — the court can apply a state's anti-SLAPP law.8
+
+Here, however, it's tricky. Missouri has an anti-SLAPP statute, but it's limited to cases involving speech in a public hearing, so there is no broad Missouri anti-SLAPP statute concerning free speech generally. Plus, in a case involving parties from two different states, the federal court has to decide which state's substantive laws to apply. In defamation cases, this usually means that the state in which the plaintiff was harmed will apply. While Johnson makes a vague argument about how he was harmed in Missouri, he's a California resident and his business is based in California. Because California's substantive law of defamation applies, that means that California's anti-SLAPP statute also applies. Under the burden-shifting rubrick of California's anti-SLAPP statute, Gawker merely has to show that the lawsuit involves speech on a matter of public interest. After that, Johnson has to proffer admissible evidence establishing that he has some possibility of success.
+
+Please get to the actual substance already.
+
+Okay, okay. So, if Johnson has to submit admissible evidence to demonstrate that he has at least a tenable claim, how'd he do? Poorly.
+
+Both Johnson and his lawyer submitted affidavits. His lawyer's consists largely of attempting to introduce various articles from the internet, but these — with the exception of articles written by the individual defendants (and maybe other Gawker employees) — are hearsay. That is, they're statements by people who aren't in court (or testifying under oath through affidavits) about Gawker.
+
+Johnson also submitted an affidavit, which includes this:
+
+If you find yourself testifying under oath about not having defecated on a floor — publicly or privately — something has gone terribly wrong in your life.
+
+But let's back up for a moment: what is it that Johnson has to show? The anti-SLAPP portion of Gawker's assault makes several, brief, arguments.
+
+First, Gawker argues that Johnson is a public figure — someone who is fairly well-known and attracts public attention. That would mean that Johnson would have to establish actual malice in order to win a defamation case. That's a term of art meaning that Johnson has to show that Gawker either knew that its statements were false or just plum didn't care whether they were true or false. This is difficult to show, both because it means showing, essentially, what was in someone's mind when that person said the mean nasty things.
+
+Johnson can't pull that off. At least not without sitting the writers down in a deposition and figuring out what they knew or thought at the time. He's asking the court to allow him time to conduct some discovery, but California's anti-SLAPP statute freezes discovery the moment it's filed. It's unclear whether this provision applies when a federal court is weighing an anti-SLAPP motion,9 and this is perhaps the only coherent argument Johnson makes as to why his case shouldn't be dismissed under the anti-SLAPP statute.
+
+Johnson is a public figure. His brief boasts about his broad readership in Missouri, that he has "interviewed with local news organizations, made statements, and appeared on local television," and that he "has uncovered a number of major news stories in his career." He's contemplated running for Congress10, argues that he's brought down U.S. senators and a candidate for Speaker of the House, and his banishment from Twitter was covered by CNN.11
+
+Johnson also argues that one of the Gawker writers he's suing — Greg Howard — has a motive to lie about Johnson because Howard once debated a random commenter about Michael Brown, raising questions about "how [Howard] might feel about a journalist trending in the news for his dogged reporting of the Michael Brown death and Ferguson Riots from a diametrically opposed point of view[.]" Johnson then attempts to tie the timing of an article he posted about his Michael Brown lawsuit to articles written by Howard and Gawker. Being generous, this might suggest actual malice (in that there is a motive to ignore whether something is true), but it does not approach the "clear and convincing" evidence required to establish actual malice. Moreover, disliking someone is not sufficient, on its own, to constitute actual malice — "malice" is a term of art; it doesn't mean thinking mean things about someone.
+
+Johnson also asserts that he has been vindicated with respect to his reporting (once asserted to be inaccurate) about Sen. Bob Menendez.12 But the revelations about Sen. Menendez didn't come about until after the Gawker articles. Actual malice requires knowledge (or reckless disregard) of falsity at the time the statements were made. At that time, it was widely believed that Johnson's reporting on Menendez was erroneous, and reaching a conclusion (even a wrong one) based on disclosed facts — that is, the story linked by the article, is a statement of opinion, not fact.13 In any case, the back-and-forth discussion about public figures is the very reason why the First Amendment — through the "actual malice" standard — grants "breathing room" for people to get things wrong. Johnson can't meet that here.
+
+Second, before the court has to even consider whether Johnson is a public figure, the court has to figure out whether these statements are even defamatory. That is: would a reasonable person, apprised of the total context in which the statements were made, interpret them as a statement of fact? Or are they hyperbolic statements, statements of opinion, satire, or anything other than an assertion of fact? In this context, whether Johnson wants the ability to conduct discovery is perhaps irrelevant: all of the documents and statements at issue can be put before the court, so there's no reason to conduct depositions or issue subpoenas.
+
+While I've previously discussed why I don't believe the statements are factual, but are instead hyperbolic satire and obvious jokes, one thing sticks out to me:
+
+Even without much in the way of admissible evidence, Johnson's lawyer digs him in deeper. Among other things, he admits that one Gawker article was satirical. The only argument summoned here is that one would have to know who Johnson was and what he did in order to understand its satirical bent. But whether a statement is defamatory is determined by whether a reasonable person, having knowledge of the context, would perceive a statement to be one of fact. If it's not a statement of fact — and satire isn't — then it's not defamatory.
+
+Third, Johnson seeks to hold Gawker liable for statements made by commenters, asserting (generally) that Gawker is liable for republishing the defamatory statements of others. To generalize, if you repeat the defamatory statements of someone else, you can be liable for defamation along with the original speaker. However, Section 230 of the Communications Decency Act ("CDA") broadly protects websites from being held liable for the comments of their users. This is what prevents you from suing Facebook when your former friend calls you a "dirty rotten scoundrel who supports Donald Trump and is basically a cat lady, but with opossums."
+
+Johnson attempts to circumvent CDA 230 using the usual suspects — Roommates.com14 and so on — and argues that by promoting defamatory comments, Gawker lost its immunity. According to Johnson's theory, commenters are like unpaid interns, so… well, your guess is as good as mine. But "promoting" (or highlighting) comments does not remove the shield established by CDA 230. Johnson also argues — without any authority in support — that because Gawker encourages people to submit comments anonymously, and doesn't keep track of identifying information, there is no immunity. These approaches to voiding CDA 230 immunity have been tried by a number of plaintiffs, and they never work.
+
+Get to the floor stuff. I came here to read about the floor incident.
+
+Uh. Okay. Well, the long and shi– short of it is that Johnson vehemently denies it. He also concedes that Gawker asserted that the rumor was false, and that most of Gawker's audience would believe Gawker's assertion that the rumor is false. That… isn't defamation.15 Johnson has a point — ably argued, to his lawyer's credit — that Gawker's journalistic model, as applied here, is worthy of vehement criticism: Gawker raised a rumor in order to mock Johnson, while simultaneously noting that it was false. But Johnson's critique is a matter for court of public opinion, not some far-flung court in Missouri. As a matter of free speech, Gawker should be permitted a wide berth to hold a mirror to people who seek out public attention.
+
+That's it? It took 111 pages to say that?
+
+Mostly. The rambunctious night owls on Twitter had a fun time pointing out some of the typos and chaos in this thread, if you want to see more.
+
+So where is this going?
+
+It's hard to tell. The Missouri court is unlikely to be familiar with the application of California's anti-SLAPP statute, and Johnson's 111-page wordvomit doesn't remotely help clarify the issues. That means it's somewhat unpredictable as to what the court will do.
+
+That said, Johnson has agreed to the court transferring the case out of Missouri to California. I suspect the court will grant him that wish, if only because it's far less work to read and dissect 111 incoherent pages. That would allow a California court to consider the anti-SLAPP issues, which is something a California court is much more likely to be familiar with. This also allows the court to skip over the question of whether Gawker is subject to the Missouri court's jurisdiction (although I think the answer is quite clearly 'no' here.)
+
+In any event, that Johnson blew the initial deadline to respond (after seeking several extensions, which Gawker's lawyers graciously agreed to give him) and then submitted this monstrosity without first asking permission is unlikely to help him. I suspect Gawker will move to strike the entire response, and the court will be tempted to grant it. That's possible, but it's more likely that the court will want to resolve the case on the merits, rather than on Johnson's abject breach of the court's rules, and will transfer it out to California.
+
+Why doesn't Gawker just pay the guy to go away?
+
+Money attracts lawyers. Lawyers multiply. Money doesn't.
+
+Postscript by Ken:
+
+Just a few quick points.
+
+First, if you get several extensions to file opposition briefs, then blow the deadline and ask forgiveness, then file half of the opposition just barely before the midnight deadline and most of the supporting documents hours later after the deadline, and you file an incomprehensible 111-page rant in a district with a 15-page limit, most federal judges will take it as disrespect. In fact, most federal judges will view it as akin to giving them the finger. This is foolish.
+
+Second, I can't emphasize enough Adam's point that a vast amount of the documents attached to Chuck's brief as exhibits are inadmissible because they're hearsay — that is, out-of-court-statements by a third party. The problem is that both in establishing personal jurisdiction (now that it's been challenged) and in responding to an anti-SLAPP motion (if the judge reaches it), it's Chuck's burden to come forward with admissible evidence. It's not clear to me whether the person who wrote Chuck's lawyer's declaration understands what admissible evidence is.
+
+Third, everyone makes typos now and then, and most of us over a long career will manage to leave a stray note or missing cite in a brief. But if you're going to file a brief chock-full of missing cites, it would be optimal to try to leave the CITE COMPLAINT note out of the first page.
+
+Fourth, federal judges in diversity cases tend to try to resolve things with the least exercise of federal judicial power possible. Here that would be finding that Chuck has failed to carry his burden of demonstrating personal jurisdiction.
+
+Fifth, I will refrain from a long rant on how awful this brief is, in legal argument, organization, and factual support. I'll just say this: it is comically bad. I have seen worse briefs filed by lawyers, but very few, and none that were so bad at such length. It's about as good as an average pro se brief, and substantially less competent than a brief by an experienced pro se litigant. Does that mean for sure that Chuck will lose the motions? No. Sometimes judges actually go to the law and the facts without regard to the quality of advocacy, which when you think about it is a good thing. It's conceivable Chuck could win on the merits, though not likely. But if he wins, it will be despite this brief, not because of it.
+
+[Update (10/19): The court has stricken Johnson's response and exhibits, noting that the "seventy-page narrative discussion of facts appears to be excessive and inappropriate[.]". He has until October 22 to file separate memoranda, with the court generously offering him to fill each one with 20 pages of crayon, and, if they desire, a separate document setting forth all of the facts. The request for a stay was denied for failure to file a memorandum in support. The judge also pointed out that he can't rule on a motion to amend the complaint if Chuck doesn't submit the traditional proposed amended complaint for evaluation. The judge also quite politely asks Chuck and his lawyer to take a shot at complying with a series of rules governing the format and contents of the documents.]
+
+[Update (10/22): Chuck Johnson has now filed his do-over attempt at responding to Gawker. Here are his oppositions to the motion to dismiss and anti-SLAPP, and his proposed First Amended Complaint. I've only briefly reviewed them, and his lawyer's writing is far better organized, clearer, and occasionally coherent, but I still strongly doubt that Johnson will be successful. A couple of things stick out.
+
+First, he wants to sue under a theory that Gawker deprived him of his civil rights because they don't keep records of all of their commenters. To get there, however, he needs to allege that Gawker was a state actor. He attempts to do so by asserting that because Gawker is protected by CDA Section 230, they're a state actor. This is sanctionably frivolous.
+
+Second, a number of arguments advanced by Johnson — including that Gawker is a "state actor" because it fails to keep records of its commenters, and that California's anti-SLAPP statute can't be applied in federal court — would substantially undermine protection of free speech if they were accepted. As a journalist and a self-proclaimed champion of free speech, Johnson ought to be ashamed.]
+
+Last 5 posts by Adam Steinbaugh

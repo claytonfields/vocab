@@ -1,0 +1,77 @@
+Implementation Timing Update Task and Overview Tasks Being Worked On Notes
+
+February Alluvion Skirmishes in Yorcia Weald (U) - Producing cutscenes
+
+- Designing system to summon allied monsters
+
+- Establishing strongholds and marchlands
+
+- Setting monster data
+
+- Setting special monsters
+
+- Designing boss monsters
+
+- Designing rewards
+
+- Balancing battles
+
+- Designing arcane glyptics -
+
+February Records of Eminence - Adding Unity accolades in exchange for copper A.M.A.N vouchers
+
+- Adding ability to receive up to 36 combat and magic skill books from Records of Eminence NPCs simultaneously.
+
+- Increasing Unity accolades earned for time-limited and daily objectives
+
+- Decreasing number of successful actions required to fulfill certain objectives
+
+- Adding Unity accolade display to content lists -
+
+February Unity Concord - Adding Unity Wanted objectives
+
+- Adding new reforgable equipment
+
+- Adding teleportation services to additional areas
+
+- Doubling Unity chat participant limit from 64 to 128
+
+- Adding new items -
+
+February Mog Gardens - Adjusting area graphics
+
+- Changing certain enchanted items to be useable -
+
+February Monster Rearing - Unlocking rank three
+
+- Unlocking rearing grounds
+
+- Adding new rank three creatures
+
+- Setting rewards for new monsters
+
+- Modifying method of acquiring certain feed. -
+
+February Linkshell / Linkshell2 - Add shortcut key for Linkshell2
+
+-Add system to equip linkshells stored in Mog Satchel/Mog Sack/Mog Case
+
+-
+
+February Trust - Adding content where alter egos may be called forth
+
+- Adding new alter egos
+
+- Adjusting attributes
+
+- Creating and adjusting behavior logic
+
+- Adding new ciphers
+
+- Adding new quests -
+
+February Legion - Lowering the minimum number of participants from three to one -
+
+February Campaign Ops - Lowering the minimum number of participants in certain Ops from three to one -
+
+February Gobbie Mystery Box Gobbie Mystery Box - Adding items that may be converted into daily tally -

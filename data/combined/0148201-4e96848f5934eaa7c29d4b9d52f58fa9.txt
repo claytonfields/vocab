@@ -1,0 +1,9 @@
+Chipmaker AMD is purportedly preparing to lay off up to one-third of its workforce, according to All Things D and its sources familiar with the company's plans. Amongst positions proposed for elimination are sales and engineering -- a category which was spared from AMD's last bout of job cuts.
+
+AMD presently employs just under 12,000 people, according to their latest earnings report. Such a reduction in force may mean AMD could shed itself of roughly 4,000 positions. An announcement is expected in the coming weeks, perhaps as early as this month. The company's next financial report is due on October 18, so an announcement may be made around that time.
+
+Because I know our readers are a curious bunch -- Intel employs 102,000 (pdf) people worldwide. That bit of non-essential trivia comes from Intel's own Q2 annual report.
+
+Although Cnet confirmed All Things D's numbers with their own sources, Reuters dug up its own, different set of numbers. According Reuters' own sources, AMD is only expecting to dismiss about 10-20 percent of its workers. Even so, those numbers are likely large enough to make many investors think twice about the chip maker's future, even if it may not be in immediate danger.
+
+Assuming the rumors are correct, this certainly isn't the first time AMD has shown signs of struggling. Just last year, the chip maker said its goodbyes to roughly 10 percent of its workers. In 2011, AMD also found itself under new leadership with former Lenovo COO Rory Reed. Since heading the company, Reed has shifted AMD's focus from competing with Intel's desktop CPUs to improving mobile APU solutions which combine CPUs and GPUs on a single chip.

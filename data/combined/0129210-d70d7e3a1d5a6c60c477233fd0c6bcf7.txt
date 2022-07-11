@@ -1,0 +1,21 @@
+Obama Orders Development Of Supercomputer To Rival China's 'Milky Way'
+
+Enlarge this image toggle caption Kyodo/Landov Kyodo/Landov
+
+President Obama has ordered the development of a supercomputer that is some 20 times faster than the world's current record-holder and is expected to go online by 2025.
+
+A machine developed by China's National University of Defense Technology and housed in Guangzhou, called Tianhe-2 (Milky Way-2), is thought to currently be the fastest supercomputer in existence — variously reported as doing either 34 or 55 petaflops (1 petaflop is equivalent to 1 quadrillion floating-point operations per second).
+
+The executive order, issued by Obama on Wednesday, would set up a body known as the National Strategic Computing Initiative (NSCI) to research and build what is hoped to become the first machine to hit 1 exaflop, equivalent to 1,000 petaflops.
+
+The White House says in a blog post that the new initiative "will draw on the strengths of departments and agencies to move the Federal government into a position that sharpens, develops, and streamlines a wide range of new 21st century applications. It is designed to advance core technologies to solve difficult computational problems and foster increased use of the new capabilities in the public and private sectors."
+
+Industry Tap, an engineering and trade publication, says a so-called "exascale" computer could be used to solve "some of today's great challenges, like more accurately modeling the Himalaya watershed, understanding how hurricanes form, determining how genes work on the molecular level and understanding how brain synapses work, [all of which] will require vastly more computing power than is currently available."
+
+But Industry Tap notes that such a machine would require 200 megawatts of power (compared with 3 megawatts for the current-generation machines). That means "a power plant would be required to run it."
+
+The president's executive order is just the latest salvo in something of an international supercomputer arms race that has broken out in recent years, with the U.S. (IBM, Cray), China and Japan (Fujitsu) trading places in the Top 500 list of fastest machines. The first machine to do a full petaflop, the IBM Roadrunner, was unveiled in 2009 and was shut down as "obsolete" just five years later.
+
+Earlier this year, the U.S. government banned Intel from selling its lightning-fast Xeon Phi chip to China. The Xeon was used to construct Tianhe-2, and China reportedly wanted to use the chips to upgrade it to 100 petaflops.
+
+A 100-petaflop machine is being developed in the U.S. and is expected to be ready by 2017, and a 300-petaflop machine could "possibly" be ready in the same year, according to Computer World.

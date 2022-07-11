@@ -1,0 +1,75 @@
+Tenet 1: Business Strategy
+
+The business strategy is what gives product makers the direction to grow in the marketplace while beating the competition.
+
+Business strategy is the top-line vision of the company. It is why the company exists. It ensures the long-term growth and sustainability of the organization. It is the basis for the core competencies and offerings, which are the products. In this book, I will use the term products to include both products and services.
+
+The business strategy is what gives product makers the direction to grow in the marketplace while beating the competition. The business strategy identifies the company’s guiding principles of how it will position itself and still achieve its objectives. For this to happen, the business must continually identify and utilize a competitive advantage. A competitive advantage is essential to the company’s long-term existence.
+
+In his classic book, Competitive Advantage, [3] Michael E. Porter lays out the two most common ways to achieve a competitive advantage: cost leadership and differentiation.
+
+The advantage behind cost leadership comes from offering the lowest price for products in a particular industry. Whether it is the cheapest car, television, or hamburger, this was the traditional way that companies achieved dominance in the marketplace. After all, allowing the private sector to compete without government regulation is what free market economy is all about! I mean, look at the rampant success of stores such as Walmart and Target. They can offer consumers the best prices and widest selection of merchandise. But what happens when prices hit rock bottom? Then, the battle needs to be about what makes the product better.
+
+This brings us to Porter’s second type of competitive advantage: differentiation. Because we are product inventors planning to build disruptive technologies, this is where our actual power lies. With differentiation, the advantage is based on a new or unique product or a unique aspect of the product for which customers will pay a premium because of its perceived value. As consumers, we choose one product over another based on the things we personally value, ranging from the product’s usefulness to how much pleasure we derive from it. That perceived value is what transforms a simple little café and cup o’ joe into the crazy success story of Seattle-based Starbucks. There’s a reason why people pay $5 for a cafe latté—it’s the experience that’s also wrapped into the product. It starts the moment a customer steps into the store and ends when that person tosses his cup and sleeve into the trash.
+
+Today, a UX differentiation is the digital product game changer. Differentiated user experiences have completely revolutionized the way we communicate with the world. Consider what the world was like before micro-blogging. When it was released in 2006, Twitter confounded users with their 140-character limit. But the limit turned out to be a valuable perk, especially with respect to updates. Today, users don’t check traditional news outlets for instant updates; they check Twitter, instead. When Hurricane Sandy pounded the East Coast in 2012, the power went out, but more than 20 million Tweets occurred between users, residents in the storm, and media and government outlets. [4] I know I spent some time on Twitter, tweeting to friends in New York about the hurricane updates I saw on TV from my home on the West Coast.
+
+Another tool that has distinguished itself from the competition with a UX differentiation is the map app Waze. It combines social traffic with GPS navigation, thereby allowing users to find the quickest route of the moment to their destination. By merely driving around with Waze open, users passively contribute traffic and other road data to the network. Users also can take a more active role by sharing road reports on accidents, police traps, or any other hazards along the way, helping to give other users in the area a heads-up about what surprises might ahead of them. In June of 2013, Waze (an Israeli startup) was acquired by Google for $1.1 billion. Now, Waze still offers its distinct UX to its users, but its data is also channeled into Google Maps. [5] Clearly, Google recognized the competitive advantage of UX collaboration and chose to adopt Waze for what it could add to its product rather than compete against it.
+
+A UX competitive advantage is important to understand in this brave new world of technology. Traditionally, the purpose of a competitive advantage was to make a product that was self-sufficient through a revenue stream. A revenue stream is how the company gets paid. And when a customer pays more for the product than what it costs to make, value is created for the stakeholders. To many people, this is the heart of a product’s business model. Today, though, a UX differentiation doesn’t necessarily mean big bucks when your product hits the market. Instead, the goal of many entrepreneurs is mass adoption. Products such as Facebook didn’t kick competitors like MySpace or Friendster’s asses because it was a cheaper alternative. Facebook won the field because, a) it offered a differentiated UX that was perceived by users as more valuable, and b) everyone adopted it. From that point, Facebook innovated a new kind of business model that relied on monetizing its user data for selling targeted advertising.[6] In 2013, Waze did a similar thing when Google bought it. Waze made a lot of money by selling access to its devoted users, and Google will make a lot of money because so many users continue to use both the Waze and Google Maps apps. The two companies essentially turned their users into customers because they were able to monetize them, and because of this, from here on out, I am going to use the terms “user” and “customer” interchangeably.
+
+Still, a good business model doesn’t just define the revenue stream of a product. Nor does it just rely on a ridiculous amount of users adopting it. This is something often lost on young tech entrepreneurs. Because they grew up in a world in which products like Facebook became solvent and conquered the world without an obvious business model, they don’t realize what an uphill battle they have ahead of them to acquire users. They also forget that the mega-successful digital products that continue to define our everyday lives didn’t just stumble onto their business models. These game-changing companies experimented, tested and failed before they hit on and innovated the right one. And if, like me, you worked on the Web when the Dotcom bubble burst in the 1990s, you have first-hand experience of all of the risks involved in creating products without proven business models. When the investment money runs out, and there isn’t any more coming in, life is bleak.
+
+The process of business model construction is foundational to a business strategy. As Steve Blank writes, a business model describes the “flow between key components of the company.” [7] This quote comes from Blank’s Customer Development manifesto in which he challenges product founders to stop writing static business plans. Instead, he encourages them to adopt a flexible business model that requires all of the key components are validated using empirical, customer-facing discovery methods. To get a sense of these key components, let’s take a look at a tool called the Business Model Canvas.
+
+In their seminal book Business Model Generation, [8] authors Alexander Osterwalder and Yves Pigneur deconstruct each of the nine essential building blocks of a business model so that visionaries can systematically think through the logic of how the company will eventually make money. Blank also refers to this tool in his own work on business-model creation. What’s relevant to us in this book is how many of these components align with the UX strategy for a digital product. They are as follows (see also Figure 2-3):
+
+Customer segments —Who are the customers? What are their behaviors? What are their needs and goals?
+
+—Who are the customers? What are their behaviors? What are their needs and goals? Value propositions —What value (either qualitative or quantitative) do we promise to deliver?
+
+—What value (either qualitative or quantitative) do we promise to deliver? Channels —How will we reach our customer segment? Is it online or offline?
+
+—How will we reach our customer segment? Is it online or offline? Customer relationships —How are we going to acquire and retain our customers?
+
+—How are we going to acquire and retain our customers? Revenue streams —How does the business earn revenue from the value proposition? Are the customers going to pay for it? Or are there other options?
+
+—How does the business earn revenue from the value proposition? Are the customers going to pay for it? Or are there other options? Key resources —What unique strategic assets must the business have to make the product work? Is it content, capital, or patents? Is this something we must develop?
+
+—What unique strategic assets must the business have to make the product work? Is it content, capital, or patents? Is this something we must develop? Key activities —What uniquely strategic things does the business do to deliver its proposition? Are we optimizing an outdated business process? Are we creating a platform to bring customers together to transact?
+
+—What uniquely strategic things does the business do to deliver its proposition? Are we optimizing an outdated business process? Are we creating a platform to bring customers together to transact? Key partnerships —What partnerships and suppliers do we need in order to deliver our value proposition?
+
+—What partnerships and suppliers do we need in order to deliver our value proposition? Cost structure —What are the major costs that will be incurred to make our business model work? Are we trying to cut costs by throwing out the thrills? Are there fixed costs that won’t go away?
+
+Figure 2-3 — Business Model Canvas showing the nine essential building blocks of a business model
+
+By using the canvas, product makers collect all their hypotheses about their product into one place. They then revise it as they move through the discovery phase, and it’s something you’ll see as we develop all the techniques in this book. For this tenet, however, it is another place in which we can see how business strategy and UX strategy really intersect. So many of the concerns of the business model canvas—customer segments, value propositions, revenue streams, and customer acquisition and retention—are elements that are essential to creating a product’s user experience, which as you’ve learned, is key to our competitive advantage.
+
+When you don’t see these connections, you can potentially end up in the same position as our software engineer in Chapter 1. His business model relied on an affluent customer segment to provide the company’s revenue stream, but he had not correctly identified that segment before he built his product. If he had not come in contact with that user during my team’s customer discovery, he might have pushed ahead with a lengthy and expensive campaign to blitz media and online advertising outlets. This, as my team’s UX strategy proved, would have been very problematic because the campaigns wouldn’t have reached out to the user segment actually interested in the value proposition.
+
+This leads us to how the Business Model Canvas also calls out the importance of collaboration between stakeholders and team members in the discovery phase. Categories such as key resources and partnerships aren’t something that a digital product manager or UX designer should think up in a vacuum. Rather, these categories are where the stakeholders can offer a wealth of information and leads. Other categories, such as key activities, customer segments, and value propositions, will more likely rely on the guidance of the digital team to lead the stakeholders to the best product. But the digital product team must also recognize that these same categories need input from actual users before a hypothesis can be changed to a fact, which is what our UX strategy research demonstrated to the software engineer.
+
+We need to recognize that building a business strategy isn’t about formulating and executing a perfect plan. Instead, it’s about being able to research what’s out there, analyze the opportunities, run structured experiments, fail, learn, and iterate until we devise something of value that people truly want. Also, as the product scales and the market evolves, the business strategy must be nimble. For a new product, a strategy probably revolves on just getting enough product/market fit to raise financing, or grabbing enough market share so that its customer base is the competitive advantage. But, for a more mature company, the strategy is on building out the company’s core value proposition while trying to keep the company’s infrastructure and internal processes in place. It is in this way that what might have been the business model or competitive advantage in the early life cycle of the product might not be the same in later phases. Nevertheless, in chasing this moving target, companies must continue to experiment with varied offerings so that they can scale, remain competitive, and continue to offer value to users in an ever-changing marketplace.
+
+Discount for UXmatters Readers—Buy UX Strategy: How to Devise Innovative Digital Products That People Want from O’Reilly Media, using the discount code AUTHD, and save 50% off the retail price for the ebook and 40% off the print book.
+
+You’ll find Part 2 of “Chapter 2: The Four Tenets of UX Strategy” from UX Strategy: How to Devise Innovative Digital Products That People Want in the January 2016 edition of UXmatters.
+
+Endnotes
+
+[1] Sun Tzu, Art of War, first published by Lionel Giles in 1910.
+
+[2] Gray, David, Sunni Brown, and James Macanufo. Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers. Sebastopol, CA: O’Reilly Media, 2010.
+
+[3] Porter, Michael. Competitive Advantage. New York: The Free Press, 1985.
+
+[4] Guskin, Emily, and Paul Hitlin. “Hurricane Sandy and Twitter.” Pew Research Center, November 6, 2012. Retrieved December 21, 2015.
+
+[5] McClendon, Brian. “New Features Ahead: Google Maps and Waze Apps Better Than Ever.” Google Maps Blog, August 20, 2013. Retrieved December 21, 2015.
+
+[6] Kirkpatrick, David. The Facebook Effect: The Inside Story of the Company That Is Connecting the World. New York: Simon & Schuster, 2010.
+
+[7] Blank, Steve, and Bob Dorf. The Startup Owner’s Manual. Hoboken, NJ: Wiley, 2012.
+
+[8] Osterwalder, Alexander, and Yves Pigneur. Business Model Generation. Hoboken, NJ: Wiley, 2010.

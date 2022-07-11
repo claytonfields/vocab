@@ -1,0 +1,61 @@
+Keysigning
+
+The annual keysigning event at FOSDEM 2014 is one of the largest of its kind. With more than one hundred participants every year, it is an excellent opportunity to strengthen the web of trust. We use a slightly modified version of the Zimmermann-Sassaman key-signing protocol relying on a key submission server rather than email to collect keys.
+
+Before the event
+
+Submit your keys
+
+The submission deadline has passed.
+
+If you intend to participate in the PGP keysigning event at FOSDEM 2014, you must submit the keys you would like to have signed to the keyserver listening on ksp.fosdem.org . If you are using GnuPG, this can easily be accomplished with:
+
+gpg --keyserver ksp.fosdem.org --send-key [keyid]
+
+If you have multiple keys, try to submit them together. Since the list is sorted by submission time, this will group your keys on the list, saving everyone a lot of browsing forward and backward through the list.
+
+You may want to verify that your submission made it to the keyserver by checking the list of submitted keys at https://ksp.fosdem.org/.
+
+During the submission period, graphs will be generated of the density of the web of trust and the rate at which keys are being submitted. You can find these graphs at: https://ksp.fosdem.org/graphs/
+
+The deadline for submissions is Monday, 27 January 2014. After this date, the keyserver will no longer accept submissions and the official keylist will be published.
+
+Download the list of participants
+
+If you are participating in the keysigning event (i.e.: you have submitted your key to the keyserver), you should download the final list of participants and follow its instructions closely.
+
+The final list of participants is available from https://ksp.fosdem.org/files/.
+
+If there is a trust-path between you and the author, you should verify the list's detached signature using:
+
+gpg --verify ksp-fosdem2014.txt.sig ksp-fosdem2014.txt
+
+The keysigning event takes place on Sunday, at 14:00, in the corridor on the second level of the U building. There is no fixed end time. Previous editions last for approximately 1 hour per 100 keys on the list. Please bring the printed list, a pen and appropriate form of identification with you to FOSDEM 2014.
+
+You may find it useful to make a badge stating the number(s) of your key(s) on this list and the fact that you verified the fingerprints of your own key(s). Also provide a place to mark that your hashes match. Be on time to actually verify the hashes as they are announced! e.g.
+
+I am number 001 My key-id & fingerprint: ☑ The hashes: ☐
+
+To avoid descending into chaos, the organiser will line up the participants in the order of the list.
+
+1 - 2 - 3 - 4 - 5 - 6 - 7 - 8
+
+Next, this line folds onto itself, so everyone is facing another participant.
+
+1 - 2 - 3 - 4 8 - 7 - 6 - 5
+
+After the participants have verified each other's identity, the whole line moves one step to their right. Participants on the end of the line move to the opposite line. That way, everyone should be facing the next person on their list (modulo no-shows).
+
+2 - 3 - 4 - 5 1 - 8 - 7 - 6
+
+2 - 3 - 4 - 5 1 - 8 - 7 - 6
+
+After the event
+
+If you participated in the keysigning event, but missed (parts of) the participant list hashes as they were shouted out at the start, you should verify the hashes before signing any keys.
+
+The hashes can be downloaded from https://ksp.fosdem.org/files/. If there is a trust-path between you and the author, you should verify the file's detached signature using:
+
+gpg --verify ksp-fosdem2014-hashes.txt.sig ksp-fosdem2014-hashes.txt
+
+Please complete your signing homework before Sunday, 8 June 2014, and upload new signatures on your keys to a well-connected keyserver.

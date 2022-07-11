@@ -1,0 +1,49 @@
+When Auburn upset #1 Alabama in the Iron Bowl on Saturday evening—a day after #2 Miami managed to lose by double-digits to #70 Pittsburgh (5-7)—it seemed like chaos was once again reigning over college football. And in a sense, it was. Yet, at the same time, Alabama’s loss actually helped shrink the number of teams in contention for the College Football Playoff field.
+
+That’s because, prior to Alabama’s loss, there were a number of two-loss teams—Notre Dame, Penn State, USC, and TCU—that hoped to find a backdoor into the field of four. But now the prospect of having a second team from the Southeastern Conference make the playoff has become very real, since that second team would be the one-loss Crimson Tide—a team that would almost surely beat out any two-loss team apart from Auburn, or possibly Ohio State.
+
+So, while Notre Dame lost later in the evening to Stanford, the Irish—and all the other two-loss teams not vying for either the SEC or Big Ten championship—were effectively eliminated by Auburn’s victory. (TCU might not have been entirely eliminated, but it seems the Horned Frogs’ only real chance at this point would be to blow out Oklahoma—and even that likely wouldn’t be enough.)
+
+* * *
+
+With one week to go, there are eight teams realistically competing for a playoff spot, and another one—undefeated UCF (#2 in the Anderson & Hester Rankings )—that should be. The eight teams in contention are those playing in the championship games of the Big Ten (Wisconsin and Ohio State), SEC (Georgia and Auburn), and ACC (Clemson and Miami), plus Oklahoma (playing TCU in the bizarre “championship game” of the division-less Big 12) and Alabama (which won’t play again until the playoff field is announced).
+
+The eight teams may be clear, but where they should be ranked is not. Indeed, with the CFP Selection Committee’s #1, #2, and #8 teams all having lost this past weekend, the question is where any of the contenders should be ranked.
+
+* * *
+
+From 1998 to 2013 the Bowl Championship Series determined which two teams would play in the national championship game. After the first six (somewhat controversial) years, the BCS Standings were streamlined after the 2003 season, giving two-thirds’ weight to the polls and one-third weight to the computer rankings. For the ten seasons that followed, the BCS delivered the consensus national championship matchup every year, with essentially no controversy. In asking where teams should be ranked, therefore, a good starting point is to look at where teams would now be ranked by the BCS.
+
+Approximating the BCS Standings requires using the coaches poll, the AP poll (the best stand-in for the Harris poll, which was created by and for the BCS, but which no longer exists), and four former BCS computer rankings: Anderson & Hester (which I co-created), Billingsley, Colley, and Wolfe. The two other BCS computer rankings, Sagarin and Massey, no longer publish the version of their rankings that met the BCS’s requirement that they not be based on margin of victory (a requirement instituted after the margin-of-victory-driven computers kept 1-loss Oregon out of the national championship game during the 2001-02 season).
+
+The BCS dropped the high and low computer rankings and averaged the four in the middle. Because the highest and lowest of the four existing BCS computer rankings might have been dropped, or might instead have been among the four that were averaged (with Sagarin and Massey being dropped), I tallied the four computer rankings each way—once with the high and low rankings dropped, once without dropping any of the four—and then averaged those two tallies. This seems the best approximation of what the BCS computers would have yielded.
+
+With all of that said, here’s how the top-ten in the BCS Standings would have looked this week, with each team’s point-value listed (the playoff selection committee doesn’t provide point values, so fans don’t have a sense of the spacing between the teams):
+
+Approximate BCS Standings (out of 1.000):
+
+(1) Wisconsin (12-0): #3 in the polls (.915), #1 in the computers (.995), .942 total score
+
+(2) Clemson (11-1): #1 in the polls (.949), #2 in the computers (.915), .937
+
+(3) Oklahoma (11-1): #2 in the polls (.936), #6 in the computers (.745), .872
+
+(4) Auburn (10-2): #4 in the polls (.889), #8 in the computers (.740), .839
+
+(5) Georgia (11-1): #6 in the polls (.805), #4 in the computers (.890), .833
+
+(6) Alabama (11-1): #5 in the polls (.809), #5 in the computers (.845), .821
+
+(7) Miami (10-1): #7 in the polls (.718), #6 in the computers (.745), .727
+
+(8) UCF (11-0): #12 in the polls (.596), #3 in the computers (.910), .701
+
+(9) Ohio State (10-2): #8 in the polls (.716), #10 in the computers (.660), .697
+
+(10) Penn State (10-2): #9 in the polls (.618), #9 in the computers (.665), .634
+
+The next six teams would have been #11 USC (.611), #12 TCU (.540), #13 Washington (.485), #14 Notre Dame (.447), #15 Stanford (.431), and #16 Memphis (.417), whose only loss is to undefeated UCF (with a rematch scheduled for Saturday).
+
+Clearly, if the four playoff slots were based on the BCS Standings, the winner of this coming Saturday’s Auburn-Georgia game would be in. Wisconsin, Clemson, and Oklahoma would also be in with wins—and if any of those three teams lost, Alabama, Miami (with a win over Clemson), UCF (with a second win over Memphis), and Ohio State (with a win over Wisconsin) would be vying to take their place.
+
+Hopefully the committee can produce such a solid list, with such clear expectations of what each team needs to do this coming weekend.

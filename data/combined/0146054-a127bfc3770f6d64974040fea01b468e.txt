@@ -1,0 +1,13 @@
+Learnings from early adopters:
+
+As part of SQL Server 2016 technology adoption program, during development, we work with many customers validating their production-like workload in a test environment and opportunistically take some of these workloads to production running on production-ready preview build.
+
+In one such engagement, we worked with a customer in health industry who was running analytics workload on SYBASE IQ 15.4 system. Challenged by exponential data growth and the requirement for running analytics queries even faster for insights, the customer wanted to compare solutions from multiple vendors to see which analytical database could deliver the performance and features they need over the next 3-5 years. After extensive proof-of-concept projects, they concluded SQL Server 2016’s clustered columnstore delivered the best performance. The performance proof-of-concept tested the current database against Sybase IQ 16, MS SQL 2016, Oracle 12c, and SAP Hana using the central tables from the real-life data model filled with synthetic data in a cloud environment. MS SQL Server 2016 came out the clear winner. SAP Hana was second in performance, but also required much higher memory and displayed significant query performance outliers. Other contenders were out-performed by a factor of 2 or more.
+
+Another early adopter customer focused on evaluating data warehouse performance on a number of popular database products on terabyte size database. SQL Server 2016 columnstore outperformed SAP HANA One by 1.5 times in throughput and was magnitudes faster than other popular databases.
+
+These proof-of-concepts clearly demonstrate what we have always believed – SQL Server 2016 is clearly the best database product for your data warehouse.
+
+Thanks
+
+Sunil Agarwal

@@ -1,0 +1,35 @@
+I have a binary file with some layout I know. For example let format be like this:
+
+2 bytes (unsigned short) - length of a string
+
+5 bytes (5 x chars) - the string - some id name
+
+4 bytes (unsigned int) - a stride
+
+24 bytes (6 x float - 2 strides of 3 floats each) - float data
+
+The file should look like (I added spaces for readability):
+
+5 hello 3 0.0 0.1 0.2 -0.3 -0.4 -0.5
+
+Here 5 - is 2 bytes: 0x05 0x00. "hello" - 5 bytes and so on.
+
+Now I want to read this file. Currently I do it so:
+
+load file to ifstream
+
+read this stream to char buffer[2]
+
+cast it to unsigned short: unsigned short len{ *((unsigned short*)buffer) }; . Now I have length of a string.
+
+. Now I have length of a string. read a stream to vector<char> and create a std::string from this vector. Now I have string id.
+
+and create a from this vector. Now I have string id. the same way read next 4 bytes and cast them to unsigned int. Now I have a stride.
+
+while not end of file read floats the same way - create a char bufferFloat[4] and cast *((float*)bufferFloat) for every float.
+
+This works, but for me it looks ugly. Can I read directly to unsigned short or float or string etc. without char [x] creating? If no, what is the way to cast correctly (I read that style I'm using - is an old style)?
+
+P.S.: while I wrote a question, the more clearer explanation raised in my head - how to cast arbitrary number of bytes from arbitrary position in char [x] ?
+
+Update: I forgot to mention explicitly that string and float data length is not known at compile time and is variable.

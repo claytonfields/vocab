@@ -1,0 +1,19 @@
+ISPs Reporting That UK's Web Filters Being Activated By Less Than 10% Of New Customers
+
+from the more-porn-for-the-rest-of-us! dept
+
+To call the UK's institution of ISP-level web filters "stupid" isn't just being blithely dismissive. For one, they don't work. They block the wrong stuff. They let offensive stuff in. They're easily circumvented. They're advance scouts for government censorship. The only people who think web filtering is a good thing are those with the power to turn pet projects into national laws.
+
+
+
+Add one more to the list: they're hugely unpopular.
+
+Broadband customers are overwhelmingly choosing not to use parental-control systems foisted on ISPs by the government - with take-up in the single digits for three of the four major broadband providers…
+
+
+
+Only 5% of new BT customers signed up, 8% opted in for Sky and 4% for Virgin Media. TalkTalk rolled out a parental-control system two years before the government required it and has had much better take-up of its offering, with 36% of customers signing up for it.
+
+Those pushing for filters would have you believe it's something the public has been clamoring for to help them protect their children from the many evils of the internet. In reality, hardly anyone appears to care all that deeply about hooking up to a pre-censored connection.There's more than simply unpopularity going on here. The numbers skew low for several reasons. At this point, the rollout isn't 100% complete and isn't being offered to every new customer (something that becomes a requirement in 2015). Virgin Media (somewhat ironically) has been hooking customers up with the filthiest internet. Techs for that company have only been presenting the "unavoidable choice" to a little over a third of its new signups. Other ISPs techs have been more thorough, presenting new customers with the option nearly every time.Many service providers say it's also possible the filtering has been activated post-installation (Ofcom's report only tracks filtering enabled at the time of install) or that customers are already using device-based filters.Despite all of these factors, I wouldn't expect adoption numbers to rise much. People generally don't like the government telling them what they can and can't access. Illegal content is already blocked at ISP level (as well as by several search engines ), so what's being added is nothing more than a governmental parent to watch over citizens' shoulders as they surf the web. Those with children would probably prefer to run an open pipe and filter content at the device level. Not everyone in a household needs to be treated like a child, which is exactly what these filters (and their proponents) do.Beyond that, activating a web filter goes against human nature, especially the exertion of free will and the general avoidance of embarrassment. Most people view themselves as "good" and uninterested in the long list of internet vices (porn being the most popular). But even if they truly believe they'd never view this content, they'd rather have it arrive unfiltered than be forced to approach their ISP weeks (or minutes…) later like a bit-starved Oliver Twist and ask, "Please, sir. May I have some porn?"
+
+Filed Under: filters, isps, porn license, uk

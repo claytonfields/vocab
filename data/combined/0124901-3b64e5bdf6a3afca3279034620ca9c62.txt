@@ -1,0 +1,111 @@
+I am parcel31u the relatable gamer, and I make third-party modpacks for both the FTB and Curse Launcher. I have started the series "Material Energy" and below is a list of all my packs, what they are about, and of course where you can download them, also a place to find all my changelogs for every one of my packs.
+
+(1.6.4) Material Energy^3
+
+Spoiler
+
+
+
+
+
+
+
+Found only as a listed pack on the FTB luancher in the third-party tab.
+
+
+
+FTB Forum Page My first modpack for 1.6.4, made back in July 2014 for Jampacked 1. A CTM HQM map, that uses spatial IO to hold dungeons holding many mobs and traps.Found only as a listed pack on the FTB luancher in the third-party tab. Material Energy^4
+
+
+
+Spoiler
+
+
+
+
+
+
+
+
+
+Changlog:
+
+
+
+1.6.0
+
+
+
+No more 1,000 missing items
+
+Fixed trophies from not detecting
+
+Placed all trophies in world
+
+Removed not working quests
+
+Removed Ancient trees as it was crashing for no reason
+
+Added anvils in the start, with soulbound books now easily accessible
+
+Added a recipe for charcoal charcoal and graphite
+
+
+
+
+
+
+
+Found both on Curse and FTB as a listed pack in the third-party tab, however the version on Curse is more current.
+
+FTB Fourm Page My second modpack, the sequel to ME^3, which embodies the first as a HQM/CTM map where players are in a space station with another spatial IO to progress through different dungeons fighting increasing difficult mobs.Changlog:1.6.0Found both on Curse and FTB as a listed pack in the third-party tab, however the version on Curse is more current.
+
+Material Energy^-1
+
+
+
+Spoiler
+
+
+
+
+
+
+
+
+
+
+
+Changelog
+
+0.1.2
+
+Fixes NEI searching 0.1.1
+
+Fixed Minechem recipe lookup
+
+Found only on Curse.
+
+
+
+FTB Forum Page An HQM map based on skyblocks, with a vast blank canvas filled with nothing, having to use minechem to generate all your resources as you follow along the 200+ quests.
+
+Material Energy Exploration
+
+Spoiler My first non-HQM map, which upset most people. Material Energy Exploration is adventure map where the player must explore and solve puzzles in a anti-chamber fashion where some puzzles are not straight forward, unavailing the mystery behind the map as you progress, following along with the lore from Lore Expansion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Found only on Curse. Found only on Curse.

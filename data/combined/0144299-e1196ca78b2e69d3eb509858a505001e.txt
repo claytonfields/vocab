@@ -1,0 +1,45 @@
+Having trouble installing third-party .debs on Ubuntu 16.04?
+
+You, my friend, are far from alone.
+
+A huge number of you have pinged us about a big ol’ bug in the Xenial Xerus’ new Software app. A bug that leaves you unable to install popular apps like Steam, Google Chrome, and Nylas N1, using .deb files.
+
+Double-clicking on a .deb installer opens the Software app as expected, but clicking the ‘install’ button does nothing.
+
+A bug report has been lodged for the issue (link at the bottom) and explains that the issue: “…only seems to happen with third-party packages; installing a random deb from packages.ubuntu.com/xenial worked.”.
+
+Richard, one of the (awesome) folks who gave us a heads-up about the bug, isn’t impressed though, telling us that he thinks: “it’s pretty sad that this happened for an LTS release, there are tons of users complaining about it.”
+
+We agree.
+
+A Fix For Sideloading .Deb Files Is Coming
+
+The good news is that a fix for this annoying issue is, mercifully, on the way. A patched version of the gnome-software app should arrive through the usual Ubuntu update channels in the next few days.
+
+It fixes side loading of local .debs and several other known issues:
+
+Support apt://urls
+
+Increase number of reviews shown from 10 to 30
+
+Show version and size information for non-installed apps
+
+Enable the Snappy backend
+
+That last one is exciting, huh?
+
+Workaround in the meantime
+
+If you want/need to install third-party apps using .deb files right now there are workarounds while we wait for the fix. You can use a GUI app like Gdebi or the old Ubuntu Software Center (if you still have it).
+
+You can also flex your fingers at the command line to install apps using the trusty dpkg command.
+
+Say, for example, that you downloaded a .deb to your Downloads folder. To install it you would open a new Terminal session and type:
+
+cd /Downloads sudo dpkg -i awesome_new_app.deb sudo apt-get -f install
+
+You can keep an eye on the following bug to track the progress of the resolution (but resist the urge to comment with ‘me too’).
+
+View Bug #1573206 on Launchpad
+
+Thanks Richard!

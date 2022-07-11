@@ -1,0 +1,15 @@
+PlanGrid Icon
+
+11 Sep 2012
+
+Hicksdesign recently created a new application icon for PlanGrid, an iPad app for storing and viewing blueprints for the construction industry. Even though blueprints aren’t actually blue these days, its such a familiar piece of imagery that it couldn’t be ignored as a metaphor.
+
+The final design followed the original quite closely (see right), retaining the simple image of a white pictogram on a blueprint background. Instead of the magnifying glass, a stylised version of the loupe was used instead, and construction lines and folded paper effects were added on.
+
+A variety of options were explored, using various magnifying devices and architectural symbols. Here are the vector sketches:
+
+As well as trying out a characterisation of their software, known as ‘GridBot’:
+
+The idea that was most liked however, was the loupe:
+
+The hatched version lost too much impact at smaller sizes, so in the end, the solid version won. xScope mirror was then used to help preview the artwork on devices as I worked. This was particularly useful for getting the stroke weights correct on retina displays, and for testing colour. The blue needed to be much more saturated on iOS than on my desktop screen.

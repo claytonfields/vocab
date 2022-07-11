@@ -1,0 +1,33 @@
+How many atoms are there in a kilogram of silicon? This number is Avogadro’s constant and working out its value is one of the more important tasks that materials scientists face.
+
+Today, a group of physicists reveal the answer. They say there are 6.02214084(18) × 10^23 atoms in a single crystal of silicon weighing about a kilogram. And they say they know this is right because they’ve counted them. Yep, counted them.
+
+Actually, they counted the number of atoms in a unit volume of silicon and measured the size of this volume. The number of times this fits into a lump of exactly 1 mole of near perfect single crystal sphere of silicon is Avogadro’s number.
+
+To have established this number to such accuracy is clearly an important piece of work but just how impressive is put in perspective by the monumental efforts of the international consortium behind it.
+
+The work began in 2004 when a Russian group created a sample of silicon flouride with a specific isotopic content at the Central Design Bureau of Machine Building in St. Petersburg. A team at the Institute of Chemistry of High-Purity Substances of the Russian Academy of Sciences in Nizhny-Novgorod then turned this into a polycrystal of silicon hydride which a group at the Leibniz-Institut fur Kristallzuchtung in Berlin used to grow a 5kg lump of pure monocrystalline silicon in 2007.
+
+The Australian Centre for Precision Optics then took samples from this lump and shaped them into quasi-perfect spheres. They then made an x-ray interferometer from the left over silicon to determine its crystal structure. They also measured crystals’ surfaces to see what kind of crud had built up there and would therefore have to be taken into account in the final calculations. (Various copper, nickel and silicon oxides had built up on the surface.)
+
+Various groups then measured the mass of the spheres by comparing them to the platinum-iridium test kilograms owned by the PTB (Physikalisch-Technische Bundesanstalt) in Germany, the National Metrology Institute of Japan in Tskuba and the Bureau International des Poids et Mesures in France.
+
+The team then measured the volume of the spheres using optical interferometry. And the isotope content was measured by teams at the University of Warsaw, the Institute of Mineral Resources of the Chinese Academy of Science and Institute for Physics of Microstructures of the Russian Academy of Sciences.
+
+Finally, the number of atoms in the sample was confirmed by a PhD student using a magnifying glass and a pair of tweezers.
+
+OK, I made that bit up.
+
+The result compares well with other measurements of Avogadro’s constant made using another method.
+
+“Our result leads to more consistent numerical values for the fundamental physical constants,” say this international group.
+
+That’s of more than academic interest. The hope is to one day get rid of the platinum-iridium kilograms which have a habit of loosing a few atoms every time a breeze ruffles the air around them, or worse, of gaining a few atoms each time their aged security guard sneezes.
+
+In its place will be a definition of the kilogram based on an exact fixed value for Avogadro’s number. “The value obtained, 6.02214084(18) x 10^23 mol^-1, is the most accurate input datum for a new definition of the kilogram,” say the team.
+
+That’s not quite good enough to replace the existing kilogram. But with a few more years and the help of what seems to be most of the materials scientists on the planet, we should eventually get there.
+
+Ref: arxiv.org/abs/1010.2317: An Accurate Determination Of The Avogadro Constant By Counting The Atoms In A Si-28 Crystal
+
+Update: a couple of commenters have pointed out that a mole of silicon weighs 28g not a kilogram and that I seem to be completely confused about this story. They are, of course, completely correct. Moral: never write a blog post after midnight!

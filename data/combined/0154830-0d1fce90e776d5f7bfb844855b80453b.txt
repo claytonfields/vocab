@@ -1,0 +1,7 @@
+OO is successful because many people use it. These people use OO concepts and language to intuitively factor the world and describe a future. They form intentions to make software and communicate their thinking with other people by using OO terms. There is more to making software than typing on a keyboard; that is why OO is successful.
+
+OO is successful based on how it works psychologically . Theoretically, people can solve the same problems with other technologies; we can imagine an alternate universe with some other paradigm being dominant. In practice, for various reasons, people do not use other technologies to nearly the same degree as OO.
+
+To foresee what will work in times to come, it is well to understand why what has worked, did work. Within software engineering, I cannot think of a technology that has had a greater impact on mass consciousness than object-orientation.
+
+Exposition

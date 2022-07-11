@@ -1,0 +1,15 @@
+Personal assistant gadgets like Amazon Echo and Google Home are equipped with speakers and microphones—ostensibly so you can ask questions and they can give you answers. Guenael Strutt sees that built-in hardware as an untapped resource for doing something else entirely: making sure you’re okay.
+
+Strutt is the head of product development for Elliptic Labs, which uses ultrasound technology, rather than the typical infrared sensors like you see in your smartphone, for presence detection. It uses a device’s own speaker to emit a high-frequency audio wave that bounces off your body and is picked up by its microphone, then cleaned up and analyzed by Elliptic Labs’s software.
+
+Beyond phones there are a growing number of other gadgets out there with computing power, speakers, and microphones—Amazon alone said that it sold “millions” of its Echo devices this holiday season. Elliptic Labs thinks the rise of this kind of device is an opportunity for the company to branch out, and announced Tuesday that it’s rolling out a version of its technology that is meant to work with these kinds of devices.
+
+“Essentially, ultrasound can be added to any device that needs to know you are there,” Strutt says.
+
+Strutt says Elliptic Labs’s software could be added to an assistant device in, say, an elderly person’s home and notify someone if it doesn’t sense motion for an extended period of time. You could also use it for detecting motion, doing things like asking the home assistant to remind you to pull food out of the oven the next time you enter the room, he says.
+
+At the Mobile World Congress trade show in Barcelona, Spain, this week, Elliptic Labs will show off several demonstrations of how this works by running its software on a Raspberry Pi computer with a microphone and transducer.
+
+The company isn’t planning to build its own home assistant, but it is working with one company that Strutt won’t name to add it to a voice-assistant product similar to Amazon Echo and Google Home.
+
+Gierad Laput, a graduate student at Carnegie Mellon University who studies sensing technologies that can be used without requiring special hardware, including ultrasound, sees Elliptic Labs’s application as a clever way to utilize something that’s already available. For it to really be useful, though, he thinks the user will need to see some kind of feedback—like a light coming on—that indicates the assistant device knows you’re there.

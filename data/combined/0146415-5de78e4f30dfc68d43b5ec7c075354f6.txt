@@ -1,0 +1,11 @@
+Your early holiday gift from the Dancer Core Team has arrived - Dancer2 0.204002 is on its way to your favorite CPAN mirror. This release provides the following:
+
+A fix for public_dir : When using public_dir , Dancer2 now waits for the configuration to be read before deciding where static content should be served from
+
+: When using , Dancer2 now waits for the configuration to be read before deciding where static content should be served from A new plugin helper method, find_plugin() , that lets you import another plugin’s DSL for use in your own custom plugin
+
+, that lets you import another plugin’s DSL for use in your own custom plugin A variety of documentation fixes and enhancements
+
+Make sure to check out the Dancer Advent Calendar! It features a number of great articles not only from the Dancer Core Team, but a number of our community members too.
+
+The Dancer Core Team would like to thank all of our contributors and community members for another great year. Simply put, you are the reason we keep working hard at Dancer, and we are grateful to have such a great community of users and developers around us. Here’s to a great 2017… Hope you all have a safe and happy holiday season!

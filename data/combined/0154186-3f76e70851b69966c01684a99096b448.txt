@@ -1,0 +1,19 @@
+Smokescreen: How Managers Behave When They Have Something To Hide
+
+NBER Working Paper No. 18886
+
+Issued in March 2013, Revised in December 2013
+
+NBER Program(s):Corporate Finance, Law and Economics
+
+
+
+We study financial reporting and corporate governance in 218 companies accused of price fixing. These firms engage in evasive financial reporting strategies, including earnings smoothing, segment reclassification, and restatements. In corporate governance, cartel firms favor outside directors likely to monitor inattentively due to low attendance, other board seats, and overseas residence. When directors resign, they are often not replaced, and auditors are rarely switched. Cartel firms have unusually low CEO turnover and rely on internal management promotions. Their managers exercise stock options faster than managers of other firms. Cartel firms are large donors to political candidates. While our results are based only upon firms engaged in price fixing, we expect that they should apply generally to all companies in which managers seek to conceal poor performance or wrongdoing.
+
+Acknowledgments
+
+Machine-readable bibliographic record - MARC, RIS, BibTeX
+
+Document Object Identifier (DOI): 10.3386/w18886
+
+Users who downloaded this paper also downloaded* these:

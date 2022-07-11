@@ -1,0 +1,41 @@
+Updated 4/26/13 4:58 p.m.
+
+The U.S. intelligence community has uncovered strong evidence that chemical weapons have been used in Syria. Several blood samples, taken from multiple people, have tested positive for the nerve agent sarin, an American intelligence source tells Danger Room. President Obama has long said that the use of such a weapon by the Assad regime would cross a “red line.” So now the question becomes: What will the White House do in response?
+
+In March, the Assad regime was accused of using chemical weapons during an attack on the city of Aleppo. The blood samples were taken by Syrian opposition groups from alleged victims of that strike. But American analysts can’t be entirely sure where the blood came from or when the precisely exposure took place.
+
+“This is more than one organization representing that they have more than one sample from more than one attack,” the source tells Danger Room. “But we can’t confirm anything because no is really sure what’s going on in country.”
+
+What’s clear is that the samples are authentic, and that the weapons were almost certainly employed by the Assad regime, which began mixing up quantities of sarin’s chemical precursors months ago for an potential attack, as Danger Room first reported.
+
+“It would be very, very difficult for the opposition to fake this. Not only would they need the wherewithal to steal it or brew it up themselves. Then they’d need volunteers who would notionally agree to a possibly lethal exposure,” the source adds.
+
+The U.S. military initially tests for evidence of nerve gas exposure by looking for the presence of the enzyme cholinesterase in red blood cells and in plasma. (Sarin messes with the enzyme, which in turn allows a key neurotransmitte r to build up in the body, causing rather awful muscle spasms.) The less cholinesterase they find, they more likely there was a nerve gas hit.
+
+The problem is, some pesticides will also depress cholinesterase. So the military employs a second — and sometimes a third — test.
+
+When sarin binds to cholinesterase it loses a fluoride. The pesticides don’t do this. This second test exposes a blood sample to fluoride ions, which partially reconstitutes sarin if it’s there. If that doesn’t work, military technicians can run a third test — considered the gold standard — which isolates from the plasma one form of cholinesterase, and then uses the enzyme pepsin the chew up the cholinesterase into smaller pieces. Sarin binds to some of the these smaller chunks, and liquid chromatography–mass spectrometry should be able to detect it if it’s there up. “You would be sure it’s a nerve agent and not a pesticide,” says a scientist who works with such tests, which are reliable for two to three week after exposure.
+
+Preliminary blood samples are drawn from a pricked finger tip, and placed a field blood analyzer — a gizmo about the size of a scientific calculator that produces varying shades of yellow depending on the cholinesterase level. If the tests are positive, it’s best to tap a vein and draw more blood into a 10 milliliter tube so you can run the more sophisticated exams.
+
+According to the Financial Times, one blood sample was analyzed by American analysts, while the other was examined by Britain’s Defence Science Technology Laboratory.
+
+Exactly when the results came back isn’t clear. But only days ago, the Obama administration was throwing cold water on reports from Israeli and British officials of chemical weapon use in Syria. (“We have not come to the conclusion that there has been that use,” White House spokesman Jay Carney said on Tuesday.) But that changed Thursday morning, when the White House issued a letter (.pdf) to Senators Carl Levin and John McCain confirming the sarin discovery.
+
+“Our intelligence community does assess with varying degrees of confidence that the Syrian regime has used chemical weapons on a small scale in Syria, specially the chemical agent sarin. This assessment is based on physiological samples,” the letter reads. “Our standard of evidence must build on these intelligence assessments as we seek to establish credible and corroborated facts. For example, the chain of custody is not clear, so we cannot confirm how the exposure occurred and under what conditions.”
+
+It’s not at all clear how the Obama administration will now respond. While everyone from the President on down has warned the Assad regime not to use its chemical arms, the White House has been extremely careful not to “pin the administration down on any particular course of action while at the same time not giving Assad any comfort,” Steven Simon, who served as the National Security Council’s director for the Mideast until December, tells Danger Room. “There’s no automaticity to any response.”
+
+That was underscored by a White House official briefing reporters on background on Thursday afternoon. The official, who refused to be quoted by name, said that the next step for the administration would be “further investigation,” including by the United Nations, to confirm that chemical weapons were used deliberately by the Assad regime.
+
+But the U.N. is already looking into the claims that chemical weapons were used during the March attack in Aleppo. One of the many reasons that the Obama administration has been very careful about going public with these sarin reports is that they’re worried about spoiling that U.N. inquiry. “It could bias the investigation and hurt the U.N.’s ability to get in country,” the intelligence source tells Danger Room.
+
+The White House official said it would be premature to declare that Obama’s red line has been crossed. “It’s precisely because we take the red line seriously that we feel like there needs to be clear, factual, evidentiary bases for our decisions,” the official said. “Given our own history with intelligence assessments, including intelligence assessments related to weapons of mass destruction” — a reference to the infamous incorrect assertions that Saddam Hussein possessed stockpiles of chemical and biological weapons before the Iraq invasion — “it’s very important that we are able to establish this with certainty.”
+
+Members of Congress with access to intelligence immediately went further.
+
+Sen. Dianne Feinstein (D-Calif.), the chairwoman of the Senate Select Committee on Intelligence, issued a statement saying, “It is clear that ‘red lines’ have been crossed and action must be taken to prevent larger scale use.” Feinstein appeared to mean military action to remove Assad from power: “I urge the United Nations Security Council — including Russia — to finally take strong and meaningful action to end this crisis in Syria.”
+
+Her House counterpart, Rep. Mike Rogers (R-Mich.), was a bit more cautious. “President Obama correctly said that Syria’s use of chemical weapons would be a red line for the United States,” Rogers said in his own statement this afternoon. “Now that we have confirmed their use, the question is what is our plan for transition to a post-Assad Syria? I have laid out several steps, short of boots on the ground. The world is waiting for American leadership.”
+
+— with Greg Miller

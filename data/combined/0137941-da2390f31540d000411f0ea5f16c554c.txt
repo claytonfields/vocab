@@ -1,0 +1,31 @@
+In December, a court case brought by Portland-based Asian American rock band "The Slants" led to what could be a major change in US trademark law. The US Court of Appeals for the Federal Circuit overruled the US Patent and Trademark Office, which had refused to give the band a trademark, citing a law barring "disparaging" marks.
+
+The battle isn't quite over, though. Patent Office lawyers have appealed to the Supreme Court, asking them to consider the case. If the Supreme Court takes up the case and reverses the Federal Circuit—something the high court has not hesitated to do in recent patent cases—the USPTO will retain its ability to quash disparaging trademarks.
+
+Either way, the results of the case will have repercussions for other owners of controversial trademarks—most notably, the Washington Redskins. The football team was stripped of its trademark rights after years of litigation but is continuing its fight at the US Court of Appeals for the 4th Circuit.
+
+The Slants have been using their name since 2006, and frontman Simon Tam sought a federal trademark in 2011. A PTO examining attorney denied registration on the grounds that a mark for "The Slants" is disparaging to those with Asian ancestry. The PTO's Trademark Trial and Appeal Board affirmed the decision.
+
+Tao says he chose the band's name to "take on stereotypes" and has noted that the reaction from the Asian community has been "very positive."
+
+The full Federal Circuit considered Tam's case, and nine of the 12 sitting judges voted to find the disparagement rule unconstitutional. The majority held that the rule violated the First Amendment, even though denial of a trademark doesn't stop a band from using the name The Slants. By granting some terms trademarks and not others, the government was engaging in content-based regulation, the court stated in its opinion (PDF). The majority rejected the government's argument that trademarks are a kind of "subsidy," noting that "denial of an otherwise-available benefit is unconstitutional" when it has a "significant chilling effect on private speech."
+
+"Section 2(a) burdens some speakers and benefits others," wrote US Circuit Judge Kimberly Moore. "Lawmakers may no more silence unwanted speech by burdening its utterance than by censoring its content."
+
+Limits on a “subsidy,” or “chilling effect on speech?”
+
+In their petition (PDF) to the high court, USPTO lawyers say that denying a trademark is not "an affirmative restriction on speech," and the Federal Circuit got it wrong. Trademarks are "federal benefits" offered by Congress to advance its policies. In that regard, Congress has "significant latitude to consider the content of speech in defining the terms on which benefits will be provided."
+
+The bar on disparaging marks "does not prevent respondent from promoting his band using any racial slur or image he wishes," write PTO lawyers. "It does not limit how respondent may advertise, what songs he may sing, or what messages he may convey."
+
+It again returned to the analogy of trademark being similar to a government subsidy of speech, making certain phrases more valuable. The disparagement provision is simply a limit on that subsidy program, which is allowable even if it affects speech.
+
+"[T]he First Amendment does not bar Congress from using the resources of the federal government to encourage some forms of expressive conduct rather than others," the PTO brief states. "The commercial nature of trademarks further reduces any concerns about chill."
+
+Tam says he's not worried about the new development.
+
+"I'm very confident that the Federal Circuit got it right, and looking forward to resolution of this long process and vindication of my right to receive a trademark registration for THE SLANTS," he told Ars in an e-mail.
+
+The earlier decision had a variety of examples of offensive trademarks that have been barred by the PTO because they were viewed as disparaging to various groups. Barred trademarks include Stop the Islamization of America, The Christian Prostitute, AMISHHOMO, Mormon Whiskey, Ride Hard Retard, Abort the Republicans, and Democrats Shouldn't Breed.
+
+Some potentially offensive marks that weren't barred include Dangerous Negro (shirts), Celebretards, Stinky Gringo, Midget-Man (condoms), and Off-White Trash.

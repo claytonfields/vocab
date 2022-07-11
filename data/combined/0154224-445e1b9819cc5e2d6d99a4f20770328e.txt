@@ -1,0 +1,97 @@
+A Look at Update 1.9.6
+
+10:57 AM Will Sterling 5 Comments
+
+
+
+
+
+
+
+
+
+We've been hard at work at a lot of different areas in Salt recently, particularly multiplayer. However, we do have another content update coming out soon before multiplayer and we wanted to give you an idea of what you can expect from that update!
+
+
+
+
+
+Here's a look at some of the content coming soon:
+
+
+
+
+
+
+
+
+
+Weather
+
+
+
+
+
+One change that we are incredibly excited about is weather! This is something that has been requested for a long time and we are finally happy to have it near completion. Weather is going to dramatically affect the overall atmosphere and aesthetics of the game. Not only will you get lightning, clouds, and rain, but we've also included changes to the fog and lighting based on the weather. This creates a much more dynamic feel to the world of Salt.
+
+
+
+
+
+Ship Cannons
+
+
+
+
+
+Another new change we are very excited about are ship cannons! Now in the world you'll be able to find cannons and cannonballs at pirate camps. You can them place these on your ship and take out pirates from a distance. Plus, once multiplayer is out, you'll be able to shoot other players and feel like a true pirate!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blacksmith NPC
+
+
+
+
+
+In this update we've also added a new NPC known as The Blacksmith. Upon finding The Blacksmith, he will give you a quest that will reward you with a new pickaxe. With this new pickaxe you'll be able to occasionally mine obsidian ore from various rocks. You can then turn this obsidian in to The Blacksmith for unique rewards. In addition to that, he will also sell salvage tools that will allow you to salvage certain weapons for resources.
+
+
+
+
+
+
+
+
+
+
+
+
+
+We think Update 1.9.6 is going to be a great addition to Salt and we can't wait to get it out! We will give another update soon on when you can expect that update to hit Steam. Also, we just want you to let you know that multiplayer is coming along great. We've got a lot of great functionalities in and working. We will post a blog in the next week or two showcasing what we've got working so far and what's left to go.
+
+
+
+
+
+
+
+
+
+As always, we appreciate your support and would love to hear your feedback!
+
+
+
+
+
+Hey everyone!

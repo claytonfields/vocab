@@ -1,0 +1,19 @@
+JAN 10 2017 BY MARK KANE
+
+Samsung SDI presented in Detroit at the 2017 NAIAS several battery innovations for electric cars.
+
+The major reveal is the next generation lithium-ion cells with both high energy density for 600 km (373 mi) of range in an all-electric car and high power density for 20-minute recharge (80%).
+
+The drawback is that Samsung SDI expects mass production of these cells in 2021. Well… it seems we will have couple years to enjoy 200+ miles BEVs first then before ICE vehicles will finally be crushed by electric cars equipped with these new cells.
+
+“These innovations are expected to forge the leading position of Samsung SDI in the era of electro mobility. The development of the fast charging technology is making a rapid advancement thanks to its technological know-how in materials and processes that vastly decreased the resistance inside a battery cell. With a 20min charge, you can have a driving range of up to 500km which is 80% of the capacity. This means that only 20min in the highway rest area will be enough for a battery to be charged, eliminating the range anxiety of EV drivers. The mass production of this product is slated for 2021.”
+
+The second Samsung SDI product is advanced “integrated battery module” with a 10% decrease in component units and weight compared to the currently produced models.
+
+“In addition, Samsung SDI exhibited a brand-new concept, “integrated battery module” catching the eye of its visitors. A conventional EV battery module which consists of 12 cells has a capacity of 2~3kWh. By contrast, an “integrated battery module” has more than 24 cells with a higher capacity of 6~8kWh, which makes it an adequate module in the full-fledged high-capacity EV era. The integrated battery module is not only larger in size but shows a higher safety level because the advanced electro-mechanical design has been applied. This concept is expected to be a boon in the electro mobility, as it will be lighter with fewer components. We are increasingly witnessing a change in many automakers’ sourcing strategy from battery cells to modules in the EV sector; thus, Samsung SDI is expecting a rising customers’ demand in the integrated battery modules.”
+
+Samsung SDI (like Tesla with Panasonic) is also readying for “21700” cylindrical battery cells (Lucid Motors will be among first customers we bet), which are 21 mm in diameter and 70 mm in length.
+
+“The “21700” cylindrical battery cell model with the improved energy density, power and performance was also exhibited by Samsung SDI. This is the technology which is attracting more focus as U.S. automobile startups are adopting this technology in their EVs.”
+
+In 2016, Samsung SDI began construction of its third battery factory – in Europe, which makes us wonder whether there is a chance for a North American facility in the future.

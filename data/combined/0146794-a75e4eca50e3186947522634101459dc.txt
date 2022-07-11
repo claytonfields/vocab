@@ -1,0 +1,21 @@
+As anyone who suffers from recurrent cold sores knows, herpes is a master escapist. This family of viruses – including strains that cause lesions on the genitals, infectious mononucleosis (glandular fever) and, in some cases, blindness and birth defects – is able to wriggle free of the body’s defences, reactivating after lying dormant for long periods. Now a new drug that denies the virus its means of escape could lead to treatments that keep herpes locked up for good.
+
+When the virus infects cells, the body defends itself by wrapping up the viral genome in a structure that blocks its genes from being expressed. The virus can escape this straitjacket, though, by hijacking some of the cell’s own enzymes to unwrap itself. Once freed, the virus takes hold and spreads.
+
+Thomas Kristie at the National Institute of Allergy and Infectious Diseases in Bethesda, Maryland, and colleagues have developed a drug that inhibits the enzymes the virus uses to free itself – stopping it from escaping. “The virus becomes silent,” says Kristie.
+
+The team tested their treatment on mice infected with herpes simplex type 1, which causes lesions on the mouth and eye.
+
+Advertisement
+
+About a month after infection, once the virus had entered its dormant stage, the researchers removed neurons from a brain region behind the eye where herpes lurks, and cultured the cells. They found they were unable to reactivate the virus. “You don’t ever get the virus coming back,” says Kristie. The drug also appears to limit the spread of the initial infection.
+
+New drug arena
+
+This approach of inhibiting the enzyme that the virus hijacks could lead to new treatments that shut down the herpes family of viruses at an early stage of infection. It might even work on other viruses that take over cells in a similar way, such as HIV. “This could open up a new arena of antiviral drugs that hit a number of viruses,” says Kristie.
+
+“It’s neat that they got such a potent effect,” says Robert White at Imperial College London, UK, who was not involved in the study. But more work is needed to investigate possible side effects, he says, since the drug is likely to be knocking out more than just the host enzymes used by the virus. “It’s a bit of a sledgehammer.”
+
+Journal reference: Science Translational Medicine, doi.org/j64
+
+When this article was first posted, it incorrectly stated that the treatment had been tested on Cytomegalovirus as well as herpes simplex type 1

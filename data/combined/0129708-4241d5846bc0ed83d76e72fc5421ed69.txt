@@ -1,0 +1,19 @@
+European scientists reporting in the journal Proceedings of the National Academy of Sciences have identified how unique neural pathways in the brain allows humans to learn new words.
+
+It has long been believed that language learning depends on the integration of hearing and repeating words but the neural mechanisms behind learning new words remained unclear. Previous studies have shown that this may be related to a pathway in the brain only found in humans and that humans can learn only words that they can articulate.
+
+In the new study, the team has mapped the neural pathways involved in word learning among humans. The scientists found that the arcuate fasciculus, a collection of nerve fibres connecting auditory regions at the temporal lobe with the motor area located at the frontal lobe in the left hemisphere of the brain, allows the ‘sound’ of a word to be connected to the regions responsible for its articulation. Differences in the development of these auditory-motor connections may explain differences in people’s ability to learn words.
+
+The researchers involved 27 participants. They used diffusion tensor imaging to image the structure of the brain before a word learning task and functional MRI, to detect the regions in the brain that were most active during the task.
+
+They found a strong relationship between the ability to remember words and the structure of arcuate fasciculus, which connects two brain areas: Wernicke’s area, related to auditory language decoding, and Broca’s area, which coordinates the movements associated with speech and the language processing.
+
+In participants able to learn words more successfully their arcuate fasciculus was more myelinated i.e. the nervous tissue facilitated faster conduction of the electrical signal. In addition the activity between the two regions was more coordinated in these participants.
+
+“Now we understand that this is how we learn new words, our concern is that children will have less vocabulary as much of their interaction is via screen, text and email rather than using their external prosthetic memory,” said study co-author Dr Marco Catani of King’s College London Institute of Psychiatry.
+
+“This research reinforces the need for us to maintain the oral tradition of talking to our children.”
+
+______
+
+Bibliographic information: Lopez-Barroso et al. 2013. Word learning is mediated by the left arcuate fasciculus. PNAS, published online before print; doi: 10.1073/pnas.1301696110

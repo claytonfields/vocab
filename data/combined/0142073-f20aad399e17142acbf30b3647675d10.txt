@@ -1,0 +1,59 @@
+In IT Blogwatch, bloggers fight for the right to privacy and portability. Your humble blogwatcher selected these bloggy morsels for your enjoyment. Not to mention demonic 'peareidolia'...
+
+Jason Calacanis has an excoriating poker metaphor :
+
+Over the past month, Mark Zuckerberg, the hottest new card player in town, has overplayed his hand. Facebook is officially ... uncool, amongst partners, parents and pundits. ... Zuckerberg and his company are–simply put–not trustworthy. [He is] an amoral, Asperger’s-like entrepreneur ... clearly the worst thing that’s happened to our industry since, well, spam.The entire industry went from rooting for Zuckerberg to hating him ... in under 18 months. Peter Rojas and Matt Cutts have turned off their Facebook pages, and more intelligent people everywhere are talking about doing so. More.
+
+
+
+Krishnan Subramanian likens Facebook to Sarah Palin :
+
+I strongly feel that Facebook has gone rogue. ... Many pundits are upset that Facebook treats users' privacy with complete disdain. ... I have added ... value to the Facebook platform from my participation. ... Asking me to leave if I don't like their newly introduced terms is not reasonable. ... Facebook doesn't support complete data portability. ... Asking me to leave my data behind and go elsewhere now is no different from someone who ... asks me to leave my wallet. More.
+
+
+
+Eric Eldon [Inside Facebook] digs into the changes and criticisms in more detail:
+
+Fairly or not, critics are advocating for ... restrictions on how Facebook handles user privacy ... even recommending that users leave the site. ... There could still be a tipping point, where the build-up of issues finally convinces people to leave en masse. ... The changes ... are misleading to the portion of users who have filled out their interests assuming everything would stay private. ... Facebook ... [does] not clearly explain to users how the features can be used. ... "Like" has more than one meaning. ... Facebook is clearly sharing some data without user permission. And ... has made the process for opting out more complicated. ... Facebook's changes have made some information open that users likely assumed would stay private. More.
+
+Facebook's Elliot Schrage, VP for public policy , says they're all "confused":
+
+Nobody at Facebook wants to make our users' lives more difficult. We want to make our users' lives better. ... Despite our efforts, we are not doing a good enough job communicating the changes that we're making. ... But it's certainly fixable. ... We will soon ramp up our efforts to provide better guidance to those confused about how to control sharing and maintain privacy. ... My biggest concern ... has been the incorrect perception that we don't care about user privacy. ... If Facebook is going to succeed - and we will - it's ... because we'll do the best job of responding to your questions and concerns. More.
+
+But Xeni Jardin [Boing Boing] calls the response "lametastically lame" :
+
+[It] has about as much teeth as a chicken. ... What was published today feels like a big [masturbation] ... and no real answers for anyone. Pathetic. Why was there no attempt ... to poke at ... this guy's wiggle-words?
+
+Facebook's bottom line seems to be: "If you're using our service to share intimate details of your life with friends and family, you'll take whatever we give you, and we'll change that whenever we want without warning." More.
+
+
+
+Instead, Maxwell Salzberg offers the open source Diaspora project :
+
+[Facebook] could be almost entirely replaced by a decentralized network of truly personal websites. ... Diaspora aims to be a distributed network, where totally separate computers connect to each other directly, will let us connect without surrendering our privacy. ... Owned by you, hosted by you, or on a rented server. ... Will aggregate all of your information: your facebook profile, tweets, anything. ... [With] an easily extendable plugin framework. ... Decentralizing lets us reconstruct our "social graphs" so that they belong to us. Our real social lives do not have central managers, and our virtual lives do not need them. ... Direct and secure. ... We are currently raising money. ... We would love your help. More.
+
+
+
+And Harry McCracken [Technologizer] is the king of the one-sentence summary :
+
+Facebook has a history of asking for forgiveness rather than permission, and now says the default for everything is "social"-so the best way to keep things private is to keep them off the service, period. More.
+
+UPDATE: Richi Jennings weighs in with his own opinions.
+
+And Finally...
+
+Demonic face on canned pear; consumer complains to Heinz
+
+[hat tip: Mark Frauenfelder, via Arbroath]
+
+Don't miss out on IT Blogwatch:
+
+* Subscribe to the Computerworld Blogs and IT Blogwatch newsletters
+
+* Catch up with posts from the previous few days
+
+
+
+Richi Jennings, your humble blogwatcher Richi Jennings is an independent analyst/consultant, specializing in blogging, email, and security. A cross-functional IT geek since 1985, you can follow him as @richi on Twitter, pretend to be richij's friend on Facebook, or just use good old email: itbw@richij.com. You can also read Richi's full profile and disclosure of his industry affiliations.
+
+This story, ""Kill Your Facebook Page" Backlash Gains Speed" was originally published by Computerworld .

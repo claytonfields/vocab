@@ -1,0 +1,29 @@
+(Reuters) - U.S. prosecutors have charged an Iranian national with hacking into cable TV network HBO and stealing episodes and plot summaries for unaired programs including “Game of Thrones,” then threatening to release the data unless he was paid $6 million.
+
+Iranian national Behzad Mesri, also known as "Skote Vahshat", charged by U.S. prosecutors with hacking into cable TV network HBO and stealing episodes and plot summaries for unaired programs including "Game of Thrones" then threatening to release the data unless he was paid $6 million, is shown in this undated photo provided by the Federal Bureau of Investigation (FBI), in New York, November 21, 2017. Courtesy FBI/Handout via REUTERS
+
+Behzad Mesri, also known as “Skote Vahshat,” was charged with the hack in a sealed indictment that was released on Tuesday by the U.S. Attorney’s office in Manhattan.
+
+Acting U.S. Attorney Joon Kim said at a news conference that Mesri was in Iran. He said Mesri would face consequences even though U.S. authorities could not immediately arrest him.
+
+“He will never be able to travel outside of Iran without fear of being arrested and brought here,” Kim said.
+
+Kim described Mesri as an “experienced and sophisticated hacker who has been wreaking havoc on computer systems around the world for some time.”
+
+Prosecutors said Mesri had worked on behalf of Iran’s military to attack military systems, nuclear software systems and Israeli infrastructure.
+
+They also alleged that he helped an Iranian hacking group, Turk Black Hat Security Team, deface hundreds of websites in the United States and other countries.
+
+The cyber attack surfaced over the summer as HBO was running a new season of “Game of Thrones,” and as the cable network’s parent Time Warner Inc TWX.N sought regulatory approval to sell itself to AT&T Inc (T.N) in an $85.4 billion deal announced in October 2016.
+
+The indictment charged Mesri with hacking into HBO from May to August and stealing unaired episodes of programs such as “Ballers,” “Curb Your Enthusiasm” and “The Deuce.”
+
+Mesri also stole scripts and plot summaries for “Game of Thrones,” according to the indictment. It said he obtained credentials that HBO employees use to access the network, then used those accounts to steal data from the company’s servers from May to August of this year.
+
+He demanded up to $6 million in extortion emails to HBO staff to keep the data secret, some of which ended with photos of Night King, a menacing zombie villain from “Game of Thrones,” according to the indictment.
+
+Reuters was unable to reach Mesri for comment.
+
+Prosecutors charged Mesri with computer fraud, wire fraud, extortion and identity theft.
+
+HBO spokesman Jeff Cusson declined to comment on the indictment, and on whether the company’s investigation into the breach was complete or how much the incident had cost the cable network.

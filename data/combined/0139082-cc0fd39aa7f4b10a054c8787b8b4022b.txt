@@ -1,0 +1,11 @@
+Swift 3 brings with it many improvements to GCD (Grand Central Dispatch) syntax and usage.Let’s see what’s new things.
+
+dispatch_async
+
+GCD patterns is to perform work on a global background queue and update the UI on the main queue as soon as the work is done.
+
+Previously, we have to choose dispatch method (sync vs async) and then the queue we wanted to dispatch our task to. Now GCD reverses this order – select the queue and then apply a dispatch method.
+
+dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0)) { () -> Void in // Background thread dispatch_async(dispatch_get_main_queue()) { () -> Void in // UI Updates } } 1 2 3 4 5 6 dispatch_async ( dispatch_get_global_queue ( DISPATCH_QUEUE_PRIORITY_DEFAULT , 0 ) ) { ( ) -> Void in // Background thread dispatch_async ( dispatch_get_main_queue ( ) ) { ( ) -> Void in // UI Updates } }
+
+Now, new syntax like below:

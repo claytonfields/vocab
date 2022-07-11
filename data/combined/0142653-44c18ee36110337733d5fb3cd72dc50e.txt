@@ -1,0 +1,20 @@
+Adobe has announced today the public availability of an Adobe AIR alpha release for Linux. Although the alpha is not feature-complete, it is already capable of running some mainstream AIR applications and is robust enough to facilitate AIR development on the Linux platform. Adobe has also officially joined the Linux Foundation and plans to collaborate with the group in an effort to bring rich Internet application and Web 2.0 technologies to the open-source operating system.
+
+"Adobe's decision to join the LF is a natural extension of its commitment to open standards and open source, which demonstrates its leadership and foresight in the software industry," said Jim Zemlin, executive director at The Linux Foundation in a statement. "Adobe's membership will contribute to our goal of increasing even more application development on Linux with a specific emphasis on Web 2.0 applications."
+
+I've been in Adobe's closed test group for AIR on Linux since the beginning of March and have already conducted extensive testing with the AIR runtime for Linux. The Linux implementation is very good and is clearly designed for effective platform integration. One particularly impressive platform-specific feature is integration between the AIR installer and the system's native package manager. On Ubuntu, where I performed most of my tests, I was able to uninstall AIR applications with Synaptic as if they were standard Linux packages.
+
+Package manager integration is significant because it could potentially be used in the future to ensure that AIR applications are consistently updated through the same mechanisms as the rest of the software on the system. Although I haven't tested this feature on other distributions, I'm told by other users that it works seamlessly.
+
+The AIR Linux alpha supports some of the runtime's most sophisticated graphical features like shaped windows and transparency. It also supports most of the desktop integration features like drag-and-drop and clipboard support. A strong foundation is in place, but there are still a lot of important features missing like support for badged installation, system tray icons, hardware acceleration, SWF rendering in HTML, and DRM support.
+
+Despite the missing pieces, the Linux alpha version of the runtime actually does better than the Mac OS X version in some cases. For instance, the PenguinSteve demo we made for our first look at AIR earlier this month worked fine on Linux after a minor tweak, but doesn't render properly on Mac OS X Leopard.
+
+Users who want to try Adobe AIR on Linux for themselves can grab the alpha build from Adobe's web site. An alpha version of the SDK is also available for developers who want to build and test new AIR applications. We tested several popular applications, including the Spaz Twitter client, and found that they performed relatively well.
+
+Adobe's commitment to bringing the AIR runtime to Linux could be extremely beneficial for the open-source operating system, especially if Adobe eventually uses AIR to make its own professional graphic editing tools—like Photoshop—fully cross-platform compatible. Native cross-platform runtimes like AIR are part of an increasing trend to tie applications to standards-based web technologies rather than platform-specific proprietary technologies. As this trend becomes more pervasive, it could ease the transition from Windows to Linux for many users.
+
+Adobe's willingness to work closely with the Linux Foundation to advance rich Internet application support on Linux is a very promising sign of Adobe's interest in building standards-based technologies, but the proprietary nature of the runtime itself and the Flash player technology it contains will likely deter adoption by Linux developers, who will likely prefer open source alternatives like Mozilla's XULRunner runtime.
+
+Further reading
+

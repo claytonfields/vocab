@@ -1,0 +1,63 @@
+The race to uncover the structure of DNA reveals fascinating insights into how Franklin’s data was key to the double helix model, but the ‘stealing’ myth stems from Watson’s memoir and attitude rather than facts
+
+The wave of protest that followed Sir Tim Hunt’s stupid comments about ‘girls’ in laboratories highlighted many examples of sexism in science. One claim was that during the race to uncover the structure of DNA, Jim Watson and Francis Crick either stole Rosalind Franklin’s data, or ‘forgot’ to credit her. Neither suggestion is true.
+
+
+
+In April 1953, the scientific journal Nature published three back-to-back articles on the structure of DNA, the material our genes are made of. Together, they constituted one of the most important scientific discoveries in history.
+
+The first, purely theoretical, article was written by Watson and Crick from the University of Cambridge. Immediately following this article were two data-rich papers by researchers from King’s College London: one by Maurice Wilkins and two colleagues, the other by Franklin and a PhD student, Ray Gosling.
+
+The model the Cambridge duo put forward did not simply describe the DNA molecule as a double helix. It was extremely precise, based on complex measurements of the angles formed by different chemical bonds, underpinned by some extremely powerful mathematics and based on interpretations that Crick had recently developed as part of his PhD thesis. The historical whodunnit, and the claims of data theft, turn on the origin of those measurements.
+
+The four protagonists would make good characters in a novel – Watson was young, brash, and obsessed with finding the structure of DNA; Crick was brilliant with a magpie mind, and had struck up a friendship with Wilkins, who was shy and diffident. Franklin, an expert in X-ray crystallography, had been recruited to King’s in late 1950. Wilkins expected she would work with him, but the head of the King’s group, John Randall, led her to believe she would be independent.
+
+From the outset, Franklin and Wilkins simply did not get on. Wilkins was quiet and hated arguments; Franklin was forceful and thrived on intellectual debate. Her friend Norma Sutherland recalled: “Her manner was brusque and at times confrontational – she aroused quite a lot of hostility among the people she talked to, and she seemed quite insensitive to this.”
+
+Watson and Crick’s first foray into trying to crack the structure of DNA took place in 1952. It was a disaster. Their three-stranded, inside-out model was hopelessly wrong and was dismissed at a glance by Franklin. Following complaints from the King’s group that Watson and Crick were treading on their toes, Sir Lawrence Bragg, the head of their lab in Cambridge told them to cease all work on DNA.
+
+However, at the beginning of 1953, a US competitor, Linus Pauling, became interested in the structure of DNA, so Bragg decided to set Watson and Crick on the problem once more.
+
+At the end of January 1953, Watson visited King’s, where Wilkins showed him an X-ray photo that was subsequently used in Franklin’s Nature article. This image, often called ‘Photo 51’, had been made by Raymond Gosling, a PhD student who had originally worked with Wilkins, had then been transferred to Franklin (without Wilkins knowing), and was now once more being supervised by Wilkins, as Franklin prepared to leave the terrible atmosphere at King’s and abandon her work on DNA.
+
+Photo 51 taken by Rosalind Franklin and RG Gosling.
+
+Watson recalled that when he saw the photo – which was far clearer than any other he had seen – ‘my mouth fell open and my pulse began to race.’ According to Watson, photo 51 provided the vital clue to the double helix. But despite the excitement that Watson felt, all the main issues, such as the number of strands and above all the precise chemical organisation of the molecule, remained a mystery. A glance at photo 51 could not shed any light on those details.
+
+What Watson and Crick needed was far more than the idea of a helix – they needed precise observations from X-ray crystallography. Those numbers were unwittingly provided by Franklin herself, included in a brief informal report that was given to Max Perutz of Cambridge University.
+
+In February 1953, Perutz passed the report to Bragg, and thence to Watson and Crick.
+
+Crick now had the material he needed to do his calculations. Those numbers, which included the relative distances of the repetitive elements in the DNA molecule, and the dimensions of what is called the monoclinic unit cell – which indicated that the molecule was in two matching parts, running in opposite directions – were decisive.
+
+The report was not confidential, and there is no question that the Cambridge duo acquired the data dishonestly. However, they did not tell anyone at King’s what they were doing, and they did not ask Franklin for permission to interpret her data (something she was particularly prickly about).
+
+Their behaviour was cavalier, to say the least, but there is no evidence that it was driven by sexist disdain: Perutz, Bragg, Watson and Crick would have undoubtedly behaved the same way had the data been produced by Maurice Wilkins.
+
+Ironically, the data provided by Franklin to the MRC were virtually identical to those she presented at a small seminar in King’s in autumn 1951, when Jim Watson was in the audience. Had Watson bothered to take notes during her talk, instead of idly musing about her dress sense and her looks, he would have provided Crick with the vital numerical evidence 15 months before the breakthrough finally came.
+
+By chance, Franklin’s data chimed completely with what Crick had been working on for months: the type of monoclinic unit cell found in DNA was also present in the horse haemoglobin he had been studying for his PhD. This meant that DNA was in two parts or chains, each matching the other. Crick’s expertise explains why he quickly realised the significance of these facts, whereas it took Franklin months to get to the same point.
+
+While Watson and Crick were working feverishly in Cambridge, fearful that Pauling might scoop them, Franklin was finishing up her work on DNA before leaving the lab. The progress she made on her own, increasingly isolated and without the benefit of anyone to exchange ideas with, was simply remarkable.
+
+Franklin’s laboratory notebooks reveal that she initially found it difficult to interpret the outcome of the complex mathematics – like Crick, she was working with nothing more than a slide rule and a pencil – but by 24 February, she had realised that DNA had a double helix structure and that the way the component nucleotides or bases on each strand were connected meant that the two strands were complementary, enabling the molecule to replicate.
+
+Above all, Franklin noted that ‘an infinite variety of nucleotide sequences would be possible to explain the biological specificity of DNA’, thereby showing that she had glimpsed the most decisive secret of DNA: the sequence of bases contains the genetic code.
+
+To prove her point, she would have to convert this insight into a precise, mathematically and chemically rigorous model. She did not get the chance to do this, because Watson and Crick had already crossed the finishing line – the Cambridge duo had rapidly interpreted the double helix structure in terms of precise spatial relationships and chemical bonds, through the construction of a physical model.
+
+In the middle of March 1953, Wilkins and Franklin were invited to Cambridge to see the model, and they immediately agreed it must be right. It was agreed that the model would be published solely as the work of Watson and Crick, while the supporting data would be published by Wilkins and Franklin – separately, of course. On 25 April there was a party at King’s to celebrate the publication of the three articles in Nature. Franklin did not attend. She was now at Birkbeck and had stopped working on DNA.
+
+Franklin died of ovarian cancer in 1958, four years before the Nobel prize was awarded to Watson, Crick and Wilkins for their work on DNA structure. She never learned the full extent to which Watson and Crick had relied on her data to make their model; if she suspected, she did not express any bitterness or frustration, and in subsequent years she became very friendly with Crick and his wife, Odile.
+
+
+
+Facebook Twitter Pinterest 1959, Boston, Massachusetts, USA: James Watson and Francis Crick, crackers of the DNA code. Photo taken on occasion of the Massachusetts General Hospital lectures. Photograph: Corbis
+
+Our picture of how the structure of DNA was discovered, and the myth about Watson and Crick stealing Franklin’s data, is almost entirely framed by Jim Watson’s powerful and influential memoir, The Double Helix. Watson included frank descriptions of his own appalling attitude towards Franklin, whom he tended to dismiss, even down to calling her ‘Rosy’ in the pages of his book – a nickname she never used (her name was pronounced ‘Ros-lind’). The epilogue to the book, which is often overlooked in criticism of Watson’s attitude to Franklin, contains a generous and fair description by Watson of Franklin’s vital contribution and a recognition of his own failures with respect to her – including using her proper name.
+
+It is clear that, had Franklin lived, the Nobel prize committee ought to have awarded her a Nobel prize, too – her conceptual understanding of the structure of the DNA molecule and its significance was on a par with that of Watson and Crick, while her crystallographic data were as good as, if not better, than those of Wilkins. The simple expedient would have been to award Watson and Crick the prize for Physiology or Medicine, while Franklin and Watkins received the prize for Chemistry.
+
+Whether the committee would have been able to recognise Franklin’s contribution is another matter. As the Tim Hunt affair showed, sexist attitudes are ingrained in science, as in the rest of our culture.
+
+Matthew Cobb’s Life’s Greatest Secret: The Race to Crack the Genetic Code is published by Profile Press.

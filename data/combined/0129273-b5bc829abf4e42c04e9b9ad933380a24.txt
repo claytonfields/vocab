@@ -1,0 +1,9 @@
+Microsoft’s intelligent assistant, Cortana, could become much more prevalent through a partnership with Cyanogen. In an interview with International Business Times, Cyanogen CEO Kirt McMaster revealed his company is working closely with Microsoft to deeply integrate the technology into a future version of Cyanogen OS. That would put Cortana in Windows 10, Windows 10 Mobile, Windows Phone 8.1, Android, iOS and now Cyanogen OS, making the assistant widely accessible to a massive consumer base.
+
+While McMaster didn’t really provide any concrete details, he did explain the importance of Cortana’s natural language understanding, and how Microsoft’s technology is superior to services like Siri and Google Now. He said that in order to truly make a successful digital assistant, it needs to be embedded into the framework of an OS, which is why Cyanogen OS won’t simply offer a Cortana app, which is what Android does.
+
+Delving even deeper into a stronger relationship with Microsoft, International Business Times suggests Cyanogen OS might one day replace Windows Phone altogether. McMaster acknowledged that people simply don’t buy Windows Phone devices, giving Cyanogen an opportunity to fill in the gaps. We didn’t quite get our dream Lumia phone running Android, but what if we saw one running Cyanogen OS? I’m sure people would be interested.
+
+Cyanogen OS has grown significantly over the past few years, and already has an established user base of over 50 million users. The software powers new smartphones from WileyFox overseas, for example.
+
+Check out the rest of the interview for more comments from McMaster, including his thoughts on forked versions of Android, and Cyanogen’s rocky relationship with Google.

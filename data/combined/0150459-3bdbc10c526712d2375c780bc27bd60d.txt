@@ -1,0 +1,25 @@
+Firefox users have several options when it comes to running searches. They can type a query in the browser's address bar, use the default search field, a search engine on a new tab page or open a search engine directly in the browser to use it.
+
+Mozilla announced some major changes to the search component in Firefox. Not only did the organization decide to change from Google as the default global search engine to regional search engines, it also added the DuckDuckGo search engine as a default option to the browser.
+
+Firefox Beta users who work with the search field may have noticed another change. The search interface has been changed in recent beta versions of Firefox.
+
+The search engine that is being used is not highlighted anymore in the field for instance. It becomes visible once you start typing in the search field.
+
+Other changes become visible then as well. You still get the suggestions first displayed underneath the search term that you are typing if you have not disabled suggestions or are using a search engine that does not support it.
+
+Beneath that are icons that highlight other search engines installed in the browser. A click on any of the other search engines run the search on it instead of the default search engine.
+
+The same is true for the new tab page and the about:home page of the browser. Both search fields use the same design and layout.
+
+A link leads to the search engine settings which are now integrated in the options of the browser. There you can select the default search engine, decided whether you want search suggestions to be displayed, and select which engines you want displayed underneath the search field when you search.
+
+The feature is currently only available in beta versions of the Firefox web browser and not in Nightly or Developer Edition versions. It is possible that changes will be made to it before it lands in the stable version of the browser.
+
+It seems to improve search for users who switch between search engines regularly and use the mouse to do so. Some users may run into issues currently when they use the search field in beta versions of Firefox, especially if they have installed many search engines or if they use add-ons that modify how these search engines are displayed in the browser.
+
+Now You: Are you using the search field in Firefox? What's your take on the change?
+
+Summary Article Name Mozilla tests search field changes in Firefox Beta Description Mozilla has launched changes to the search field in the Firefox web browser in the beta version that modifies the search experience. Author Martin Brinkmann
+
+Advertisement

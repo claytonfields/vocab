@@ -1,0 +1,131 @@
+I’ve been fielding a lot of questions lately about the desynthesis skill, such as: What is it? How do I get it? and, Should I even bother? This page should help answer all those questions, and more, about this crafting subskill which is a rather tedious pain to acquire, but can grant significant benefit to the player who perseveres. For myself, it took me three tries to actually get my desynthesis skills leveled, as it was such a dull and frustrating chore that I abandoned it twice before I finally reached the point where it started to be worthwhile. Having gotten there, I’m glad I did it, and I have some tips for folks getting started that might make the grinding the skill to relevancy more tolerable.
+
+A little bit, anyway.
+
+[Edit note: After I posted this on Reddit it was pointed out that there are a few small errors and omissions in this guide. I’ve added notes on these in the appropriate spots. Thanks Reddit!]
+
+So what is Desynthesis?
+
+Desynthesis is a subskill of crafting. It allows you to take many (but not all) items from the game and “break them down.” If successful, you are given back some of the crafting materials that went into making the item, plus, with luck, one or more special items called “Demimateria” that are only available through this method. If you are unsuccessful, the item is lost and you get nothing.
+
+While you can sometimes get some nice rare crafting materials through desynthesis, the demimateria are usually the main prizes here. While not all demimateria are valuable, most are, and they can be sold as-is on the market board or used to fashion many in-demand glamour items, such as the crafted primal weapons. They can also be exchanged for Crystal Sands to improve your Anima Relic. (230 -> 240 step).
+
+Here’s a list of the kinds of demimateria you can get from desynthesis.
+
+Clear demimateria are a consolation prize. They are not actually used to craft anything, but can be vendored for a decent amount of gil. (The level IIIs vendor for 5000 gil each, for example.) Battlecraft demimateria are used to fashion weapons and battle gear, and are often used in batches of anywhere from three to ten per piece. Fieldcraft demimateria are used for making crafting and gathering gear, furniture, and many in-demand glamour items. Primal demimateria are used to make the primal weapons. Mastercraft demimateria are hard to come by and are used for making certain very high-end crafting and gathering items.
+
+Okay, I’m convinced! How do I acquire this amazing skill?
+
+Now we get to the annoying part.
+
+The basics of desynthesis aren’t hard. You can acquire desynthesis for any craft you have leveled to 30 by looking up the NPC named Syntgoht on the Steps of Thal in Ul’dah (14,10) and completing the quest “Gone to Pieces.” (You need to have completed the quest “Life, Materia and Everything” first.)
+
+[Added note: a Redditor clarified that while you only need to do this quest once to open up the Desynthesis ability, you cannot use it for any craft class if your level is below 30. After opening the skill, any craft class that reaches 30 will automatically gain the desynthesis option.]
+
+You will want to pick three, possibly four, crafts to open for desynthesis, as trying to level desynthesis for all crafting classes will lead you to disaster.
+
+Here’s why.
+
+Desynthesis skill doesn’t progress the way that regular class skills do in FFXIV. Instead of allowing you to max out all classes with sufficient time and effort, desynthesis forces you to choose. You start out with a “pool” of available points to spend on desynthesis. This pool goes up in size every other patch or so, and as of patch 3.3, it’s 680 points total. In order to max out the desynthesis level for one craft, you must spend 220 of these points (again, as of patch 3.3). That gives you enough points to cap out three desynthesis skills and a very tiny little bit of a fourth one.
+
+“But what if I want to spread my 680 points over all eight crafter skills?” I hear someone in the back asking. Well, you could do that, but then you’d have a desynthesis skill level of 85 in eight crafts — and while that’s not completely useless, it will keep you from desynthesizing the latest and greatest items, which will drastically limit your ability to profit from desynthesis. So don’t do it.
+
+As a general rule, your desynthesis skill level tells you what item level of item you have a decent chance of successfully breaking down. If your Leatherworker desynthesis level is 50, you will have a 50% chance to successfully desynth leather items that are item level 50 (assuming you don’t use items to temporarily boost your skill — see the notes further down.) This is why you want to max out desynthesis: since the current max desynth skill is 220 points, it gives you a chance to desynth items of around that item level. And generally the best loot for the current game is obtained from breaking down the highest item level items currently out there, with a few exceptions.
+
+Once you’ve opened desynthesis for a craft, your desynthesis skill level appears as a thin bar underneath the main experience bar for the craft.
+
+Here you can see that I have GSM, LTW, and WVR desynthesis leveled. By hovering my pointer over the leatherworker skill bar, I can see that my current desynthesis level for this skill is 213.52 (out of the current max of 220). I have a decent shot at desynthing level 220 items, and a not-so-good shot at desynthing items leveled 230 or 240, should I happen to have some of those lying around that I’m not using (not likely at the moment!)
+
+Okay, got it. Only three desynthesis skills. How do I actually level them?
+
+You get your hands on some items and you try breaking them down, of course! If you succeed at a desynth attempt, you have a chance to improve your current skill level. But there’s a devilish little twist: there’s an inverse relationship between your chance to successfully desynth something and the skill increase you get from doing so. What this means is, if you desynth items that are easy for you, your skill level will inch up verrrrry slowly, but you won’t fail as much. On the other hand, if you desynth items that are tough for you, you’re going to destroy a lot of items — but any that you succeed on will give you a decent boost to your skill. Desynthing items at a 100% chance of success will never give you any skill boost**, so if you want to improve, you have to take a certain amount of risk. Exactly how much risk is the question you’ll have to answer for yourself!
+
+[**Edit: It turns out that on rare occasions you actually can get a tiny skill boost from desynthesizing things that are 100% chance for you. We’re talking no more than 0.03 of a point, however.]
+
+To get started, select the item you want to try breaking down and choose “desynthesis” from the menu.
+
+The desynthesis screen will appear.
+
+Hit desynthesis, the item will be destroyed, and the game will tell you what, if anything, you got instead!
+
+A level IV materia and a couple of ice clusters. Meh. Oh well, them’s the breaks.
+
+Here’s another example:
+
+This is tougher. It’s an item level 195 item. My 207.87 skill gives me a 73% chance to desynth this.
+
+It worked! I got a hardsilver ingot and some clusters.
+
+I also got this skill increase:
+
+That may seem like a small increase, but it’s actually pretty good. Desynthesis usually increases just a fraction of a point at a time, so you’ll have to get used to it!
+
+Here’s another item I could desynth if I wanted to:
+
+These are item level 215. Since my leatherworking desynthesis is only at 213.52, I have a less than 50% chance to successfully break this down. So I’m not going to do it right now. I can try again when my skill has increased.
+
+If you should happen to get careless and use up all your point pool, and then try another desynthesis, something obnoxious will happen: if you succeed and get a skill increase, one of your other desynthesis skills will be randomly chosen to decrease by the same amount to keep you from going over the skill point maximum. This is yet another great reason to specialize your desynthesis into three skills max!
+
+If you decide to change your chosen desynthesis skill after you’ve leveled it, you can reset it to zero with the appropriate one of these items:
+
+So what crafting skill should I pick to do desynthesis with?
+
+At several points in your quest to level your desynthesis skill, you are going to have to collect dungeon drops to break down, as no crafted gear will be of an appropriate level to advance your skill. This means that the best crafting skills for desynthesis are the ones you can expect to find pretty often in dungeons, which usually means Weaver, Leatherworker, and Goldsmith. Armorer is also not a terrible choice though tank gear falls less often than leather and cloth gear. Blacksmith, Carpentry, and Alchemy are rather poor choices, as the only drops you can desynth with those are a few weapons here and there, so your opportunities to improve your skill and acquire mats and demimateria will be few and far between.
+
+“But if I break down all my dungeon drops, what will I turn in for Grand Company seals?” Thanks for asking, Austin.
+
+You turn in anything you get that you can’t break down, of course — items from the craft skills you haven’t leveled. Or anything that you’re already 100% chance at and don’t want the mats from.
+
+What about Culinarian?
+
+Culinarian is a special case. You cannot get demimateria from doing Culinarian desynthesis! (*NOTE: This statement is not quite right. See below!) But you can get some rare glamour items like this:
+
+Since almost no one does Culinarian desynthesis, the market for items like this — only available from this source! — is almost always nicely profitable. And Culinarian items are cheap to stock up on to level your skill, since there’s an ocean of trash fish out there you can break down. There is a rare minion available from Culinarian desynthesis as well. If you’re after crafting mats and demimateria, this is a bad choice, but if you want to stand out from the crowd and do something different, you could consider this! It’s not without its rewards.
+
+(*Note: Turns out there are a few meals you can get demimateria from, but never from desynthesizing fish. Fieldcraft demimateria can be gotten by desynthesizing Better Crowned Pie, Tailor-Made Eel Pie, and Rich Tomato Relish.)
+
+I HATE HATE HATE it when my items blow up! Are there any ways to improve my chances of successfully desynthing stuff?
+
+Yes, there are! Three of them in fact.
+
+First, there is a food you can eat to improve your desynthesis odds for 30 minutes.
+
+Second, there is a potion you can take that stacks with the bacon broth and gives you a boost to your skill for ten minutes.
+
+The HQ versions of these items do improve the bonus you get, so try to use HQ bacon broth and Tinker’s Calm whenever possible.
+
+Third, any item that has materia melded it to receives a bonus chance for desynthesis. The level and type of the materia does not matter, only the number of them melded to the item. If you have items that can accept melds, every materia you meld to it increases your desynthesis chance by 5%, so you can stock up on trash materia (such as level 1 elementals) and meld them to things you want to desynth for a quick boost.
+
+(NQ versus HQ makes no difference to your chance of desynthing an item, nor does it affect your odds of getting rare materials from a successful desynthesis.)
+
+So here’s Auric’s patented (TM) method for leveling desynthesis:
+
+Gather up items of an appropriate level until you have a good-sized stack. Meld a bunch of trash materia to the items. Drink the bacon broth. Quaff the Tinker’s Calm. Desynthesize as much as you can during the ten minutes the potion buff lasts!
+
+A few final important notes
+
+Important Note One: You can’t control what mats you get back when you desynth. The way this material drops work is this: you can get multiple types of shards/crystals/clusters from a desynth, but only one material, which will come from the list of materials used the craft the item. Non-craftable items that you can desynth also have a hidden recipe list, which you can’t access directly but can infer by paying attention to the drops you get when you desynth that item. You have about a 20% chance of getting an HQ version of the material, if an HQ version exists; otherwise, you’ll get NQ. You may get multiples of a material if multiples of that mat were used to craft the item (that is, if three electrum ingots were used to make a bracelet, you might get anywhere from zero to three ingots back from desynthesizing it.)
+
+Important Note Two: The list of items that can be desynthesized changes! Typically, some high end dropped items will be kept off the desynthesis list for a patch or two to discourage people from rolling on those items for desynthesis fodder when there are players trying to use it to gear up secondary classes. So just because something can’t be desynthesized this month doesn’t mean it will always be that way. Read the patch notes to find out when new items have been added to the desynthesis list.
+
+Important Note Three: While the item level of gear is a good guide to what level of desynthesis you will need to break it down successfully, it’s not perfect! The thing that actually determines how hard it will be to desynth an item is a hidden value called the “r level.” While this is often the same as the item level, sometimes it isn’t. The only way to discover these exceptions is to try desynthesizing them, or to find out about it from someone else who did. Also, the arrival of Heavensward messed up the nice even synchronization of item levels with desynthesis drop quality, so now you can get Grade III Demimateria from level 100- 140 drop items obtained from the endgame ARR dungeons, but items from the Heavensward expansion revert to dropping the less valuable Grade II Demimateria until you reach the Heavensward endgame, despite their equal or higher item level.
+
+Here are a few examples of some items where the “r level” and the item level aren’t synchronized at all.
+
+This is Rianne, who runs the shop across the way (more or less) from the Immortal Flames HQ in Ul’dah. She sells wedding clothes, among other things. Check out these Bridesmaid’s Sandals:
+
+They’re item level one, but if you try to desynthesize them, you’ll find out you need a significantly higher level of leatherworking desynth skill to successfully break them down, because they are “r level” 70!
+
+On the other hand, if you do break them down, you can get materials like Spruce Lumber, as well as these:
+
+That’s a Fieldcraft III demimateria, which can be hard to come by from other sources. These often sell for substantially more than the 6,000 gil it takes to buy the sandals from Rianne, so if RNGesus isn’t out to get you, you can make a quick profit by buying sandals in bulk and breaking them down for the demimateria.
+
+There’s also this guy over at the Silver Bazaar:
+
+If you select one of those “Aged” items, you’ll see they have no item level:
+
+But they do have an “r level”, and it’s 55. As for why you would want to desynthesize these things — at the moment you probably don’t, but once upon a patch, desynthesis of these Aged items was the key to upgrading the Nexus version of the level 50 Relic Weapon (115) to the Zodiac Braves version (125). As you can probably imagine, there was a fortune in gil to be made for anyone who had desynthesis leveled up and ready to go when this patch was released. The development team has a habit of hiding rare materials inside odd items, and the desynthesis master who’s ready to jump on those items on Patch Day can do very, very, very well for herself out of it!
+
+And that’s the end of this introductory guide to desynthesis. If you want even more in-depth information on this skill, along with some extremely handy lists of suggested items to desynth as you work to improve your skill, visit Nyalia’s Desynthesis Endgame Guide on the official forums. It’s an invaluable resource.
+
+Advertisements

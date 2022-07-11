@@ -1,0 +1,39 @@
+Only 30 units of the LimaFLo Chicago Mk1 will be made, and we’re told these will all be made available via their Kickstarter only.
+
+The goal for Chicago is a paltry £6,630 GBP, enough for 30 units to be made. And at time of writing and with 23 days remaining it’s already been funded by 20 backers to the tune of £5,016 GBP.
+
+Basically for £221 you get an analog synth designed for house riffs and hooks and basslines. It’s not designed to compete wth the more illustrious Moog, Korg or Roland synths out there and doesn’t feature pitch bend, after touch, modulation, white noise, CV in/out. In this way Chicago has quite a limited feature-set, but we’re told its sound “portfolio” is large, has lots of adjustability and its own character.
+
+Chicago Analogue 'limited Edition' Features:
+
+Analogue signal path from the oscillator to the output
+
+1 x Saw or Square wave (selectable)
+
+1 x Synced Square Sub (-1 Octave) - it also divides the Saw frequency by 2
+
+4 x independent Pulse waves with automatic or manual adjustment of the phase, and manual adjustment of the pulse width
+
+Tune (0 to +60 cents), 3rd, 5th or 7th
+
+MIDI In, MIDI Thru, channel selection 1 to 16
+
+Classic Gate mode or Gate and 'Trigger on every note' mode
+
+6 channel mixer
+
+Amplifier ADSR
+
+Sallen & Key 24dB/Octave Low pass filter with Attack, Peak, Decay, Sustain and Resonance control
+
+Set to sine (low frequency filter) switch
+
+Filter decay mode switch
+
+482 mm (19") x 132 mm (3U) and ~40 mm from face to base
+
+1 Watt power dissipation
+
+Approx. 2 kg
+
+If you’re interested in what LimaFlo Chicago will sound like (of course you are!) then visit their Kickstarter page, scroll down and you’ll find plenty of examples. Here's a few choice ones:

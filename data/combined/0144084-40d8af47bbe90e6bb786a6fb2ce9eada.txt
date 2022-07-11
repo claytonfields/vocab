@@ -1,0 +1,19 @@
+We recently reviewed the Ring Video Doorbell Pro – a smart doorbell with full HD video and security support – including how well it worked with Windows 10 and Mobile. While the app works just fine the lack of significant updates was a little worrying. In that review, I was concerned that Ring may not be 100 percent committed to Windows 10 for future Ring products. Looks like my fears were unfounded. Ring has an update in testing that's a complete overhaul and rewrite for Windows 10 and I got an early look. Here is the forthcoming Ring Video Doorbell 2.0 app for Windows 10. Ring Video Doorbell 2.0 for Windows 10 The updated Ring app for Windows 10 is a complete rewrite using more native, and modern Universal Windows Platform (UWP) controls. The app works on Mobile and PC too, and best of all it is significantly faster to launch and jump into your recorded videos or live view.
+
+Most of the changes so far are in the redesign for streamlined access to your Ring accessories and device management. There are five main sections including: Dashboard – A quick overview of Ring activity like rings, motion, live view, and starred.
+
+– A quick overview of Ring activity like rings, motion, live view, and starred. Devices - Manage your Ring devices and accessories.
+
+- Manage your Ring devices and accessories. Setup - Setup and add new Ring devices.
+
+- Setup and add new Ring devices. Help - Help and support.
+
+- Help and support. Feedback - Leverages the new Windows 10 feedback hub to leave comments/requests. Interestingly, the "setup" area currently states "To set up a Ring device, please use the Ring app on iOS or Android." While that seems like a bad sign, I'm assuming it's just a placeholder until that section is rewritten for the new app. There are not a ton of new features yet as it appears that various components are still being worked on, but there are a few already live including a new "health" area for your doorbell. Health, which is already found on iOS and Android, simply gives a status of your Ring device like battery life (if applicable), voltage, network, signal strength, firmware, etc.
+
+Not yet visible are sharing, new neighborhood feature or security zone management. The app even has a new icon for when minimized that is more in line with Windows 10. When is it coming? Unfortunately, I don't have an estimate when Ring Video Doorbell 2.0 for Windows 10 will be coming, but the beta I'm currently using is very stable with no crashes or red flags in the first 24 hours of usage. I'm hoping we'll see newer Ring features ported to the 2.0 Windows 10 app to keep it feature parity with iOS and Android.
+
+Ring 2.0 running on Windows 10 Mobile.
+
+Either way, it's exciting to see that the company is actively developing a new re-written app for Windows 10 and Mobile users. The faster performance, smarter redesign, and updated graphics should be worth the wait. Ring Video Doorbell Pro review: A smart doorbell for Windows 10 If you were thinking of buying a Ring smart device, hopefully, this peek will reassure you that the company is still committed to Microsoft. I hope that also means we'll see some Cortana and connected devices support native to Windows 10 in the future as well.
+
+New Ring 'health' section for Windows 10.

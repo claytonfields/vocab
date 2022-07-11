@@ -1,0 +1,41 @@
+North Korean leader Kim Jong Un. AP Images / Business Insider
+
+North Korea attempted to fire a missile Sunday, but it blew up within seconds.
+
+It happened one day after the anniversary of the country's founding.
+
+While North Korea's missile program may be the shadowiest on earth, it's possible that US cyber warriors were the reason for the failed launch.
+
+A recent New York Times report uncovered a secret operation to derail North Korea's nuclear-missile program that has been raging for at least three years.
+
+Essentially, the report attributes North Korea's high rate of failure with Russian-designed missiles to the US meddling in the country's missile software and networks.
+
+Although North Korea's missile infrastructure lacks the competence of Russia's, the Soviet-era missile on which North Korea based its missile had a 13% failure rate, and the North Korean version failed a whopping 88% of the time, according to the report.
+
+While the missile failure on Sunday could have just been due to poor workmanship, US Deputy National Security Adviser K.T. McFarland seemed to leave room for speculation about espionage, telling Fox News, "We can't talk about secret intelligence and things that might have been done, covert operations, so I really have no comment."
+
+Vice President Mike Pence on Monday visited the demilitarized zone between the Koreas, saying that "all options are on the table to achieve the objectives and ensure the stability of the people of this country," and that "the era of strategic patience" with North Korea "is over."
+
+To those in the know, the campaign against North Korea came as no surprise. Ken Geers, a cybersecurity expert for Comodo with experience in the National Security Agency, told Business Insider that cyber operations like the one against North Korea were the norm.
+
+While the US hacking another country's missile program may be shocking to some, "within military intelligence spaces, this is what they do," Geers said. "If you think that war is possible with a given state, you're going to be trying to prepare the battle space for conflict. In the internet age, that means hacking."
+
+Reuters
+
+North Korea's internal networks are fiercely insulated and not connected to the internet, however, which poses a challenge for hackers in the US. But Geers said it was "absolutely not the case" that hacking requires computers connected to the internet.
+
+A recent report in The New Yorker on Russian hacking detailed one case in which Russia gained access to a NATO computer network in 1996 by providing bugged thumb drives to shops near a NATO base in Kabul, Afghanistan. NATO operators bought the thumb drives, used them on the network, and just like that, the Russians were in.
+
+"That's where SIGINT (signals intelligence) or COMINT (communications intelligence) comes into collaboration with HUMINT (human intelligence)," Geers said.
+
+He described the present moment as the "golden age of espionage," as cyberwarfare remains nonlethal, unattributable, and almost completely unpunished.
+
+But a recent missile salvo from North Korea suggests that even a prolonged, sophisticated cyberattack can't fully derail its nuclear-missile program.
+
+"Imagine you're the president. North Korea is a human-rights abuser and an exporter of dangerous technology," Geers said. "Responsible governments really need to think about ways to handle North Korea, and one of the options is regime change."
+
+The test fire of Pukguksong-2 in February. KCNA/Handout via Reuters
+
+Further, Geers said, because of the limited number of servers and access points to North Korea's very restricted internet, "if it ever came to cyberwar between the US and North Korea, it would be an overwhelming victory for the West."
+
+"North Korea can do a Sony attack or attack the White House, but that's because that's the nature of cyberspace," Geers said. "But if war came, you'd see Cyber Command wipe out most other countries' pretty quickly."

@@ -1,0 +1,61 @@
+The OLPC deployment in Antitourna, Nosy Komba is located in the island of Nosy Komba, between the island of Nosybé and the « great island » of Madagascar. The OLPC deployment done by OLPC France consists of 160 XOs + 1 XS installed in the primary school of the village of Antitourna. This village is located one-hour away (by boat) from the city of Hell-Ville in Nosybé.
+
+The GPS coordinates of the Antitourne school is : 13°27'03.50'' S, 48°21'34'' E and the the GoogleEarth KMZ file can be found here. Pictures of the deployment are available in this and that blog post and on OLPC France's Flickr page.
+
+Architecture of the long distance wifi deployment
+
+After the deployment of the XS server at the Antitourna school, OLPC France decided to find a way to connect the school to Internet with an affordable and reliable solution operated by a local team in Nosybé / Nosy Komba area.
+
+Internet connexions in the island of Nosy Komba are currently (Sept 2011) only wireless solutions (VSAT-IP, WiMAX, 2.5/3G usb dongle) that either are costly and latency intensive (vsat, wimax) or non-reliable in terms of bit rate (2.5/3g).
+
+However Madgascar has a pretty good DSL coverage through the national ISP Telma and proposed a DSL subscription (512k or 1M downlink) in Hell-Ville (on the island of Nosybé) with a reliable throughput due the optical fiber connecting Madagascar to the African optical loop (sometimes hybrided with long distance wireless connexions in the 21GHz band).
+
+The targetted architecture was then to connect the Antitourna school to a DSL wired connexion in Hell-Ville even if the GPS coordinates from the school indicates no direct line-of-sight with Hell-Ville (cf the KMZ file indicating the 2 points of connexion).
+
+The island of Nosy Komba is like a mountain in the sea with a stip up-hill path to the top. A point of relaying for the wireless signal was then identified with 2 direct lines-of-sight to Hell-Ville and to Antitourna primary school. Below is the global architecture of the Internet connexion:
+
+On the school, a normal Internet access architecture was configured with a switch connected to the receiving UBNT Airgrid5 and to the XS server as Internet Gateway for the local wireless network and the local services for the XOs. The XS has 2 network interfaces (one for Internet and one to the local wireless router in bridge mode to serve connectivity to the XOs).
+
+The main devices used to set-up the long shot wifi in the 5GHz band was Ubiquity Airgrid5, below is a picture with the 27dBi antenna and the active head with the router inside, powered by PoE (Power over Ethernet).
+
+Technical details of the deployment
+
+Location Hardware Power supply Hell-Ville high point DSL router (Zyxel)
+
+UBNT Airgrid5 220V/50Hz
+
+PoE (UBNT passive injector 220-to-5V)
+
+1 UBNT requires less than 5W under Nosy Komba wireless relay 2 x UBNT Airgrid5
+
+DIY-made RJ45 female-to-female connector between the 2 UBNT 50W/12V solar panel (Femtoni SS50 2.78A )
+
+Solar charge controller (Steca Solsum 6.6F 12/24V, 6A)
+
+3 x 12v batteries (intact block-power BP 12-7.0, 7.0Ah, 1.75V/[email protected] 20°)
+
+12V/5V DC-DC converter (for the UBNT passive PoE injector)
+
+crepuscular relay for night power switching Antitourna school 1 UBNT Airgrid5
+
+1 Switch
+
+1 FON 2200 (main)
+
+1 wireless router (back-up) 250W solar panel (used for XOs also)
+
+12V/220V DC-AC converter
+
+APC for the technical room (XS, wireless router)
+
+
+
+The final pole installation at Nosy Komba Relay.
+
+
+
+The video-conf with the Antitourna school during Sugar Camp #2 in Paris.
+
+Note: You can also download this report as in a PDF version.
+
+Xavier Carcelle is OLPC France's wireless networking guru.

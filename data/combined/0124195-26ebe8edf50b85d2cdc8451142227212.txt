@@ -1,0 +1,25 @@
+A push to get immigration data up on deadline resulted in the details of 10,000 asylum seekers being published on the Department of Immigration and Border Protection's website by mistake, KPMG has found.
+
+In February , the full names, nationalities, locations, arrival dates, and boat arrival information of nearly 10,000 asylum seekers housed both on the Australian mainland and Christmas Island was accidentally published online by the department, and was only removed after alerted to the breach by The Guardian.
+
+Around 90 of the asylum seekers lodged cases in the Federal Court against the department claiming that the breach exposed them to persecution in their home countries, and therefore they were entitled to automatic protection. A number of those claims have so far been dismissed.
+
+In a report from KPMG's investigation into the breach published (PDF) by the department this week, it was revealed that the Immigration Detention and Community Statistics Summary Word document was published on the department's website in early February, and was accessed 123 times from 104 IP addresses before being pulled down.
+
+Although the department declined to reveal the extent of the breach, it said that the document was accessed by a "range of sources" including media organisations, Australian government departments, internet proxies, TOR network, and web crawlers.
+
+The confidential asylum seeker data was pulled to produce the analysis for the document, and should have been removed prior to publication, but KPMG said that factors contributing to the data breach may have included "time pressures, unfamiliarity with certain functionality of Microsoft Word, lack of awareness of roles and responsibilities, and limited awareness of IT security risks associated with online publishing."
+
+The report found that the data set is usually extracted from the data warehouse automatically, but in this instance it was done manually to meet a target publication date of February 10.
+
+The data was then imported into Microsoft Excel for analysis by one member of the department, before charts and tables made from Excel were then transferred into a Word document by another staff member who had not previously prepared the monthly document.
+
+There were a number of clearance hurdles for the document to go through before being published, including a number of amendments made to the document and the underlying Excel template. KPMG found that the private data was accidentally included at one point during the amendment stage, but was not picked up through any of the final checking processes.
+
+KPMG said that the reviews were performed predominantly on a hardcopy version of the document, and were mainly only checked against the department's style guide for spelling and grammar. The authors were not aware of how to check for IT security risks, the report noted.
+
+"Authors and approvers were generally unaware that the IT security risk which led to this incident, could occur and were therefore not mindful of checking for indicators of this risk," the report stated.
+
+Meeting government accessibility requirements also played a role, KPMG noted. The monthly summary used to only be produced in PDF format, but to meet the accessibility requirements for the visually impaired, the department made the decision to produce a Word document version of the report, too, but staff were unaware of the security risks publishing in Word format might entail.
+
+KPMG has recommended that the department improve data clensing processes, update its online publishing quality assurance checks, and train staff in correct online publishing methods.

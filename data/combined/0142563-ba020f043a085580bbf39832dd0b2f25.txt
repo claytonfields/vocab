@@ -1,0 +1,17 @@
+The physicist John Archibald Wheeler wrote in 1984:
+
+“...the most revolutionary discovery in science is yet to come! And come, not by questioning the quantum, but by uncovering that utterly simple idea that demands the quantum .” Wheeler, 1984 [1]
+
+“What matches up the many different Bobs with the possible Alices (all observe only one Bob and one Alice) so that ‘reasonable’ stochastic laws emerge from this chaotic mess? A physicist naturally asks for the ‘mechanism’ that has access to the alternatives to accomplish that ‘interaction’ between them. That ‘interaction’ is precisely what QM with its superposition and entanglement and interference between possibilities is, and its necessity demands the quantum.” [2]
+
+The fourth FQXi contest “Which of Our Basic Physical Assumptions Are Wrong?” is now closed. My entry [2] argues that physical actualization of future is the worst offender, and that without it, many profound difficulties will become as trivial as the earth orbiting the sun (no big claim here - it always works out this way with paradigm changes, and who wants to claim that quantum mechnics will not lead to a true paradigm change).
+
+Everett Relativity follows from Special Relativity added to the indeterminism of tautological modal realism. Source: [2]
+
+First request I ask of you today: Go read it please, but be warned. It is the most difficult piece I have ever written. I struggled hard and had to reject some of my own terminology, improving it considerably during these months. The essay changed much since the drafts you may have seen; there is sweat and blood in every line. Many people helped me with making it as clear as possible (thank you Gerhard, Richard, and many more who may not like to be mentioned by name), but because the content cannot be put very differently without destroying the message, it stays to be a difficult read. It can be understood with some effort, as it is self-contained (except for the appendix), and color coding definitions of terms (green) and numbering paragraphs (blue) with extensive cross-references are there to help. I promise that it is worth your effort.
+
+It has to be read twice in order to see that most sentences (which should themselves often be read several times), however strange or clumsy some of them seem, can hardly be put any other way without becoming wrong and/or conflicting with the whole. There is no other way to anticipate a paradigm (the language of which) we do not know (certainly not given a 25k character limit). There is no other way to address the fundamentally wrong, as the contest explicitly asks to do (!), i.e. the meaningless, without violating the main lessons that Wittgenstein taught us, namely, that one has to be silent about the meaningless.
+
+John A. Wheeler
+
+Because of the unavoidable level of difficulty, here the second request I ask of you: Write me here in the comments (or email me) your criticisms and questions. I will put together a FAQ or even write articles about particular issues (probably things like whether I do or do not “believe” in “many-worlds” and suchlike, but maybe there are some surprise topics). Ideally, I would write an article about every single one of the 24 small paragraphs, but time is money.

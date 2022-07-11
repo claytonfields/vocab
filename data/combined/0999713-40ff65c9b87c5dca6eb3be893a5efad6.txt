@@ -1,0 +1,89 @@
+Please note that this page has not been updated since early 2015. I now recommend stack
+
+Rationale
+
+I’m trying to learn the Haskell programming language, and I’m tripping over the cabal-install package management system sufficiently often that it’s putting me off putting time into learning the language. Here are my requirements for a development environment I’m willing to learn in:
+
+don’t leave Debian Wheezy 32-bit; Debian Jessie will be out soon, but its versions of GHC and the Haskell platform are still very old so upgrading early is not a way out. minimise how often I have to delete all of ~/.cabal and ~/.ghc ; when using cabal sandboxes, again, minimise the number of core libraries that need to get rebuilt in every sandbox; be simple enough to integrate cleanly with the existing ways I manage my OS installation and the contents of my home directory; be simple enough that I can understand everything as a Haskell beginner and can get things working (again) quickly and get back to trying to write Haskell.
+
+In this document I will describe the combination of home directory and system-wide installations that fit these requirements, and the workflow for sorting out packages so that I can get on with trying to make my programs do input and output, and other fun Haskell beginner stuff.
+
+Alternative approaches
+
+The following two approaches don’t satisfy the requirements given above.
+
+Do everything manually
+
+This involves having nothing installed system-wide, including the Haskell Platform. Install GHC and Cabal in ~/local/src and then install things into their own sandboxes and add the .cabal-sandbox/bin directories to your $PATH . Someone on reddit describes a balance between installing stuff into .cabal/bin and having sandboxes in which related packages are built and then symlinking those directories. But this requires lots and lots of rebuilding over and over and lots of manual $PATH additions. System-wide Debian packages mitigate this.
+
+This might facilitate such an approach.
+
+Fails (2), (3) and (4).
+
+Use a clever automatic sandboxing solution
+
+Halcyon and the Nix package manager (which doesn’t require the full NixOS) are the projects I’ve come across that try to do this. They aim to avoid even more rebuilding than my approach avoids. The Halcyon author doesn’t want to support 32-bit Debian, and I don’t want to be a Nix early adoptor at the same time as trying to learn how to get my programs to take input and produce output.
+
+Fails (1) and (5).
+
+Drawbacks of my approach
+
+We’re living very far away from the edge: we’re using GHC 7.4 and a version of the Haskell Platform from 2012. Someone on reddit expresses the view that since Haskell moves so fast, you’ll end up rebuilding everything all the time anyway so you can use your favourite packages from Hackage. The only thing we’re not getting from the Debian apt repositories that we might is haskell-mode and ghc-mod for Emacs, since we can have newer versions of those without repeated building.
+
+We’re doing a lot of rebuilding of libraries, and we’re only avoiding rebuilding those that come with Debian, which will become less and less useful as time goes by and Hackage packages depend on newer versions.
+
+This is okay because I’m a Haskell beginner, and I’m not a professional software engineer, so even if I stick with learning Haskell it’s going to take me years before I’m writing anything that needs fancy contemporary libraries. And maybe by then the cabal-install ecosystem will have improved. I basically need Hackage only for building fancy things like Propellor and Structured Haskell Mode so it’s okay to sandbox those things and do a load of builds.
+
+System setup
+
+Debian packages and dotfiles
+
+Get all our basic libraries installed system-wide:
+
+“` {.nil}
+
+apt-get install ghc ghc-prof haskell-platform
+
+“`
+
+or if you’re using Propellor:
+
+{.haskell} workstationAptPackages :: Property NoInfo workstationAptPackages = combineProperties "workstation apt packages" [ Apt.installed ["ghc", "ghc-prof", "haskell-platform"] , Apt.removed ["haskell-mode", "ghc-mod"] ]
+
+Put cabal configuration file in place:
+
+The most important thing here is require-sandbox: True . We’re not putting anything in ~/.cabal/bin . So we need to include all .cabal-sandbox/bin directories in our $PATH . I build stuff that is to be built on every machine in ~/local/src . So for each binary we have a sandbox in a directory under ~/local/src , e.g. ~/local/src/propellor . This code will prepend those directories to $PATH . It comes from my ~/.shenv which is supposed to be a POSIX-compatible script to set up environment variables that I can source in .zshrc , .bashrc , scripts run from cron, my GNOME and XFCE startup scripts and wherever.
+
+{.bash} for bindir in $(find ~/local/src -path "*/.cabal-sandbox/bin"); do PATH="$bindir:$PATH" done export PATH
+
+Upgrading cabal-install
+
+Before doing anything else, we upgrade cabal-install . The version of cabal-install in Wheezy is so old that it doesn’t know about sandboxes, and we don’t want to pollute ~/.cabal/bin . So we cheat and get it from Jessie:
+
+“` {.nil}
+
+apt-get install -t testing cabal-install
+
+“`
+
+Be sure to have set up apt pinning so that this doesn’t pull anything else in from Jessie!
+
+Upgrading cabal-install again
+
+Since we want the smartest dependency resolution we can get, we now upgrade cabal to the very latest and greatest.
+
+{.nil} $ cabal update $ cd ~/local/src $ cabal get cabal-install $ cd cabal-install-* $ cabal sandbox init $ cabal install
+
+Restart the shell ( hash cabal isn’t enough because we only just created the sandbox) and type cabal --version to check that the second decimal is higher than 20. Use which cabal to check that it’s the one from ~/local/src .
+
+Usage for Haskell projects
+
+Installing other people’s programs
+
+Maybe you want the ghc-mod or structured-haskell-mode executables from hackage. Follow the procedure just used for upgrading cabal-install for the second time.
+
+Getting libraries for your project
+
+This section is a WIP. But some tips: - Basic workflow is cabal init; cabal sandbox init; cabal build . - Use cabal repl to launch ghci. - When you need a library, first try to find a debian package (the name will begin with [lib]ghc- ). - If you can’t find it, you can use cabal install blah to install into the sandbox for testing before adding to the .cabal file as a dependency. Try to install all required packages in one go on one cabal install blah1 blah2 command as this gives cabal the best chance of getting the dependencies right. - Don’t be afraid to clear out the sandbox: rm -rf .cabal-sandbox-config .cabal-sandbox; cabal sandbox init . - Try -v3 to enhance cabal’s dependency resolution some more.
+
+Sources & further reading

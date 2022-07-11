@@ -1,0 +1,35 @@
+The trouble at Mt. Gox and the broader downward slide of Bitcoin lately has raised public skepticism about virtual currency and made it an inauspicious time to launch a new one.
+
+But the creators of Einsteinium, a Bitcoin-like currency with a philanthropic side goal of funding scientific research, claim they’ve worked out the kinks to make a cryptocurrency with the potential for longevity and stability.
+
+Einsteinium the currency (not to be confused with the element), made it’s debut just this week. At 6 pm GMT on March 1, the first block was quietly made available for mining. Since then, it’s cultivated a smattering of interest from those on the leading edge of the virtual currency movement.
+
+Perhaps the defining characteristic of Einsteinium is its purported charitable mission. Einsteinium the coin is connected to the Einsteinium foundation. On its website, the foundation claims that 2.5 percent of all mined Einsteinium coins will be given to the foundation, which will then let community members vote on which worthwhile scientific research projects the proceeds should be awarded too.
+
+“Scientific research it is [sic] a long-term investment in our future, and the future of our planet,” the foundation claims. “Funding around the world for the ‘big ideas’ has fallen dramatically in recent years.
+
+“Ideas that would fundamentally change our lives, like nuclear fusion, are woefully under funded, advancement is stifled, promising projects abandoned for the simple lack of money.”
+
+So far, eight different projects have been nominated to receive funding from the first round of Einsteinium mining. The projects range from creating a Sickle Cell Disorder monitor to marketing a science learning kit for children to harnessing the power of ocean waves to create energy.
+
+At the end of every month, the foundation will cull through all the nominations looking for projects they “think are worthy of support” and put them up for a general vote. The winner of the monthly poll then gets the proceeds for that month. The foundation says there is no restriction on eligible projects other than that the “science involved is pushing our understanding forward and could build us a better, safer future.
+
+One area of concern, however, is that it’s not clear who is behind the project. The foundation’s webpage lists a team of two programmers, one systems specialist, a designer, a web developer, a marketing expert and one researcher as the team backing the foundation. However, none of these team members are identified on the site. Multiple attempts by the Daily Dot to contact the foundation went unanswered.
+
+The other major concern is one universal to all cryptocurrencies. Can Einsteinium generate value? It’s a question that continues to dog Bitcoin even as that currency enters its fifth year of existence.
+
+The creators of Einsteinium have made it their mission to keep the currency in steady circulation and avoid some of the pitfalls of Bitcoin that have lead to hoarding.
+
+“To reach a wider audience than just the mining community it is essential that Einsteinium is freely traded on the exchanges and used for purchasing goods and services,” the foundation writes. “Einsteinium should be as available as possible to as many people as possible to enable that trading.”
+
+To help ensure that, the block rewards for Einsteinium are set to decrease after the first year or so to keep “high hash miners” from dominating the system, ideally allowing exchanges to stabilize and the currency to trade more freely. However, to continue incentivizing miners and keep small miners in the game after this initial period, the Einsteinium system is designed with so-called “wormholes” – randomly occurring events where the block rewards for miners suddenly spike. Like a slot machine, the program that automatically generates new Einsteinium is designed to keep people playing the game.
+
+However, what is arguably one of Bitcoin’s biggest faults is already being replicated by Einsteinium. Both currencies are programmed to produce only a finite amount of the coins. Around 2064, Einsteinium will stop being produced all together. Economists have warned about the dangers of finite currencies due to their tendency to exhibit deflationary traits that incentivize hoarding.
+
+Whether or not Einsteinium can make inroads into a rapidly crowding field of cryptocurrencies is a question that only time can answer. However, the makers of Einsteinium, like the supporters all burgeoning virtual currencies, exude a heady confidence about their own prospects.
+
+“We believe we have create a solid, steady, reliable cryptocurrency that will attract miners at the outset and have long term appeal for the smaller miner,” the foundation claims.
+
+We shall wait and see.
+
+Photo by David Sadler/Flickr (CC BY 2.0)

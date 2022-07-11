@@ -1,0 +1,27 @@
+During his campaign President Trump made it clear that his administration would strictly enforce immigration law while also seeking to limit immigration. Trump’s executive orders so far are consistent with his campaign rhetoric, including a revitalization of the controversial 287(g) program, threats to withdraw grants from so-called “Sanctuary Cities,” the construction of a wall on the southern border, a temporary ban on immigration from six Muslim-majority countries, and the hiring of 10,000 more Immigration and Customs Enforcement (ICE) agents. Recent reporting reveals that these agents, tasked with implementing significant parts of Trump’s immigration policy agenda, will have access to an intelligence system that should concern all Americans who value civil liberties.
+
+Earlier this month The Intercept reported on Investigative Case Management (ICM), designed by Palantir Technologies. ICE awarded Palantir a $41 million contract in 2014 to build ICM. ICM is scheduled to be fully operational by September of this year.
+
+Here is The Intercept’s breakdown of how ICM works:
+
+ICM funding documents analyzed by The Intercept make clear that the system is far from a passive administrator of ICE’s case flow. ICM allows ICE agents to access a vast “ecosystem” of data to facilitate immigration officials in both discovering targets and then creating and administering cases against them. The system provides its users access to intelligence platforms maintained by the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco, Firearms and Explosives, the Federal Bureau of Investigation, and an array of other federal and private law enforcement entities. It can provide ICE agents access to information on a subject’s schooling, family relationships, employment information, phone records, immigration history, foreign exchange program status, personal connections, biometric traits, criminal records, and home and work addresses.
+
+In addition to access to DEA, ATF, and FBI databases, ICM at full implementation will, according to 2014 documents, allow users to have access to a wide range of intelligence systems (see Appendix B). These systems include but are not limited to:
+
+Falcon - An ICE analytical system designed by Palantir, which allows ICE’s Homeland Security Investigations (HSI) agents “to track immigrants and crunch data on forms of cross-border criminal activity.”
+
+Seized Asset and Case Tracking System (SEACATS) - A Customs and Border Protection (CBP) system that tracks arrests, seizures, and property.
+
+Student and Exchange Visitor Information System (SEVIS) - According to the ICE website, SEVIS “is a web-based system for maintaining information on international nonimmigrant students and exchange visitors in the United States.”
+
+The Alien Criminal Response Information Management System (ACRIMe) - “an information system used by U.S. Immigration and Customs Enforcement (ICE) to receive and respond to immigration status inquiries made by other agencies about individuals arrested, subject to background checks, or otherwise encountered by those agencies.”
+
+Analytic Framework for Intelligence (AFI) - Palantir played a role in developing this system, which, according to one civil liberty expert, can provide the profiling algorithms necessary for the Trump administration to carry out “extreme vetting.”
+
+The picture below from this document will give you some idea of the data available to ICM users.
+
+Although it’s clear the ICM is used as part of immigration enforcement that doesn’t mean that it can’t affect American citizens. As the screenshot from an ICE funding page below shows, American citizens are part of ICM (the highlighting is mine).
+
+You only need to take a fleeting glance at the history of American domestic surveillance to see how law enforcement priorities change. My colleague Patrick Eddington has put together an excellent timeline of surveillance, covering the last one hundred years or so. At the moment, Islamic terrorism and undocumented immigrants are at the forefront of the Trump administration’s law enforcement priorities. But Patrick’s timeline shows that in the last century socialists, pacifists, labor organizers, anarchists, civil rights leaders, Quakers, the ACLU, Japanese-Americans, folk singers, and others have all been the target of government surveillance.
+
+No one knows what federal law enforcement priorities will be in the next few decades, but when we consider tools like ICM we should be aware of the fact that it and similar systems can and will be used on the next surveillance targets, whether they’re gun owners, progressives, conservatives, pro-life/choice advocates, marijuana users, or the many, many other groups that could upset a future Oval Office occupant.

@@ -1,0 +1,41 @@
+COMPUTEX 2017: 7 reasons to be excited about Synology NAS
+
+For COMPUTEX 2017, Synology hosted its solution exhibition away from the usual TICC and TWTC halls. Instead, the NAS maker converted the multifunctional hall at the Eslite Xinyi Store building into an experiential space that invites visitors to learn about the newest range of DiskStation products, as well as powerful DSM tools and packages that will serve enterprises and SMEs well.
+
+1) All-new NAS with SSD cache
+
+Two particular DiskStation systems caught our eyes at the product showcase. Despite being refresh models, the two-bay DS718+ and four-bay DS918+ were given an all-new design that makes HDD swapping a cinch. Both share the same quad-core 2.3GHz Intel Celeron J3455 processor, DDR3L memory (2GB on DS718+, 4GB on DS918+), dual-channel 4K H.264/H.265 video transcoding, and on-the-fly volume expansion via DX517.
+
+Exclusive to the DS918+ are two M.2 2280 NVMe slots for SSD caching, complete with removable covers at the bottom of the unit for ease of installation.
+
+2) Collaboration suite
+
+For businesses that are determined to put collaboration at the core of their operations, Synology has clearly done its homework with the seamless integration demonstrated by four of its productivity tools: MailPlus, Chat, Office, and Calendar. At first glance, you'd be forgiven for thinking that MailPlus is Google's Gmail. It offers the usual webmail features, and that include contact management, folder organization, POP integration, and the likes, but the addition of shared mailbox is expected to help foster group productivity.
+
+Chat functions as a messaging app that allows quick communication between colleagues, departments, and even projects. Group chats, known here as 'channels', can also be opened to outside parties via an invite system. These guest accounts come with an expiration date, which can be configured to your requirement. Not bad for a private cloud environment.
+
+Our hands-on with Office involved Document and Spreadsheet – essentially Synology's answer to Microsoft's Word and Excel. Import/export aside, fine-grained permission controls dictate which users can collaborate and make changes to documents and spreadsheets.
+
+Calendar, on the other hand, supports Google Calendar import, while tasks of varying importance can be managed easily.
+
+3) Entertainment made easy
+
+Mobile apps of Synology's DSM packages are nothing new, and entertainment-centric ones like DS video and DS audio have made their appearance on Apple TV (4th generation) and Android TV set-top boxes, such as the NVIDIA Shield TV. The user interface adheres to the respective platform, which makes video and audio streaming easy and effortless.
+
+4) Flexible virtualization
+
+For those who deals with virtual machines (VMs) on a regular basis, you'd be happy to learn that the new Virtual Machine Manager affords amazing flexibility when it comes to deploying OS-level virtualization applications. Snapshot is supported, and the number of CPU cores and available memory can be assigned to the active VMs – but that's par for the course.
+
+5) Better security, better surveillance
+
+Security and surveillance has always been a mainstay topic with Synology, and this year was no different. One of the newest features that was demonstrated was its updated Surveillance Station 8.1 software solution. Of all its features though, its new POS (Point of Sale) security integration was probably one of the more interesting features. How it works is simple: usually, when a staff member at a store operates a till, the POS that is connected to the Surveillance Station 8.1 will now automatically keylog every item that was checked out and paid for by the customer. The logic behind this is that if the customer returns to the store with claims of being either swindled or robbed, Synology's new Surveillance system can very simply match those claims back to the list of that specific customer.
+
+6) Averting disasters faster
+
+Believe it or not, sometimes servers can go down for whatever reason. Be it from an attack from a malicious piece of coding or a natural disaster, there are some companies that are majorly dependent on their data being safe and sound. Synology's new C2 cloud servers are now capable of backing up data from the NAS to the cloud via Hyper Backup package.
+
+7) One decoder, many surveillance videos
+
+Personal surveillance systems may be all the rage with home owners and businesses (be they mission-critical businesses or not), but this was by far one of the more interesting piece of surveillance hardware we saw. It's called the Synology VS960HD, and as you can see from the picture above, it was effectively displaying 100 surveillance videos at one go. Even more impressive was the temperature of the decoder wasn't even that much higher than skin temperature.
+
+Follow us here for more COMPUTEX 2017 coverage.

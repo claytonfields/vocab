@@ -1,0 +1,41 @@
+Technology continues to innovate, and business is evolving with it. Because companies and individuals are able to interact globally to conduct business, client bases have grown too expansive and complex to be easily managed with a paper Rolodex. However with the development of Customer Relationship Management (CRM) systems, companies can effectively manage interactions with current and future customers.
+
+Sophisticated CRM systems not only manage account and contact information, but track and forecast sales in one central location. In particular, sales and marketing departments have benefited most from integrated CRM systems. Many companies offer CRM services including Microsoft (MSFT), Oracle (ORCL), SAP (SAP) and Salesforce (CRM). In particular, Salesforce remains the industry leader in CRM systems and customer solutions. Primarily utilized in the cloud, Salesforce offers customers the ability to integrate reporting, process controls and visibility of ongoing projects.
+
+Customer Relationship Management
+
+Prior to widespread access to CRM systems, companies recorded and received information through numerous channels. Widespread access to CRM systems has allowed companies to organize information including sales, accounts and contact information in one central location. In particular these systems facilitate sharing information across various teams in an organization.
+
+Notably, sales and marketing departments utilize a number of features offered through most CRM platforms. In 2013, worldwide customer relationship management software amounted to $20.4 billion in revenue. Leaders in the industry include Salesforce, SAP, Oracle, and Microsoft. As competition continues to intensify, the increasing sophistication of CRM software differentiates platforms from one another.
+
+The market contains various types of CRM systems including Business to Business (B2B), Business to Customers (B2C), Software as a Service (SaaS), and social media platforms. In particular, SaaS platforms represent the largest share of CRM systems, accounting for more than 41 percent of all CRM revenue. Software as a Service is a means of delivering applications over the Internet. Commonly referred to as cloud computing, SaaS bypasses the installation and updating of software. In particular Salesforce provides both SaaS and PaaS CRM systems to companies.
+
+Salesforce
+
+The focus of the CRM industry is to provide seamless processes within a company. Prior to CRM systems such as Salesforce, centralizing information required extensive data entry. However the utilization of Salesforce within departments in a company allows accessible circulation of information. Besides process control, Salesforce is a valuable tool providing visibility, tracking, reporting and several quantifiable metrics which enable companies to more effectively hit strategic goals.
+
+As the industry leader, Salesforce is widely recognized for CRM systems with over 100,000 companies using its services. As a proven innovator, Salesforce provides new features and capabilities with continual updates. Salesforce’s combination of Force.com and AppExchange lead the SaaS CRM industry in cloud integration and software customization.
+
+Features
+
+Some of Salesforce's most popular features include sales forecasting, collaboration, contact management, and reporting. Salesforce claims that the application of its CRM systems can increase revenue by 30 percent. In addition, Salesforce says its software increases sales productivity, pipeline, win rate, and forecasting accuracy.
+
+The utilization of a CRM system can track all sales activity including past and future customers. This information provides insights for companies to act on higher potential customers.
+
+In customer focused industries, CRM systems provide insights to customer information and decisions. Information such as social media, emails, and client data can help companies understand customer needs and leverage potential sales.
+
+Not only can a CRM be utilized with large companies, small businesses can benefit from pairing Salesforce with accounting software. Salesforce claims it will increasing sales by up to 29 percent, sales productivity by up to 34 percent and forecasting accuracy by 42 percent.
+
+Limitations
+
+Like all software and applications, Salesforce has its advantages and disadvantages. High level executives tend to be highly separated from data within the CRM platform. Contrary to the mission of increasing efficiency, a convoluted platform causes a disconnect with users.
+
+Notably Salesforce involves a great deal of training. Furthermore, the reporting process can be difficult for the novice and experienced user. The customization toolkits for reporting can be too technical for use by even seasoned administrators.
+
+However as a tool, Salesforce is only as powerful as the individuals who use it. When components of the process do not operate smoothly, the potential value associated with Salesforce can not be realized. As a result, the largest limitation of Salesforce is not necessarily the complexity of the platform itself but the the willingness of an organization to learn and fully integrate it into their operations.
+
+The Bottom Line
+
+As company operations continue to become more complicated, a clear and comprehendible process can help increase productivity and sales. The development of Customer Relationship Management (CRM) systems assist in the implementation of executable processes for all departments of a company including sales, marketing and finance.
+
+The use of a CRM system within a company predicts increased sales and revenue growth as a result of more efficient tracking, reporting and visibility of processes. Increased visibility supports companies monitoring of end to end processes from a project's inception to completion. As a result, companies can further track and report completed and future sales.

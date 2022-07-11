@@ -1,0 +1,67 @@
+0 of 25
+
+When 2013's college football season comes to a close, the BCS era will have spanned 16 seasons of the sport. Power ranking the 25 most successful programs of the era so far was a daunting task, but it was more than worth the effort.
+
+Here are the criteria that were used, and then we'll go over how each section was scored:
+
+1. National championships and appearances in national championship games
+
+2. BCS bowl wins and appearances
+
+3. Conference titles, outright or shared
+
+4. Overall win/loss record from 1998-2012
+
+5. Overall margin of victory from 1998-2012
+
+Now that the system is laid out a little, here is the detailed explanation of how the 47 teams who appeared in at least one BCS bowl were narrowed down to 25 and ranked.
+
+National Championships and BCS Bowls (Sections 1 and 2)
+
+Each of the 47 teams was given a score based on how well it did throughout the era. Points were awarded for BCS appearances in the form of the four BCS bowls and BCS title games. (During the period when the BCS games rotated the hosting of the title game, title points were awarded for that game.)
+
+Title game win: 10 points
+
+BCS bowl win: 7.5 points
+
+Title game loss: 5 points
+
+BCS game loss: 2.5 points
+
+After this round, the 19 lowest-scoring teams were dropped from consideration. Every one of them scored five or fewer points during round one.
+
+Conference Titles (Section 3)
+
+Each team was recognized for winning an outright (five points) or shared (2.5 points) conference title, regardless of conference. The reason no conferences were favored in this area is that the weaker conferences may be "easier" to win, but they are harder to sell to recruits as well.
+
+Plus, some weaker conference champions are overlooked by the BCS precisely because of the schedule strength, or lack thereof. This is where they get their recognition.
+
+Win/Loss Record (Section 4)
+
+The overall win/loss record was easily sorted out. From 1998-2012, each team's record was accumulated. The overall winning percentage was divided by 10 to give a reasonable point value to everyone. (A 75-percent win ratio would equal 7.5 points.)
+
+Also, 2.5 points were awarded for each undefeated season that a team achieved. The lone exception was Ohio State's 2012 season. Since the Buckeyes were sanctioned out of the postseason, they missed out on what would have been the most difficult game of the season.
+
+As such, the Buckeyes were awarded 1.25 points for that perfect regular-season run. (Although, it turned out not to make a difference in their ranking, even if they were given the full 2.5.)
+
+Margin of Victory (Section 5)
+
+Margin of victory was even simpler to score than the win/loss records. Quite simply, the points scored and points allowed by each and every team from 1998-2012 were added up. The total points allowed were subtracted from the total points scored, and the result was divided by 100.
+
+This means that if a team scored 6,000 points and allowed 3,500 over the past 15 years, the resulting score would have been: (6,000-3,500)/100 = 25. Granted, the math almost never turned out quite that pretty, but it works.
+
+Two more teams were dropped from consideration at this point. Both The Kansas Jayhawks and Washington Huskies had negative margins of "victory" over the past 15 years. That is not successful at all.
+
+Sanctions
+
+All sanctions were ignored for the making of this list. Results on the field trumped everything. While it would make sense to recognize USC's vacated national championship, that would require that we also ignore all of Penn State's wins from 1998-2011.
+
+That's just ridiculous.
+
+Final Score
+
+The final score was as intuitive as it seems. Each section was given a point value (BCS bowls and national championships were rolled into one section), and they were added up. The highest-scoring team was first, and the 25th-highest was 25th.
+
+No ties had to be broken for this piece, and the scores are much closer than one might think.
+
+*All information was gathered from TotalFootballStats.com. Where total points scored per season were not available, each individual game's score from 1998-2012 was added together to form the "margin of victory" total.

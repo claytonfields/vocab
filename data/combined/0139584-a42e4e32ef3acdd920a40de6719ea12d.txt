@@ -1,0 +1,45 @@
+Over the weekend, a barrage of tests proved what many of you had feared: Even if you use the Microsoft-sanctioned DisableGWX and DisableOSUpgrade registry settings, the KB 3035583 patch still installs all of the Get Windows 10 nagware. GWX and all of its components sit there, hidden, running in the background even if you can't see the Get Windows 10 icon in the system tray.
+
+Microsoft's most-reviled patch for Windows 7 and 8.1 isn't going away anytime soon.
+
+Last Friday I wrote about four Registry entries and how they served to keep Get Windows 10 at bay:
+
+Back in August, Microsoft posted KB 3080351, a discussion of new Group Policy settings and two obscure registry entries -- DisableOSUpgrade and ReservationsAllowed -- that, taken together, are supposed to "prevent Windows 7, Windows 7 for Embedded Systems, Windows 8.1, and Windows Embedded 8.1 Pro clients from upgrading" to Windows 10. Yesterday my old friend and erstwhile co-author Ed Bott ran an article on ZDNet that explains how to change two different registry entries -- AllowOSUpgrade and DisableGWX -- to "block Windows 10 upgrades on your business network (and at home, too)."
+
+In addition, last Friday Iain Thomson at The Register repeated the recommendations in KB 3080351, adding an important update:
+
+A Redmond spokesperson today confirmed that support page is still valid -- its instructions still work even though it was quietly published a few months ago.
+
+Several of us, sensing that the game was afoot, undertook a thorough examination of those four Registry entries to see what they really do. We found that, although the Registry entries succeed in keeping the most visible part of GWX from appearing -- the Get Windows 10 icon in the system tray -- they do absolutely nothing to keep GWX off of Windows 7 and 8.1 PCs. In fact, the phalanx of programs, settings, scheduled tasks, and automatic Registry-changers continue to work behind the scenes no matter how you jigger those settings.
+
+I looked at installation of KB 3035583 on brand-spanking-new Windows 7 SP1 and Windows 8.1 Update 1 PCs. I adjusted the Registry settings as prescribed on fresh installs of Home and Pro. Then I ran exactly one update -- KB 3035583 -- on all of the PCs. Sure enough, the Get Windows 10 icon didn't appear in the system tray, but all of the Get Windows 10 accoutrements (described below) are installed and fully functional.
+
+Frequent AskWoody.com poster PKCano ran a different set of experiments, mimicking Windows 7 installations that are found in the wild. She ran tests on a typical Win7 PC with DisableGWX set to 1. She, too, discovered that GWX was fully installed and running -- but the Get Windows 10 icon didn't appear in the system tray. Then she went back to a clean Win7 SP1 install and refrained from installing several patches that have been implicated in Microsoft snooping on Windows 7 PCs: KB 2952664, 3021917, 3068708, 3075249, 3080149, 3112343, 3102810, 3083710, 3083324, 3075851, 3065987, 3050265, and 2990214. She then brought KB 3035583 back up and installed it, without the DisableGWX key set in the Registry. Sure enough, she got the whole GWX package, and the Get Windows 10 icon appeared in the system tray.
+
+Josh Mayfield, the inventor of GWX Control Panel, tried running different combinations of the four mentioned Registry keys. He found that one of the keys, ReservationsAllowed, has apparently fallen out of favor -- in fact, one of the background tasks that KB 3035583 installs actually turns that bit in the Registry off. Mayfield surmises that's because Microsoft isn't taking reservations for Windows 10 anymore.
+
+Mayfield has posted a video on YouTube that shows the extent of the infec -- er, installation. It tracks my experiences and PKCano's experiences precisely:
+
+KB 3035583 creates a new folder, c:\Windows\System32\GWX, which includes five GWX programs. The folder contains about 30MB.
+
+Seven processes get scheduled to run in the Task Scheduler. Microsoft/Windows/Setup/gwx contains launchtrayprocess, refreshgwxconfig, refreshgwxconfigandcontent, and refreshgwxcontent. Microsoft/Windows/Setup/GWXTriggers includes refreshgwxconfig-B, ScheduleUpgradeReminderTime, and ScheduleUpgradeTime.
+
+Launchtrayprocess runs whenever you log on or when you create or modify the task (as would be the case if you installed a newer version of KB 3035583).
+
+Refreshgwxconfigandcontent runs every day at 8:00 PM. It, too, runs when you create or modify the task.
+
+Refreshgwxconfig-B runs at 8:00 PM, then every 12 hours for a duration of one day.
+
+Mayfield found that the DisableGWX Registry entry merely prevents the Get Windows 10 icon in the system tray from appearing. "Having this entry in place does not prevent the KB 3035583 patch from being installed, and it doesn't prevent the other background tasks associated with the patch from running."
+
+More damning, Mayfield found that the refreshgwxconfig-B task resets the AllowOSUpgrade setting every time it runs. We don't know the full impact of having AllowOSUpgrade turned off (of course, none of this is documented anywhere), but it appears to involve moving from Win7 or 8.1 to Win10 via Windows Update.
+
+Although refreshgwxconfig-B does not appear on every computer, I found it on my freshly installed Windows 7 and 8.1 PCs. PKCano found it on hers as well. The task runs two programs, GWXConfigManager.exe/RefreshConfigAndContent and GWXDetector.exe.
+
+Most damning: Uninstalling KB 3035583 doesn't uninstall any of the files in the GWX folder or remove the scheduled tasks. Uninstalling it merely rolls you back to an earlier version of KB 3035583.
+
+In short, I've never seen such a robust "Potentially Unwanted Program."
+
+Last October, Windows head Terry Myerson promised us, "You can specify that you no longer want to receive notifications of the Windows 10 upgrade through the Windows 7 or Windows 8.1 settings pages." Now, with Microsoft poised to start rolling out Get Windows 10 as a "recommended update," we need that protection more than ever. But give Win7 and 8.1 customers a chance to say, "I don't want Windows 10 now, please call off the dogs."
+
+Confidence and trust -- at least among the cognoscenti -- is withering away.

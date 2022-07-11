@@ -1,0 +1,29 @@
+BlackBerry and iPhone users might argue endlessly about which keyboard is better, but a new prototype display could bridge their divide: It combines touchscreen technology with physical buttons that appear or disappear, depending on the application.
+
+Two doctoral students at the Carnegie Mellon University have developed a screen with three functions: pop-up buttons and keypads can appear and disappear, the user can touch input and the screen can render graphics.
+
+"It is rare to be able to do all three in a single display," says Chris Harrison, a Ph.D. researcher at the Human Computer Interaction lab at CMU. Harrison, along with Scott Hudson, published a paper last month explaining how the displays would work.
+
+"It is tough to create a physically deformable surface that can still do graphics pretty well," he says.
+
+It is a "thought provoking" project that plays into the emerging field of dynamic tactile displays, says Johnny Lee, a researcher at Microsoft's Applied Sciences Group, who read Harrison's paper early on but otherwise not connected with the research. "It’s a really, really interesting and stimulating idea," he says.
+
+"As humans we are very tactile individuals," says Lee. "Touch is our primary sense as we navigate the world but touchscreens don't allow us to use it."
+
+Despite the popularity of touchscreens, many users still prefer physical buttons. Physical buttons offer a low-attention way of interacting with display. And they are especially useful in situations where users don't want to completely concentrate on a task on the screen. For instance, in cars, drivers have to take their eyes off the road to change the volume on a radio with a touchscreen. Physical buttons, especially if they could change dynamically depending on task, would let the driver touch something and keep her eyes on the road, says Harrison.
+
+Harrison's research is sure to gnerate interest among companies ttrying to bring more tactile feedback to touchscreens. Research In Motion attempted to bring the physical feel of clicking on a keypad to its BlackBerry Storm touchscreen. The move fell short of many users' expectations. But it has left the door open to other attempts that can more successfully mimic the sensation of hitting a real button on a multitouch display.
+
+The latest prototype display uses rear projection for the visual display and infrared lighting and a camera setup behind the display for the multitouch input.
+
+In its simplest form, the prototype involves creating an air chamber by layering several specially-cut pieces of clear acrylic. A thin sheet of translucent latex is draped on top of this to act as a deformable projection surface. The air chamber is then negatively or positively pressurized to create small pop-up buttons that mimic the feel of real physical ones.
+
+"The tiny conduits of air actuate the display to create the different button options for users," says Harrison.
+
+Though the early prototype allowed it to work only in large installations, the researchers have been able to miniaturize it for screens as small as mobile phones. But they still face some major limitations.
+
+"Using pneumatic pumps to do the actuation is a little bit power consuming," says Lee. "That limits the environments it can be used in." The latex material also used in the displays can be damaged or punctured, especially with repeated use, says Lee. But those roadblocks can be overcome with use of different materials and pressure mechanisms, he says.
+
+"As a proof of concept the idea is very interesting ," says Lee.
+
+Photo: Prototype ATM display shows different pop up buttons it can offer/Chris Harrison

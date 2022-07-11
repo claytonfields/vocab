@@ -1,0 +1,53 @@
+Furious Puncher
+
+Recently I’ve been feeling kinda lukewarm on Victor. A string of bad luck with the deck put a bit of a damper on my mood. However, with Cardfight Area’s recent update we finally got our hands on the newest Victor support. I have to admit I hadn’t really put that much thought into the new support until this point. I have a lot of decks I need to update coming up so I’ve been a bit distracted. But now that I’ve gotten to play around with some of the new toys I have to admit my interest in the deck has been revitalized and there’s one major reason for that.
+
+I really really like Petite Ace.
+
+[AUTO]:Forerunner
+
+[ACT](RC) Generation Break 1:[Counter Blast (1) & [Rest] this unit] Choose one of your rear-guards, [Stand] it, and if that unit has the rush ability, increase that unit’s [Power] by this unit’s [Power] until end of turn. Retire this unit.
+
+[ACT](RC):[Choose one of your other rear-guards, and [Rest] it]:This unit gets [Power]+3000 until end of turn.
+
+This little guy here is a ton of fun to use with all the new Rush support. He has a lot of synergy with several cards and can fix relatively bad starts pretty easily. He starts powering up a lot of rears early, and can preemptively set off rush skills. Because Malyaki gives anything in the same column rush, he can be used with just about anything given Malyaki’s on the field. If you use him with Sazanda/Buttagil you can get them to a 22k base early (provided you have Malyaki/GB2). If you use the first skill on a Malyaki column you also set up one instance of his skill early and you can stack some pretty insane numbers further down your turn. This also allows you to fix bad starts by stacking power onto an otherwise subpar unit (I’ve used his skill on a draw trigger to pull a turn out of my ass).
+
+It’s hard for me to say with certainty if this card is better than Kabutron as SVG. Kabutron has the benefit of restanding a unit, allowing you to extend the number of attacks. It’s generally agreed that several small attacks are better than bigger attacks, because 6 small pokes can wear down a large hand while 2 large swings can be worked around with PGs, G-guards or even just no guarding. That said the deck does still multi-attack very well without Kabutron. You’ll likely still average 5-6 attacks without Kabutron. So while you might lose that extra attack the 3 swings you are likely doing with the Ace target is still much bigger than if you had Kabutron and can really cripple an opponent at first stride.
+
+And personally it’s feels really nice being able to Give something 8k and maybe proc a rush skill while I’m at it. In the end this game is about having fun and I highly enjoy this card, regardless of competitive viability. More time and testing in a competitive setting will tell if Ace will become the SVG of choice or if it remains Kabutron (I think Ace does enough first stride to replace Runbhol).
+
+Anyways moving onto the rest of the rush stuff.
+
+Furious Puncher I rather like this card. He has the rush ability built in so you can restand him off of the new Victor G3 if needed. His main skill gives +5k to another unit when he restands. While Malyaki overall is more powerful, Puncher does have a few things in his favor. For one his skill is instantaneous. Malyaki is delayed a bit by needing to attack again, which isn’t usually a problem but sometimes you just need that instant gratification. He also does decently with poor fields. Bouncing an extra 5k to your other column on demand can sometimes pull up a bad field where Malyaki can’t. I think he has a place alongside Malyaki in a Post GBT-10 Victor deck.
+
+Magical spinner This card is decent. Her skill is when she restands she gains an on hit retire. I don’t think retiring is terribly relevant right now, especially now that Nightrose is quickly becoming Queen of the Meta, but it can be nice. Her skill isn’t GB restricted so if you happen to run stands she can be proc’d early. You can set her off early with Ace to get a bigger column with on hit pressure. And since the black text isn’t 1/turn you can stack restands to progressively scale up retires the more times she swings. If you find youself facing a lot of rear guard focused decks, especially ones with early games, she may be a decent option for a bit of crowd control first stride.
+
+Bare Knuckle Ernest Meh. He’s a Street Bouncer that costs an extra soul. You have to rest him and another unit to draw, meaning he’s kinda meh early. You can stand him or the other unit with Ace but I’d rather just spend that skill on something more worthwhile. I just don’t really see a reason to play him at all in Victor.
+
+His other skill to retire himself and restand something isn’t that relevant either. You’re likely just standing whatever he rested to proc rush. Ace already does the job better. It’s just not worth it for Victor.
+
+Spart Centuar This card is just a worse Sazanda/Buttagil. He costs a Soul Blast AND you have to bounce his booster to give him 5k. Aside from maybe clay doll the deck doesn’t have any on call skills to abuse really. Plus that requires a main phase restand which means either wasting Ace on this loser, or using Puncher/Ernest’s retire restand. It just doesn’t seem worth all the effort to at best CC one extra time. The only other thing you could revive is Abarail. But again you have to jump through all these hoops to do it. They gotta both be in the same column so if Abarail was boosted, that’s gotta go. Then you gotta have a main phase restander in the other column. Then you still gotta make room for Abarail so if you used Puncher you likely have to call over another G2, negging yourself again. It’s just not worth it.
+
+Quad Gigas Garbage. I have nothing else to say about this card just run all Victors.
+
+Meteokaiser Unior This card is interesting. He allows you to gain 2 of Soul or CBs if you happen to have none to spare. The skills are separated so you can use him to fill one or the other. However if you’re frugal with your resources it means he’s a vanilla g-guard. He also doesn’t work to his fullest if you take a damage. So on its face this card encourages overextending and blowing through all your resources quickly. However at the same time that can backfire. Again, taking damage makes the first skill unusable. So if you have to take some small poke in anticipation of a bigger, g-guard worthy, attack he is rendered somewhat inert. I would probably run him Blue Prison while still keeping Scryew handy.
+
+Exxcessive Battler Victor I have to admit it’s really hard for me to decide which is the preferred ride target between him and Old Victor.I think this New Victor does give more flexibility to your turns since he saves you a CB. However, this can come at the cost of a weaker Unior. Standing a full column also means you can push harder on say a Bustered Restand turn since you don’t have to hold back your boosts. At the same time lacking a hard power gain can hurt subpar fields. If you don’t have strong columns to begin with his skill scales down pretty quickly.
+
+His GB2 gives him strong application as a rear guard, making him more than a vanilla 11k. However, you also lack any backup plans if you are unfortunate enough to be stride locked.
+
+Still despite these drawbacks I think this card is good overall. Like I said, restanding a column opens up a lot of flexibility in your attack patterns. His GB2 skill giving power to the front row means he is an acceptable substitute for your usual G2s if you didn’t draw them. If you run 8 G3s definately just go 4/4 of both Victors. If you run less than 8, I can’t say I know which Victor to prioritize. Having an offensive GB2 gives Old Victor a backup plan for shit situations. But, New Victor overall offers more flexibility in terms of RG application and combo potential. I think it ultimately comes down to if you prefer better combo potential or having a panic button for getting stride locked.
+
+Favorite Champ, Victor Just to get this out of the way, YES we really did need more restanding strides in Nova Grapplers it was very essential that we got this. Just 2 wasn’t enough.
+
+Jokes aside this card is a real mixed bag for me. His skill costs 2 CB and a Discard just to start. So to you fulfill the wall o’text requirements to get his restand off, you will need: 2 open CB, 4 cards in hand (after drive checks), 3 face up G-units, and 3 rear guards. To be fair none of that is particularly difficult but it’s a lot of a single drive restand. For all that you’re costs you have to pay to get the full skill off you might as well just go for Bustered’s restand. Bustered requires more field commitment but he costs less, and with Exxcessive Victor’s stride skill you’re likely to have a fully standing field anyways.
+
+HOWEVER, unlike Bustered Champ’s skill is not 1/turn, meaning you can potentially do it multiple times.
+
+From some quick math to do a double restand you will need: 3 open CB, 3 Face up G-units, 3 Rear guards, and at least 4 cards in your hand when you begin the combo. If you played the game in Break Ride era then a double restand Victor turn will likely play out much like Break Ride-Ethics Buster Reverse. Except your VG also restands both times so you get 9 total attacks (more if you happen to have more than 3 open CB). This is pretty fuckin sweet obviously. However, it is still a pretty hefty amount of set up to get to this point.
+
+I think this card is a 1-of and only for the double restand turn. If you can only get a single restand off, just use Bustered or Victoplasma if Bustered isn’t set up.
+
+That’s all I got for Set 10 Victor. As always comments/criticism is appreciated. Hope you enjoyed reading.
+
+Advertisements

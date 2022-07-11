@@ -1,0 +1,53 @@
+The Ice Light is “a portable, dimmable, daylight balanced, continuous LED light source with a built in battery” that costs $450. In this post I will show you how I made a DIY version for less than $30.
+
+
+
+
+
+Parts Used
+
+You’ll only need to pick up 6 things to build a DIY ice light:
+
+Defiant 700 lumen focusing LED flashlight ($19.88 from Home Depot. Model #: HD14Q406) 24″ PVC pipe, 1.5″ diameter (~$2) 1.5″ PVC coupler (~$1) 1.5″ PVC cap (~$1) 48″ Fluorescent bulb shield (~$2. This slides over a fluorescent bulb to prevent it from shattering) Small piece of aluminum foil. (Had it in the house, because we’re civilized)
+
+The Steps
+
+I redesigned the PVC pipe and made it about 5″ shorter. It was too long and unwieldy. I took a little more care in marking off the space to cut out. The blue tape worked perfect to keep a straight line.
+
+Cut the opening in the PVC pipe. This can be whatever width you want. Mine is a little less than halfway through.
+
+Cut the flourescent shield to the same length as the pipe. Then use a utility knife to cut it longways.
+
+Sand the inside and outside of the fluorescent shield to create a “smoked glass” look and set aside. This shows how I got the fluorescent shield to stay large enough to snugly fit into the pipe. Just a simple slit on one side and the other side slides in. Also you can see how the once clear plastic looks after sanding it:
+
+Remove the “crown” off of the bulb end of the flashlight. You will still have the reflector cone and clear focuser inside the light.
+
+This takes a bit of sanding for adjustment but the 1.5″ coupler almost threads perfectly onto the end of the flashlight. Sand as needed and test fit.
+
+Push 24″ PVC into the unsanded coupler end. PVC Cement can be used if desired.
+
+I shoved a wrinkled disc of foil in the end cap to reflect light back. Don’t make it too thick or the PVC pipe wont go in all the way.
+
+Cut a piece of aluminum foil slightly bigger than then end of the PVC pipe, shiny side toward the flashlight. Fit it over the pipe and slide the PVC Cap about half way on. If there’s any foil sticking out, trim with utility knife. Then press Cap on fully.
+
+This step is optional: Using the leftover flourescent shield, insert it into the PVC pipe. This will be the paint shield so black paint won’t get on the inside of the light pipe.
+
+Place hose clamp around end of PVC coupler and snug tight. (this is only for paint purposes so it will be in place for paint and won’t scratch if you try to put it on after painting.
+
+I used Krylon matte black spraypaint that was specific for plastics. It bonds well and only takes about 15 minutes to dry. Several thin coats will work better than one thick coat. This is after a couple coats of paint (the paint shield keeps the inside clean and white):
+
+After its dried, its time to fit it onto the flashlight. Replace the painted fluorescent shield with the sanded white shield.
+
+For the Coupler I used, I had to cut a small (2 cm) piece of PVC pipe to fill in the gap on the flashlight side of the coupler. The clear plastic for focusing the flashlight falls out if there’s nothing there. This is a trial and error step. It will take some trimming to get a good fit.
+
+Once the coupler is fit and the focuser is in place, tighten the hose clamp.
+
+That’s it. The focuser on the flashlight acts as a dimmer for the light. When its set to wide beam it is dimmer since less light is reflecting off the foil at the end. This light also has two brightness settings so it dims down pretty well.
+
+Here’s a photo showing how dispersed the light from the DIY Ice Light is:
+
+Here’s an unedited photo of my unimpressed wife at 1am:
+
+Finally, here’s a video in which I demonstrate how this DIY Ice Light works:
+
+About the author: Justin Barr is a professional photographer based in Florissant, Missouri and serving the St. Louis area. You can visit his website here.

@@ -1,0 +1,11 @@
+Notes:
+
+Before jumping to the conclusion that DE troops are superior to ‘regular’ troops in all situations, consider the adjusted efficiency figures at the bottom. These figures use an elixir to DE conversion rate based on the maximum possible production rates at a TH10 base with upgraded resources (essentially this converts game time into the resource). However, the two currencies are not interchangeable, so direct comparison between troops in terms of cost effectiveness is somewhat misleading. These numbers are perhaps a better guide for deciding on when to start farming for DE, building dark barracks, etc.
+
+None of the above figures factor in troops’ special abilities. For example, the witch looks awful on paper, but her skeleton troops bump her useful stats up quite a bit. Similarly, the wallbreaker or healer provide much needed features, but have poor measurable qualities. Their value is up to how the player uses them.
+
+One of the more interesting conclusions is the Goblin. It provides a very good balance of HP and DPS per housing space and is a fast mover. It may be an effective and inexpensive addition to defensive CC’s during war (though use is limited on offense during raids).
+
+When cost is no object (during war), use the housing efficiency columns to make your decisions. For raiding, farming, etc, the cost efficiency side of the chart, as well as the adjusted efficiency at the bottom, should factor into your decisions.
+
+Advertisements

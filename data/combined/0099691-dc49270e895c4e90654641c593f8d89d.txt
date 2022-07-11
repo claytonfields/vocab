@@ -1,0 +1,13 @@
+Most of the technology inside the headset is common across all of the manufacturers, but ASUS has worked hard to make its offering unique where it can. For instance, the company used a polygonal-art covering for the visor, ensuring that it looks much nicer than, say, Acer's View Master-esque offering. Similarly, ASUS's headset feels much lighter than its rivals' models, and the company included an antimicrobial cushion inside.
+
+The headset, like its brothers, has inside-out tracking, which uses the two front-mounted cameras to track the controllers. That makes it significantly cheaper than Vive or Rift handsets, which require additional peripherals for tracking. Before testing, my concern was that the cheaper technology would compromise the accuracy and reliability of the controllers. That concern was misplaced, and the system actually works really rather well.
+
+The controllers themselves are designed by Microsoft and clearly sail close to the style laid down by Oculus for its Touch paddles. The biggest difference is a less gaming-focused button layout, with a touchpad, Windows key and thumb stick on the main platform. Your other fingers fall naturally around the other triggers that are situated on the slender hand sticks. They scream that they can be used for business just as naturally as play, as Microsoft is wont to do with its hardware design.
+
+On the outside ring, you'll find a halo of 32 small LEDs that the headset uses to pinpoint the position of the controllers in the air. But even when pulling my hands well beyond the visor's field of view, the tracking remained pretty reliable. One of the demo titles required me to pull weapons out from over my shoulder, and the tracking remained impeccable.
+
+The funny thing is that, personally, I was concerned that these headsets would attempt to please two masters and fail for both of them. After all, the inside-out tracking wouldn't be as accurate or reliable as more expensive alternatives, and its price was too high for a casual purchase. I'm happy to admit that I was wrong and that I'm actually pretty excited for this technology, especially now that it's compatible with Steam VR games.
+
+ASUS doesn't know when its hardware will make its debut beyond the end of this year or the start of the next. Although it would be lunacy if it missed the holiday season, given that this may be many people's first attempt at buying VR gear for their homes. Either way, when it does arrive, it'll set you back €449, and you could expect it to set you back around $500-ish when US pricing is announced.
+
+Follow all the latest news from IFA 2017 here!

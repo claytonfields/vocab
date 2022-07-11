@@ -1,0 +1,9 @@
+As if a Lego-like customizable phone made of blocks wasn’t enough: Thanks to a modified version of Android L software, you’ll be able to swap out parts from Google’s Project Ara modular phone without turning the device off, notes the Phonebloks blog.
+
+Advertisement
+
+Obviously, this doesn’t apply to the phone’s display or CPU modules. Everything else is fair game, though. That means if you want a better camera or more memory at some point during the day, you can simply replace those modules on the fly without having to shut down and restart your phone.
+
+I could see that being very handy for the camera sensor: Perhaps you’ll carry different imaging modules for various lighting conditions or types of photos. In fact, during the Linaro Connect USA event held earlier this month — Linaro is assisting with the software — Paul Eremenko, head of Project Ara for Google’s ATAP group, asked this very question: “Why choose a phone for its camera…when you could choose a camera for your phone?”
+
+That’s the gist of Project Ara: Enabling the phone to be modified with various or new parts instead of requiring people to buy a whole new handset just to get a few new features. The concept makes sense but it’s still early days; it remains to be seen if consumers will embrace a modular phone once [company]Google[/company] delivers it. That’s expected in a few months, as the project team is aiming to launch a limited $50 modular handset this coming January.

@@ -1,0 +1,31 @@
+The explanation that New Jersey closed access lanes on the heavily traveled George Washington Bridge for a "traffic study" is a head scratcher for traffic engineers.
+
+Engineers today use so-called microscopic traffic simulations to create virtual environments that can model driver behavior to road changes with exacting detail.
+
+There's have plenty of data available for the simulations. One of the best sources are video camera systems that use software to count vehicles on roadways.
+
+The simulation software can model the impact of road changes with precision and without any need to close lanes to test theories, according to several traffic engineers interviewed by Computerworld.
+
+There is no evidence, in documents released late last week by investigators, that the Port Authority of New York and New Jersey considered computer models in lieu of a real world action. The Port Authority manages bridges and tunnels, airports, ports, and other critical systems in that region.
+
+Instead, the Port Authority shut down two of the three access lanes for four days last September from Fort Lee to the George Washington Bridge without warning the public, citing a "traffic study."
+
+After the lanes were closed, many people complained about it to the Port Authority, public officials and to local newspapers. The Port Authority was accused by one woman of "playing God with people's jobs" in a call to a Port Authority official, who made a note of it. It was among the documents released last week.
+
+People weren't just late for work due to the disruption.
+
+School buses and emergency vehicles were also delayed by an action that has led to multiple investigations of the administration of Republican Gov. Chris Christie. Some of the governor's top appointees orchestrated the lane closings, apparently as a type of retribution against Fort Lee's Democratic mayor, Mark Sokolich, documents have shown.
+
+"Time for some traffic problems in Fort Lee," wrote Gov. Chris Christie aide Bridget Anne Kelly to David Wildstein, the Port Authority's director of interstate and capital project, who complied.
+
+Real traffic engineering is a meticulous, safety-focused undertaking with some powerful software tools to work with.
+
+"You certainly do not have to close lanes physically," said Joseph Hummer, chair of Civil and Environmental Engineering Dept. at Wayne State University. The impact of a lane closure can be modeled. Those models are accurate in the short-term, plus or minus a couple of percent, on measures such as travel time and delay, he said.
+
+There is software available to project traffic changes 30 years out and give "good enough" answers for long-range planning purposes.
+
+The most accurate tools, for microscopic analysis, includes equations for measuring the traffic flow of individual vehicles, which is something that gets to driver behavior, said Hummer.
+
+A microscopic analysis can simulate when a driver changes lanes, speeds-up, slows down, how close do they follow the car in front of them, and the speed at which they follow, among other variables. It can update measurements every one-tenth of a second, said Hummer.
+
+It is expensive software to run and is only used on big projects -- such as lane closures. The economic cost of the New Jersey lane closures more than justifies its use, Hummer says.

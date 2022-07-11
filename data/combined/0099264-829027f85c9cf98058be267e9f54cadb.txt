@@ -1,0 +1,43 @@
+May 1st, 2013
+
+RAWTunes.exe 10
+
+July / December 2012
+
+RAWTunes.exe 10 is a noise-art album made in homage to the now late, (great?) iTunes 10 release. As iTunes 11 makes its way onto computers across the globe this album will remain as a media-archive of splendid noises transcoded from iTunes 10 executables. Available for £7.99 on iTunes, now and forever (or as long as I keep paying the renewal fee).
+
+Last year I released a music single through iTunes. Entitled RAWTunes.exe 10.4.2, it was my first foray into sound-art/noise-art. Today, I AM a popstar.
+
+I am proud to announce the release of my 8 track album RAWTunes.exe 10!
+
+You can listen to a selection of tracks below (making sure that all small children and dogs are at a safe distance), or buy the whole lot on iTunes for £7.99 (also at Amazon and Spotify)
+
+It took me about 20 minutes to make this album. Here’s how you can do it yourself:
+
+Using a program like Audacity, open ANY file as RAW data (see this video tutorial for detailed instructions) Choose your conversion method The file you send to iTunes and release to the world MUST be in this format:
+
+16 bit (sample size), 44.1 kHz (sample rate), 1411 kbps (bit rate) stereo wav
+
+So, after playing with your file (or not doing anything in particular) export it with these options Using a service like TuneCore, release your album to the world Become a famous Noise artist like me
+
+I chose to convert a series of iTunes executable files, each one plucked from a long list of releases under the iTunes 10 label, but you can choose anything. Have a look on Soundcloud for a bunch of people who have done just this.
+
+This is ‘art’, so of course my work has to be critically engaged, and self aware. Thankfully, iTunes regulations make this really easy:
+
+Content that is not produced by Apple Inc. must not include the word “iTunes” anywhere in the metadata or cover art.
+
+I would argue that the content of my album is 100% ‘produced by Apple Inc.’ but they wouldn’t let me call it ‘iTunes.exe 10’. It was only after several iterations of cover art that the album was allowed into the Apple store. These are just some of the woes that a true Noise artist must suffer in the pursuit of their art.
+
+RAWerTUNES10dotEXE [3Dude Remix]
+
+May 2013
+
+The RAWTunes homage to iTunes 10 was later been transcoded and extruded into another iteration, in a collaboration with Alex Myers.
+
+You could hear, see and 3D print RAWerTUNES10dotEXE at your own great expense at Run Computer, Run exhibition, Rua Red, Dublin (May 2013).
+
+ALEX MYERS
+
+Alex Myers makes artgames to explore how accidental meaning/anomalous discourse emerges by breaking rule-based game spaces to disrupt player expectations and concepts. He is an Assistant Professor and Director of Game Studies at Bellevue University. Alex has exhibited at NP3 in Groningen,Nikolaj Kunsthallen in Copenhagen, Lab for Electronic Art and Performance, Berlin, Interaccess in Toronto, FACT in Liverpool, and LACDA in Los Angeles.
+
+www.alexmyers.info / twitter @aandnota

@@ -1,0 +1,67 @@
+Four reasons the updated Uber Dubai app makes us sad By Mike Priest
+
+Double charges, secret surges… Uber, your app is bad.
+
+Late last year, ride-hailing company Uber updated its app in an effort to make it even easier for customers to book one of its cars.
+
+The update added a number of new features, including the ability to schedule rides in advance, as well as providing up-front fare estimates.
+
+However, just like the sickly sweet smell of a newly opened car air freshener, not everything was as rosy as it seemed.
+
+While the app also received a much needed facelift, some of the core functionality that users enjoyed was either buried behind a mess of design-driven decisions, or had been removed entirely.
+
+So, after months of botched bookings and frustration, we can stand it no more!
+
+Here are our top four gripes with the Uber app:
+
+1) You can’t book an open-ended trip
+
+One of the perks of the original Uber app was the ability jump in any of its cars and venture off into the Dubai streets to wherever took your fancy. A super handy feature in a city where roads and landmarks are constantly changing, giving Google Maps a tough time at playing catch up.
+
+The app now requires that you enter a definite end-point to your journey, making it incredibly difficult in those instances when you’re trying to get to your mate’s place and all you have for directions are a vague take the third left after the second Mosque once you hit Al Wasl Rd.
+
+Similarly, if you want to hail an Uber to help you collect something and then return home in the same car it is tricky to do as you can’t specify a round-trip as a destination.
+
+2) The surge pricing indicator is tucked away
+
+Surge prices are the scourge of the avid Uber user, always at their peak during daily prayer times, commuting rush hours or Friday brunches. Either they run the risk of doubling your fare during peak hours, or making you late as you impatiently wait for them to drop below 1.1x so you can avoid paying even a single fil over the going rate.
+
+Uber must clearly have caught on that its users aren’t fans of elevated surge pricing as it now hides away any notice of it in the tiniest font possible, only notifying you when asking you to confirm your booking. We miss the big, bold pop up that told us we were about to be ‘surged’ before we booked.
+
+A little unscrupulous if you ask us, especially for those looking to book in a hurry, or at the end of a night out.
+
+3) Location errors can end up costing big
+
+One Uber user recounted to us a story in which they were looking to travel from their apartment building in Dubai Marina to the Al Qasr hotel in Jumeirah but had, unbeknownst to them, mistakenly set their destination as a restaurant in JBR with the same name (that was 500 metres from their house).
+
+Uber told them the fare would be Dhs30-40 when they booked (seems fair for Marina to Madinat) so they hopped in the cab and then had a confusing conversation about location, during which the driver said he knew it would be Al Qasr the hotel and not the restaurant, so the user asked the driver to take them there.
+
+In the end a 10 minute ride cost them Dhs80 (and they didn’t realise it would cost that much when they booked).
+
+While this is not entirely Uber’s fault (the app relies on Google Maps for its location information), we’ve heard multiple similar accounts to warrant it being noted as an issue. A series of checks certainly wouldn’t go amiss to ensure customers don’t wind up with a fare for the wrong location or, worse yet, end up somewhere else entirely.
+
+4) Being charged double for a ride is no fun
+
+One of the biggest changes that Uber implemented with its app overhaul is how they handle payment.
+
+It used to be that you would book your ride and only be charged the fare (calculated based on the minimum fee and an amount per minute/kilometer) once you reached your destination. Just like a regular cab – nice and simple.
+
+Instead, the new system calculates the fare in advance (using the same maths as before) and gives you an estimated rate for how much the journey should cost.
+
+This is clearly stated in the app along with the caveat that “Uber places a temporary authorization hold on your card, which is converted to a charge for the final fare. You may receive 1 or more SMS messages from your bank notifying you of both the hold and the charge.”
+
+Frustratingly, if your journey deviates from the specified amount charged at the beginning of the trip (due to a detour to pick up a friend or, you know, traffic) you are then charged a second, final amount for what the fare actually is. Sure, the original amount is released back to your credit card, but some banks take upwards of 10 working days to process a card chargeback, meaning if you’re a regular Uber user who gets stuck in traffic often – hello, practically everyone in Dubai – then you could be potentially ponying up around double each time you ride.
+
+We reached out to Uber regarding our grievances with their app and they came back with the most diplomatic of responses:
+
+“At Uber, we are passionate about using technology to help move people around cities, and to recapture the clean and simple aesthetic of the original Uber experience, we rebuilt a faster, smarter rider app completely from the ground up. The new Uber experience is reimagined around a simple question—“Where to?”. And by starting with your destination, we can tailor the journey to you.”
+
+We will say this, Uber does continue to offer a responsive and competent level of customer support whereby, should you raise any of the above issues with your ride (and believe us, we did!), they go above and beyond in helping to resolve things.
+
+It’s just upsetting that the core app is in such a state that we experienced everything we’ve mentioned here on multiple occasions, without so much of a hint as to whether these issues are going to be addressed in the future.
+
+Let’s hope Uber gets its act together. In the meantime, it’s enough to make you want to try that other ride-hailing company’s app from across the street…
+
+– Have you experienced any issues with the Uber app that drive you nuts? Tell us about them on Facebook.
+
+Photos: Uber app

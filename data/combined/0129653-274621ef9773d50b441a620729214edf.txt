@@ -1,0 +1,271 @@
+Paljas Profile Joined October 2011 Germany 6662 Posts #2 Great guide.
+
+One question: do you stay on roach, hydra, viper, infestor
+
+no matter how long the game goes, or would you recommend
+
+a ultra transition?
+
+
+
+FlakRenew Profile Joined August 2012 Germany 4 Posts #3 Nice Guide!
+
+I think this will help many people.
+
+
+
+Thx
+
+iSHOKZ Profile Joined July 2011 Germany 136 Posts #4 On April 12 2013 19:51 Paljas wrote:
+
+Great guide.
+
+One question: do you stay on roach, hydra, viper, infestor
+
+no matter how long the game goes, or would you recommend
+
+a ultra transition?
+
+
+
+
+
+Hi,
+
+this really depends on the progress of the game. On some maps you can go up to 7 bases, for example on newkirk. Than its no big deal to get your meele upgrades and you can do some really heavy techswitches.
+
+If your not thin on gas you can also add banelings with speed into the blindingcloud + fungal combination.
+
+
+
+But if you did not bank up any gas, an ultralisk transition is just to expensive. Hi,this really depends on the progress of the game. On some maps you can go up to 7 bases, for example on newkirk. Than its no big deal to get your meele upgrades and you can do some really heavy techswitches.If your not thin on gas you can also add banelings with speed into the blindingcloud + fungal combination.But if you did not bank up any gas, an ultralisk transition is just to expensive.
+
+Paljas Profile Joined October 2011 Germany 6662 Posts #5 thanks for the answer. this guide needs more love.
+
+Henk Profile Joined March 2012 Netherlands 578 Posts #6 Reading through this, just stating first thing that comes to mind; roach/hydra isn't bad vs mech. Hydras actually die to the same amount of tank shots as roaches do, so that point is completely invalid. Add in some hydras and you'll faceroll his army. Even better, include swarmhosts and you've got yourself a great composition. In the late game, replace roaches with ultras, so you'll end up with SH/hydra/ultra/viper.
+
+HeyJude Profile Joined July 2010 United States 157 Posts #7 as a high diamond random player roach/hydra is my usual build, but I really think upgrades are key to this. I think roach/hydra is much easier to play than ling/bling/muta, but you also have to be more careful with your engagements since you don't have the same mobility.
+
+Krayze Profile Joined May 2009 United States 213 Posts #8 I have actually seen Stephano using Roach/Hydra(/viper/infestor) vs Terran in HotS and it works well. The thing I love about roach/hydra is how much easier it is than ling/bling/muta. Thank you for this writeup, I will be taking this advice and trying it out for myself!
+
+smN Profile Joined June 2011 22 Posts #9 thanks for the guide, very nice work One mind, one heartbeat.
+
+EsportsJohn Profile Blog Joined June 2012 United States 4442 Posts #10
+
+
+
+
+
+I've been playing around with this style too, and it's definitely one of my favourites. I generally go for the 4-queen expand into about 4-5 roaches to deflect hellions, then just get 3 bases saturated as fast as possible and max out on roach/hydra. Sadly, terrans have generally stopped going hellion/banshee, which this build absolutely facerolls. Overall, roach/hydra is fun and feels like a new way to play zerg entirely. Also, great guide; short, to the point, and informative. On April 13 2013 06:46 Henk wrote:
+
+Reading through this, just stating first thing that comes to mind; roach/hydra isn't bad vs mech. Hydras actually die to the same amount of tank shots as roaches do, so that point is completely invalid. Add in some hydras and you'll faceroll his army. Even better, include swarmhosts and you've got yourself a great composition. In the late game, replace roaches with ultras, so you'll end up with SH/hydra/ultra/viper.
+
+
+
+Against mech, I just substitute swarm hosts for roaches (since they have about the same "relative cost" (same mineral/gas/supply ratio)). At 16+ swarm hosts and good burrow/unburrow micro, you can wear down a mech army before it gets across the map. If you identify mech early enough, you can easily skip roaches altogether and just go straight into swarm host production. I also like to add in queens as the game goes on for a hydra/queen/SH/viper army.
+
+
+
+Biggest issue I have with roach/hydra is dealing with reaper harass followed by hellion harass followed by a really early bio-mine push at around 10:00 with stim. At that point, I feel like I don't have enough economy to produce enough roach/hydra (in equal numbers, roach/hydra seems to trade about evenly with bio). Against mech, I just substitute swarm hosts for roaches (since they have about the same "relative cost" (same mineral/gas/supply ratio)). At 16+ swarm hosts and good burrow/unburrow micro, you can wear down a mech army before it gets across the map. If you identify mech early enough, you can easily skip roaches altogether and just go straight into swarm host production. I also like to add in queens as the game goes on for a hydra/queen/SH/viper army.Biggest issue I have with roach/hydra is dealing with reaper harass followed by hellion harass followed by a really early bio-mine push at around 10:00 with stim. At that point, I feel like I don't have enough economy to produce enough roach/hydra (in equal numbers, roach/hydra seems to trade about evenly with bio). Strategy
+
+snexwang Profile Joined April 2011 Australia 224 Posts #11 I really like roach/hydra in ZvT but I feel like the terrans I've been facing don't exploit the shit out of it enough with medivacs forever. Thus, I really haven't had the opportunity to gauge just how much static defense I would actually need in a "lol imma gunna drop for like 30mins glhf" situation.
+
+
+
+At least now I can use your guide and your replays as a helpful basis. Cheers!
+
+iSHOKZ Profile Joined July 2011 Germany 136 Posts #12 On April 15 2013 00:56 SC2John wrote:
+
+...
+
+
+
+Biggest issue I have with roach/hydra is dealing with reaper harass followed by hellion harass followed by a really early bio-mine push at around 10:00 with stim. At that point, I feel like I don't have enough economy to produce enough roach/hydra (in equal numbers, roach/hydra seems to trade about evenly with bio).
+
+
+
+Hi SC2John,
+
+i had the same problem with the "economic" build, whereas the saver one has no problem with the early aggression.
+
+The only strong stim timings are those where the terran is on 2 base, without a 3rd oc backing it up. If you identify that, you can cancel the hydra upgrades, the overlord-speed and just get as many units as you can. You should be able to overwhelm the push then, get the upgrades behind it and also drone afterwards. Since terran was only on 2CC you can play on a lower economy in that scenario.
+
+
+
+
+
+Also to the counter of mech:
+
+Yes, swarmhosts are even better than roaches, thats true ! Hi SC2John,i had the same problem with the "economic" build, whereas the saver one has no problem with the early aggression.The only strong stim timings are those where the terran is on 2 base, without a 3rd oc backing it up. If you identify that, you can cancel the hydra upgrades, the overlord-speed and just get as many units as you can. You should be able to overwhelm the push then, get the upgrades behind it and also drone afterwards. Since terran was only on 2CC you can play on a lower economy in that scenario.Also to the counter of mech:Yes, swarmhosts are even better than roaches, thats true !
+
+smN Profile Joined June 2011 22 Posts Last Edited: 2013-04-17 13:22:32 #13 I don't always play zerg. But when I do, I own hard with roach-hydra iSHOKZ-style. One mind, one heartbeat.
+
+EsportsJohn Profile Blog Joined June 2012 United States 4442 Posts #14 On April 16 2013 02:43 iSHOKZ wrote:
+
+Show nested quote +
+
+On April 15 2013 00:56 SC2John wrote:
+
+...
+
+
+
+Biggest issue I have with roach/hydra is dealing with reaper harass followed by hellion harass followed by a really early bio-mine push at around 10:00 with stim. At that point, I feel like I don't have enough economy to produce enough roach/hydra (in equal numbers, roach/hydra seems to trade about evenly with bio).
+
+
+
+Hi SC2John,
+
+i had the same problem with the "economic" build, whereas the saver one has no problem with the early aggression.
+
+The only strong stim timings are those where the terran is on 2 base, without a 3rd oc backing it up. If you identify that, you can cancel the hydra upgrades, the overlord-speed and just get as many units as you can. You should be able to overwhelm the push then, get the upgrades behind it and also drone afterwards. Since terran was only on 2CC you can play on a lower economy in that scenario.
+
+
+
+
+
+Also to the counter of mech:
+
+Yes, swarmhosts are even better than roaches, thats true ! Hi SC2John,i had the same problem with the "economic" build, whereas the saver one has no problem with the early aggression.The only strong stim timings are those where the terran is on 2 base, without a 3rd oc backing it up. If you identify that, you can cancel the hydra upgrades, the overlord-speed and just get as many units as you can. You should be able to overwhelm the push then, get the upgrades behind it and also drone afterwards. Since terran was only on 2CC you can play on a lower economy in that scenario.Also to the counter of mech:Yes, swarmhosts are even better than roaches, thats true !
+
+
+
+Thanks for the advice!
+
+
+
+Just as a sidenote playing with this build some: when playing the economic style, I've had a lot of success going up to 4-6 queens for defense. Having that many high energy queens can help kill off an early stim push with only few roaches realtively easily. It also helps you prepare for the later parts of the game if you go into swarm hosts/ultras/blords. It also helps me continually spread creep and keep terran fairly pinned back.
+
+
+
+Question: I have a bit of a problem getting the exact hydra/roach ratio correct. What kind of ratio do you normally get? In a maxed army situation, I feel like there's not much of a need to get above 16-20 hydras (even with swarm hosts). Any more than that feels like overkill. Thanks for the advice!Just as a sidenote playing with this build some: when playing the economic style, I've had a lot of success going up to 4-6 queens for defense. Having that many high energy queens can help kill off an early stim push with only few roaches realtively easily. It also helps you prepare for the later parts of the game if you go into swarm hosts/ultras/blords. It also helps me continually spread creep and keep terran fairly pinned back.Question: I have a bit of a problem getting the exact hydra/roach ratio correct. What kind of ratio do you normally get? In a maxed army situation, I feel like there's not much of a need to get above 16-20 hydras (even with swarm hosts). Any more than that feels like overkill. Strategy
+
+ArhK Profile Joined July 2007 France 284 Posts #15 Thanks for the guide !
+
+
+
+You don't seem to use Swarm Host at all (I didn't see the replays yet, just based on my reading of your guide), is there any reason for that ?
+
+
+
+I am only a low master player, but I feel that when I face turtly terrans, it helps à lot to siege them on their third, and try to do some runbyes on their main (via simply runnning in with a couple of roaches, to getting drop and harassing them mid-late game.
+
+DnameIN Profile Joined July 2010 Poland 146 Posts Last Edited: 2013-04-17 17:16:33 #16 Hey,
+
+
+
+I am going to try this build today. I am just wondering, how do you respond to 1-2 vikings that can easily shut down your overlord vision for scouting incoming drops. In that case, I don't see how zerg can push forward with slow rouch/hydra without overcompensating with static defense of leaving some units "just for safety" and making push a lot weaker. Or is it just me and terrans will not do that for some reason? (because I am tempted to think that they don't do this only because they are suprised that there is no muta on the field)
+
+abefroman Profile Joined December 2010 70 Posts #17 As far as hydra roach ratio....start at 50/50. If they go marauder heavy, sub out some roaches for more hydras and use any spare mins on some lings. Lings will be un upgraded, but still seem to help vs very marauder heavy armies.
+
+iSHOKZ Profile Joined July 2011 Germany 136 Posts #18 On April 18 2013 00:21 ArhK wrote:
+
+Thanks for the guide !
+
+
+
+You don't seem to use Swarm Host at all (I didn't see the replays yet, just based on my reading of your guide), is there any reason for that ?
+
+
+
+I am only a low master player, but I feel that when I face turtly terrans, it helps à lot to siege them on their third, and try to do some runbyes on their main (via simply runnning in with a couple of roaches, to getting drop and harassing them mid-late game.
+
+
+
+Hi,
+
+i only recommend using swarm hosts vs. mech. But while writing the guide i was not very familiar with the use of swarmhosts, so I even went for roaches as a mech counter, which can work if the terran does not play at the highest level. But to be honest swarmhosts are way better vs. mech now that I have more experience.
+
+Vs. just a "turtle terran" with biomine or biotank, you can go for the normal roach hydra composition with faster teching. Swarmhost play will just slow your techpath down. Roach Hydra Infestor Viper is basically unbeatable. There is no reason to delay that transition.
+
+
+
+Hi,i only recommend using swarm hosts vs. mech. But while writing the guide i was not very familiar with the use of swarmhosts, so I even went for roaches as a mech counter, which can work if the terran does not play at the highest level. But to be honest swarmhosts are way better vs. mech now that I have more experience.Vs. just a "turtle terran" with biomine or biotank, you can go for the normal roach hydra composition with faster teching. Swarmhost play will just slow your techpath down. Roach Hydra Infestor Viper is basically unbeatable. There is no reason to delay that transition. On April 18 2013 02:13 DnameIN wrote:
+
+Hey,
+
+
+
+I am going to try this build today. I am just wondering, how do you respond to 1-2 vikings that can easily shut down your overlord vision for scouting incoming drops. In that case, I don't see how zerg can push forward with slow rouch/hydra without overcompensating with static defense of leaving some units "just for safety" and making push a lot weaker. Or is it just me and terrans will not do that for some reason? (because I am tempted to think that they don't do this only because they are suprised that there is no muta on the field)
+
+
+
+I would not even call it bad for you, if the terran attempts to do a bigger drop than 2 medivacs. In that case you should normally be able to just run him over because your army is so much stronger than his when he has 2 full medivacs dropping. Otherwise its the same thing as in WoL with ling infestor, you just have to accept that he did shut down your overlords and maybe wait till he wastes them.
+
+
+
+On April 17 2013 23:30 SC2John wrote:
+
+Show nested quote +
+
+On April 16 2013 02:43 iSHOKZ wrote:
+
+On April 15 2013 00:56 SC2John wrote:
+
+...
+
+
+
+Biggest issue I have with roach/hydra is dealing with reaper harass followed by hellion harass followed by a really early bio-mine push at around 10:00 with stim. At that point, I feel like I don't have enough economy to produce enough roach/hydra (in equal numbers, roach/hydra seems to trade about evenly with bio).
+
+
+
+Hi SC2John,
+
+i had the same problem with the "economic" build, whereas the saver one has no problem with the early aggression.
+
+The only strong stim timings are those where the terran is on 2 base, without a 3rd oc backing it up. If you identify that, you can cancel the hydra upgrades, the overlord-speed and just get as many units as you can. You should be able to overwhelm the push then, get the upgrades behind it and also drone afterwards. Since terran was only on 2CC you can play on a lower economy in that scenario.
+
+
+
+
+
+Also to the counter of mech:
+
+Yes, swarmhosts are even better than roaches, thats true ! Hi SC2John,i had the same problem with the "economic" build, whereas the saver one has no problem with the early aggression.The only strong stim timings are those where the terran is on 2 base, without a 3rd oc backing it up. If you identify that, you can cancel the hydra upgrades, the overlord-speed and just get as many units as you can. You should be able to overwhelm the push then, get the upgrades behind it and also drone afterwards. Since terran was only on 2CC you can play on a lower economy in that scenario.Also to the counter of mech:Yes, swarmhosts are even better than roaches, thats true !
+
+
+
+...
+
+
+
+Question: I have a bit of a problem getting the exact hydra/roach ratio correct. What kind of ratio do you normally get? In a maxed army situation, I feel like there's not much of a need to get above 16-20 hydras (even with swarm hosts). Any more than that feels like overkill. ...Question: I have a bit of a problem getting the exact hydra/roach ratio correct. What kind of ratio do you normally get? In a maxed army situation, I feel like there's not much of a need to get above 16-20 hydras (even with swarm hosts). Any more than that feels like overkill.
+
+
+
+If you have the ultimate infestor viper composition, pure hydra is even better then roach hydra.
+
+Otherwise there is no real ratio you need to have, it depends to much on your position and on the opponents composition, so that a 50/50 ratio should be the best one. I would not even call it bad for you, if the terran attempts to do a bigger drop than 2 medivacs. In that case you should normally be able to just run him over because your army is so much stronger than his when he has 2 full medivacs dropping. Otherwise its the same thing as in WoL with ling infestor, you just have to accept that he did shut down your overlords and maybe wait till he wastes them.If you have the ultimate infestor viper composition, pure hydra is even better then roach hydra.Otherwise there is no real ratio you need to have, it depends to much on your position and on the opponents composition, so that a 50/50 ratio should be the best one.
+
+DaemonX Profile Joined September 2010 545 Posts #19 Hi iShockz. I have an issue with this style, in that terrans go reactor hellion before CC, they can have 4 hellions in my base before 6:30, before my roaches are out. 4 hellions can get a crazy number of drone kills without any speedlings or spines to shut them down...I lost 2 games to that today and am wondering what the answer is.
+
+
+
+Terran isn't terribly behind as the factor-first doesn't seem to delay him too much since his gas doesn't have to be super early (13 after rax is fine).
+
+EsportsJohn Profile Blog Joined June 2012 United States 4442 Posts #20 On April 21 2013 01:23 DaemonX wrote:
+
+Hi iShockz. I have an issue with this style, in that terrans go reactor hellion before CC, they can have 4 hellions in my base before 6:30, before my roaches are out. 4 hellions can get a crazy number of drone kills without any speedlings or spines to shut them down...I lost 2 games to that today and am wondering what the answer is.
+
+
+
+Terran isn't terribly behind as the factor-first doesn't seem to delay him too much since his gas doesn't have to be super early (13 after rax is fine).
+
+
+
+This is really an old problem come back in a new way. Back in the day when all terrans were opening reactor hellion before expanding, zergs would just get either 1) fast zergling speed with a flood of lings at 6:30 to get a surround and shut down the hellion harass or 2) 4-6 queens and a spine crawler with a partial or complete walloff at the natural.
+
+
+
+You should know something is up if your opponent's natural isn't down by 6:00. This can generally mean a few things: 1) fast hellions, late expand, 2) some kind of widow mine shenanigans, 3) some kind of all-in. Having extra queens will help in all of these cases and 2 spore crawlers will save you from any kind of widow mine drop.
+
+
+
+Probably the best response is to go up to 6 queens before taking a 3rd if you haven't scouted your opponent's natural expansion by 6:00. In addition, you need to scout whether or not widow mines are incoming; one of the ways to do this is to just have lings spotting the front of his base for hellions. No hellions, no expansion by 6:00, spore up. If it's some kind of all-in, you can generally stall with your queens and spine crawlers until you can afford roaches.
+
+
+
+Hope this helps some! This is really an old problem come back in a new way. Back in the day when all terrans were opening reactor hellion before expanding, zergs would just get either 1) fast zergling speed with a flood of lings at 6:30 to get a surround and shut down the hellion harass or 2) 4-6 queens and a spine crawler with a partial or complete walloff at the natural.You should know something is up if your opponent's natural isn't down by 6:00. This can generally mean a few things: 1) fast hellions, late expand, 2) some kind of widow mine shenanigans, 3) some kind of all-in. Having extra queens will help in all of these cases and 2 spore crawlers will save you from any kind of widow mine drop.Probably the best response is to go up to 6 queens before taking a 3rd if you haven't scouted your opponent's natural expansion by 6:00. In addition, you need to scout whether or not widow mines are incoming; one of the ways to do this is to just have lings spotting the front of his base for hellions. No hellions, no expansion by 6:00, spore up. If it's some kind of all-in, you can generally stall with your queens and spine crawlers until you can afford roaches.Hope this helps some! Strategy
+
+1 2 Next All

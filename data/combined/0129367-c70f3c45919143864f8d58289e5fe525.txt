@@ -1,0 +1,237 @@
+The Hawaiian language (Hawaiian: ʻŌlelo Hawaiʻi, pronounced [ʔoːˈlɛlo həˈvɐjʔi])[3] is a Polynesian language that takes its name from Hawaiʻi, the largest island in the tropical North Pacific archipelago where it developed. Hawaiian, along with English, is an official language of the State of Hawaii.[4] King Kamehameha III established the first Hawaiian-language constitution in 1839 and 1840.
+
+For various reasons, including territorial legislation establishing English as the official language in schools, the number of native speakers of Hawaiian gradually decreased during the period from the 1830s to the 1950s. Hawaiian was essentially displaced by English on six of seven inhabited islands. In 2001, native speakers of Hawaiian amounted to less than 0.1% of the statewide population. Linguists were unsure that Hawaiian and other endangered languages would survive.[5][6]
+
+Nevertheless, from around 1949 to the present day, there has been a gradual increase in attention to and promotion of the language. Public Hawaiian-language immersion preschools called Pūnana Leo were established in 1984; other immersion schools followed soon after that. The first students to start in immersion preschool have now graduated from college and many are fluent Hawaiian speakers. The federal government has acknowledged this development. For example, the Hawaiian National Park Language Correction Act of 2000 changed the names of several national parks in Hawaiʻi, observing the Hawaiian spelling.[7] However, the language is still classified as critically endangered by UNESCO.[8]
+
+A creole language spoken in Hawaiʻi is Hawaiian Pidgin (or Hawaii Creole English, HCE). It should not be mistaken for the Hawaiian language nor for a dialect of English.
+
+The Hawaiian alphabet has 13 letters: five vowels (each with a long pronunciation and a short one) and eight consonants, one of which is the glottal stop called ʻokina.
+
+Name [ edit ]
+
+The Hawaiian language takes its name from the largest island in the Hawaiian state, Hawaii (Hawaiʻi in the Hawaiian language). The island name was first written in English in 1778 by British explorer James Cook and his crew members. They wrote it as "Owhyhee" or "Owhyee". Explorers Mortimer (1791) and Otto von Kotzebue (1821) used that spelling.[9]
+
+The initial "O" in the name is a reflection of the fact that unique identity is predicated in Hawaiian by using a copula form, o, immediately before a proper noun.[10] Thus, in Hawaiian, the name of the island is expressed by saying O Hawaiʻi, which means "[This] is Hawaiʻi."[11] The Cook expedition also wrote "Otaheite" rather than "Tahiti."[12]
+
+The spelling "why" in the name reflects the [hw] pronunciation of wh in 18th-century English (still used in parts of the English-speaking world). Why was pronounced [hwai]. The spelling "hee" or "ee" in the name represents the sounds [hi], or [i].[13]
+
+Putting the parts together, O-why-(h)ee reflects [o-hwai-i], a reasonable approximation of the native pronunciation, [o hɐwɐiʔi].
+
+American missionaries bound for Hawaiʻi used the phrases "Owhihe Language" and "Owhyhee language" in Boston prior to their departure in October 1819 and during their five-month voyage to Hawaiʻi.[14] They still used such phrases as late as March 1822.[15] However, by July 1823, they had begun using the phrase "Hawaiian Language."[16]
+
+In Hawaiian, ʻŌlelo Hawaiʻi means "Hawaiian language", as adjectives follow nouns.[17]
+
+Family and origin [ edit ]
+
+Hawaiian is a Polynesian member of the Austronesian language family.[18] It is closely related to other Polynesian languages, such as Samoan, Marquesan, Tahitian, Māori, Rapa Nui (the language of Easter Island) and Tongan.[citation needed]
+
+According to Schütz (1994), the Marquesans colonized the archipelago in roughly 300 CE[19] followed by later waves of immigration from the Society Islands and Samoa-Tonga. Their languages, over time, became the Hawaiian language within the Hawaiian Islands.[20] Kimura and Wilson (1983) also state:
+
+"Linguists agree that Hawaiian is closely related to Eastern Polynesian, with a particularly strong link in the Southern Marquesas, and a secondary link in Tahiti, which may be explained by voyaging between the Hawaiian and Society Islands."[21]
+
+Methods of proving Hawaiian's linguistic relationships [ edit ]
+
+The genetic history of the Hawaiian language is demonstrated primarily through the application of lexicostatistics, which involves quantitative comparison of lexical cognates, and the comparative method.[22][23] Both the number of cognates and the phonological similarity of cognates are measures of language relationship.
+
+The following table provides a limited lexicostatistical data set for ten numbers.[24] The asterisk (*) is used to show that these are hypothetical, reconstructed forms. In the table, the year date of the modern forms is rounded off to 2000 CE to emphasize the 6000-year time lapse since the PAN era.[citation needed]
+
+Numbers in Austronesian languages Language 1 2 3 4 5 6 7 8 9 10 PAN, c. 4000 BCE *isa *DuSa *telu *Sepat *lima *enem *pitu *walu *Siwa *puluq Yami asa doa atlo apat lima anem pito wau siyam pao Amis cecay tusa tulu sepat lima enem pitu falu siwa pulu' Tagalog isá dalawá tatló ápat limá ánim pitó waló siyám sampu Ilocano maysá dua talló uppát limá inném pitó waló siam sangapúlo Cebuano usá duhá tuló upat limá unom pitó waló siyám napulu Chamorro maisa/håcha hugua tulu fatfat lima gunum fiti guålu sigua månot/fulu Malagasy isa roa telo efatra dimy enina fito valo sivy folo Malay/Indonesian sa/se/satu dua tiga empat lima enam tujuh lapan/delapan sembilan sepuluh Minangkabau ciek/satu duo tigo ampek/empat limo anam/enam tujuah/tujoh salapan/lapan sɔmbilan sapuluah/sepuloh Javanese siji loro telu papat limo nem pitu wolu songo sepuluh Tetun ida rua tolu hat lima nen hitu ualu sia sanulu Fijian dua rua tolu vā lima ono vitu walu ciwa tini ( archaic: sagavulu) Kiribati teuana uoua teniua aua nimaua onoua itiua waniua ruaiua tebuina Tongan taha ua tolu fā nima ono fitu valu hiva -fulu Sāmoan tasi lua tolu fā lima ono fitu valu iva sefulu Māori tahi rua toru whā rima ono whitu waru iwa tekau ( archaic: ngahuru) Tahitian hō'ē piti toru maha pae ōno hitu va'u iva 'ahuru Marquesan tahi 'ua to'u hā 'ima ono hitu va'u iva 'ahu'u Leeward Islands (Society Islands) language tahi rua toru fā rima ono fitu varu iva 'ahuru Hawaiian kahi lua kolu hā lima ono hiku walu iwa -'umi
+
+Note: For the number "10", the Tongan form in the table is part of the word /hoŋo-fulu/ ('ten'). The Hawaiian cognate is part of the word /ana-hulu/ ('ten days'); however, the more common word for "10" used in counting and quantifying is /ʔumi/, a different root.[citation needed]
+
+Application of the lexicostatistical method to the data in the table will show the four languages to be related to one another, with Tagalog having 100% cognacy with PAN, while Hawaiian and Tongan have 100% cognacy with each other, but 90% with Tagalog and PAN. This is because the forms for each number are cognates, except the Hawaiian and Tongan words for the number "1", which are cognate with each other, but not with Tagalog and PAN. When the full set of 200 meanings is used, the percentages will be much lower. For example, Elbert found Hawaiian and Tongan to have 49% (98 ÷ 200) shared cognacy.[25] This points out the importance of data-set size for this method, where less data leads to cruder results, while more data leads to better results.[25][citation needed]
+
+Application of the comparative method will show partly different genetic relationships. It will point out sound changes,[26] such as:
+
+the loss of all PAN word-final consonants in Tongan and Hawaiian; lowering of PAN *u to Tagalog [o] in word-final syllables; retention of PAN *t in word-initial and word-medial position in Tagalog and Tongan, but shift to /k/ in Hawaiian; retention of PAN *p in Tagalog, but shift to /f/ in Tongan and /h/ in Hawaiian.
+
+This method will recognize sound change #1 as a shared innovation of Hawaiian and Tongan. It will also take the Hawaiian and Tongan cognates for "1" as another shared innovation. Due to these exclusively shared features, Hawaiian and Tongan are found to be more closely related to one another than either is to Tagalog or PAN.[citation needed]
+
+The forms in the table show that the Austronesian vowels tend to be relatively stable, while the consonants are relatively volatile. It is also apparent that the Hawaiian words for "3", "5", and "8" have remained essentially unchanged for 6000 years.[citation needed]
+
+History [ edit ]
+
+For Hawaiian language history before 1778, see § Family and origin
+
+In 1778, British explorer James Cook made Europe's initial, recorded first contact with Hawaiʻi, beginning a new phase in the development of Hawaiian. During the next forty years, the sounds of Spanish (1789), Russian (1804), French (1816), and German (1816) arrived in Hawaiʻi via other explorers and businessmen. Hawaiian began to be written for the first time, largely restricted to isolated names and words, and word lists collected by explorers and travelers.[27]
+
+The early explorers and merchants who first brought European languages to the Hawaiian islands also took on a few native crew members who brought the Hawaiian language into new territory.[28] Hawaiians took these nautical jobs because their traditional way of life changed due to plantations, and although there were not enough of these Hawaiian-speaking explorers to establish any viable speech communities abroad, they still had a noticeable presence.[29] One of them, a boy in his teens known as Obookiah (ʻŌpūkahaʻia), had a major impact on the future of the language. He sailed to New England, where he eventually became a student at the Foreign Mission School in Cornwall, Connecticut. He inspired New Englanders to support a Christian mission to Hawaiʻi, and provided information on the Hawaiian language to the American missionaries there prior to their departure for Hawaiʻi in 1819.[30]
+
+Folk tales [ edit ]
+
+Like all natural spoken languages, the Hawaiian language was originally just an oral language. The native people of the Hawaiian language relayed religion, traditions, history, and views of their world through stories that were handed down from generation to generation. One form of storytelling most commonly associated with the Hawaiian islands is hula. Nathaniel B. Emerson notes that "It kept the communal imagination in living touch with the nation's legendary past".[31]
+
+The islanders' connection with their stories is argued to be one reason why Captain James Cook received a pleasant welcome. Marshall Sahlins has observed that Hawaiian folktales began bearing similar content to those of the Western world in the eighteenth century.[32] He argues this was caused by the timing of Captain Cook's arrival, which was coincidentally when the indigenous Hawaiians were celebrating the Makahiki festival. The islanders' story foretold of the god Lono's return at the time of the Makahiki festival.[33]
+
+Written Hawaiian [ edit ]
+
+In 1820, Protestant missionaries from New England arrived in Hawaiʻi.
+
+Adelbert von Chamisso might have consulted with a native speaker of Hawaiian in Berlin, Germany, before publishing his grammar of Hawaiian (Über die Hawaiische Sprache) in 1837.[34] When Hawaiian King David Kalākaua took a trip around the world, he brought his native language with him. When his wife, Queen Kapiʻolani, and his sister, Princess (later Queen) Liliʻuokalani, took a trip across North America and on to the British Islands, in 1887, Liliʻuokalani's composition Aloha ʻOe was already a famous song in the U.S.[35]
+
+Headline from May 16, 1834, issue of newspaper published by Lorrin Andrews and students at Lahainaluna School
+
+In 1834, the first Hawaiian-language newspapers were published by missionaries working with locals. The missionaries also played a significant role in publishing a vocabulary (1836)[36] grammar (1854)[37] and dictionary (1865)[38] of Hawaiian. Literacy in Hawaiian was widespread among the local population, especially ethnic Hawaiians. Use of the language among the general population might have peaked around 1881. Even so, some people worried, as early as 1854, that the language was "soon destined to extinction."[39]
+
+Suppression of Hawaiian [ edit ]
+
+The decline of the Hawaiian language dates back to a coup that overthrew the Hawaiian monarchy and dethroned the existing Hawaiian queen. Thereafter, a law was instituted that banned the Hawaiian language from being taught.[40] The law cited as banning the Hawaiian language is identified as Act 57, sec. 30 of the 1896 Laws of the Republic of Hawaiʻi:
+
+The English Language shall be the medium and basis of instruction in all public and private schools, provided that where it is desired that another language shall be taught in addition to the English language, such instruction may be authorized by the Department, either by its rules, the curriculum of the school, or by direct order in any particular instance. Any schools that shall not conform to the provisions of this section shall not be recognized by the Department. The Laws of Hawaii, Chapter 10, Section 123[41]
+
+This law established English as the medium of instruction for the government-recognized schools both "public and private". While it did not ban or make illegal the Hawaiian language in other contexts, its implementation in the schools had far-reaching effects. Those who had been pushing for English-only schools took this law as licence to extinguish the native language at the early education level. While the law stopped short of making Hawaiian illegal (it was still the dominant language spoken at the time), many children who spoke Hawaiian at school, including on the playground, were disciplined. This included corporal punishment and going to the home of the offending child to strongly advise them to stop speaking it in their home.[citation needed] Moreover, the law specifically provided for teaching languages "in addition to the English language," reducing Hawaiian to the status of a foreign language, subject to approval by the Department. Hawaiian was not taught initially in any school, including the all-Hawaiian Kamehameha Schools. This is largely because when these schools were founded, like Kamehameha Schools founded in 1887 (nine years before this law), Hawaiian was being spoken in the home. Once this law was enacted, individuals at these institutions took it upon themselves to enforce a ban on Hawaiian. Beginning in 1900, Mary Kawena Pukui, who was later the co-author of the Hawaiian–English Dictionary, was punished for speaking Hawaiian by being rapped on the forehead, allowed to eat only bread and water for lunch, and denied home visits on holidays.[42] Winona Beamer was expelled from Kamehameha Schools in 1937 for chanting Hawaiian.[43]
+
+1949 to present [ edit ]
+
+In 1949, the legislature of the Territory of Hawaiʻi commissioned Mary Pukui and Samuel Elbert to write a new dictionary of Hawaiian, either revising the Andrews-Parker work or starting from scratch.[44] Pukui and Elbert took a middle course, using what they could from the Andrews dictionary, but making certain improvements and additions that were more significant than a minor revision. The dictionary they produced, in 1957, introduced an era of gradual increase in attention to the language and culture.
+
+Efforts to promote the language have increased in recent decades. Hawaiian-language "immersion" schools are now open to children whose families want to reintroduce Hawaiian language for future generations.[45] The ʻAha Pūnana Leo’s Hawaiian language preschools in Hilo, Hawaii, have received international recognition.[46] The local National Public Radio station features a short segment titled "Hawaiian word of the day" and a Hawaiian language news broadcast. Honolulu television station KGMB ran a weekly Hawaiian language program, ʻĀhaʻi ʻŌlelo Ola, as recently as 2010.[47] Additionally, the Sunday editions of the Honolulu Star-Advertiser, the largest newspaper in Hawaii, feature a brief article called Kauakukalahale written entirely in Hawaiian by teachers, students, and community members.[48]
+
+Today, the number of native speakers of Hawaiian, which was under 0.1% of the statewide population in 1997, has risen to 2,000, out of 24,000 total who are fluent in the language, according to the US 2011 census. On six of the seven permanently inhabited islands, Hawaiian has been largely displaced by English, but on Niʻihau, native speakers of Hawaiian have remained fairly isolated and have continued to use Hawaiian almost exclusively.[49][40][50]
+
+In 2018, Duolingo released a Hawaiian language learning course.[51]
+
+Niʻihau [ edit ]
+
+“ Niʻihau is the only area in the world where Hawaiian is the first language and English is a foreign language. Because of many sufficiently marked variations, Niihau people, when visiting or living in Honolulu, substitute the Oahu dialect for their own – apparently easy to do – saying that otherwise people in Honolulu have trouble understanding them. Niihau people speak very rapidly; many vowels and entire syllables are dropped or whispered.[52] ” — Samuel Elbert and Mary Pukui, Hawaiian Grammar (1979)
+
+The isolated island of Niʻihau, located off the southwest coast of Kauai, is the one island where Hawaiian is still spoken as the language of daily life.[49] Elbert & Pukui (1979:23) states that "[v]ariations in Hawaiian dialects have not been systematically studied", and that "[t]he dialect of Niʻihau is the most aberrant and the one most in need of study". They recognized that Niʻihauans can speak Hawaiian in substantially different ways. Their statements are based in part on some specific observations made by Newbrand (1951). (See Hawaiian phonological processes)
+
+Orthography [ edit ]
+
+Hawaiians had no written language prior to Western contact, except for petroglyph symbols. The modern Hawaiian alphabet, ka pīʻāpā Hawaiʻi, is based on the Latin script. Hawaiian words end only[53] in vowels, and every consonant must be followed by a vowel. The Hawaiian alphabetical order has all of the vowels before the consonants,[54] as in the following chart.
+
+Aa Ee Ii Oo Uu Hh Kk Ll Mm Nn Pp Ww ʻ /a/ /e/ /i/ /o/ /u/ /h/ /k~t/ /l/ /m/ /n/ /p/ /v~w/ ʔ/
+
+Origin [ edit ]
+
+This writing system was developed by American Protestant missionaries during 1820–1826.[55] It was the first thing they ever printed in Hawaiʻi, on January 7, 1822, and it originally included the consonants B, D, R, T, and V, in addition to the current ones (H, K, L, M, N, P, W), and it had F, G, S, Y and Z for "spelling foreign words". The initial printing also showed the five vowel letters (A, E, I, O, U) and seven of the short diphthongs (AE, AI, AO, AU, EI, EU, OU).[56]
+
+In 1826, the developers voted to eliminate some of the letters which represented functionally redundant allophones (called "interchangeable letters"), enabling the Hawaiian alphabet to approach the ideal state of one-symbol-one-phoneme, and thereby optimizing the ease with which people could teach and learn the reading and writing of Hawaiian.[57] For example, instead of spelling one and the same word as pule, bule, pure, and bure (because of interchangeable p/b and l/r), the word is spelled only as pule.
+
+Interchangeable B/P. B was dropped, P was kept.
+
+was dropped, was kept. Interchangeable L/R. R and D were dropped, L was kept.
+
+and were dropped, was kept. Interchangeable K/T. T was dropped, K was kept.
+
+was dropped, was kept. Interchangeable V/W. V was dropped, W was kept.
+
+However, hundreds of words were very rapidly borrowed into Hawaiian from English, Greek, Hebrew, Latin, and Syriac.[58][59][60] Although these loan words were necessarily Hawaiianized, they often retained some of their "non-Hawaiian letters" in their published forms. For example, Brazil fully Hawaiianized is Palakila, but retaining "foreign letters" it is Barazila.[61] Another example is Gibraltar, written as Kipalaleka or Gibaraleta.[62] While [z] and [ɡ] are not regarded as Hawaiian sounds, [b], [ɹ], and [t] were represented in the original alphabet, so the letters (b, r, and t) for the latter are not truly "non-Hawaiian" or "foreign", even though their post-1826 use in published matter generally marked words of foreign origin.
+
+Glottal stop [ edit ]
+
+ʻOkina (ʻoki 'cut' + -na '-ing') is the modern Hawaiian name for the symbol (a letter) that represents the glottal stop.[63] It was formerly known as ʻuʻina ('snap'[64][65]).
+
+For examples of the ʻokina, consider the Hawaiian words Hawaiʻi and Oʻahu (often simply Hawaii and Oahu in English orthography). In Hawaiian, these words can be pronounced [hʌˈʋʌi.ʔi] and [oˈʔʌ.hu], and can be written with an ʻokina where the glottal stop is pronounced.[66][67]
+
+Elbert & Pukui's Hawaiian Grammar says "The glottal stop, ‘, is made by closing the glottis or space between the vocal cords, the result being something like the hiatus in English oh-oh."[68]
+
+History [ edit ]
+
+As early as 1823, the missionaries made some limited use of the apostrophe to represent the glottal stop,[69] but they did not make it a letter of the alphabet. In publishing the Hawaiian Bible, they used it to distinguish koʻu ('my') from kou ('your').[70] In 1864, William DeWitt Alexander published a grammar of Hawaiian in which he made it clear that the glottal stop (calling it "guttural break") is definitely a true consonant of the Hawaiian language.[71] He wrote it using an apostrophe. In 1922, the Andrews-Parker dictionary of Hawaiian made limited use of the opening single quote symbol, called "reversed apostrophe" or "inverse comma", to represent the glottal stop.[72] Subsequent dictionaries have preferred to use that symbol. Today, many native speakers of Hawaiian do not bother, in general, to write any symbol for the glottal stop. Its use is advocated mainly among students and teachers of Hawaiian as a second language, and among linguists.[73]
+
+Electronic encoding [ edit ]
+
+ʻŌlelo Hawaiʻi « (Hawaiian: Hawaiian language) within single « (Hawaiian:) within single quotes , font: Linux Libertine . The glyph of the two ʻokinas is clearly different from the one of the opening quote.
+
+The ʻokina is written in various ways for electronic uses:
+
+turned comma: ʻ , Unicode hex value 02BB (decimal 699). This does not always have the correct appearance because it is not supported in some fonts.
+
+, Unicode hex value 02BB (decimal 699). This does not always have the correct appearance because it is not supported in some fonts. opening single quote, a.k.a. left single quotation mark: ‘ Unicode hex value 2018 (decimal 8216). In many fonts this character looks like either a left-leaning single quotation mark or a quotation mark thicker at the bottom than at the top. In more traditional serif fonts such as Times New Roman it can look like a very small "6" with the circle filled in black: ‘ .
+
+Because many people who want to write the ʻokina are not familiar with these specific characters and/or do not have access to the appropriate fonts and input and display systems, it is sometimes written with more familiar and readily available characters:
+
+the ASCII apostrophe ' , Unicode hex value 27 (decimal 39), [74] following the missionary tradition.
+
+, Unicode hex value 27 (decimal 39), following the missionary tradition. the ASCII grave accent (often called "backquote" or "backtick") ` , [75] Unicode hex value 60 (decimal 96)
+
+, Unicode hex value 60 (decimal 96) the right single quotation mark, or "curly apostrophe" ’ , Unicode hex value 2019 (decimal 146)[76]
+
+Macron [ edit ]
+
+A modern Hawaiian name for the macron symbol is kahakō (kaha 'mark' + kō 'long').[77] It was formerly known as mekona (Hawaiianization of macron). It can be written as a diacritical mark which looks like a hyphen or dash written above a vowel, i.e., ā ē ī ō ū and Ā Ē Ī Ō Ū. It is used to show that the marked vowel is a "double", or "geminate", or "long" vowel, in phonological terms.[78] (See: Vowel length)
+
+As early as 1821, at least one of the missionaries, Hiram Bingham, was using macrons (and breves) in making handwritten transcriptions of Hawaiian vowels.[79] The missionaries specifically requested their sponsor in Boston to send them some type (fonts) with accented vowel characters, including vowels with macrons, but the sponsor made only one response and sent the wrong font size (pica instead of small pica).[72] Thus, they could not print ā, ē, ī, ō, nor ū (at the right size), even though they wanted to.
+
+Pronunciation [ edit ]
+
+Due to extensive allophony, Hawaiian has more than 13 phones. Although vowel length is phonemic, long vowels are not always pronounced as such,[78] even though under the rules for assigning stress in Hawaiian, a long vowel will always receive stress.[80][81]
+
+Phonology [ edit ]
+
+Consonants [ edit ]
+
+Consonants Labial Alveolar Velar Glottal Nasal m n Plosive p t ~ k ʔ Fricative h Sonorant w ~ v l
+
+Hawaiian is known for having very few consonant phonemes – eight: /p, k ~ t, ʔ, h, m, n, l, w ~ v/. It is notable that Hawaiian has allophonic variation of [t] with [k],[82][83][84][85] [w] with [v],[86] and (in some dialects) [l] with [n].[87] The [t]–[k] variation is quite unusual among the world's languages, and is likely a product both of the small number of consonants in Hawaiian, and the recent shift of historical *t to modern [t]–[k], after historical *k had shifted to [ʔ]. In some dialects, /ʔ/ remains as [k] in some words. These variations are largely free, though there are conditioning factors. /l/ tends to [n] especially in words with both /l/ and /n/, such as in the island name Lānaʻi ([laːˈnɐʔi]–[naːˈnɐʔi]), though this is not always the case: ʻeleʻele or ʻeneʻene "black". The [k] allophone is almost universal at the beginnings of words, whereas [t] is most common before the vowel /i/. [v] is also the norm after /i/ and /e/, whereas [w] is usual after /u/ and /o/. After /a/ and initially, however, [w] and [v] are in free variation.[88] "A consonant occurs only before a vowel; thus two consonants never occur in succession and a syllable always ends with a vowel".[68]
+
+Vowels [ edit ]
+
+Hawaiian has five short and five long vowels, plus diphthongs.
+
+Monophthongs [ edit ]
+
+Monophthongs Short Long Front Back Front Back Close i u iː uː Mid ɛ ~ e o eː oː Open ɐ ~ ə aː
+
+Hawaiian has five pure vowels. The short vowels are /u, i, o, e, a/, and the long vowels, if they are considered separate phonemes rather than simply sequences of like vowels, are /uː, iː, oː, eː, aː/. When stressed, short /e/ and /a/ have been described as becoming [ɛ] and [ɐ], while when unstressed they are [e] and [ə][citation needed]. Parker Jones (2017), however, did not find a reduction of /a/ to [ə] in the phonetic analysis of a young speaker from Hilo, Hawaiʻi; so there is at least some variation in how /a/ is realised.[89] /e/ also tends to become [ɛ] next to /l/, /n/, and another [ɛ], as in Pele [pɛlɛ]. Some grammatical particles vary between short and long vowels. These include a and o "of", ma "at", na and no "for". Between a back vowel /o/ or /u/ and a following non-back vowel (/a e i/), there is an epenthetic [w], which is generally not written. Between a front vowel /e/ or /i/ and a following non-front vowel (/a o u/), there is an epenthetic [j] (a y sound), which is never written.
+
+Diphthongs [ edit ]
+
+Short diphthongs Ending with /u/ Ending with /i/ Ending with /o/ Ending with /e/ Starting with /i/ iu Starting with /o/ ou oi Starting with /e/ eu ei Starting with /a/ au ai ao ae
+
+The short-vowel diphthongs are /iu, ou, oi, eu, ei, au, ai, ao, ae/. In all except perhaps /iu/, these are falling diphthongs. However, they are not as tightly bound as the diphthongs of English, and may be considered vowel sequences.[89] (The second vowel in such sequences may receive the stress, but in such cases it is not counted as a diphthong.) In fast speech, /ai/ tends to [ei] and /au/ tends to [ou], conflating these diphthongs with /ei/ and /ou/.
+
+There are only a limited number of vowels which may follow long vowels, and some authors treat these sequences as diphthongs as well: /oːu, eːi, aːu, aːi, aːo, aːe/.
+
+Long diphthongs Ending with /u/ Ending with /i/ Ending with /o/ Ending with /e/ Starting with /o/ oːu Starting with /e/ eːi Starting with /a/ aːu aːi aːo aːe
+
+Phonotactics [ edit ]
+
+Hawaiian syllable structure is (C)V. All CV syllables occur except for wū;[90] wu occurs only in two words borrowed from English.[91][92] As shown by Schütz,[58][80][93] Hawaiian word-stress is predictable in words of one to four syllables, but not in words of five or more syllables. Hawaiian phonological processes include palatalization and deletion of consonants, as well as raising, diphthongization, deletion, and compensatory lengthening of vowels.[83][94] Phonological reduction (or "decay") of consonant phonemes during the historical development of the language has resulted in the phonemic glottal stop.[95][96] Ultimate loss (deletion) of intervocalic consonant phonemes has resulted in Hawaiian long vowels and diphthongs.[96][97][98][99]
+
+Grammar [ edit ]
+
+Hawaiian is an analytic language with verb–subject–object word order. While there is no use of inflection for verbs, in Hawaiian, like other Austronesian personal pronouns, declension is found in the differentiation between a- and o-class genitive case personal pronouns in order to indicate inalienable possession in a binary possessive class system. Also like many Austronesian languages, Hawaiian pronouns employ separate words for inclusive and exclusive we (clusivity), and distinguish singular, dual, and plural. The grammatical function of verbs is marked by adjacent particles (short words) and by their relative positions, that indicate tense–aspect–mood.
+
+Some examples of verb phrase patterns:[68]
+
+ua VERB – perfective
+
+– perfective e VERB ana – imperfective
+
+– imperfective ke VERB nei – present progressive
+
+– present progressive e VERB – imperative
+
+– imperative mai VERB – negative imperative
+
+– negative imperative i VERB – purposive
+
+– purposive ke VERB – infinitive
+
+Nouns can be marked with articles:
+
+ka honu (the turtle)
+
+(the turtle) nā honu (the turtles)
+
+(the turtles) ka hale (the house)
+
+(the house) ke kanaka (the person)
+
+ka and ke are singular definite articles. ke is used before words beginning with a-, e-, o- and k-, and with some words beginning ʻ- and p-. ka is used in all other cases. nā is the plural definite article.
+
+To show part of a group, the word kekahi is used. To show a bigger part, mau is inserted to pluralize the subject.
+
+Examples:
+
+kekahi pipi (one of the cows)
+
+(one of the cows) kekahi mau pipi (some of the cows)
+
+See also [ edit ]
+
+Notes [ edit ]

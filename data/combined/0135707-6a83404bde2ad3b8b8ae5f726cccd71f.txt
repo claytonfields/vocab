@@ -1,0 +1,205 @@
+[LP] BW Review - Modify the Phase Variance Text by Liquipedia Table of Contents
+
+
+
+Portal Updates
+
+
+
+Design Changes
+
+
+
+Archives
+
+
+
+Join the Ranks
+
+
+
+Stories from the Twitterverse
+
+Modify the Phase Variance
+
+Liquipedia Reviews, in general, document the progress of Teamliquid's own Wikis. There's a faint possibility Brood War fans do not know this, since the last review to summarize updates, changes and new content directly focusing on our beloved game has been published more than two years ago. It's about time to revive the tradition and show you what the encyclopaedia looks like now. More than one thousand articles received a facelift, new portals have been created and several projects were started. Portal Updates
+
+Liquipedia Brood War was released almost five years ago. Back then, the Wiki was planned as in-depth strategy compendium with a clear purpose. Over time more and more articles were added, which wouldn't fit the original goals any more. Consequently the project's goal changed bit by bit, especially under the influx of the upcoming StarCraft II Wings of Liberty beta. Nowadays Liquipedia covers a lot more than originally thought, events, tools, maps, community information, you name it. However, the structure wasn't nearly as effective as it could be — it was rather hard to find the desired article with a few clicks.
+
+
+
+To solve this issue, the main page and many portals received a facelift. The most frequently visited portals are now only one click away from the main page, upcoming events are listed and the best content is featured with a spotlight on the main page. Maintenance reports and community news round up the picture. However, this only decreased the required time for readers to navigate, but did not help in terms of article quality.
+
+
+
+The portal listing the history and achievements about foreign Brood War was dusty and painted a somewhat negatively biased picture. Race specific strategy overviews were a wall of text with rather vague links leading forward, beginners and newcomers to our scene had no real starting point. A lot of randomness, really. The solution was to completely work over many of the portals, so an entirely new structure could be created, an Ariadne's thread anyone could follow. One of the goals was to intentionally understand how to navigate in order to obtain information.
+
+
+
+
+
+The New Protoss Strategy Overview
+
+
+
+Assuming that most rookies would be interested in learning the basic principles of the game, we deduced a new portal designed for their wishes. This resulted in the so-called 'Beginners Portal', which gives a first glimpse on several topics: the races, where and how to play, technical aspects and definitions of the basic terms. Following this logic, the strategy portals themselves are being worked on, so any rookie is lead from abstract, basic concepts to detailed Build Orders. For now the Protoss Strategy overview is the only race specific portal finished. It summarizes all possible categories of strategy, shows where to find in-depth articles and lists beginner friendly tactics. The Terran and the Zerg portal are next in line, with Terran already being up to date for the match up against Protoss. However, Brood War is more than the alleged 'serious' competitive game modes. Thanks to influx of more recent tournaments, the Big Game Hunters portal received updates as well.
+
+
+
+Furthermore, strategy isn't everything. Another goal for many contributors was to promote their respective scene. Almost all events by KeSPA, Sonic's new amateur scene and foreign organizers past beta, including but not limited to the beginner's scene, have been added. Replays, VODs, pictures, write ups and reviews can be found there. The efforts spent on covering are hard to put into words. Suffice to say more than five hundred articles were created in the past three years alone to keep Liquipedia a go to site for Brood War.
+
+Liquipedia Brood War was released almost five years ago. Back then, the Wiki was planned as in-depth strategy compendium with a clear purpose. Over time more and more articles were added, which wouldn't fit the original goals any more. Consequently the project's goal changed bit by bit, especially under the influx of the upcoming StarCraft II Wings of Liberty beta. Nowadays Liquipedia covers a lot more than originally thought, events, tools, maps, community information, you name it. However, the structure wasn't nearly as effective as it could be — it was rather hard to find the desired article with a few clicks.To solve this issue, the main page and many portals received a facelift. The most frequently visited portals are now only one click away from the main page, upcoming events are listed and the best content is featured with a spotlight on the main page. Maintenance reports and community news round up the picture. However, this only decreased the required time for readers to navigate, but did not help in terms of article quality.The portal listing the history and achievements about foreign Brood War was dusty and painted a somewhat negatively biased picture. Race specific strategy overviews were a wall of text with rather vague links leading forward, beginners and newcomers to our scene had no real starting point. A lot of randomness, really. The solution was to completely work over many of the portals, so an entirely new structure could be created, an Ariadne's thread anyone could follow. One of the goals was to intentionally understand how to navigate in order to obtain information.Assuming that most rookies would be interested in learning the basic principles of the game, we deduced a new portal designed for their wishes. This resulted in the so-called 'Beginners Portal', which gives a first glimpse on several topics: the races, where and how to play, technical aspects and definitions of the basic terms. Following this logic, the strategy portals themselves are being worked on, so any rookie is lead from abstract, basic concepts to detailed Build Orders. For now the Protoss Strategy overview is the only race specific portal finished. It summarizes all possible categories of strategy, shows where to find in-depth articles and lists beginner friendly tactics. The Terran and the Zerg portal are next in line, with Terran already being up to date for the match up against Protoss. However, Brood War is more than the alleged 'serious' competitive game modes. Thanks to influx of more recent tournaments, the Big Game Hunters portal received updates as well.Furthermore, strategy isn't everything. Another goal for many contributors was to promote their respective scene. Almost all events by KeSPA, Sonic's new amateur scene and foreign organizers past beta, including but not limited to the beginner's scene, have been added. Replays, VODs, pictures, write ups and reviews can be found there. The efforts spent on covering are hard to put into words. Suffice to say more than five hundred articles were created in the past three years alone to keep Liquipedia a go to site for Brood War.
+
+Design Changes
+
+Thanks to our friends from the other Wikis we have plenty new templates to make articles look nicer. It's rather hard to summarize two years of updates, so let's just focus on the more important ones. To start off with, we added new brackets. Whenever you hover your cursor over a player's name, his path through the grid will be highlighted — which makes tracking your favourite a lot easier. Furthermore — whenever we could and had the time — we added detailed results in the grid, hence no more scrolling to the bottom of a page. If you click on a match with an i-symbol, a small window pops up, showing the date and time it was played or count down too if it's yet to be played, and it might also have links to reviews, previews, live report threads, replays and/or VODs.
+
+
+
+
+
+That's how it looks like now
+
+
+
+One of the other problems we encountered was the sheer magnitude of different modes used for team leagues and tournaments. Other than more modern leagues, old clan and nation wars often featured Best of Three sets for each game, as well as 2v2 games. No template really helped us to show all information we had, hence a few lines of syntax had to be added. Almost all formats can now be displayed!
+
+
+
+
+
+Example of a detailed Clan War result table
+
+
+
+Aside from these two major changes, we fixed tons and tons of player profiles, tournament and strategy infoboxes, worked on build order tables, added missing flags for National B-Teams and pictures we received from contributors, corrected dead links, and much more.
+
+
+
+The last thing we'd like to highlight is our work on replays. Originally, replays were mostly linked via tables on Starcraft II strategy articles; we came to the conclusion they'd fit on different sections as well. For instance, many foreign tournaments now show the most memorable or interesting games with a direct link to the replay or VOD. Also, for older tournaments we tried to upload replay packs, so you can re-live the event today.
+
+Archiving
+
+
+
+Most recently, more ambitious goals have been formulated by some of Liquipedia's contributors: preserving Brood War's legacy. The game is more than a decade and a half old, we've seen tons of fan pages come and go, and there's been so many leagues played that most of them are already forgotten by most. To work against dementia, great efforts were made to create a complete archive of the most important events.
+
+
+
+Nostalgia is another major factor for people still visiting fan pages, and the driving motivation for many contributors. Adding results is one thing, but to truly provide information, context has to be provided. New members of our shrinking community may not understand the drama that went with a new wave of hackers being caught red handed, the importance of an event like the World Cyber Games, why players like Flash and Jaedong were labelled as prodigies in the Korean scene, or how much influence the Bonjwas like Iloveoov, NaDa and Boxer really had on strategical development.
+
+
+
+Interestingly enough, the solution to a problem helped to provide exactly this information. The problem was: many of the former leagues and tournaments are not recorded any more, at least not in full detail. Grids were lost when sites like WGTour, PGTour, GosuGamers or ICCup went offline or were updated. Consequently much of the information had to be reconstructed with the help of tools like Archive.org, Google Search Queries, and most importantly, via Battle Reports, L&R Threads and event coverage from a decade ago. With the power of hindsight, we were able to expand articles by summarizing the communities thoughts, connect story lines in-between tournaments on player profiles, explain the impact of details and overall put most tournaments in perspective to each other.
+
+
+
+In combination with the changes we explained earlier, we were able to work over a row of articles. These contain more information, look better and more informative than anything else we have done so far. They're more than just a list of records or a collection of links — they're a glimpse of golden days past.
+
+Pre Beta Articles
+
+
+
+WCG 2006
+
+
+
+WCG 2006 FiSheYe
+
+
+
+FiSheYe Mondragon
+
+
+
+Mondragon Sandlot
+
+
+
+Sandlot 2006 Shinhan Bank OnGameNet Starleague Season 2 Post Beta Articles
+
+
+
+ILME
+
+
+
+ILME Moscow LAN 2012
+
+
+
+Moscow LAN 2012 Sziky
+
+
+
+Sziky Scan
+
+
+
+Scan Defiler.ru Tournaments
+
+Please do not underestimate the time that went into these articles and related edits. We burned the midnight oil figuring out smurfs and reconstructing grids via replays, forum discussions, archive.org and google cache. Most of the really ancient tournaments and their respective grids have been offline for years, even more are probably not archived at all. Keep in mind, we will never give up and try to restore and archive as much as possible. Our history may not be forgotten!
+
+Thanks to our friends from the other Wikis we have plenty new templates to make articles look nicer. It's rather hard to summarize two years of updates, so let's just focus on the more important ones. To start off with, we added new brackets. Whenever you hover your cursor over a player's name, his path through the grid will be highlighted — which makes tracking your favourite a lot easier. Furthermore — whenever we could and had the time — we added detailed results in the grid, hence no more scrolling to the bottom of a page. If you click on a match with an i-symbol, a small window pops up, showing the date and time it was played or count down too if it's yet to be played, and it might also have links to reviews, previews, live report threads, replays and/or VODs.One of the other problems we encountered was the sheer magnitude of different modes used for team leagues and tournaments. Other than more modern leagues, old clan and nation wars often featured Best of Three sets for each game, as well as 2v2 games. No template really helped us to show all information we had, hence a few lines of syntax had to be added. Almost all formats can now be displayed!Aside from these two major changes, we fixed tons and tons of player profiles, tournament and strategy infoboxes, worked on build order tables, added missing flags for National B-Teams and pictures we received from contributors, corrected dead links, and much more.The last thing we'd like to highlight is our work on replays. Originally, replays were mostly linked via tables on Starcraft II strategy articles; we came to the conclusion they'd fit on different sections as well. For instance, many foreign tournaments now show the most memorable or interesting games with a direct link to the replay or VOD. Also, for older tournaments we tried to upload replay packs, so you can re-live the event today.Most recently, more ambitious goals have been formulated by some of Liquipedia's contributors: preserving Brood War's legacy. The game is more than a decade and a half old, we've seen tons of fan pages come and go, and there's been so many leagues played that most of them are already forgotten by most. To work against dementia, great efforts were made to create a complete archive of the most important events.Nostalgia is another major factor for people still visiting fan pages, and the driving motivation for many contributors. Adding results is one thing, but to truly provide information, context has to be provided. New members of our shrinking community may not understand the drama that went with a new wave of hackers being caught red handed, the importance of an event like the World Cyber Games, why players like Flash and Jaedong were labelled as prodigies in the Korean scene, or how much influence the Bonjwas like Iloveoov, NaDa and Boxer really had on strategical development.Interestingly enough, the solution to a problem helped to provide exactly this information. The problem was: many of the former leagues and tournaments are not recorded any more, at least not in full detail. Grids were lost when sites like WGTour, PGTour, GosuGamers or ICCup went offline or were updated. Consequently much of the information had to be reconstructed with the help of tools like Archive.org, Google Search Queries, and most importantly, via Battle Reports, L&R Threads and event coverage from a decade ago. With the power of hindsight, we were able to expand articles by summarizing the communities thoughts, connect story lines in-between tournaments on player profiles, explain the impact of details and overall put most tournaments in perspective to each other.In combination with the changes we explained earlier, we were able to work over a row of articles. These contain more information, look better and more informative than anything else we have done so far. They're more than just a list of records or a collection of links — they're a glimpse of golden days past.Please do not underestimate the time that went into these articles and related edits. We burned the midnight oil figuring out smurfs and reconstructing grids via replays, forum discussions, archive.org and google cache. Most of the really ancient tournaments and their respective grids have been offline for years, even more are probably not archived at all. Keep in mind, we will never give up and try to restore and archive as much as possible. Our history may not be forgotten! Join the Ranks
+
+The efforts of Liquipedia Brood War's contributors have to be put into perspective. Unlike the other portals, our beloved game relies on the work of a very few contributors. Brood War only has a handful of motivated users updating and expanding each month. We desperately need more manpower!
+
+
+
+The title already gives a hint: our work never stops. Any true Brood War fan should be proud to have the ability to contribute a little bit in order to preserve our history. There are hundreds of things anyone could do to help out just a little. However, we do understand that adding to the Wiki for the first time might be terrifying, especially if there is no guidance. Indeed, help pages and tutorials were missing for a long time — but not any more. There are general help pages for several genres of articles.
+
+General Editing Video Guide
+
+
+
+http://wiki.teamliquid.net/starcraft/Help:Tournaments
+
+
+
+http://wiki.teamliquid.net/starcraft/Help layer_Profile
+
+
+
+layer_Profile http://wiki.teamliquid.net/starcraft/Help:Strategy
+
+
+
+Another thing to stop people from actually editing might be the lack of overview; where is information missing? The following lists might help you out and tell you what's required. Most important categories are on the top, less important ones on the bottom.
+
+SOSPA Content : Sonic's new amateur scene, and related events like LoveTV leagues, are the beacon of hope for Korean Brood War. However, especially the new Bjs are unfamiliar to more seasoned veterans returning and interested readers new to the scene. Information is not lacking: many reviews feature interviews, short biographies, information about their styles and so on and so forth. No Korean is needed to at least write short notes on the otherwise rather empty pages of our new heroes. Any information on the players, the leagues, upcoming tournaments or Afreeca itself is very important. This rounds up the picture, might attract fresh blood and shows our appreciation for Sonic.
+
+
+
+: Sonic's new amateur scene, and related events like LoveTV leagues, are the beacon of hope for Korean Brood War. However, especially the new Bjs are unfamiliar to more seasoned veterans returning and interested readers new to the scene. Information is not lacking: many reviews feature interviews, short biographies, information about their styles and so on and so forth. No Korean is needed to at least write short notes on the otherwise rather empty pages of our new heroes. Any information on the players, the leagues, upcoming tournaments or Afreeca itself is very important. This rounds up the picture, might attract fresh blood and shows our appreciation for Sonic. Strategy Help : The Terran and the Zerg strategy portals have almost no contributors. It is essential that both will be expanded. If you're a somewhat experienced player, feel free to add new Build Orders or work on the formulation of old ones. Thanks to the new tutorial pages it should be relatively easy to transform the word salad of really dusty articles into understandable, marvellous looking strategy advice. Even if you are afraid to change information, you can try to upload pictures (e.g. of Wall-Ins), check for dead links and find new exemplary games. It's easier than you might think!
+
+
+
+: The Terran and the Zerg strategy portals have almost no contributors. It is essential that both will be expanded. If you're a somewhat experienced player, feel free to add new Build Orders or work on the formulation of old ones. Thanks to the new tutorial pages it should be relatively easy to transform the word salad of really dusty articles into understandable, marvellous looking strategy advice. Even if you are afraid to change information, you can try to upload pictures (e.g. of Wall-Ins), check for dead links and find new exemplary games. It's easier than you might think! Increase Quality : Related to the first point on our list, you might as well do something besides watching new tournaments. Regardless of what you watch, you can always easily expand articles. If you recently stumbled upon a really great game from an event already on Liquipedia, you can add the more interesting games in a new paragraph. Link to the VOD, write a few sentences as to why the game was worth watching, and you're done. As easy as a Forum Post, but helping out a lot!
+
+If you have more time on your hands, you can also write a little about the participants, sum up the write ups and reviews, so people will know what it was like in a year. The more information, the merrier!
+
+
+
+: Related to the first point on our list, you might as well do something besides watching new tournaments. Regardless of what you watch, you can always easily expand articles. If you recently stumbled upon a really great game from an event already on Liquipedia, you can add the more interesting games in a new paragraph. Link to the VOD, write a few sentences as to why the game was worth watching, and you're done. As easy as a Forum Post, but helping out a lot! If you have more time on your hands, you can also write a little about the participants, sum up the write ups and reviews, so people will know what it was like in a year. The more information, the merrier! Share your Archives!: Several player profiles do not even have a picture. Several tournaments do not have VODs, or replays. This is another very easy thing to fix on your ends. If you have, by any chance, pictures you made of a player, upload them to Liquipedia. If you have replay packs, which could help us out restoring old grids, leave a note on the talk page. We will harass you sooner than you might think.
+
+However, please note that you must not upload anything if you're not the creator when it comes to pictures. We do need consent of the author before uploading anything to avoid copyright issues. As for the point of restoring grids — a good thing to judge whether or not you should try to get in touch with the contributors in order to forward your replays — is to check if there's an article about the tour. If there is no article, there's a high chance we might need the information. In any case, do not hesitate to help out!
+
+
+
+The efforts of Liquipedia Brood War's contributors have to be put into perspective. Unlike the other portals, our beloved game relies on the work of a very few contributors. Brood War only has a handful of motivated users updating and expanding each month. We desperately need more manpower!The title already gives a hint: our work never stops. Any true Brood War fan should be proud to have the ability to contribute a little bit in order to preserve our history. There are hundreds of things anyone could do to help out just a little. However, we do understand that adding to the Wiki for the first time might be terrifying, especially if there is no guidance. Indeed, help pages and tutorials were missing for a long time — but not any more. There are general help pages for several genres of articles.Another thing to stop people from actually editing might be the lack of overview; where is information missing? The following lists might help you out and tell you what's required. Most important categories are on the top, less important ones on the bottom. Stories from the Twitterverse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Official Liquipedia Account.

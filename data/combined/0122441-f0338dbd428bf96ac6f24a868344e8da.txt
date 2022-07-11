@@ -1,0 +1,39 @@
+Guys over at Expreview decided to post an early review of Intel’s Core i7-8700K, 10 days before NDA ends.
+
+Intel Core i7-8700K is 42% faster in multi-threaded applications vs. 7700K
+
+First and foremost, let’s look at the chip. Without the labels, it may be hard to distinguish the Coffeelake chip from Kabylake. The changes can mostly be seen on the back, where the same (I mean *almost* the same) socket is used.
+
+Clock to clock comparison
+
+Expreview have a comparison of 8700K, 7700K and 7800X, all running at the same 4.5 GHz frequency. I mean if you wanted to know if there’s any IPC gain, this is the best way to see it.
+
+Intel Core i7-8700K gaming performance
+
+Intel Core i7-8700K productivity benchmark
+
+Intel Core i7-8700K synthetic benchmarks
+
+Stock clock comparison
+
+Intel Core i7-8700K stock gaming performance
+
+Intel Core i7-8700K stock productivity performance
+
+Intel Core i7-8700K stock synthetic performance
+
+Source: Expreview
+
+by WhyCry Tweet
+
+Previous Post
+
+Intel announces 8th Gen Intel Core Processors Family for Desktop Next Post
+
+Rumor: AMD Matisse, Picasso, Vega 20 and Ryzen 5 PRO Mobile
+
+
+
+
+
+Please enable JavaScript to view the comments powered by Disqus.

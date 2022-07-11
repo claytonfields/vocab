@@ -1,0 +1,65 @@
+Gregory Ferenstein is a freelance journalist who investigates the intersection of technology and society. He also designs communication curricula for college students. Follow him on Twitter @ferenstein or at his website.
+
+In the land of all-night samba clubs and soccer fanatics, Brazil is throwing its famously high-energy spirit into the untested waters of online democracy. Multimillion dollar budgets are being handed over to online "town halls," and the federal government is crowdsourcing legislative consulting through interactive web tools.
+
+While the effectiveness of e-democracy has yet to be proven, there are some signs of more equitable resource distribution and increased participation. Here, we'll take a look at participatory budgeting, e-legislation, and why the United States Congress has been more hesitant to adopt such technologies.
+
+A History of Democratic Innovation
+
+Readers who are somewhat familiar with Brazil’s tattered history of corruption may have difficulty swallowing the idea of Brazil as an oasis of democracy. But, beyond the ever present scandals, Brazil has consistently been a pioneer in small-scale, highly participatory governance. For instance, in the sunny vacation destination of Porto Alegre, citizens have enjoyed one of the world’s only participatory budgeting processes since 1989.
+
+Instead of leaving the state’s budgeting to backroom deals between elected officials and deep-pocketed lobbyists, the process convenes a representative council of citizens from the various surrounding cities to make suggestions to the legislature, many of which are approved. The results have been a more equitable distribution of public resources, such as health care and public schools [PDF].
+
+Additionally, within the sprawling streets of Sao Paulo, Semco Inc. has been honored as one of the world’s most democratic (and profitable) workplaces. At Semco, many employees can set their own salaries, hire their bosses in town hall meetings, and even overturn decisions by the CEO. Before Google’s famous 20% time, Semco was the forerunner to the modern movement in decentralized management.
+
+It should be no surprise then that Brazil jumped at the opportunity to plug their participatory spirit into the Internet.
+
+
+
+E-budgeting in Belo Horizonte
+
+In the rolling hills of landlocked Belo Horizonte, participatory budgeting has been a staple of governance since 1993. Every two years, a handful of citizens assemble from each of its 41 districts, debate the merits of a number of public works projects, and vote to give the green light to the most desirable of these projects.
+
+In 2006, the government dove into its first e-democracy experiment [PDF], allocating additional funds for citizens who participated online. This portion totaled about one-fourth of its regular participatory budget. Instead of face-to-face meetings, the online platform educated citizens through text and rich multimedia. Online forms permitted extended dialog between citizens, experts, and politicians, and a dedicated staff member provided timely e-mail responses to direct questions. Among countries with e-democracy measures, none are “even close to the results of [Belo Hoizonte’s] e-participatory budgeting both in terms of citizen participation and positive impacts in policy-making processes,” says Tiago Peixoto, a research coordinator at the e-democracy center in Zurich, in an e-mail.
+
+Overall online civic engagement dwarfed traditional offline participatory budgeting and accounted for a sevenfold increase in votes cast over the prior year when no online component was present.
+
+This may sound impressive, but, statistics reveal that Brazilians may actually have an uneasy commitment to direct democracy. When participatory budgeting is compared to the percentage of people who vote in traditional elections, stats show that less than 10% of citizens voted in the online budgeting process of 2006. Peixoto noted in an e-mail that voting in elections is mandatory in Brazil — an important factor in their average 83% turn out in municipal elections.
+
+But there have been instances that proved more successful. In Porto Alegre, participatory budgeting is credited with increasing access to clean water and service to sewage systems for 98% and 85% of the population, respectively. Though there aren't similar statistics for e-democracy (for logistical reasons), the poorest areas were among the most represented, giving hope that e-democracy is imbued with the same spirit of grassroots empowerment.
+
+Wiki-Legislating
+
+Not content to let local provinces steal their thunder, the federal legislators of Brazil implemented a sophisticated online platform to crowdsource citizen expertise through Wikipedia-style legislation.
+
+“Relying on the use of social media, combined with offline legislative events (e.g. committee hearings, conferences), the initiative is intended to reach a broad segment of the public, including citizens, parliamentarians, civil servants, researchers, nongovernmental organizations and interest groups,” writes Cristiano Ferri, co-developer of the online platform and researcher at Harvard’s Kennedy School.
+
+After securing support from legislators and creating buzz in social media circles, Ferri’s team set up a two-phase process for participants. First, construct an online town hall of chats, forums, and an online library with support from experienced congressional experts. Second, use wiki-style consensus to present a concrete proposal to government representatives.
+
+As far as outcomes, like e-budgeting, online legislation was a mixed bag. The project enhanced the legitimacy of a process historically tainted by strong interest group influence, and there were noticeable adoptions in at least one bill on the regulation of youth rights.
+
+However, like its offline counterpart, citizen legislating receives a luke-warm reception in nearly every part of the world it is attempted, and the Brazilian politicians’ support was “very very low,” according to Ferri. This is, in part, because actual bills are an almost incomprehensible mess of legal jargon. As a result, Ferri says, citizens are not able to actually write a bill themselves.
+
+However, e-legislating is still in its infancy, and crowdsourcing expertise has, in other arenas, shocked the world with its power and sophistication. Brazil’s parliament is committed to another round with e-legislation, and Ferri is optimistic the lessons learned from last year can make a big difference.
+
+What About the U.S. Congress?
+
+
+
+
+
+
+
+The U.S. congress’s attempts at e-democracy have been a “baby step compared to what others have done around the world,” says Matt Lira, the digital communication director for Congressman Eric Cantor. For Lira, there are some key reasons why he’s had difficulty pressuring Congress to become more digitally savvy. He contends that the political party in power has little incentive to give up authority to an experimental process that may tip the balance of power. However, Lira was quick to rebuke his Republican colleagues for the same technological myopia when they held power back in 2006.
+
+Congress’s two most significant e-initiatives have been launched by Republicans — America Speaking Out, an aggregation platform where users list and prioritize various social issues, and YouCut, an SMS-based voting system to select which programs a few Republican congressman will attempt to cut.
+
+Social media is not a salient issue for the older members of congress, many of whom were sworn in before the personal computing revolution. It shouldn’t be surprising then that the first use of an iPad on the House floor was from 39 year-old freshman congressman Charles Djou. As more members of Generation Y occupy Congress, we should expect more digital integration. Perhaps the next State of the Union will look more like a modern college lecture hall full of dimly lit faces peering up over laptops
+
+Indeed, Lira himself is indicative of what that the future might look like. He’s the first digital communications director in Congress to hold the same authority as the other communications directors in his office, and he spoke enthusiastically about how a wiki-style discussion with physicians could have improved the health care debate.
+
+Though the Internet has not been the yellow brick road to the populist utopia that many had hoped it would be, the world is changing. While government may lag just behind, there are indicators that e-democracy has the potential to instill big improvements.
+
+More Government and Tech Resources from Mashable:
+
+Images courtesy of iStockphoto, tgellan, scibak, and Flickr, o palsson

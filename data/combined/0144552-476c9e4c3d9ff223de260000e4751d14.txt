@@ -1,0 +1,39 @@
+One of our priorities in developing the STEM System is to give you the ability to create custom attachments for both the STEM Controller and the STEM Pack. Your ideas will most likely go way beyond what we can imagine, but we’re providing a few ideas (along with CAD models) to get you started.
+
+Here’s how it works for the STEM Controller:
+
+The STEM Controller has an accessory port on the top/front into which a removable plug fits flush to the surface.
+
+When the plug is removed, other accessories (such as the gun shown below) can be attached.
+
+We are providing CAD models for both the plug and the top/front of the STEM Controller to assist you in designing your own accessories.
+
+Here’s how it works for the STEM Pack:
+
+The STEM Pack has a “male” slide on its bottom plate, which can be used to attach it to the surface of any object with the appropriate “female” mount.
+
+We are providing CAD models for both the bottom plate of the STEM Pack and the slide.
+
+The STEM Pack can also be completely embedded within another peripheral if that best suits the application.
+
+Here are some photos showing 3D printed attachments connected to STEM Controllers:
+
+Gun barrel (3D print) attached to STEM Controller
+
+Gun barrel (3D print) with STEM Controller
+
+Below are images and descriptions of the CAD models that can be downloaded from our site.
+
+DOWNLOAD CAD MODELS HERE: https://sixense.box.com/STEMSystem-accessories
+
+The STEM Controller gun attachment is also on Shapeways and Thingiverse.
+
+Here is a video showing the peripherals in use:
+
+STEM Pack mount and bottom plate (3D prints)
+
+STEM Pack clip (with mount incorporated) and bottom plate (3D prints)
+
+We encourage everyone to share the models that you create through services like Shapeways and Thingiverse.
+
+-Steve Hansted, Community Manager

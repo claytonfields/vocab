@@ -1,0 +1,35 @@
+Google has stuck with open source for its newly-announced operating system Chrome.
+
+Not only will it be based on the Linux kernel, with code going public later this year, Chrome will initially be designed for netbooks - a target for Linux OS distributions, such as Ubuntu's Remix.
+
+So is the Chrome OS good news for open source, or bad news for rival Linux distros?
+
+Linux the 'clear winner'
+
+Jim Zemlin, the head of the Linux Foundation, isn't worried, saying Linux is the "clear winner" in the announcement.
+
+Indeed, despite most describing the battle as a clash of the titans between Google and Microsoft, Zemlin has other ideas.
+
+"While this is a great story, I prefer to frame it as David versus Goliath with the little OS that could, Linux, as the foundation of this announcement, as well as the other operating systems challenging Windows," he wrote on his blog.
+
+He added it confirms that Microsoft's pricing model simply doesn't work.
+
+"It’s been reported that Windows 7 Starter will be priced around $45 - $55. In a $200 netbook with already razor thin margins that pricing doesn’t work," Zemlin explained. "When PC makers threaten to use another operating system if they don’t get Windows 7 at a lower price they will not be bluffing; Google Chrome, Moblin, and desktop Linux will be free."
+
+Because of this, he said consumers will be the winners in the netbook market, as they'll finally have choice. "The more companies and manufacturers base their products on Linux, the stronger Linux becomes. Say goodbye to monopoly pricing," he said.
+
+But will other Linux systems take a hit?
+
+On the other hand, while Google is clearly proud of its open source roots and Linux kernel, it could push other Linux distributions further out of the limelight.
+
+Netbooks were seen as a great opportunity for Linux systems, for many of the reasons Zemlin noted - they're flexible and they're cheap. But after a few initial successes, Linux systems were wiped off the shelves of at least one retailer, with Windows dominating the market.
+
+Forrester analyst Paul Jackson told IT PRO that Chrome will become the primary open source alternative. “It won’t be branded as a Linux OS, but it will be the open source option,” Jackson said.
+
+While Google could again put Linux-based netbooks on store shelves, it could squeeze out smaller systems, according to Gartner analyst Annette Jump.
+
+"If Google Chrome succeeds, the first victims will be other Linux distributions shipped on netbooks," she said, adding their current five to 10 per cent market share will disappear first.
+
+But Jump told IT PRO that the Google name won't be enough to convince consumers or retailers. "I don't think the brand name will be enough," she said. "The user interface Linux had wasn't good enough... nor was hardware compatibility good enough."
+
+"Unless they get those two things right, the same thing will happen to [Google] as Linux," she warned.

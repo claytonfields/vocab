@@ -1,0 +1,19 @@
+The Federal Aviation Administration has not yet finalized rules governing the use of drones within the United States. However, a privacy group is already suing the agency over the lack of personal protections detailed in its current proposal.
+
+Earlier this week, the Electronic Privacy Information Center (EPIC) filed a lawsuit against the FAA, arguing that the agency should not have avoided proposing privacy protections with its initial set of drone regulations. EPIC is asking the federal appeals court in Washington, DC to review the FAA’s decision and declare it unlawful, since Congress originally required it to create a “comprehensive plan” that would “safely” incorporate unmanned aerial vehicles into American airspace.
+
+READ MORE: Draft FAA drone regulations ban ‘out of sight’ use of civilian UAVs
+
+When the FAA unveiled its first draft of rules regarding drones, privacy guidelines were not included. The agency said such rules “are beyond the scope of this rulemaking.”
+
+“In 2012, over 100 organizations, experts, and advocates joined EPIC in petitioning the FAA to establish privacy protections prior to the deployment of commercial drones in the United States,” EPIC stated on its website. “In 2014, the FAA responded to EPIC's petition, claiming that drone privacy implications ‘did not raise an immediate safety concern.’”
+
+In an overview of the suit, EPIC noted that drones can be “equipped with highly sophisticated surveillance technology that threatens personal privacy.” It pointed to a drone’s ability to gather personal data such as location and said their use “poses a public safety problem for millions of individuals.”
+
+While the FAA did not touch the civil liberties concerns in its February proposal, it outlined several guidelines for the use of drones commercially. For one thing, the rules ban operators from flying drones beyond their line of sight and restrict their use to daylight hours. Drones must weight a maximum of 55 pounds, stay below 500 feet in the air and fly less than 100 miles per hour. A drone operator must also pass an aeronautics test.
+
+READ MORE:Commercial drone regulations to be proposed by US senator
+
+Civil liberties advocates were not the only ones upset with the rules, though. Companies like Amazon – which is testing deliveries-by-drone in Canada due to tight regulations in the US – said America is moving to slow to adopt new guidelines. The company said even the FAA’s proposed rules are inadequate.
+
+Sen. Cory Booker (D-N.J.) is expected to introduce a bill that would establish temporary rules for experimental drone use, although it is unclear when that will happen. Reports suggest the rules contained in his bill would be more relaxed than what the FAA is considering, though they would only remain in effect until the FAA finalizes its own.

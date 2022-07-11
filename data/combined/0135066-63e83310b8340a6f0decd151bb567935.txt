@@ -1,0 +1,53 @@
+Reserve Bank of India regulations on Bitcoin in India
+
+Laws about Bitcoin are in a gray area today across the world. I studied documents from the Reserve Bank of India’s public repository surrounding Virtual currencies and prepaid solutions. I happened to study two documents about Prepaid Payment and Foreign Exchange Management Rules, 2000.
+
+Why research Prepaid Payment rules?
+
+A person may come across the need to purchase them through Fiat Currencies (INR, USD, GBP, etc). Purchasing any e-currency and loading to an eWallet is regulated by the RBI. Although Bitcoin is in no way related to this, I wanted to see how close I could get to any laws that could present a roadblock.
+
+Is Bitcoin Regulated in India?
+
+The RBI regulation on Prepaid Payment Instruments in India defines a lot of areas. After understanding the documents of RBI’s guidelines and Rules, this is where I could find the only roadblock based on regulation.
+
+“3. Eligibility
+
+3.2 Only banks which have been permitted to provide Mobile Banking Transactions by the Reserve Bank of India shall be permitted to launch mobile based prepaid payment instruments (mobile wallets & mobile accounts).”
+
+In order to enter into the market; fiat is needed to purchase Bitcoin. Fiat will fade away as more people adopt Bitcoin. Until that frictionless free flow between consumers and merchants is made possible, this is a problem area for Bitcoins entry into India.
+
+It can be overcome through:
+
+Donations and sponsorships. There are enough Smartphones to cause this market to explode in any sponsor’s favor.
+
+Sell Services and goods for Bitcoin. Programming Skills, etc.
+
+Mining is too expensive at this stage, unless you have the latest and best equipment. Electricity is not expensive in India.
+
+If we keep fiat out of the system, then Bitcoin is unregulated in India.
+
+I spent some time on the Foreign Exchange Management Act, but it is entirely out of the scope of Bitcoin. As it is a decentralized currency, it can be considered to be a domestic currency since it is being mined in India. This leaves it out of the scope of Foreign Exchange.
+
+Even if, IP’s can be tracked when Bitcoin is used for Foreign Exchange, they can be easily anonymized through the Tor Wallet. Since it is a true P2P (Peer to Peer/ Person to Person) currency, it is impossible to regulate in a population using Bitcoin as a token of value to trade. The logistics to monitor a mass population is not feasable.
+
+Please do read the Draft Guidelines for issuance and operation of Prepaid Payment Instruments in India and Foreign Exchange Management (Current Account Transactions) Rules, 2000. They will help to understand more about the Banking Regulations in India and help solve some problems. India’s closed currency banking system is rival to none. The banks have maintained a lot of public faith in urban areas and have reached a lot of people in this 1.5B population landscape.
+
+India has an unbanked population of 41% according to RBI statistics
+
+(Source: URL Below).
+
+I would like to reach out to the world of regulators and lawmakers to release a statement on Bitcoin. Can the Reserve Bank of India issue a statement on Bitcoin?
+
+Please forward this till someone takes notice and moves Bitcoin along in a positive path.
+
+Sources:
+
+Draft Guidelines for issuance and operation of Prepaid Payment Instruments in India
+
+Foreign Exchange Management (Current Account Transactions) Rules, 2000.
+
+Tor Wallet
+
+Ignoring the Unbanked: Reserve Bank of India’s Mobile Payments Guidelines – A study by Radix Consultancy
+
+Advertisements

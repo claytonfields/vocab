@@ -1,0 +1,293 @@
+Element Language of origin Original word Meaning Symbol origin Description
+
+1 Hydrogen H Greek via Latin and French ὕδωρ (root: ὑδρ-) + -γενής (-genes) water + begetter descriptive From French hydrogène[1] and Latin hydro- and -genes, derived from the Greek ὕδωρ γείνομαι (hydor geinomai), meaning "Ι beget water".
+
+2 Helium He Greek ἥλιος (hélios) sun astrological;
+
+mythological Named after the Greek ἥλιος (helios), which means "the sun" or the mythological sun-god.[2] It was first identified by its characteristic emission lines in the Sun's spectrum.
+
+3 Lithium Li Greek λίθος (lithos) stone From Greek λίθος (lithos) "stone", because it was discovered from a mineral while other common alkali metals (sodium and potassium) were discovered from plant tissue.
+
+4 Beryllium Be Sanskrit, Pali, and Prakrit via Greek, Latin, Old French, and Middle English City of Belur via Greek βήρυλλος (beryllos) a blue-green spar (beryllium aluminium cyclosilicate, Be 3 Al 2 (SiO 3 ) 6 ). Possibly related to the name of Belur. descriptive (colour): beryl βήρυλλος beryllos, denoting beryl, which contains beryllium.[3] The word is derived (via Latin: beryllus and French: béryl) from the Greek βήρυλλος, bērullos, a blue-green spar, from Prakrit veruliya (वॆरुलिय‌), from Pāli veḷuriya (वेलुरिय); veḷiru (भेलिरु) or, viḷar (भिलर्), "to become pale," in reference to the pale semiprecious gemstone beryl.[4] The word is ultimately derived from the Sanskrit word वैडूर्य vaidurya, which might be related to the name of the Indian city of Belur.[5]
+
+6 Carbon C Latin via French charbone charcoal Latin carbo From the French, charbone, which in turn came from Latin carbō, which means "charcoal" and is related to carbōn, which means "a coal". (The German and Dutch names, "Kohlenstoff" and "koolstof", respectively, both literally mean "coal matter".) These words were derived from the PIE base *ker- meaning heat, fire, or to burn.[6]
+
+7 Nitrogen N Greek via Latin and French νίτρον (Latin: nitrum) -γενής (-genes) native-soda begetter descriptive From French "nitrogène",[7] derived from Greek νίτρον γείνομαι (nitron geinomai), meaning "I form/beget native-soda (niter)".[8]
+
+Also used was azoth, from Andalusian Arabic al-zuq, from the Classical Arabic name of the element.
+
+
+
+8 Oxygen O Greek via French ὀξύ γείνομαι (oxy geinomai)/oxygène to bring forth acid From Greek ὀξύ γείνομαι (oxy geinomai), which means "Ι bring forth acid", as it was believed to be an essential component of acids. This phrase was corrupted into the French oxygène, which became the source of the English "oxygen".[9]
+
+9 Fluorine F Latin fluor a flowing From fluorspar, one of its compounds (calcium fluoride, CaF 2 ).
+
+10 Neon Ne Greek νέος (neos) new From Greek "νέος" (neos), which means "new".
+
+12 Magnesium Mg Greek Μαγνησία (Magnesia) toponym From the Ancient Greek Μαγνησία (Magnesia) (district in Thessaly), where discovered.
+
+13 Aluminium Al Latin alumen alum (literally: bitter salt)[13] Latin alumen Latin alumen, which means "alum" (literally "bitter salt").
+
+14 Silicon Si Latin silex, -icis flint descriptive From Latin "silex" or "silicis", which means "flint", a kind of stone (chiefly silicon dioxide).
+
+15 Phosphorus P Greek via Latin[14] φῶς + -φόρος (phos + -phoros) light-bearer descriptive From Greek φῶς + -φόρος (phos + phoros), which means "light bearer", because white phosphorus emits a faint glow upon exposure to oxygen.
+
+Phosphorus was the ancient name for Venus, or Hesperus, the (Morning Star).[2]
+
+16 Sulfur S Latin
+
+
+
+Proto-Indo-European Old Latin sulpur
+
+(later sulphur, sulfur)
+
+
+
+PIE *swépl̥
+
+(genitive *sulplós ),
+
+nominal derivative of *swelp .[15] > PIE *swelp 'to burn' Latin sulfur The word came into Middle English from Anglo-Norman sulfre, itself derived through Old French soulfre from Late Latin sulfur.[16]
+
+17 Chlorine Cl Greek χλωρός (chlorós) pale green[17] descriptive (colour): Greek chloros From Greek χλωρός (chlorós), which means "yellowish green" or "greenish yellow", because of the colour of the gas.
+
+18 Argon Ar Greek ἀργόν (argon) inactive descriptive: argon Greek argon means "inactive" (literally "slow").
+
+19 Potassium K Modern Latin via Dutch and English[18] potassa; potasch via potash[19] pot-ash From the English "potash", which means "pot-ash" (potassium compound prepared from an alkali extracted in a pot from the ash of burnt wood or tree leaves).
+
+Potash is a literal translation of the German Potaschen, which means "pot ashes".[18] The symbol K is from the Latin name kalium, from Arabic القلي (al qalīy), which means "calcined ashes".
+
+20 Calcium Ca Greek/Latin χάλιξ/calx χάλιξ means "pebble", and calx means limestone[20] Latin calx From Latin calx, which means "lime". Calcium was known as early as the first century when the Ancient Romans prepared lime as calcium oxide.
+
+21 Scandium Sc Latin Scandia Scandinavia toponym Named from Latin Scandia, which means Scandinavia; formerly eka-boron.[21]
+
+22 Titanium Ti Greek Τιτάν
+
+Titan
+
+(gen.: Τιτάνος) Titans, sons of Gaia mythological For the "Titans", the first sons of Gaia in Greek mythology.[2]
+
+24 Chromium Cr Greek via French χρῶμα (chróma) colour descriptive (colour): Greek chroma From Greek χρῶμα (chróma), "colour", because of its multicoloured compounds. This word was adapted as the French chrome, and adding the suffix -ium created the English "chromium".[22]
+
+25 Manganese Mn Greek via Latin, Italian, and French Μαγνησία
+
+(Magnesia;
+
+Medieval Latin: magnesia) Magnesia descriptive From Latin Magnesia, ultimately from Greek; Magnesia evolved into "manganese" in Italian and into "manganèse" in French.
+
+26 Iron Fe Anglo-Saxon via Middle English īsern
+
+(earlier: īren/īsen)
+
+/yren/yron holy metal or strong metal[23] descriptive: Anglo-Saxon From the Anglo-Saxon īsern which is derived from Proto-Germanic isarnan meaning "holy metal" or "strong metal".
+
+The symbol Fe is from Latin ferrum, meaning "iron".
+
+27 Cobalt Co German Kobold evil spirit German kobold From German Kobold, which means "evil spirit". The metal was named by miners, because it was poisonous and troublesome (polluted and degraded other mined elements, such as nickel). Other sources cite the origin in the silver miners' belief that cobalt had been placed by "Kobolds", who had stolen the silver. Some also think that the name may have been derived from Greek κόβαλος, kobalos, which means "mine" and which may have common roots with kobold, goblin, and cobalt.
+
+28 Nickel Ni Swedish via German[24] Kopparnickel/
+
+Kupfernickel copper-coloured ore descriptive From the Swedish kopparnickel, meaning "copper-coloured ore"; this referred to the ore niccolite from which it was obtained.[25]
+
+29 Copper Cu Greek? via Latin, West Germanic, Old English, and Middle English[26] Κύπριος (Kyprios)? who/which is from Cyprus toponym: Latin Cuprum Possibly derived from Greek Κύπριος (Kyprios) (which comes from Κύπρος (Kypros), the Greek name of Cyprus) via Latin cuprum, West Germanic *kupar, Old English coper/copor, and Middle English coper. The Latin term, during the Roman Empire, was aes cyprium; "aes" was the generic term for copper alloys such as bronze). Cyprium means "Cyprus" or "which is from Cyprus", where so much of it was mined; it was simplified to cuprum and then eventually Anglicized as copper (Old English coper/copor).
+
+30 Zinc Zn German Zink Cornet From German Zink which is related to Zinken "prong, point", probably alluding to its spiky crystals. May be derived from Old Persian.
+
+31 Gallium Ga Latin Gallia Gaul (Ancient France) toponym From Latin Gallia, which means Gaul (Ancient France), and also gallus, which means "rooster". The element was obtained as free metal by Lecoq de Boisbaudran, who named gallium after France, his native land, and also, punningly, after himself, as Lecoq, which means "the rooster", or in Latin, gallus. Gallium was called eka-aluminium by Mendeleev who predicted its existence.[21]
+
+32 Germanium Ge Latin Germania Germany toponym From Latin Germania, which means "Germany". Germanium has also been called eka-silicon by Mendeleev.[21]
+
+34 Selenium Se Greek σελήνη (selene) moon astrological;
+
+mythological From Greek σελήνη (selene), which means "Moon", and also moon-goddess Selene.[2]
+
+35 Bromine Br Greek via French βρόμος (brómos)[28] dirt or stench (of he-goats)[29] Greek bromos βρόμος (brómos) means "stench (lit. clangor)", due to its characteristic smell.
+
+36 Krypton Kr Greek κρυπτός (kryptos) hidden descriptive From Greek κρυπτός (kryptos), which means "hidden one", because of its colourless, odorless, tasteless, gaseous properties, as well as its rarity in nature (like other noble gases).
+
+37 Rubidium Rb Latin rubidus deepest red descriptive (colour) From Latin rubidus, which means "deepest red", because of the colour of a spectral line.
+
+38 Strontium Sr Scottish Gaelic via English Sròn an t-Sìthein; Strontian proper name (literally: "nose [i.e., 'point'] of the fairy hill)" toponym Named after strontianite, the mineral. (Strontianite was named after the town of Strontian, the source of the mineral in Scotland.)
+
+39 Yttrium Y Swedish Ytterby proper name, literally: "outer village" toponym Named after yttria, the (oxide) compound of yttrium. (The compound yttria was named after Ytterby, the village where the mineral gadolinite was also found.)[30]
+
+40 Zirconium Zr Syriac/Persian via Arabic and German ܙܐܪܓܥܢܥ zargono,[31] زرگون (zargûn) gold-like From Arabic زركون (zarkûn). Derived from the Persian, زرگون (zargûn), which means "gold-like". Zirkon is the German variant of these and is the origin of the English "zircon".[32]
+
+41 Niobium Nb Greek Νιόβη (Niobe) snowy mythological Named after Niobe, daughter of Tantalus in Classical mythology.[30][2]
+
+The alternate name columbium comes from Columbia, personification of America.
+
+
+
+42 Molybdenum Mo Greek μόλυβδος (molybdos) lead-like descriptive From Greek μόλυβδος (molybdos), "lead".
+
+43 Technetium Tc Greek τεχνητός (technetos) artificial descriptive From Greek τεχνητός (technetos), which means "artificial", because it was the first artificially produced element. Technetium has also been called eka-manganese.[21]
+
+44 Ruthenium Ru Latin Ruthenia Ruthenia, Kievan Rus' [33] toponym From Latin Ruthenia, geographical exonym for Kievan Rus'.
+
+45 Rhodium Rh Greek ῥόδον (rhodon) rose descriptive (colour) From Greek ῥόδον (rhodon), which means "rose". From rose-red compounds.
+
+46 Palladium Pd Greek via Latin Παλλάς (genitive: Παλλάδος) (Pallas) little maiden[34] astrological;
+
+mythological Named after Pallas, the asteroid discovered two years earlier. (The asteroid was named after Pallas Athena, goddess of wisdom and victory.)[2] The word Palladium is derived from Greek Παλλάδιον and is the neuter version of Παλλάδιος, meaning "of Pallas".[35]
+
+48 Cadmium Cd Greek/Latin καδμεία (kadmeia) calamine or Cadmean earth Greek kadmia From Latin cadmia, which is derived from Greek καδμεία (kadmeia) and means "calamine", a cadmium-bearing mixture of minerals. Cadmium is named after Cadmus (in Greek: Κάδμος Kadmos), a character in Greek mythology and calamine is derived from Le Calamine, the French name of the Belgian town of Kelmis.
+
+49 Indium In Greek via Latin and English indigo descriptive (colour) Named after indigo, because of an indigo-coloured spectrum line. The English word indigo is from Spanish indico and Dutch indigo (from Portuguese endego), from Latin indicum "indigo," from Greek ἰνδικόν, indikon, "blue dye from India".
+
+50 Tin Sn Anglo-Saxon via Middle English tin Borrowed from a Proto-Indo-European language, and has cognates in several Germanic and Celtic languages.[37]
+
+The symbol Sn is from its Latin name stannum.
+
+51 Antimony Sb Greek? via Medieval Latin and Middle English[38] ἀντί + μόνος
+
+(anti monos);
+
+antimonium/
+
+antimonie[39] various Possibly from Greek ἀντί + μόνος (anti monos), approximately meaning "opposed to solitude", as believed never to exist in pure form, or ἀντί + μοναχός (anti monachos) for "monk-killer" (in French folk etymology, anti-moine "monk's bane"), because many early alchemists were monks, and antimony is poisonous. This may also be derived from the Pharaonic (ancient Egyptian), Antos Ammon (expression), which could be translated as "bloom of the god Ammo".
+
+The symbol Sb is from Latin name stibium, which is derived from Greek Στίβι stíbi, a variant of στίμμι stimmi (genitive: στίμμεος or στίμμιδος), probably a loan word from Arabic or Egyptian
+
+
+
+sdm meaning "eyepaint".[40] Littré suggests that the first form is derived from *stimmida, a hypothetical alternative accusative of stimmi (the canonical accusative of the noun is the same as the nominative: stimmi). The Arabic word for the substance, as "mark" or "the cosmetic", can appear as تحميض، ثمود، وثمود، وثمود ithmid, athmoud, othmod or uthmod.[41]
+
+52 Tellurium Te Latin Tellus Earth From Latin tellus ("Earth").
+
+53 Iodine I Greek via French ἰώδης (iodes) violet descriptive (colour) Named after the Greek ἰώδης (iodes), which means "violet", because of the colour of the gaseous phase. This word was adapted as the French iode, which is the source of the English "iodine".[42]
+
+54 Xenon Xe Greek ξένος (xenos) foreign From the Greek adjective ξένος (xenos), which means "foreign, a stranger".
+
+55 Caesium Cs Latin caesius blue-gray[43] or sky blue descriptive (colour): Latin caesius From Latin caesius, which means "sky blue". Its identification was based upon the bright-blue lines in its spectrum, and it was the first element discovered by spectrum analysis.
+
+56 Barium Ba Greek via Modern Latin βαρύς (barys) heavy Greek barys βαρύς (barys) means "heavy". The oxide was initially called "barote", then "baryta", which was modified to "barium" to describe the metal. Sir Humphry Davy gave the element this name because it was originally found in baryte, which shares the same source.[44]
+
+57 Lanthanum La Greek λανθάνειν (lanthanein) to lie hidden From Greek lanthanein, "to lie (hidden)".
+
+58 Cerium Ce Latin Ceres grain, bread astrological;
+
+mythological Ceres Named after the asteroid Ceres, discovered two years earlier. (The asteroid, now classified as a dwarf planet, was named after Ceres, the goddess of fertility in Roman mythology.)[2] Ceres is derived from PIE *ker-es- from base *ker- meaning to grow.[45][46]
+
+59 Praseodymium Pr Greek πράσιος δίδυμος (prasios didymos) green twin descriptive From Greek πράσιος δίδυμος (prasios didymos), meaning "green twin", because didymium separated into praseodymium and neodymium, with salts of different colours; praseodymium oxide is green.
+
+60 Neodymium Nd Greek νέος δίδυμος (neos didymos) new twin descriptive Derived from Greek νέος διδύμος (neos didymos), which means "new twin", because didymium separated into praseodymium and neodymium. The metals have different-coloured salts, which helps distinguish them.[47]
+
+61 Promethium Pm Greek Προμηθεύς (Prometheus) forethought[48] mythological Named after Prometheus, who stole the fire of heaven and gave it to mankind (in Classical mythology).[2]
+
+62 Samarium Sm Samarsky-Bykhovets, Vasili eponym Named after samarskite, the mineral. (Samarskite was named after Colonel Vasili Samarsky-Bykhovets, a Russian mine official.)
+
+63 Europium Eu Ancient Greek Εὐρώπη (Europe) broad-faced or well-watered toponym;
+
+mythological Named for Europe, where it was discovered. Europe was named after the fictional Phoenician princess Europa.
+
+64 Gadolinium Gd Gadolin, Johan eponym Named in honour of Johan Gadolin, who was one of the founders of Nordic chemistry research, discovered yttrium, and pioneered laboratory exercise teaching. (Gadolinite, the mineral, is also named for him.)
+
+65 Terbium Tb Swedish Ytterby Proper name (literally: outer village) toponym Named after Ytterby, the village in Sweden where the element was first discovered.
+
+66 Dysprosium Dy Greek δυσπρόσιτος (dysprositos) hard to get at descriptive Derived from Greek δυσπρόσιτος (dysprositos), which means "hard to get at".
+
+67 Holmium Ho Latin Holmia Stockholm toponym Derived from Latin Holmia, which means Stockholm.
+
+68 Erbium Er Swedish Ytterby proper name, literally: "outer village" toponym Named after the village of Ytterby in Sweden, where large concentrations of yttria and erbia are located. Erbia and terbia were confused at this time. After 1860, what had been known as terbia was renamed erbia, and after 1877, what had been known as erbia was renamed terbia.
+
+69 Thulium Tm Greek Θούλη, Θύλη[49] a mythical country mythological Named after Thule, an ancient Roman and Greek name (Θούλη, Θύλη) for a mythical country in the far north, perhaps Scandinavia. By the same token, thulia, its oxide.
+
+70 Ytterbium Yb Swedish Ytterby proper name, literally: "outer village" toponym Named after ytterbia, the (oxide) compound of ytterbium. (The compound ytterbia was named after Ytterby, the Swedish village (near Vaxholm) where the mineral gadolinite was also found.)[30]
+
+71 Lutetium Lu Latin Lutetia Paris toponym Named after the Latin Lutetia (Gaulish for "place of mud"), the city of Paris.[30]
+
+72 Hafnium Hf Latin Hafnia Copenhagen toponym From Latin Hafnia, which means "Copenhagen" of Denmark.
+
+73 Tantalum Ta Greek Τάνταλος (Tantalus) Tantalus; possibly "the bearer" or "the sufferer"[50] mythological Named after the Greek Τάνταλος ("Tantalus"), who was punished after death by being condemned to stand knee-deep in water. If he bent to drink the water, it drained below the level he could reach (in Greek mythology). This was considered similar to tantalum's general non-reactivity (that is, "unreachability") because of its inertness (it sits among reagents and is unaffected by them).[2]
+
+74 Tungsten W Swedish and Danish tung sten heavy stone descriptive From the Swedish and Danish "tung sten", which means "heavy stone". The symbol W is from the scientific name wolfram. The names wolfram or volfram are still used in Swedish and several other languages.
+
+[30]
+
+75 Rhenium Re Latin Rhenus Rhine toponym From Latin Rhenus, the river Rhine.
+
+76 Osmium Os Greek via Modern Latin ὀσμή (osme) a smell descriptive From Greek ὀσμή (osme), meaning "a smell"; the tetroxide is foul-smelling.
+
+77 Iridium Ir Greek via Latin ἴρις (genitive: ἴριδος) of rainbows descriptive (colour) Named after the Latin noun iris, which means "rainbow, iris plant, iris of the eye", because many of its salts are strongly coloured; Iris was originally the name of the goddess of rainbows and a messenger in Greek mythology.[2]
+
+78 Platinum Pt Spanish via Modern Latin platina (del Pinto) little silver (of the Pinto River)[51] descriptive From the Spanish, platina, which means "little silver", because it was first encountered in a silver mine. Platina can also mean "stage (of a microscope)", and the modern Spanish is platino. Platina is a diminutive of plata (silver); it is a loan word from French plate or Provençal plata (sheet of metal) and is the origin of the English "plate".[52]
+
+79 Gold Au Anglo-Saxon via Middle English gold descriptive (colour): Latin aurum From the Anglo-Saxon, "gold", from PIE *ghel- meaning "yellow/ bright".
+
+Au is from Latin aurum, which means "shining dawn".[53]
+
+80 Mercury Hg Latin Mercurius Mercury mythological Named after Mercury, the god of speed and messenger of the Gods, as was the planet Mercury named after the god.
+
+The symbol Hg is from the Greek words ὕδωρ and ἀργυρός (hydor and argyros), which became the Latin hydrargyrum; both mean "water-silver", because it is a liquid like water (at room temperature), and has a silvery metallic sheen.[2][54]
+
+81 Thallium Tl Greek θαλλός (thallos) green twig descriptive From Greek θαλλός (thallos), which means "a green shoot (twig)", because of its bright-green spectral emission lines.
+
+82 Lead Pb Anglo-Saxon lead The symbol Pb is from the Latin name plumbum, hence the English "plumbing".[2][55]
+
+83 Bismuth Bi Modern Latin from German bisemutum white mass descriptive (colour): bisemutum bisemutum is derived from German Wismuth, perhaps from weiße Masse, and means "white mass", due to its appearance.
+
+84 Polonium Po Latin Polonia Poland toponym Named after Poland, homeland of discoverer Marie Curie. Was also called radium F.
+
+85 Astatine At Greek ἄστατος (astatos) unstable Greek astatos ἄστατος (astatos) means "unstable".[56]
+
+86 Radon Rn Latin via German and English[57] Radium Contraction of radium emanation, since the element appears in the radioactive decay of radium.
+
+An alternative, rejected name was niton (Nt), from Latin nitens "shining", because of the radioluminescence of radon.
+
+87 Francium Fr French France proper name (Land of the Franks) toponym Named for France, where it was discovered (at the Curie Institute (Paris)).
+
+88 Radium Ra Latin via French radius ray descriptive From Latin radius meaning "ray", because of its radioactivity.
+
+89 Actinium Ac Greek ἀκτίς (aktis) beam Greek aktinos ἀκτίς, ἀκτῖνος (aktis; aktinos), which means "beam (ray)".
+
+90 Thorium Th Old Norse Þōrr (modern English Thor) thunder mythological Named after Thor, a god associated with thunder in Norse mythology.[2]
+
+The former name ionium (Io) was given early in the study of radioactive elements to the 230Th isotope.
+
+91 Protactinium Pa Greek πρῶτος + ἀκτίς first beam element descriptive? Derived from former name protoactinium, from the Greek prefix proto "first" + Neo-Latin actinium from Greek ἀκτίς (gen.: ἀκτῖνος) "ray" + Latin -ium.[58]
+
+92 Uranium U Greek via Latin Οὐρανός (Ouranos); Uranus sky astrological;
+
+mythological Named after the planet Uranus, which had been discovered eight years earlier in 1781. The planet was named after the god Uranus, the god of sky and heaven in Greek mythology.[2]
+
+93 Neptunium Np Latin Neptunus Neptune astrological;
+
+mythological Named for Neptune, the planet. (The planet was named after the god Neptune, the god of oceans in Roman mythology.)[2]
+
+94 Plutonium Pu Greek via Latin Πλούτων (Ploutōn) via Pluto god of wealth[59] astrological;
+
+mythological Named after Pluto, the dwarf planet, because it was discovered directly after Neptunium and is higher than Uranium in the periodic table, so by analogy with the ordering of the planets. (The planet Pluto was named after Pluto, a Greek god of the dead)[2] Πλούτων (Ploutōn) is related to the Greek word πλοῦτος (ploutos) meaning "wealth".
+
+95 Americium Am America toponym: the Americas Named for the Americas, because it was discovered in the United States (by analogy with europium) (the name of the continent America is derived from the name of the Italian navigator Amerigo Vespucci).
+
+96 Curium Cm Curie, Marie and Pierre eponym: Pierre and Marie Curie and the -um ending Named in honour of Marie and Pierre Curie, who discovered radium and researched radioactivity.
+
+99 Einsteinium Es German Einstein, Albert German-Jewish surname, which means "one stone" eponym Named in honour of Albert Einstein, for his work on theoretical physics, which included the photoelectric effect.
+
+101 Mendelevium Md Mendeleyev, Dmitri eponym Named in honour of Dmitri Mendeleyev, who invented periodic table.[61] It has also been called eka-thulium[21] and would have been temporarily called, by IUPAC, unnilunium (Unu) if the IUPAC system had been in place at the time.[30]
+
+102 Nobelium No Nobel, Alfred eponym Named in honour of Alfred Nobel, who invented dynamite and instituted the Nobel Prizes foundation. Unnilbium would have been used as a temporary systematic element name if the IUPAC system had been in place at the time.[30]
+
+103 Lawrencium Lr Lawrence, Ernest O. eponym Named in honour of Ernest O. Lawrence, who was involved in the development of the cyclotron. The symbol has been Lr since 1963; formerly Lw was used. Unniltrium would have been used as a temporary systematic element name if the IUPAC system had been in place at the time.[30]
+
+106 Seaborgium Sg Swedish via English Seaborg, Glenn Teodor Swedish surname, literally: "Lake Mountain" eponym Named in honour of Glenn T. Seaborg, who discovered the chemistry of the transuranium elements, shared in the discovery and isolation of ten elements, and developed and proposed the actinide series. Other names: eka-tungsten[21] and temporarily by IUPAC unnilhexium (Unh).[30]
+
+108 Hassium Hs Latin Hassia Hesse toponym Derived from Latin Hassia, which means Hesse, the German state where it was discovered (at the Institute for Heavy Ion Research, Darmstadt).[30] It has also been called eka-osmium[21] and temporarily by IUPAC unniloctium (Uno).[30]
+
+109 Meitnerium Mt Meitner, Lise eponym Named in honour of Lise Meitner, who shared discovery of nuclear fission.[30] It has also been called eka-iridium[21] and temporarily by IUPAC unnilennium (Une).[30]
+
+110 Darmstadtium Ds German Darmstadt proper name, literally: "intestine city" toponym Named for Darmstadt, where it was discovered (GSI Helmholtz Centre for Heavy Ion Research, located in Wixhausen, a small suburb north of Darmstadt).
+
+It has also been called eka-platinum and temporarily by IUPAC ununnilium (Uun).[62][21]
+
+111 Roentgenium Rg Röntgen,
+
+Wilhelm Conrad eponym Named in honour of Wilhelm Conrad Röntgen, who produced and detected X-rays. It has also been called eka-gold[21] and temporarily by IUPAC unununium (Uuu).[30]
+
+113 Nihonium Nh Japanese 日本 (Nihon) Japan toponym Named after Japan, where the element was discovered. It has also been called eka-thallium[21] and temporarily by IUPAC ununtrium (Uut).[30]
+
+115 Moscovium Mc Latin Moscovia Moscow toponym Named after Moscow Oblast, where the element was discovered. It has also been called eka-bismuth[21] and temporarily by IUPAC ununpentium (Uup).[30]
+
+117 Tennessine Ts Cherokee via English Tennessee Tennessee toponym Named after Tennessee (itself named after the Cherokee village of ᏔᎾᏏ /tanasi/), where important work for one of the steps to synthesise the element was done. It has also been called eka-astatine[21] and temporarily by IUPAC ununseptium (Uus).[30]
