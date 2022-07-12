@@ -6,6 +6,12 @@ This is a temporary script file.
 """
 
 from tokenizers import BertWordPieceTokenizer
+from tokenizers import Tokenizer 
+from tokenizers import models
+from tokenizers import pre_tokenizers
+from tokenizers import decoders
+from tokenizers import trainers
+from tokenizers import processors
 import glob
 from tqdm import tqdm
 import os
@@ -21,6 +27,11 @@ if __name__ == "__main__":
                         default = None,
                         type = str,
                         help = "Path to dataset directory for tokenizer trainin.")
+    parser.add_argument('-type', '-t',
+                        default = 'wp',
+                        type = str,
+                        choices = ['wp', 'bpe'],
+                        help = "Type of tokenizer, wp for WordPiece, bpe for BytePair")
     parser.add_argument("-vocab_size", '-vs',
                         default = 30522,
                         type = int,
@@ -43,6 +54,7 @@ if __name__ == "__main__":
     vocab_size = args.vocab_size
     limit_alphabet = args.limit_alphabet
     lowercase = args.lower_case
+    tokenizer_type = args.type
     
     # Create ouptut direactory
     if not os.path.exists('output'):
@@ -51,35 +63,54 @@ if __name__ == "__main__":
     output_dir = data_dir.rstrip('/')
     output_dir = output_dir.rstrip('\\')
     output_dir = os.path.split(output_dir)[1]
-    output_dir = '-'.join([output_dir,'vs'+str(vocab_size),'la'+str(limit_alphabet)])
+    output_dir = '-'.join([output_dir,tokenizer_type,'vs'+str(vocab_size),'la'+str(limit_alphabet)])
         
     output_path = os.path.join('output',output_dir)
     if os.path.exists(output_path):
         print('output directory already exists')
         sys.exit()
     
-    
-    # Initialize an empty BERT tokenizer
-    tokenizer = BertWordPieceTokenizer(
-      clean_text=False,
-      handle_chinese_chars=False,
-      strip_accents=False,
-      lowercase=lowercase,
-    )
-    
     # prepare text files to train vocab on them
-    files = file_paths = glob.glob(data_dir+"/*.txt")
+    file_path = data_dir.rstrip('/')
+    file_path = file_path.rstrip('\\')
+    file_path = os.path.join(file_path,'*')
+    files = glob.glob(file_path)
     
-    # train BERT tokenizer
-    tokenizer.train(
-      files,
-      vocab_size=vocab_size,
-      min_frequency=2,
-      show_progress=True,
-      special_tokens=['[PAD]', '[UNK]', '[CLS]', '[SEP]', '[MASK]'],
-      limit_alphabet=limit_alphabet,
-      wordpieces_prefix="##"
-    )
+    if tokenizer_type == 'wp':
+        # Initialize an empty BERT tokenizer
+        tokenizer = BertWordPieceTokenizer(
+          clean_text=False,
+          handle_chinese_chars=False,
+          strip_accents=False,
+          lowercase=lowercase,
+        )
+        # train BERT tokenizer
+        tokenizer.train(
+          files,
+          vocab_size=vocab_size,
+          min_frequency=2,
+          show_progress=True,
+          special_tokens=['[PAD]', '[UNK]', '[CLS]', '[SEP]', '[MASK]'],
+          limit_alphabet=limit_alphabet,
+          wordpieces_prefix="##"
+        )
+    elif tokenizer_type == 'bpe':        
+        # Initialize a tokenizer
+        tokenizer = Tokenizer(models.BPE())
+        
+        # Customize pre-tokenization and decoding
+        tokenizer.pre_tokenizer = pre_tokenizers.ByteLevel(add_prefix_space=True)
+        tokenizer.decoder = decoders.ByteLevel()
+        tokenizer.post_processor = processors.ByteLevel(trim_offsets=True)
+        
+        # train Byte Pair Encoding tokenizer
+        trainer = trainers.BpeTrainer(
+            vocab_size=vocab_size,
+            min_frequency=2,
+            initial_alphabet=pre_tokenizers.ByteLevel.alphabet()
+        )
+        tokenizer.train(files=files , trainer=trainer)
+        
     
     # Create output directory    
     os.mkdir(output_path)
