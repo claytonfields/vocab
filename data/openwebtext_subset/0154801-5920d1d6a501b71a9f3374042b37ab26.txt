@@ -1,5 +1,0 @@
-The TPS2511 device is a USB-dedicated charging port (DCP) controller and current-limiting power switch. An auto-detect feature monitors USB data line voltage, and automatically provides the correct electrical signatures on the data lines to charge compliant devices among the following dedicated charging schemes:
-
-Divider DCP, required to apply 2.7 V and 2 V on the D+ and D– lines respectively or 2 V and 2.7 V on the D+ and D– lines respectively BC1.2 DCP, required to short the D+ line to the D– line1.2 V on both D+ and D– lines
-
-The TPS2511 is a 70-mΩ power-distribution switch intended for applications where heavy capacitive loads and short circuits are likely to be encountered. This device also provides hiccup mode when the output (OUT) voltage is less than 3.8 V (typical) or when an overtemperature protection occurs during an overload condition. Accurate and programmable current limit provides flexibility and convenience for applications. The TPS2511 provides a CS pin for USB cable resistance compensation and an EN pin to control the device turnon and turnoff.

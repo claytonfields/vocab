@@ -1,9 +1,0 @@
-Microsoft decided to take a not-too-subtle pot shot at Google's self-driving car project this week. Microsoft believes that Google's automated vehicles could benefit from its Kinect motion sensor technology.
-
-In a post on the Kinect blog , Microsoft, without mentioning Google by name, refers to a recent report that one of Google's self-driving cars hit a bus in Mountain View, California in February . The car reportedly drove around some sandbags in a wide lane, and it believed a nearby bus would slow down, but it didn't and the two vehicles collided.
-
-Could a Kinect sensor have helped the autonomous car make the better decision? Researchers at the University of La Laguna in the Canary Islands think so. They are building a system that uses the Kinect sensor's infrared depth camera to help self-driving cars identify nearby obstacles and maneuver around or over them. Using a self-driving golf cart, the researchers tested the Kinect depth camera against a laser rangefinder and stereo cameras. By operating the vehicle on a test road that contained stairs, ramps, and curbs, they discovered that the Kinect sensor outperformed the other two devices in detecting and correctly discerning nearby, close-to-the-ground objects.
-
-So far, Google has yet to issue a response to the Kinect blog's statements.
-
-This post may contain affiliate links. See our disclosure policy for more details.

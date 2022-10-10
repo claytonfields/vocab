@@ -1,9 +1,0 @@
-Store in the cellar Because all your site’s content and configuration is stored in simple text files, it fits nicely in a revision control system like Git or Mercurial. It’s not only more practical, but also safer!
-
-Serve on the counter Although it can run a flat-file CMS , PieCrust is designed as a static website generator. This means it can “bake” your website into simple HTML files that you can publish with a minimum of resources on your server. A sudden spike of visitors can’t crash your MySQL database when you don’t need one!
-
-Familiar ingredients PieCrust uses all the ingredients you already like, such as Markdown and Textile for formatting, or Jinja2 and Mustache for templating.
-
-Fully functioning oven PieCrust comes out-of-the-box with an asset processing pipeline, capable of handling most of your files – Less/Sass processing, CSS and JS minification, concatenation, and more.
-
-Super-fast service Because PieCrust is also designed as a lightweight (flat-file) CMS, it can render your pages in less than a few milliseconds in most cases. It means that previewing or generating your website is super fast!

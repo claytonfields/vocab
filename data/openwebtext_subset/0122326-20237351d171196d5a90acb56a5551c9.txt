@@ -1,9 +1,0 @@
-Researchers may be close to finding the secret to building the next generation of wind turbine blades for producing wind power. A Case Western Reserve University researcher reports building a prototype blade that is lighter and tougher than those now in use. The key, he says, is using polyurethane reinforced with carbon nanotubes.
-
-As we’ve reported, larger wind turbines are something of a paradoxical pursuit in the wind industry these days. They can capture more energy – but they can be costly, and if too much extra weight accompanies the larger size, the net effect can be reduced efficiency. That’s because the heavier the blades, the more wind is needed to turn the rotor. In addition, larger blades are more prone to flex, further reducing their ability to capture energy.
-
-Marcio Loos, a post-doctoral researcher, built a 29-inch blade, that is lighter and more rigid than the commercial template he modeled it on. He’s calling it “the world’s first carbon nanotube reinforced polyurethane wind blade.”
-
-So far, mechanical tests of the carbon nanotube and ployurethane have shown that the material outperforms the resins application now used for wind turbine blades. In addtion, carbon nanotubes are lighter than carbon fiber and aluminum and have five times the strength of carbon fiber and 60 times the strength of aluminum. Fatigue testing showed the reinforced polyurethane composite lasts about eight times longer than epoxy reinforced with fiberglass.
-
-Loos and his team, supporter in their work by the U.S. Department of Energy and Bayer MaterialScience, will continue to test optimal conditions for the nanotubes. The functional prototype blades built by Loos, which were used to turn a 400-watt turbine, will be stored in a laboratory and used for use in the next generation of wind turbine blades.

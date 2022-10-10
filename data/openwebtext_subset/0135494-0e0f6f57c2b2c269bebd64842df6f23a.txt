@@ -1,9 +1,0 @@
-Image: Google
-
-There doesn't seem to be any way around Apple's addition of an ad blocker in iOS 9 aside from compromising, dealing with it, or pleading for Apple to remove it. As such it's become the issue du jour for publishers far and wide, big and small, who rely on ad views to keep the lights on. But here's a radical idea: instead of blocking ads wholesale, why not get readers to support sites through micropayments?
-
-That's what Google Contributor lets you do. What it does is spread your contribution ($2, $5, or $10 a month) across the sites as you want to support. It'll also remove a portion of ads on websites. The more you contribute, the less ads there will be, with $10 a month blocking 25-50 percent of ads on sites that run ads through Google (hint: chances are it's most of them).
-
-The service has a similar philosophy to Flattr, a "social microdonation" platform that allows for people to give spare change to things they like on media platforms, but it also has the flexibility of Humble Bundle, where you can fine tune the amount of money you want to donate across different causes. While you, the reader, may have different notions about how much your experience must be hobbled by ads, the sad reality is that there is no free lunch; paywalls, login screens and so on were constructed to remind you of this fact.
-
-And as contentious an addition as native ad blocking has become, it's been a long time coming: ad tech has long hobbled usability among many sites. You can see the awfulness in full force in AdBlock Plus' test loading several websites using iPhone's Safari sans content blocking versus AdBlock's iOS browser. But the thought of a reader actually being an actively supportive patron as opposed to the passive ad-viewing audience it used to be seems to be a radical notion—after all, the banner-ad strewn internet's been alive for 20 years. But wait, doesn't this situation sound even a little familiar?

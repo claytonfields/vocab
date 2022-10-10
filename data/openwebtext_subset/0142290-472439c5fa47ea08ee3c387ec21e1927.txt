@@ -1,5 +1,0 @@
-Need to create a publicly accessible web page as quickly as possible? Publishthis.email turns the contents of an email into a publicly accessible site as quickly as you can write it.
-
-All you need to do is send an email to [email protected] using the subject line as the title of your page. Then, inside the email, type whatever you want to appear there, using your email client to format as you see fit. You can also add images, but they're limited to just 350kb. When you're done, send the email off and Publishthis.email replies back with a link. Obviously, you wouldn't want to do this for anything important you want around for a while, but as a means to make something quickly, it certainly does the job. Here's an example page if you're curious how they look.
-
-Publishthis.email [via Product Hunt]

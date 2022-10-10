@@ -1,7 +1,0 @@
-After being taken down two weeks ago, WikiLeaks.org is back up and running in the US.
-
-The restored site has been hosted by Silicon Valley Web Hosting since Friday night, but does not appear to be serving any of the leaked cables or other content that it used to hold. Instead, the site immediately redirects visitors to a WikiLeaks mirror hosted in Russia.
-
-Nonetheless, it is surprising to see WikiLeaks.org being hosted in the US again, even if it is only being used to redirect traffic. Two weeks ago, Amazon decided to remove hosting services from WikiLeaks. After the domain had been pointed to a new hosting location in Europe, EveryDNS then took the site down by terminating DNS services used by the WikiLeaks.org domain, preventing the domain name being resolved into an IP address. Joe Lieberman of the United States Senate Committee on Homeland Security and Government Affairs urged other companies to make similar decisions, saying "No responsible company – whether American or foreign – should assist Wikileaks in its efforts to disseminate these stolen materials."
-
-The WikiLeaks.org domain name also uses a US company, Dynadot, as its registrar and DNS provider. The domain registration was last updated on 10 December 2010 and is not due to expire until 2018.

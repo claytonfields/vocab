@@ -1,7 +1,0 @@
-Now that every team in the United Soccer League has played at least one home game (and I have all the data points), here’s our first complete look at the attendance figures for the Division III league through the games of May 31:
-
-
-
-Team G Total Average Median High Low Sacramento Republic FC 6 66,980 11,163 11,242 11,442 10,906 Louisville City FC 6 33,902 5,650 5,489 7,185 4,772 Tulsa Roughnecks FC 5 26,517 5,303 5,067 8,335 3,335 Rochester Rhinos 3 15,850 5,283 5,179 6,184 4,487 Saint Louis FC 5 24,154 4,831 4,994 5,280 4,096 Charleston Battery 6 24,649 4,108 4,253 5,455 3,026 OKC Energy FC 4 16,399 4,100 4,050 6,797 1,502 Arizona United SC 4 15,283 3,821 3,159 6,108 2,858 Portland Timbers 2 4 14,207 3,552 3,381 4,944 2,501 Richmond Kickers 6 18,833 3,139 3,059 4,683 1,632 Real Monarchs SLC 5 13,682 2,736 2,615 4,279 1,001 Austin Aztex 7 18,812 2,687 2,739 4,105 1,439 Wilmington Hammerheads FC 5 12,561 2,512 2,526 2,985 1,789 Colorado Springs Switchbacks FC 3 7,290 2,430 2,200 2,990 2,100 Harrisburg City Islanders 2 4,767 2,384 2,384 2,589 2,178 Seattle Sounders FC 2 5 11,823 2,365 2,304 2,951 2,043 Charlotte Independence 4 8,580 2,145 2,176 2,241 1,987 Vancouver Whitecaps FC 2 5 9,436 1,887 1,502 3,208 1,217 Pittsburgh Riverhounds 6 11,184 1,864 1,953 2,855 995 Orange County Blues FC 6 6,381 1,064 963 1,873 674 Toronto FC II 1 986 986 986 986 986 LA Galaxy II 8 7,240 905 845 1,352 533 New York Red Bulls II 8 4,736 592 503 1,028 355 FC Montreal 5 2,266 453 265 1,301 112 USL TOTAL 119 376,518 3,164 2,696 11,442 112
-
-NOTES:

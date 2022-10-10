@@ -1,9 +1,0 @@
-When Yohan J. heard that the invoice generation code had started to run slowly, alarm bells sounded in his head. The invoicing system hadn't been touched in a long while, no business process had changed, no new outside interfaces, no hardware changes, no logical reason that it wouldn't be running as quickly as it always had. In fact, this was just the step that generated the invoice; not invoice items, just creating a draft invoice. A single insert that would produce a single row.
-
-Yohan started by checking the invoice table to get a spread of invoices over the past few months to see if volume had increased substantially. It hadn't. Though, oddly, the six-numerical-digit invoice numbers were all over the board. He spotted an 000015 and a 702438 that were created within hours of eachother. How is it even generating these? he wondered, expecting to find a constraint on the column containing an algorithm to generate the invoice numbers.
-
-CREATE TABLE IF NOT EXISTS `invoices` ( `code` varchar(6) NOT NULL default '000000', `DtCode` date NOT NULL default '0000-00-00', `Type` varchar(100) NOT NULL default '', ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
-
-Damn, not even the decency to enforce a primary key constraint on the code column. Oh well, on to the stored procedure that generates the new invoice codes. Ha, just kidding! There was no stored procedure. Invoice codes were generated in the PHP code:
-
-No keys in the table, no enforced uniqueness of invoice numbers, and a while loop using a random number generator until it stumbles on an unused invoice number. Yup, this code has wound up right where it belongs.

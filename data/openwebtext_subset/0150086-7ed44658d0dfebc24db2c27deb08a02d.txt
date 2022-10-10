@@ -1,9 +1,0 @@
-Reserve Bank of India (RBI) has cautioned users of virtual currencies like Bitcoin, Litecoin, and Dogecoin on the risks associated with them and that it is looking at the use and trading of these currencies.
-
-RBI noted in a press release [PDF] that the process associated with creation, trading or usage of virtual currencies as a medium of payment hasn’t been authorized by any central banking authority and “no regulatory approvals, registration or authorisation is stated to have been obtained by the entities concerned for carrying on such activities.”
-
-India’s central bank noted that because of the absence of such authorisation there are quite a few risks including theft of digital wallets that are used to store the digital currency; absence of any frameworks to tackle customer problems, disputes and charge backs; exposure to potential losses because of high volatility in value of the virtual currencies; legal and financial risks; and breach of anti-money laundering laws because of lack of complete information on counterparts in a peer-to-peer anonymous / pseudonymous systems.
-
-All the risks stated by the RBI fall in line with risks highlighted by multiple other countries and organizations including European Banking Authority, China among others.
-
-The RBI has also stated that it is “presently examining the issues associated with the usage, holding and trading of VCs under the extant legal and regulatory framework of the country, including Foreign Exchange and Payment Systems laws and regulations.”

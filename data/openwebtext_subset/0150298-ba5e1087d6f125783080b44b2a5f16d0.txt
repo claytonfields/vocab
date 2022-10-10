@@ -1,9 +1,0 @@
-The future of SkyOS, the closed-source alternative operating system, had been hanging by a thread for a long time now. Barely any releases, until they came to a grinding halt altogether and Robert Szeleney explained he was pondering the future of SkyOS, and where to take it from here. One of the main problems was a lack of driver support which really made development difficult. Well, this is a problem Szeleney might be able to fix.
-
-In an announcement posted on the SkyOS website, Szeleney writes that he is experimenting with replacing the SkyOS kernel with either the Linux of the NetBSD kernel. The idea is to let the SkyOS APIs run on op of the Linux or NetBSD kernels, so you get the SkyOS user experience, but the hardware support of either Linux or NetBSD. This would enable Szeleny to focus on the userland, instead of having to devote a lot of time to getting hardware support up to par.
-
-To achieve this, Szeleney wants to move the SkyGI (graphics layer) part that currently resides in the SkyOS kernel into userland, in a manner similar to appserver. “Only the linux kernel will be used. No textmode. From a user point of view no difference should be visible between the current SkyOS kernel on this proof of concept linux kernel,” Szeleny writes.
-
-He is using a Linux From Scratch kernel, version 2.6.27.4, and only uses the absolute bare necessities, so just the actual kernel – not even the text mode. “Based on the results of these proof of concepts (e.g. performance, user experience, etc.) further decisions regarding the SkyOS future can be made.”
-
-This actually sounds like a very promising path to explore for SkyOS, and I hope the results will be encouraging.

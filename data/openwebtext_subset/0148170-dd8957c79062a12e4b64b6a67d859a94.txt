@@ -1,7 +1,0 @@
-SHANGHAI — A day after a United States security company accused a People’s Liberation Army unit in Shanghai of engaging in cyberwarfare against American corporations, organizations and government agencies, China’s defense ministry issued a strong denial and insisted that the report was flawed.
-
-At a news conference in Beijing on Wednesday, the ministry suggested that the allegations were destructive and challenged the study, which was produced by Mandiant, an American computer security company. The report identified P.L.A. Unit 61398 in Shanghai as one of the most aggressive computer hacking operations in the world.
-
-Geng Yansheng, a spokesman for the Ministry of National Defense, said that China had been the victim of cyberattacks that have originated in the United States and that Mandiant had mischaracterized China’s activities.
-
-“Chinese military forces have never supported any hacking activities,” Mr. Geng said at the briefing. “The claim by the Mandiant company that the Chinese military engages in Internet espionage has no foundation in fact.”

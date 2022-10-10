@@ -1,5 +1,0 @@
-At the recent “Atom Unexplored” conference in Torino Italy, Dr. Peter Hagelstein of MIT gave a presentation about some of his work in the field of low energy nuclear reaction research, concentrating on the work of his colleague Dr. Mitchell Swartz. Swartz has invented a palladium-based device he names a NANOR. When an electric current is passed through the palladium, excess energy in the form of heat is produced which, according to Hagelstein, is over 14 times the input energy.
-
-In this talk, Hagelstein says that this NANOR has been running at MIT since January, and it has continued to produce excess heat far beyond anything that could be accounted for by a chemical reaction. Hagelstein says that the public is invited to take a look at the device in action.
-
-As we have come to expect these days, there has been very little reporting of this development outside a few blogs on the Internet. It would be interesting if some of Hagelstein’s peers at MIT would take a look at the NANOR and make some comments — or even if some outside experts could pay a visit. Hagelstein’s talk can be seen in the video below — his presentation starts at around the 52 minute point.

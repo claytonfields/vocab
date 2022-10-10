@@ -1,9 +1,0 @@
-Apple on Tuesday pushed OS X Yosemite version 10.10.2 to users, bringing with it changes that address potential security issues, Wi-Fi connection problems, and improvements to iCloud Drive and the Bluetooth audio stack.
-
-
-
-
-
-
-
-The update resolves a seemingly widespread issue that may have caused Macs to inexplicably disconnect from Wi-Fi networks. Users have also complained about slow connections when on Wi-Fi, another area of attention for Apple engineers in this release.Apple has abated a potential privacy concern as well, fixing a Spotlight issue that caused remote images to be loaded in e-mail previews, even when that option was turned off in Mail.app. Additional security fixes— including one for a years-old Thunderbolt vulnerability and two new exploits revealed last week by Google's Project Zero— are thought to be included, but Apple has yet to publish details of 10.10.2's security content.Users who pair Bluetooth headphones with their Mac should see improved synchronization for audio and video over the popular wireless protocol, while visually-impaired users will note improved VoiceOver performance. An issue that caused VoiceOver to echo characters when entering text on a web page has also been resolved.iCloud Drive documents can now be browsed via the Time Machine user interface, a win for those who take advantage of Apple's built-in backup system. Other miscellaneous issues— including one in which the input method would switch languages unexpectedly— are included, as are "stability and security" enhancements for Safari.OS X Yosemite version 10.10.2 is available now from the updates tab of the Mac App Store. The public release comes one week after Apple seeded the fifth and final beta version of this update to developers.

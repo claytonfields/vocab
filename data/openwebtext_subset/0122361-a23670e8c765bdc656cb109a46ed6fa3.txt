@@ -1,7 +1,0 @@
-[qi:025] Citing changes to its billing and costs that are doubling every month, Twitter announced that it will no longer support outbound SMS to Canadians. Twitter’s searching for a business model (and a Business Product Manager to help out), and in the meantime it has to curtail costs — but it doesn’t help that Canadian carriers are trying to charge huge fees for text messaging, resulting in consumer lawsuits. Canadian Industry Minister Jim Prentice called the decision by Bell and Telus a “poorly thought out decision,” back in July, but reneged in August following meetings with the carriers, saying, “I would encourage consumers dissatisfied with existing plans to seek alternatives. The telecommunications market in Canada is dynamic — choice is available.”
-
-Given today’s news, it would seem that alternatives aren’t available, at least for Twitter, and probably not for Canadians in general.
-
-Advertisement
-
-The statement from Twitter is below.
